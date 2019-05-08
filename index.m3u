@@ -1,4 +1,7 @@
 #EXTM3U
+http://satellitefree.altervista.org/iptv_naste.mp4
+#EXTINF:-1,MAK-IPTV
+
 #EXTINF:-1,MAK-IPTV
 channels/makiptv.m3u
 #EXTINF:-1,Albania
