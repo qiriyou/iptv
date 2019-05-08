@@ -21,6 +21,8 @@ channels/it.m3u
 
 #EXTINF:-1,Bulgaria
 channels/bg.m3u
+#EXTINF:-1,Romania
+channels/ro.m3u
 #EXTINF:-1,Turkey
 channels/tr.m3u
 #EXTINF:-1,UK England
