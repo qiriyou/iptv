@@ -412,3 +412,64 @@ http://maksitv.iptvposokuca.info:80/live?channelId=145&uid=81&deviceUser=mirkohr
 http://maksitv.iptvposokuca.info:80/live?channelId=163&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="70" tvg-name="Pink Kids" tvg-logo="http://www.tvportal.rs/tvportal/kanali/pinkkids.jpg" group-title="Children",Pink Kids - Pink Kids
 http://dynds.iptvposokuca.info:80/live?channelId=70&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1,EX-YU: Arena Sport 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/74
+#EXTINF:-1,EX-YU: Arena Sport 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/75
+#EXTINF:-1,EX-YU: Arena Sport 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/76
+#EXTINF:-1,EX-YU: Arena Sport 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/77
+#EXTINF:-1,EX-YU: Arena Sport 5
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/78
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/983
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/72
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/73
+#EXTINF:-1,EX-YU: Sport Klub 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/70
+#EXTINF:-1,EX-YU: Sport Klub 5
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/222
+#EXTINF:-1,EX-YU: Sport Klub 6
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/711
+#EXTINF:-1,HR: HRT 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/83
+#EXTINF:-1,HR:HRT 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/84
+#EXTINF:-1,HR: RTL Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/85
+#EXTINF:-1,HR: RTL 2 Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/237
+#EXTINF:-1,HR: RTL Crime Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/239
+#EXTINF:-1,EX-YU: Happy TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/240
+#EXTINF:-1,EX-YU: Al Jazeera Balkans
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/86
+#EXTINF:-1,EX-YU: RTS 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/87
+#EXTINF:-1,EX-YU: RTS 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/88
+#EXTINF:-1,EX-YU: RTS 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/186
+#EXTINF:-1,EX-YU: B92
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/94
+#EXTINF:-1,EX-YU: Pink
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/95
+#EXTINF:-1,EX-YU: Prva TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/89
+#EXTINF:-1,EX-YU: OBN
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/127
+#EXTINF:-1,TR:Hayat
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/124
+#EXTINF:-1,SLO: A KANAL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/975
+#EXTINF:-1,SLO: NATIONAL GEOGRAPHIC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/974
+#EXTINF:-1,SLO: PLANET TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/973
+#EXTINF:-1,SLO: POP KINO
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/972
+#EXTINF:-1,SLO: POP TV
