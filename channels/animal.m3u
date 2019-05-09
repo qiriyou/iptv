@@ -32,3 +32,17 @@ http://78.57.160.181:9981/stream/channelid/1196330816
 http://78.57.160.181:9981/stream/ channelid / 279441724
 #EXTINF : -1, Viasat History
 http://78.57.160.181:9981/stream/channelid/1652454332
+
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/57796
+#EXTINF:-1,AL: Tring World
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25389
+#EXTINF:-1,AL: Living FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25342
+#EXTINF:-1,AL: National Geographic
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25331
+#EXTINF:-1,AL: Animal Planet HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25258
+#EXTINF:-1,AL: 24 Kitchen
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25236
+#EXTINF:-1,AL: Drita TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25246
