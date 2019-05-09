@@ -287,128 +287,384 @@ http://80.91.115.211:1935/live/livestream/playlist.m3u8
 #EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/VZvOidh.png",al: ILIRIDA 
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 
-#EXTINF:0 group-title="ALB IPTV2",7HD *** TV SHQIP TEST 2 ***
-http://80.80.161.194/play/a00x/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",AKSION
-http://80.80.161.194/play/a00o/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",BESA
-http://80.80.161.194/play/a01k/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",DRAME
-http://80.80.161.194/play/a00p/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",DUKAGJINI
-http://80.80.161.194/play/a01n/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FIRST CHANNEL
-http://80.80.161.194/play/a01i/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",KLAN KOSOVA
-http://80.80.161.194/play/a01f/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",KOMEDI
-http://80.80.161.194/play/a00r/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",KTV kohavision
-http://80.80.161.194/play/a01e/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",LIRIA
-http://80.80.161.194/play/a01o/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",LIVING
-http://80.80.161.194/play/a00g/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",MAX
-http://80.80.161.194/play/a00s/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",NOVELA
-http://80.80.161.194/play/a00t/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",PLANET
-http://80.80.161.194m/play/a00u/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",POWER
-http://80.80.161.194/play/a01p/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTK1
-http://80.80.161.194/play/a001/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTK2
-http://80.80.161.194/play/a002/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTK3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTK4
-http://stream2.rtkit.com:1935/rtk3stream/rtk4.stream/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTSH sat
-http://80.80.161.194/play/a00h/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RTV 21 HD
-http://80.80.161.194/play/a01d/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",SOFIA
-http://80.80.161.194/play/a00w/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",STAR
-http://80.80.161.194/play/a00y/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TIP TV
-http://80.80.161.194/play/a00f/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRIBUNA
-http://80.80.161.194/play/a01g/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING ACTION
-http://80.80.161.194/play/a00c/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING COMEDY
-http://80.80.161.194/play/a00a/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING FANTASY
-http://80.80.161.194/play/a00n/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING HISTORY
-http://80.80.161.194/play/a007/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING KIDS
-http://80.80.161.194/play/a00m/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING LIFE
-http://80.80.161.194/play/a00b/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING NEWS7
-http://80.80.161.194/play/a00e/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING PLANET
-http://80.80.161.194/play/a006/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING SHQIP
-http://80.80.161.194/play/a008/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING SMILE
-http://80.80.161.194/play/a00d/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING SUPER
-http://80.80.161.194/play/a009/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING TRING
-http://80.80.161.194/play/a004/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING WORD
-http://80.80.161.194/play/a005/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING YOLLY
-http://80.80.161.194/play/a00k/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TRING3
-http://80.80.161.194/play/a00l/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TV MITROVICA
-http://80.80.161.194/play/a01j/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",TV PRIZRENI
-http://80.80.161.194/play/a01m/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FIGHT BOX
-http://80.80.161.194/play/a01a/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",SHENJA
-http://80.80.161.194/play/a00j/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",RROKUM
-http://80.80.161.194/play/a01h/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",DOCU BOX
-http://80.80.161.194/play/a019/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",SYRI VISION
-http://80.80.161.194/play/a01q/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",K-SPORT1
-http://80.80.161.194/play/a00z/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",K-SPORT2
-http://80.80.161.194/play/a010/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",K-SPORT3
-http://80.80.161.194/play/a011/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",K-SPORT4
-http://80.80.161.194/play/a012/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",K-SPORT5
-http://80.80.161.194/play/a013/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FOX NEWS
-http://80.80.161.194/play/a00i/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",VIZION+
-http://80.80.161.194/play/a003/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FILM BOX ARTHOUSE
-http://80.80.161.194/play/a016/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FILM BOX PREMIUM
-http://80.80.161.194/play/a017/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FILM BOX PLUS
-http://80.80.161.194/play/a015/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FAST FUN BOX
-http://80.80.161.194/play/a01b/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FILM BOX EXTRA
-http://80.80.161.194/play/a014/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",GAME TOON
-http://80.80.161.194/play/a018/index.m3u8
-#EXTINF:0 group-title="ALB IPTV2",FASHION BOX
-http://t80.80.161.194/play/a01c/index.m3u8
+#EXTINF:0 group-title="ALB IPTV2" *** TV SHQIP TEST 2 ***
+
+#EXTINF:-1,AL:RTK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1
+#EXTINF:-1,AL:RTK HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/784
+#EXTINF:-1,AL:RTV 21
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/2
+#EXTINF:-1,AL:KTV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/3
+#EXTINF:-1,AL:KTV HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/826
+#EXTINF:-1,AL: TV Dukagjini
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/100
+#EXTINF:-1,AL:T 7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/578
+#EXTINF:-1,AL:Klan Kosova
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/6
+#EXTINF:-1,AL:Klan Kosova HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/827
+#EXTINF:-1,AL:Top Channel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/5
+#EXTINF:-1,AL:Top Channel SD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/147
+#EXTINF:-1,AL:Klan
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/7
+#EXTINF:-1,AL:Klan SD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/148
+#EXTINF:-1,AL:Top News
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/37
+#EXTINF:-1,AL:RTK 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/180
+#EXTINF:-1,AL:RTK 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/181
+#EXTINF:-1,AL:RTK 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/182
+#EXTINF:-1,AL:TVSH
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/4
+#EXTINF:-1,AL:RTSH HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/474
+#EXTINF:-1,AL:RTSH Sport HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/476
+#EXTINF:-1,AL:Vision+
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/8
+#EXTINF:-1,AL:Alsat-M
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/34
+#EXTINF:-1,AL:RTV21 M
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/209
+#EXTINF:-1,AL:Klan Plus
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/234
+#EXTINF:-1,AL:Film Hits
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/47
+#EXTINF:-1,AL:Film Aksion
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/45
+#EXTINF:-1,AL:Film Thriller
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/48
+#EXTINF:-1,AL:Film Autor
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/43
+#EXTINF:-1,AL:Film Comedy
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/46
+#EXTINF:-1,AL:Film Drame
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/44
+#EXTINF:-1,AL:Film Nje
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/49
+#EXTINF:-1,AL:Film Dy
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/50
+#EXTINF:-1,AL:EuroFilm
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/67
+#EXTINF:-1,AL:Digi Gold 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/374
+#EXTINF:-1,AL:Digi Gold 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/375
+#EXTINF:-1,AL:Digi Gold 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/376
+#EXTINF:-1,AL:Digi Gold 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/377
+#EXTINF:-1,AL:KS GOLD 1 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/379
+#EXTINF:-1,AL:KS GOLD 2 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/380
+#EXTINF:-1,AL:KS GOLD 3 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/642
+#EXTINF:-1,AL:KS GOLD 4 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/381
+#EXTINF:-1,AL: ShqipTv Aksion
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/903
+#EXTINF:-1,AL: ShqipTV Cinema
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/901
+#EXTINF:-1,AL: ShqipTV Film HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/904
+#EXTINF:-1,AL: ShqipTv Horror HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/900
+#EXTINF:-1,AL:ShqipTv Fantasy HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/902
+#EXTINF:-1,AL:Explorer History
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/51
+#EXTINF:-1,AL:Explorer Natyra
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/53
+#EXTINF:-1,AL:Explorer Shkence
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/52
+#EXTINF:-1,AL:Family HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/905
+#EXTINF:-1,AL:Alb Action
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/373
+#EXTINF:-1,AL: Kujtesa Sport 1 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/883
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/884
+#EXTINF:-1,AL: Kujtesa Sport 3 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/885
+#EXTINF:-1,AL: Kujtesa Sport 4 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/886
+#EXTINF:-1,AL:SS 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/63
+#EXTINF:-1,AL:SS 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/64
+#EXTINF:-1,AL:SS 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/65
+#EXTINF:-1,AL:SS 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/66
+#EXTINF:-1,AL:SS 5 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/360
+#EXTINF:-1,AL:SS 6 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/361
+#EXTINF:-1,AL:SS Kosova 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/345
+#EXTINF:-1,AL:SS Kosova 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/346
+#EXTINF:-1,AL:Tring Max
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/10
+#EXTINF:-1,AL:Tring Super
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/11
+#EXTINF:-1,AL:Tring Life
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/12
+#EXTINF:-1,AL:Tring Comedy
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/13
+#EXTINF:-1,AL:Tring Shqip
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/14
+#EXTINF:-1,AL:Tring Fantasy
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/15
+#EXTINF:-1,AL:Jolly HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/69
+#EXTINF:-1,AL:Tring History
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/24
+#EXTINF:-1,AL:Tring World
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/26
+#EXTINF:-1,AL:Tring Planet
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/25
+#EXTINF:-1,AL:3tring
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/16
+#EXTINF:-1,AL:Tring Tring
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/18
+#EXTINF:-1,AL:Tip TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/19
+#EXTINF:-1,AL:Tring Sport News
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/28
+#EXTINF:-1,AL:Tring Sport 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/96
+#EXTINF:-1,AL:Tring Sport 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/97
+#EXTINF:-1,AL:Tring Sport 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/98
+#EXTINF:-1,AL:Tring Sport 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/99
+#EXTINF:-1,AL:Sky AL 7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/698
+#EXTINF:-1,AL:Sky Shkence AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/324
+#EXTINF:-1,AL:Sky Planet AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/325
+#EXTINF:-1,AL:Sky Histori AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/326
+#EXTINF:-1,AL:Sky Novela
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/327
+#EXTINF:-1,AL:Sky Aksion AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/328
+#EXTINF:-1,AL:Sky Max AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/329
+#EXTINF:-1,AL:Sky Drame AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/332
+#EXTINF:-1,AL:Sky Komedi AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/330
+#EXTINF:-1,AL:Sky Krimi
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/333
+#EXTINF:-1,AL:SKY HISTORI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/731
+#EXTINF:-1,AL:Fox Crime
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/29
+#EXTINF:-1,AL:FOX
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/160
+#EXTINF:-1,AL:Fox Life
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/30
+#EXTINF:-1,AL:ShqipTv  Stupcat HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/391
+#EXTINF:-1,AL:Stupcat Egjelli 24/7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/392
+#EXTINF:-1,AL:ShqipTv Humor HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/395
+#EXTINF:-1,AL:Alb Humor 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/371
+#EXTINF:-1,AL:ShqipTv Komedi HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/394
+#EXTINF:-1,AL:Kafeneja Jone 24/7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/393
+#EXTINF:-1,AL:Stinet
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/166
+#EXTINF:-1,AL:T
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/40
+#EXTINF:-1,AL:3Plus HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/54
+#EXTINF:-1,AL:Big Brother 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/245
+#EXTINF:-1,AL:Big Brother 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/246
+#EXTINF:-1,Junior =HEVC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/984
+#EXTINF:-1,AL:Junior TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/235
+#EXTINF:-1,AL:Bang Bang
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/41
+#EXTINF:-1,AL:Cufo
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/42
+#EXTINF:-1,AL:Baby Tv
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/519
+#EXTINF:-1,AL:Duck TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/518
+#EXTINF:-1,AL:KIDS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/517
+#EXTINF:-1,AL:Masha dhe Ariu
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/520
+#EXTINF:-1,AL:TV Kopliku HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/397
+#EXTINF:-1,AL:Kitchen24 shqip
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/522
+#EXTINF:-1,AL:RTV21Mix
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/188
+#EXTINF:-1,AL:TV 21 Junior
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/633
+#EXTINF:-1,AL:RTV21 Popullore
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/22
+#EXTINF:-1,AL:RTV21Plus
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/81
+#EXTINF:-1,AL:Star TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/334
+#EXTINF:-1,AL:Televizioni R
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/185
+#EXTINF:-1,AL:TV Llapi
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/538
+#EXTINF:-1,AL:Folk+
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/27
+#EXTINF:-1,AL:ELRODI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/23
+#EXTINF:-1,AL:ON TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/56
+#EXTINF:-1,AL:Balkanika AL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/336
+#EXTINF:-1,AL:Smile
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/17
+#EXTINF:-1,AL:Living
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/21
+#EXTINF:-1,AL:Luxe TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/36
+#EXTINF:-1,AL:Muse
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/61
+#EXTINF:-1,AL:Kanal 7
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/31
+#EXTINF:-1,AL:Click TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/38
+#EXTINF:-1,Al Jazeera International
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/911
+#EXTINF:-1,AL:BBF
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/60
+#EXTINF:-1,AL:My Music
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/219
+#EXTINF:-1,AL:Dasma
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/91
+#EXTINF:-1,AL:Islam Channel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/58
+#EXTINF:-1,AL:KS Ilahi Nasheed Channel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/398
+#EXTINF:-1,AL:Peace TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/82
+#EXTINF:-1,AL:TV Zico
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/210
+#EXTINF:-1,AL:Shenja TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/55
+#EXTINF:-1,AL:ALB QIFTELI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/525
+#EXTINF:-1,AL:Alb Western
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/576
+#EXTINF:-1,AL:TOP Hite 2016/17
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/515
+#EXTINF:-1,AL:Zana Food HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/521
+#EXTINF:-1,AL:Zjarr TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/523
+#EXTINF:-1,AL:TV Opoja
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/212
+#EXTINF:-1,AL:TV Diaspora
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/218
+#EXTINF:-1,AL:ABC News
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/39
+#EXTINF:-1,AL:News 24
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/950
+#EXTINF:-1,AL:OraNews
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/241
+#EXTINF:-1,AL:Arta TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/33
+#EXTINF:-1,AL:RTV ALDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/62
+#EXTINF:-1,AL:RTV Bujanoci
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/93
+#EXTINF:-1,AL:RTV Presheva
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/92
+#EXTINF:-1,AL: ISTOGU CHANNEL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1003
+#EXTINF:-1,AL:ZERI TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1004
+#EXTINF:-1,AL:TV Besa
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/102
+#EXTINF:-1,AL:TV koha
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/90
+#EXTINF:-1,AL:FirstChannel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/163
+#EXTINF:-1,AL:TV Mitrovica
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/101
+#EXTINF:-1,AL:MRT 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/35
+#EXTINF:-1,AL:RTSH 24 HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/909
+#EXTINF:-1,AL:RTSH 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/910
+#EXTINF:-1,AL:RTSH Muzike
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/908
+#EXTINF:-1,AL:RTSH Plus
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/906
+#EXTINF:-1,AL:RTSH Shqip
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/907
+#EXTINF:-1,AL:Rrokum TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/32
+#EXTINF:-1,AL: RTV Fontana
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1001
+#EXTINF:-1,AL:TV Liria
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/164
+#EXTINF:-1,AL:TribunaChannel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/236
+#EXTINF:-1,AL:Drita TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/575
+#EXTINF:-1,AL:A-Mol
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/260
+#EXTINF:-1,AL:MTV Kosova
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/262
+#EXTINF:-1,AL:Turbo Channel
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/261
+#EXTINF:-1,AL:RTV Zik
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/867
+#EXTINF:-1,AL:ALB HITS
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/734
+#EXTINF:-1,AL:ALB HINDI
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/733
+#EXTINF:-1,AL:ALBSWISS MUSIC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/728
+#EXTINF:-1,AL:FILMA 24
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/732
+#EXTINF:-1,AL:FOLK
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/723
+#EXTINF:-1,AL:FOLK MUSIC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/726
+#EXTINF:-1,AL:HITS HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/725
+#EXTINF:-1,AL: Medina TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/715
+#EXTINF:-1,AL:Mekke TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/714
+#EXTINF:-1,AL:RTV ISLAM
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/716
+#EXTINF:-1,AL:SYRI BLUE HD
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/724
 
 #EXTINF:0 group-title="ALB IPTV3",*** TV SHQIP TEST 3 ***
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
