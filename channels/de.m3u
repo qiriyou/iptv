@@ -1,433 +1,416 @@
-#EXTM3U
-#EXTINF:0,147. ARD
-http://176.10.117.18:8081/aypitv/ARD/playlist.m3u8
-#EXTINF:0,149. VOX
-http://176.10.117.17:8081/aypitv/VOX_HD/playlist.m3u8
-#EXTINF:0,150. ZDF
-http://176.10.117.18:8081/aypitv/ZDF_HD1/playlist.m3u8
-#EXTINF:0,151. ARTE_HD
-http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8
-#EXTINF:0,154. DE:DEMAX
-http://176.10.117.17:8081/aypitv/DMAXXDEHD/playlist.m3u8
-#EXTINF:0,155. ZeeTV
-http://176.10.117.21:8081/aypitv/ZeeTv_De/playlist.m3u8
-#EXTINF:0,160. DISCOVERY_DE
-http://176.10.117.18:8081/aypitv/Discovery_De/playlist.m3u8
-#EXTINF:0,162. RTL CRIMI HD_DE
-http://176.10.117.12:8081/aypitv/RTL_CRIMI/playlist.m3u8
-#EXTINF:0,164. DISNEY_CHANEL_DE
-http://176.10.117.12:8081/aypitv/Disney_Chanel_DE/playlist.m3u8
-#EXTINF:0,165. DISNEY CINEMAGIC DE
-http://176.10.117.12:8081/aypitv/Disney_cine_magic_DE/playlist.m3u8
-#EXTINF:0,166. MOOVENET TV_TEST
-http://176.10.117.21:8081/aypitv/DWBChannel/playlist.m3u8
-#EXTINF:0,167. EUROSPORT
-http://176.10.117.17:8081/aypitv/EUROSPORT1/playlist.m3u8
-#EXTINF:0,204. DE_NATGEO_GEOGRAFICH
-http://176.10.117.21:8081/aypitv/NAT-GEO-WILD-UHD/playlist.m3u8
-#EXTINF:0,212. COMEDYCENTRAL/VIVA HD
-http://176.10.117.17:8081/aypitv/COMEDYCENTRALVIVAHD/playlist.m3u8
-#EXTINF:0,219. CINEMA_ACTION
-http://wowstream.net:25461/live/Eren4/Zafer/1958.ts
-#EXTINF:0,220. CINEMA24
-http://176.10.117.21:8081/nimble_live/SkyCinema_24/playlist.m3u8
-#EXTINF:0,221. COMEDY_DE
-http://176.10.117.21:8081/aypitv/COMEDY_DE/playlist.m3u8
-#EXTINF:0,222. CINEMA_HITS
-http://176.10.117.21:8081/aypitv/CINEMA_HITS/playlist.m3u8
-#EXTINF:0,223. 3+HD
-http://176.10.117.12:8081/aypitv/3+HD/playlist.m3u8
-#EXTINF:0,224. 4+HD
-http://176.10.117.17:8081/aypitv/4+HD/playlist.m3u8
-#EXTINF:0,225. 5+HD
-http://176.10.117.17:8081/poyrazAlman/5+HD/playlist.m3u8
-#EXTINF:0,226. CINEMA
-http://176.10.117.21:8081/aypitv/Skycinema/playlist.m3u8
-#EXTINF:0,227. BBC ONE HD
-http://176.10.117.17:8081/aypitv/BBCONEHD/playlist.m3u8
-#EXTINF:0,228. MS SPORT
-http://176.10.117.17:8081/aypitv/MSPORTHD/playlist.m3u8
-#EXTINF:0,229. MTV CH HD
-http://176.10.117.17:8081/aypitv/MTVCHHD/playlist.m3u8
-#EXTINF:0,230. SPORT1 HD
-http://176.10.117.17:8081/aypitv/SPORT1HD/playlist.m3u8
-#EXTINF:0,231. SPORT_HD1
-http://176.10.117.21:8081/aypitv/SKYsport/playlist.m3u8
-#EXTINF:0,123. PRO7
-http://176.10.117.17:8081/aypitv/Prosiben_hd/playlist.m3u8
-#EXTINF:0,127. SAT1
-http://176.10.117.17:8081/aypitv/SAT1/playlist.m3u8
-#EXTINF:0,128. KABEL 1
-http://176.10.117.18:8081/aypitv/Kabel1_Atilla/playlist.m3u8
-#EXTINF:0,128. DE: 13th Street HD
-http://176.10.117.12:8081/aypitv/DE:13th-Street-HD/playlist.m3u8
-#EXTINF:0,129. RTL
-http://176.10.117.17:8081/aypitv/RTL/playlist.m3u8
-#EXTINF:0,108. KIKA_DE
-http://176.10.117.17:8081/aypitv/Kika_De/playlist.m3u8
-#EXTINF:0,108. ZDF NEO HD
-http://176.10.117.21:8081/aypitv/ZDF_NEOHD/playlist.m3u8
-#EXTINF:0,109. RTL_NITRO
-http://176.10.117.21:8081/aypitv/RTL_Nitro/playlist.m3u8
-#EXTINF:0,110. NICKELEDON_DE
-http://176.10.117.21:8081/aypitv/Nickeledon/playlist.m3u8
-#EXTINF:0,110. SERVUS TV HD
-http://176.10.117.18:8081/aypitv/SERVUSTV_HD/playlist.m3u8
-#EXTINF:0,111. TOGGO_PLUS
-http://176.10.117.18:8081/aypitv/TOGGO_PLUS/playlist.m3u8
-#EXTINF:0,112. SRF HD1
-http://176.10.117.18:8081/aypitv/srf1_tv/playlist.m3u8
-#EXTINF:0,113. RTS_UN
-http://176.10.117.14:8081/aypitv/RTS_UN/playlist.m3u8
-#EXTINF:0,103. ORF2
-http://176.10.117.17:8081/aypitv/ORF2/playlist.m3u8
-#EXTINF:0,104. 3SAT
-http://176.10.117.18:8081/aypitv/3satHD/playlist.m3u8
-#EXTINF:0,105. SUPER_RTL_
-http://176.10.117.17:8081/aypitv/SuperRTL/playlist.m3u8
-#EXTINF:0,117. RTL2
-http://176.10.117.17:8081/aypitv/RTL2HD/playlist.m3u8
-#EXTINF:0,115. SRF_HD2
-http://176.10.117.18:8081/aypitv/SRF2/playlist.m3u8
-#EXTINF:0,131. DISNEY JUNIOR DE
-http://176.10.117.12:8081/aypitv/DISNEY_JUNIOR_DE/playlist.m3u8
-#EXTINF:-1,----Free-DE-----
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/91.ts
-#EXTINF:-1,Das Erste HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/65.ts
-#EXTINF:-1,ZDF HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/66.ts
-#EXTINF:-1,RTL HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/67.ts
-#EXTINF:-1,RTL HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/387.ts
-#EXTINF:-1,RTL2 HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/871.ts
-#EXTINF:-1,RTL 2
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/68.ts
-#EXTINF:-1,Pro7 HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/872.ts
-#EXTINF:-1,Pro Sieben
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/69.ts
-#EXTINF:-1,Sat1 HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/873.ts
-#EXTINF:-1,SAT1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/70.ts
-#EXTINF:-1,Vox HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/875.ts
-#EXTINF:-1,VOX
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/72.ts
-#EXTINF:-1,Kabel1 HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/874.ts
-#EXTINF:-1,Kabel1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/71.ts
-#EXTINF:-1,Sixx-HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/876.ts
-#EXTINF:-1,Pro7-Maxx-HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/877.ts
-#EXTINF:-1,Super-Rtl HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/878.ts
-#EXTINF:-1,TELE 5 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2281.ts
-#EXTINF:-1,RTL NITRO
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1590.ts
-#EXTINF:-1,Arte HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1529.ts
-#EXTINF:-1,3Sat
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1504.ts
-#EXTINF:-1,Zee One
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/854.ts
-#EXTINF:-1,NTV HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1416.ts
-#EXTINF:-1,N 24
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2401.ts
-#EXTINF:-1,Welt
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2403.ts
-#EXTINF:-1,Phoenix HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2402.ts
-#EXTINF:-1,WDR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/386.ts
-#EXTINF:-1,NDR
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2406.ts
-#EXTINF:-1,HR
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2405.ts
-#EXTINF:-1,SWR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2404.ts
-#EXTINF:-1,ZDF Neo
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2407.ts
-#EXTINF:-1,ZDF Info HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2408.ts
-#EXTINF:-1,Deutsche Welle
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2410.ts
-#EXTINF:-1,----Skyde----
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/90.ts
-#EXTINF:-1,Sky Cinema HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/5.ts
-#EXTINF:-1,Sky Cinema SD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1587.ts
-#EXTINF:-1,Sky Cinema +1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/7.ts
-#EXTINF:-1,Sky Cinema +24
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/9.ts
-#EXTINF:-1,Sky Action HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/10.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/14.ts
-#EXTINF:-1,Sky Cinema Family HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/23.ts
-#EXTINF:-1,Sky Emotion
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/12.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/11.ts
-#EXTINF:-1,Sky Nostalgie
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/13.ts
-#EXTINF:-1,TNT Film
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/17.ts
-#EXTINF:-1,Kinowelt TV
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/16.ts
-#EXTINF:-1,Kabel 1 Classics
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1892.ts
-#EXTINF:-1,Sky Universal HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/26.ts
-#EXTINF:-1,13th Street HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/27.ts
-#EXTINF:-1,SyFy
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/24.ts
-#EXTINF:-1,Sky Krimi
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/25.ts
-#EXTINF:-1,----Unterhaltung----
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/89.ts
-#EXTINF:-1,Sky Atlantic HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/21.ts
-#EXTINF:-1,Sky 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/20.ts
-#EXTINF:-1,Fox HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/22.ts
-#EXTINF:-1,TNT Serie
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/28.ts
-#EXTINF:-1,TNT Comedy
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/19.ts
-#EXTINF:-1,Rtl Living
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/809.ts
-#EXTINF:-1,Rtl Passion
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/29.ts
-#EXTINF:-1,Rtl Crime
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1274.ts
-#EXTINF:-1,Heimatkanal
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/31.ts
-#EXTINF:-1,Sky Romance TV.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/30.ts
-#EXTINF:-1,-----Kultur------
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/88.ts
-#EXTINF:-1,Discovery HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/34.ts
-#EXTINF:-1,NatGeo Wild HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/33.ts
-#EXTINF:-1,Sky Natgeo HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/32.ts
-#EXTINF:-1,Sky History HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/35.ts
-#EXTINF:-1,Sky DMAX HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/74.ts
-#EXTINF:-1,Sky Arts Hd
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2414.ts
-#EXTINF:-1,E!entertainm HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/36.ts
-#EXTINF:-1,TLC HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2411.ts
-#EXTINF:-1,A&E
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2412.ts
-#EXTINF:-1,Sky SPIEGEL Geschichte
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1740.ts
-#EXTINF:-1,-----Kinder-----
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/92.ts
-#EXTINF:-1,Sky Disney Channell HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/38.ts
-#EXTINF:-1,Disney Cinemagic
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/39.ts
-#EXTINF:-1,Disney XD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/40.ts
-#EXTINF:-1,Sky Disney Junior
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/41.ts
-#EXTINF:-1,Kika
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/279.ts
-#EXTINF:-1,Carton Network..
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/43.ts
-#EXTINF:-1,Boomerang
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/44.ts
-#EXTINF:-1,Nickelodeon
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1041.ts
-#EXTINF:-1,Nick junior
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2283.ts
-#EXTINF:-1,--------Music---------
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1586.ts
-#EXTINF:-1,Deluxe Music
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3077.ts
-#EXTINF:-1,Mtv Hits
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3090.ts
-#EXTINF:-1,Mtv Dance
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3091.ts
-#EXTINF:-1,Mtv Rock
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/3094.ts
-#EXTINF:-1,VH1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2065.ts
-#EXTINF:-1,MTV Base
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2064.ts
-#EXTINF:-1,4 fun TV
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2421.ts
-#EXTINF:-1,Virgin TV
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2418.ts
-#EXTINF:-1,Mtv live HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1173.ts
-#EXTINF:-1,M2O Music
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1501.ts
-#EXTINF:-1,ONE BY HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1578.ts
-#EXTINF:-1,Radio Monte Carlo
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1575.ts
-#EXTINF:-1,Radio 105
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1576.ts
-#EXTINF:-1,------Sport------
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/45.ts
-#EXTINF:-1,Sky Sport News HD.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/46.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/47.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/48.ts
-#EXTINF:-1,Sport 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2282.ts
-#EXTINF:-1,Sky Sport 1 + HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/54.ts
-#EXTINF:-1,Sky Sport Austria.
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/383.ts
-#EXTINF:-1,EUROSPORT 1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/56.ts
-#EXTINF:-1,EUROSPORT 2
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/57.ts
-#EXTINF:-1,Eurosport 2 HD Xtra
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2013.ts
-#EXTINF:-1,Motorvision TV
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2284.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/49.ts
-#EXTINF:-1,Sky Sport 4 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/50.ts
-#EXTINF:-1,Sky Sport 5 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/51.ts
-#EXTINF:-1,Sky Sport 6 SD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/52.ts
-#EXTINF:-1,Sky Sport 7 SD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/53.ts
-#EXTINF:-1,Sky Sport 8
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1826.ts
-#EXTINF:-1,Sky Sport 9
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1827.ts
-#EXTINF:-1,Sky Sport 10
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1828.ts
-#EXTINF:-1,------Bundesliga------
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/58.ts
-#EXTINF:-1,Bundesliga 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/59.ts
-#EXTINF:-1,Bundesliga 2 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/60.ts
-#EXTINF:-1,Bundesliga 3 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/61.ts
-#EXTINF:-1,Bundesliga 4 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/62.ts
-#EXTINF:-1,Bundesliga 5
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/63.ts
-#EXTINF:-1,Bundesliga 6
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/64.ts
-#EXTINF:-1,Bundesliga 7
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1823.ts
-#EXTINF:-1,Bundesliga 8
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1824.ts
-#EXTINF:-1,Bundesliga 9
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1825.ts
-#EXTINF:-1,Bundesliga 10
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2374.ts
-#EXTINF:-1,Sport Klub 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/700.ts
-#EXTINF:-1,Sport Klub 2 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/701.ts
-#EXTINF:-1,Sport Klub 3 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/702.ts
-#EXTINF:-1,Sport Klub 4
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2086.ts
-#EXTINF:-1,Sport Klub 5
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2087.ts
-#EXTINF:-1,Sport Klub 6
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2088.ts
-#EXTINF:-1,Arena 1 HR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1266.ts
-#EXTINF:-1,Arena 2 HR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2197.ts
-#EXTINF:-1,Arena 3 HR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2198.ts
-#EXTINF:-1,Arena 4 HR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2199.ts
-#EXTINF:-1,Arena 5 HR HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2200.ts
-#EXTINF:-1,Arena 1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/498.ts
-#EXTINF:-1,Arena 2
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/712.ts
-#EXTINF:-1,Arena 3
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/713.ts
-#EXTINF:-1,Arena 4
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/714.ts
-#EXTINF:-1,Arena 5
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1533.ts
-#EXTINF:-1,FIGHT CHANEL
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/715.ts
-#EXTINF:-1,EUROSPORT2 - YU
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/497.ts
-#EXTINF:-1,EUROSPORT1 - YU
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/496.ts
-#EXTINF:-1,SOS
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/611.ts
-#EXTINF:-1,DAZN1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2718.ts
-#EXTINF:-1,DAZN2
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2719.ts
-#EXTINF:-1,Eventchanel 1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1751.ts
-#EXTINF:-1,US:  NBA TV HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2811.ts
-#EXTINF:-1,US:ESPN HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2808.ts
-#EXTINF:-1,US:NFL Network
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2809.ts
-#EXTINF:-1,US: MLB Network
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2810.ts
-#EXTINF:-1,Bein Laliga
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2892.ts
-#EXTINF:-1,Sky Sport 1 - Italy
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/1309.ts
-#EXTINF:-1,TR: Bein Sport 1 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2860.ts
-#EXTINF:-1,TR: Bein Sport 2 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2861.ts
-#EXTINF:-1,TR: Bein Sport 3 HD
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2862.ts
-#EXTINF:-1,Bein Sports HD 1
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2381.ts
-#EXTINF:-1,Bein Sports HD 2
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2382.ts
-#EXTINF:-1,Bein Sports HD 3
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2383.ts
-#EXTINF:-1,Bein Sports HD 4
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2394.ts
-#EXTINF:-1,Bein Sports HD 5
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2395.ts
-#EXTINF:-1,Bein Sports HD 6
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2396.ts
-#EXTINF:-1,Bein Sports HD 7
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2397.ts
-#EXTINF:-1,Bein Sports HD 8
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2398.ts
-#EXTINF:-1,Bein Sports HD 9
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2399.ts
-#EXTINF:-1,Bein Sports HD 10
-http://powertv5.dyndns.org:24715/live/AirnXiuZtd/HYCf2b9kKC/2400.ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="De- 13th Street HD" tvg-logo="http://www.vod-logo.net/photos/7402ea3e640212f0b4d74615a0fa2143.jpg" group-title="Germany",De- 13th Street HD
+http://m-iptv.net:6204/miran/123/12372
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="De- 3Sat HD" tvg-logo="http://www.vod-logo.net/photos/11a9ac5962d75f43fc581f9717a4974e.jpg" group-title="Germany",De- 3Sat HD
+http://m-iptv.net:6204/miran/123/12203
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="De- A&E" tvg-logo="http://www.vod-logo.net/photos/abb4104ca4b4cb19255804af4c3020d7.jpg" group-title="Germany",De- A&E
+http://m-iptv.net:6204/miran/123/12272
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="De- Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/35492de3bd1130841ae8cb91bfd5d268.JPg" group-title="Germany",De- Animal Planet HD
+http://m-iptv.net:6204/miran/123/12286
+#EXTINF:-1 tvg-id="AnixeSerie.de" tvg-name="De- Anixe Serie FHD" tvg-logo="http://www.vod-logo.net/photos/b566b7777e0e3b07fd199f21c1a9cae4.jpg" group-title="Germany",De- Anixe Serie FHD
+http://m-iptv.net:6204/miran/123/12191
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="De- Arte FHD" tvg-logo="http://www.vod-logo.net/photos/f4feadeb58537028e216a83051d55e33.jpg" group-title="Germany",De- Arte FHD
+http://m-iptv.net:6204/miran/123/12202
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="De- Arte HD." tvg-logo="http://www.vod-logo.net/photos/0812412469b1fae6a9540c9fe9d85174.jpg" group-title="Germany",De- Arte HD.
+http://m-iptv.net:6204/miran/123/12201
+#EXTINF:-1 tvg-id="" tvg-name="De- ATV HD" tvg-logo="http://www.vod-logo.net/photos/e9c6ef99043900a34fd39a22c6e76e7e.jpg" group-title="Germany",De- ATV HD
+http://m-iptv.net:6204/miran/123/12200
+#EXTINF:-1 tvg-id="" tvg-name="De- Auto Motor Sport HD" tvg-logo="http://www.vod-logo.net/photos/f49fd550157735abfea176635a15495f.jpg" group-title="Germany",De- Auto Motor Sport HD
+http://m-iptv.net:6204/miran/123/12356
+#EXTINF:-1 tvg-id="" tvg-name="De- Baby TV" tvg-logo="http://www.vod-logo.net/photos/704519ca93198af27fd8839eb729ad66.png" group-title="Germany",De- Baby TV
+http://m-iptv.net:6204/miran/123/12264
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="De- Boomerang" tvg-logo="http://www.vod-logo.net/photos/0e8fbd8fba4d33457f77e09ce76c90d0.jpg" group-title="Germany",De- Boomerang
+http://m-iptv.net:6204/miran/123/12266
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="De- Cartoon Network HD" tvg-logo="http://www.vod-logo.net/photos/f4d9670380a63bbd519f92519bf18796.jpg" group-title="Germany",De- Cartoon Network HD
+http://m-iptv.net:6204/miran/123/12267
+#EXTINF:-1 tvg-id="" tvg-name="De- Classica SD" tvg-logo="http://www.vod-logo.net/photos/933016ace7a6966ba36c542d8a90ce71.jpg" group-title="Germany",De- Classica SD
+http://m-iptv.net:6204/miran/123/12255
+#EXTINF:-1 tvg-id="" tvg-name="De- Das Erste" tvg-logo="http://www.vod-logo.net/photos/8add4a87faed14ba65c0e943a65684f0.jpg" group-title="Germany",De- Das Erste
+http://m-iptv.net:6204/miran/123/12211
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="De- Das Erste FHD" tvg-logo="http://www.vod-logo.net/photos/7b38a57884de0811b696885749528242.jpg" group-title="Germany",De- Das Erste FHD
+http://m-iptv.net:6204/miran/123/12213
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="De- Das Erste HD." tvg-logo="http://www.vod-logo.net/photos/c4ca6598d5e75fc9c9b69ef14380672f.jpg" group-title="Germany",De- Das Erste HD.
+http://m-iptv.net:6204/miran/123/12212
+#EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="De- DAZN  1 FHD" tvg-logo="http://www.vod-logo.net/photos/8738c1397e08187df00a732d5e26abfc.jpg" group-title="Germany",De- DAZN  1 FHD
+http://m-iptv.net:6204/miran/123/12339
+#EXTINF:-1 tvg-id="" tvg-name="De- DAZN  2 FHD" tvg-logo="http://www.vod-logo.net/photos/d53ac340d01b9c527019ba824ff138f7.jpg" group-title="Germany",De- DAZN  2 FHD
+http://m-iptv.net:6204/miran/123/12338
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="De- Deluxe Music" tvg-logo="http://www.vod-logo.net/photos/23156635298fbbeffbe37ccd5d92ed32.jpg" group-title="Germany",De- Deluxe Music
+http://m-iptv.net:6204/miran/123/12256
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="De- Deutsches Musik Fernsehen" tvg-logo="http://www.vod-logo.net/photos/0c981f2393f42a9be9dbeecb569badd6.jpg" group-title="Germany",De- Deutsches Musik Fernsehen
+http://m-iptv.net:6204/miran/123/12254
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="De- Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/0691ea931b7c41fdcb1b6b839f90fc29.jpg" group-title="Germany",De- Discovery Channel HD
+http://m-iptv.net:6204/miran/123/12284
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="De- Disney Channel HD" tvg-logo="http://www.vod-logo.net/photos/ce1bb1935f94fbefd44deecaf71726c2.jpg" group-title="Germany",De- Disney Channel HD
+http://m-iptv.net:6204/miran/123/12271
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-name="De- Disney CineMagic SD" tvg-logo="http://www.vod-logo.net/photos/0bd1402f25b428f331d1f4e865e91e36.jpg" group-title="Germany",De- Disney CineMagic SD
+http://m-iptv.net:6204/miran/123/12270
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="De- Disney Junior HD" tvg-logo="http://www.vod-logo.net/photos/78b71901317e11997e75321e99ea8f0f.jpg" group-title="Germany",De- Disney Junior HD
+http://m-iptv.net:6204/miran/123/12269
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="De- Disney XD SD" tvg-logo="http://www.vod-logo.net/photos/2cb261797406c7846928ebd4bfdf40ce.jpg" group-title="Germany",De- Disney XD SD
+http://m-iptv.net:6204/miran/123/12268
+#EXTINF:-1 tvg-id="DMAX.ch" tvg-name="De- Dmax HD." tvg-logo="http://www.vod-logo.net/photos/e1f35dd252b8ebb6a0a97908b2ed7948.JPG" group-title="Germany",De- Dmax HD.
+http://m-iptv.net:6204/miran/123/12361
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="De- E! HD" tvg-logo="http://www.vod-logo.net/photos/8b1c87342f08bc9c1ab582508de7afa1.jpg" group-title="Germany",De- E! HD
+http://m-iptv.net:6204/miran/123/12366
+#EXTINF:-1 tvg-id="" tvg-name="De- EuroNews" tvg-logo="http://www.vod-logo.net/photos/5efacd6dea72c8e8d74c76ba6a40fa9c.jpg" group-title="Germany",De- EuroNews
+http://m-iptv.net:6204/miran/123/12244
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="De- EuroSport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/6e89b1b6ea36e8f4218766c950bff693.jpg" group-title="Germany",De- EuroSport 1 FHD
+http://m-iptv.net:6204/miran/123/12350
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="De- EuroSport 1 HD." tvg-logo="http://www.vod-logo.net/photos/6e89b1b6ea36e8f4218766c950bff693.jpg" group-title="Germany",De- EuroSport 1 HD.
+http://m-iptv.net:6204/miran/123/12349
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="De- EuroSport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/d6cc45c9805d11d4396d3cff6a3bd110.jpg" group-title="Germany",De- EuroSport 2 FHD
+http://m-iptv.net:6204/miran/123/12348
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="De- EuroSport 2 HD." tvg-logo="http://www.vod-logo.net/photos/d6cc45c9805d11d4396d3cff6a3bd110.jpg" group-title="Germany",De- EuroSport 2 HD.
+http://m-iptv.net:6204/miran/123/12347
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="De- EuroSport 2 Xtra FHD" tvg-logo="http://www.vod-logo.net/photos/36ebf00c1af4a6a4bd987243e72d1452.jpg" group-title="Germany",De- EuroSport 2 Xtra FHD
+http://m-iptv.net:6204/miran/123/12346
+#EXTINF:-1 tvg-id="" tvg-name="De- EuroSport 2 Xtra HD" tvg-logo="http://www.vod-logo.net/photos/36ebf00c1af4a6a4bd987243e72d1452.jpg" group-title="Germany",De- EuroSport 2 Xtra HD
+http://m-iptv.net:6204/miran/123/12345
+#EXTINF:-1 tvg-id="" tvg-name="De- EuroSport360 1 FHD" tvg-logo="http://www.vod-logo.net/photos/88c4470d541eb65695f35975acf142e0.jpg" group-title="Germany",De- EuroSport360 1 FHD
+http://m-iptv.net:6204/miran/123/12344
+#EXTINF:-1 tvg-id="" tvg-name="De- Eurosport360 2 FHD" tvg-logo="" group-title="Germany",De- Eurosport360 2 FHD
+http://m-iptv.net:6204/miran/123/12343
+#EXTINF:-1 tvg-id="" tvg-name="De- EuroSport360 3 FHD" tvg-logo="" group-title="Germany",De- EuroSport360 3 FHD
+http://m-iptv.net:6204/miran/123/12342
+#EXTINF:-1 tvg-id="" tvg-name="De- EuroSport360 4 FHD" tvg-logo="" group-title="Germany",De- EuroSport360 4 FHD
+http://m-iptv.net:6204/miran/123/12341
+#EXTINF:-1 tvg-id="" tvg-name="De- Eurosport360 5 FHD" tvg-logo="" group-title="Germany",De- Eurosport360 5 FHD
+http://m-iptv.net:6204/miran/123/12340
+#EXTINF:-1 tvg-id="" tvg-name="De- Fashion TV" tvg-logo="http://www.vod-logo.net/photos/348041a2ff77ae286a1c1c41d7716f86.jpg" group-title="Germany",De- Fashion TV
+http://m-iptv.net:6204/miran/123/12279
+#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="De- Fix & Foxi" tvg-logo="http://www.vod-logo.net/photos/9c50737e8e895fbd93da86998d11500d.jpg" group-title="Germany",De- Fix & Foxi
+http://m-iptv.net:6204/miran/123/12265
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="De- Fox HD" tvg-logo="http://www.vod-logo.net/photos/89fed4025d8fea3cf9fddbba3dece3fc.jpg" group-title="Germany",De- Fox HD
+http://m-iptv.net:6204/miran/123/12376
+#EXTINF:-1 tvg-id="" tvg-name="De- Genius Plus" tvg-logo="http://www.vod-logo.net/photos/d86118154d35b13efec5f89dffbbb0cb.jpg" group-title="Germany",De- Genius Plus
+http://m-iptv.net:6204/miran/123/12190
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="De- History FHD" tvg-logo="http://www.vod-logo.net/photos/ac445f0c625e493a104b78b564aaa643.jpg" group-title="Germany",De- History FHD
+http://m-iptv.net:6204/miran/123/12283
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="De- HSE24 FHD" tvg-logo="http://www.vod-logo.net/photos/40ccba4881ab27860cf01a75981b0325.jpg" group-title="Germany",De- HSE24 FHD
+http://m-iptv.net:6204/miran/123/12189
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="De- Junior HD" tvg-logo="http://www.vod-logo.net/photos/9f46df36209e4ffc990b3f2dfd9f88ab.jpg" group-title="Germany",De- Junior HD
+http://m-iptv.net:6204/miran/123/12263
+#EXTINF:-1 tvg-id="" tvg-name="De- Juwelo FHD" tvg-logo="http://www.vod-logo.net/photos/c19358bb0e9503f14ab719f0dca3318d.jpg" group-title="Germany",De- Juwelo FHD
+http://m-iptv.net:6204/miran/123/12188
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="De- Kabel eins Classic HD" tvg-logo="http://www.vod-logo.net/photos/fc4220d493b8b191830e2f578275922b.jpg" group-title="Germany",De- Kabel eins Classic HD
+http://m-iptv.net:6204/miran/123/12214
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="De- Kabel eins Doku" tvg-logo="http://www.vod-logo.net/photos/59f7afd70f84145a07422e8e7005abf7.jpg" group-title="Germany",De- Kabel eins Doku
+http://m-iptv.net:6204/miran/123/12281
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="De- Kabel eins HD." tvg-logo="http://www.vod-logo.net/photos/985bf4ee04921d81d85d062d89327a0d.jpg" group-title="Germany",De- Kabel eins HD.
+http://m-iptv.net:6204/miran/123/12215
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="De- Kika HD" tvg-logo="http://www.vod-logo.net/photos/48458bb686fd14f9acdd34b62c8ebdc9.jpg" group-title="Germany",De- Kika HD
+http://m-iptv.net:6204/miran/123/12262
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="De- Kinowelt HD" tvg-logo="http://www.vod-logo.net/photos/d8d5e12a771c80aaffe0f7f19accf60d.jpg" group-title="Germany",De- Kinowelt HD
+http://m-iptv.net:6204/miran/123/12368
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="De- Motorvision HD" tvg-logo="http://www.vod-logo.net/photos/3babdc57009fd51dbfa3fafd552d7867.jpg" group-title="Germany",De- Motorvision HD
+http://m-iptv.net:6204/miran/123/12355
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Brand New" tvg-logo="http://www.vod-logo.net/photos/77d9153b09c4adbc745cc4437d075ebc.jpg" group-title="Germany",De- MTV Brand New
+http://m-iptv.net:6204/miran/123/12252
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Classic" tvg-logo="http://www.vod-logo.net/photos/8e3da19884b5361d82d304815360f61f.jpg" group-title="Germany",De- MTV Classic
+http://m-iptv.net:6204/miran/123/12251
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Dance" tvg-logo="http://www.vod-logo.net/photos/5bae8ad5f532d5b59e7cf6c3f6ed2234.jpg" group-title="Germany",De- MTV Dance
+http://m-iptv.net:6204/miran/123/12250
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Europe" tvg-logo="" group-title="Germany",De- MTV Europe
+http://m-iptv.net:6204/miran/123/12249
+#EXTINF:-1 tvg-id="MTVBase.de" tvg-name="De- MTV HD" tvg-logo="http://www.vod-logo.net/photos/78b7e90b38369f20df5d3bbb087a585b.jpg" group-title="Germany",De- MTV HD
+http://m-iptv.net:6204/miran/123/12253
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Hits" tvg-logo="http://www.vod-logo.net/photos/d100d671f00712341636d24ff036ff78.jpg" group-title="Germany",De- MTV Hits
+http://m-iptv.net:6204/miran/123/12248
+#EXTINF:-1 tvg-id="" tvg-name="De- JukeBox" tvg-logo="http://www.vod-logo.net/photos/371f470e96c6b36fba860f4c0c181e18.jpg" group-title="Germany",De- JukeBox
+http://m-iptv.net:6204/miran/123/12247
+#EXTINF:-1 tvg-id="" tvg-name="De- MTV Rocks" tvg-logo="http://www.vod-logo.net/photos/da093269aa92f5ec5a0019ae9b839173.jpg" group-title="Germany",De- MTV Rocks
+http://m-iptv.net:6204/miran/123/12246
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="De- N-TV HD" tvg-logo="http://www.vod-logo.net/photos/b86e59add9e127d0605faa7df9718cad.jpg" group-title="Germany",De- N-TV HD
+http://m-iptv.net:6204/miran/123/12245
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="De- N24 Doku" tvg-logo="http://www.vod-logo.net/photos/265ecffb67f5b401a310cab33f4491a1.jpg" group-title="Germany",De- N24 Doku
+http://m-iptv.net:6204/miran/123/12282
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="De- Nat Geo HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="Germany",De- Nat Geo HD
+http://m-iptv.net:6204/miran/123/12288
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="De- Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/e71a80b8962b85a49a679494cbfb45e7.jpg" group-title="Germany",De- Nat Geo Wild HD
+http://m-iptv.net:6204/miran/123/12287
+#EXTINF:-1 tvg-id="" tvg-name="De- NDR HD" tvg-logo="http://www.vod-logo.net/photos/5c393dd8925a1bb5a3f18295ba09504c.jpg" group-title="Germany",De- NDR HD
+http://m-iptv.net:6204/miran/123/12199
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="De- Nickelodeon HD" tvg-logo="http://www.vod-logo.net/photos/7c463e0b1b276c144734cf2d3cfc6854.jpg" group-title="Germany",De- Nickelodeon HD
+http://m-iptv.net:6204/miran/123/12261
+#EXTINF:-1 tvg-id="One.de" tvg-name="De- One HD" tvg-logo="http://www.vod-logo.net/photos/0529ec8ff33bdf7af59fe6171ba8155a.jpg" group-title="Germany",De- One HD
+http://m-iptv.net:6204/miran/123/12198
+#EXTINF:-1 tvg-id="" tvg-name="De- ORF 1 HD" tvg-logo="http://www.vod-logo.net/photos/c33d78443390e31fdf75f104bc972925.jpg" group-title="Germany",De- ORF 1 HD
+http://m-iptv.net:6204/miran/123/12196
+#EXTINF:-1 tvg-id="" tvg-name="De- ORF 2 HD" tvg-logo="http://www.vod-logo.net/photos/191e85068f690419632d319bd00d1857.jpg" group-title="Germany",De- ORF 2 HD
+http://m-iptv.net:6204/miran/123/12195
+#EXTINF:-1 tvg-id="" tvg-name="De- ORF Eins FHD" tvg-logo="http://www.vod-logo.net/photos/47004414bd85e2ec6b2315b55b405676.jpg" group-title="Germany",De- ORF Eins FHD
+http://m-iptv.net:6204/miran/123/12197
+#EXTINF:-1 tvg-id="" tvg-name="De- ORF Sport  HD" tvg-logo="http://www.vod-logo.net/photos/5915f4ae615369d458f8502cdd0c06f7.jpg" group-title="Germany",De- ORF Sport  HD
+http://m-iptv.net:6204/miran/123/12194
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="De- Phoenix" tvg-logo="http://www.vod-logo.net/photos/10f662bfa7d8aa64d3816af61a026c59.jpg" group-title="Germany",De- Phoenix
+http://m-iptv.net:6204/miran/123/12273
+#EXTINF:-1 tvg-id="PLANET.de" tvg-name="De- Planet HD" tvg-logo="http://www.vod-logo.net/photos/1ceed4a7f297b342184b8c14d98f4d0b.jpg" group-title="Germany",De- Planet HD
+http://m-iptv.net:6204/miran/123/12285
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro 7 HD" tvg-logo="http://www.vod-logo.net/photos/b267a5681fa327c1f8566e92114f82c3.jpg" group-title="Germany",De- Pro 7 HD
+http://m-iptv.net:6204/miran/123/12228
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro 7 Maxx HD" tvg-logo="http://www.vod-logo.net/photos/37b678a1667a92420de6f18f1ab22087.jpg" group-title="Germany",De- Pro 7 Maxx HD
+http://m-iptv.net:6204/miran/123/12225
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro7" tvg-logo="http://www.vod-logo.net/photos/526d0e5dae250ac9669cb16827348947.jpg" group-title="Germany",De- Pro7
+http://m-iptv.net:6204/miran/123/12227
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro7 FHD" tvg-logo="http://www.vod-logo.net/photos/b267a5681fa327c1f8566e92114f82c3.jpg" group-title="Germany",De- Pro7 FHD
+http://m-iptv.net:6204/miran/123/12229
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="De- Pro7 Fun  FHD" tvg-logo="http://www.vod-logo.net/photos/32dd373aabecb3eccca6f9c8d23f58c0.jpg" group-title="Germany",De- Pro7 Fun  FHD
+http://m-iptv.net:6204/miran/123/12230
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro7 Maxx FHD" tvg-logo="http://www.vod-logo.net/photos/37b678a1667a92420de6f18f1ab22087.jpg" group-title="Germany",De- Pro7 Maxx FHD
+http://m-iptv.net:6204/miran/123/12226
+#EXTINF:-1 tvg-id="" tvg-name="De- Pro7 Maxx SD" tvg-logo="http://www.vod-logo.net/photos/3847c7be2acd991789d4265b1f9a6f1e.jpg" group-title="Germany",De- Pro7 Maxx SD
+http://m-iptv.net:6204/miran/123/12224
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="De- Romance TV" tvg-logo="http://www.vod-logo.net/photos/a0efe181a4a8c0c98de1007da012877f.jpg" group-title="Germany",De- Romance TV
+http://m-iptv.net:6204/miran/123/12193
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="De- RTL Crime SD" tvg-logo="http://www.vod-logo.net/photos/0999c75f18bba1c40e7f253494354f2a.jpg" group-title="Germany",De- RTL Crime SD
+http://m-iptv.net:6204/miran/123/12365
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="De- RTL FHD" tvg-logo="http://www.vod-logo.net/photos/a4e1ff913d2e4ffc10dad6a2014840fb.jpg" group-title="Germany",De- RTL FHD
+http://m-iptv.net:6204/miran/123/12243
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="De- RTL HD." tvg-logo="http://www.vod-logo.net/photos/2f2ccdd225c99872ad51309cd7d0df2b.jpg" group-title="Germany",De- RTL HD.
+http://m-iptv.net:6204/miran/123/12242
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="De- RTL II" tvg-logo="http://www.vod-logo.net/photos/e8012ba2a32d11d32096f2df5cc0cef4.jpg" group-title="Germany",De- RTL II
+http://m-iptv.net:6204/miran/123/12238
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="De- RTL II FHD" tvg-logo="http://www.vod-logo.net/photos/66a80851f7e892202cbb7704e1736599.jpg" group-title="Germany",De- RTL II FHD
+http://m-iptv.net:6204/miran/123/12240
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="De- RTL II HD" tvg-logo="http://www.vod-logo.net/photos/7210168bf6710d3571aacf61ea02f780.jpg" group-title="Germany",De- RTL II HD
+http://m-iptv.net:6204/miran/123/12239
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="De- RTL Living HD" tvg-logo="http://www.vod-logo.net/photos/c1d7d4ff3dfb1cbcf4505e5f97207d4a.jpg" group-title="Germany",De- RTL Living HD
+http://m-iptv.net:6204/miran/123/12362
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="De- RTL Nitro HD" tvg-logo="http://www.vod-logo.net/photos/879630ce080151c89db11089a25db518.jpg" group-title="Germany",De- RTL Nitro HD
+http://m-iptv.net:6204/miran/123/12217
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="De- RTL Passion HD" tvg-logo="http://www.vod-logo.net/photos/d4f8739db6663ad618934b6c022921c9.jpg" group-title="Germany",De- RTL Passion HD
+http://m-iptv.net:6204/miran/123/12364
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="De- RTL Passion SD" tvg-logo="http://www.vod-logo.net/photos/4b1244cf50c26bb34a22b691de608eba.jpg" group-title="Germany",De- RTL Passion SD
+http://m-iptv.net:6204/miran/123/12363
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="De- RTL Plus SD" tvg-logo="http://www.vod-logo.net/photos/40c56f9b3a4a71d569774d2c81c67018.jpg" group-title="Germany",De- RTL Plus SD
+http://m-iptv.net:6204/miran/123/12237
+#EXTINF:-1 tvg-id="" tvg-name="De- RTL SD" tvg-logo="http://www.vod-logo.net/photos/d33599985c503965e60ed23432f2da4f.jpg" group-title="Germany",De- RTL SD
+http://m-iptv.net:6204/miran/123/12241
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="De- Sat.1" tvg-logo="http://www.vod-logo.net/photos/88ef9c3c35f4083c013e6b627876cea1.jpg" group-title="Germany",De- Sat.1
+http://m-iptv.net:6204/miran/123/12231
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="De- Sat.1 FHD" tvg-logo="http://www.vod-logo.net/photos/682e1348d4645cd25e6ee69ddd388012.jpg" group-title="Germany",De- Sat.1 FHD
+http://m-iptv.net:6204/miran/123/12233
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="De- Sat.1 Gold FHD" tvg-logo="http://www.vod-logo.net/photos/7c4e8f88e83fcf33a927cb97ff232784.jpg" group-title="Germany",De- Sat.1 Gold FHD
+http://m-iptv.net:6204/miran/123/12220
+#EXTINF:-1 tvg-id="" tvg-name="De- Sat.1 Gold SD" tvg-logo="http://www.vod-logo.net/photos/11b7374904706d7e3e61ceaaccd8afb6.jpg" group-title="Germany",De- Sat.1 Gold SD
+http://m-iptv.net:6204/miran/123/12218
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="De- Sat.1 HD." tvg-logo="http://www.vod-logo.net/photos/682e1348d4645cd25e6ee69ddd388012.jpg" group-title="Germany",De- Sat.1 HD.
+http://m-iptv.net:6204/miran/123/12232
+#EXTINF:-1 tvg-id="" tvg-name="De- Sat1 Emotions" tvg-logo="http://www.vod-logo.net/photos/ff353bdf51e906f91cdcad369b5d4833.jpg" group-title="Germany",De- Sat1 Emotions
+http://m-iptv.net:6204/miran/123/12216
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="De- Sat1 Gold HD" tvg-logo="http://www.vod-logo.net/photos/7c4e8f88e83fcf33a927cb97ff232784.jpg" group-title="Germany",De- Sat1 Gold HD
+http://m-iptv.net:6204/miran/123/12219
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="De- Sixx FHD" tvg-logo="http://www.vod-logo.net/photos/b0918a891db4c395b5e44eb9d6bb7e94.jpg" group-title="Germany",De- Sixx FHD
+http://m-iptv.net:6204/miran/123/12223
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="De- SIXX HD." tvg-logo="http://www.vod-logo.net/photos/b0918a891db4c395b5e44eb9d6bb7e94.jpg" group-title="Germany",De- SIXX HD.
+http://m-iptv.net:6204/miran/123/12222
+#EXTINF:-1 tvg-id="" tvg-name="De- Sixx SD" tvg-logo="http://www.vod-logo.net/photos/2b0b53382818630670b7c9c6a722ace5.jpg" group-title="Germany",De- Sixx SD
+http://m-iptv.net:6204/miran/123/12221
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="De- Sky 1 HD" tvg-logo="http://www.vod-logo.net/photos/58cf27d23470b6cddf82a3863d98eac5.jpg" group-title="Germany",De- Sky 1 HD
+http://m-iptv.net:6204/miran/123/12379
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="De- Sky Atlantic" tvg-logo="http://www.vod-logo.net/photos/765b1516577fc4392513f605850de3bf.jpg" group-title="Germany",De- Sky Atlantic
+http://m-iptv.net:6204/miran/123/12378
+#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="De- Sky Cinema  1 HD" tvg-logo="http://www.vod-logo.net/photos/e0e401d937ebfbc5b2446b6c702bf59b.jpg" group-title="Germany",De- Sky Cinema  1 HD
+http://m-iptv.net:6204/miran/123/12397
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="De- Sky Cinema  24 HD" tvg-logo="http://www.vod-logo.net/photos/9786e8612718be632f8651202da7a238.jpg" group-title="Germany",De- Sky Cinema  24 HD
+http://m-iptv.net:6204/miran/123/12396
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Cinema Action HD" tvg-logo="http://www.vod-logo.net/photos/5ae3185239cebfca6f342a03d17b9175.jpg" group-title="Germany",De- Sky Cinema Action HD
+http://m-iptv.net:6204/miran/123/12395
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Cinema Comedy SD" tvg-logo="http://www.vod-logo.net/photos/3736a85b8258cff36e555e48f7d8a28a.jpg" group-title="Germany",De- Sky Cinema Comedy SD
+http://m-iptv.net:6204/miran/123/12392
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="De- Sky Cinema Emotion SD" tvg-logo="http://www.vod-logo.net/photos/0dcdacdfe423418a1d9ecd20b5c10b8c.jpg" group-title="Germany",De- Sky Cinema Emotion SD
+http://m-iptv.net:6204/miran/123/12391
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Cinema Family HD" tvg-logo="http://www.vod-logo.net/photos/96b063b9872ecbe42728c2a36a10256d.jpg" group-title="Germany",De- Sky Cinema Family HD
+http://m-iptv.net:6204/miran/123/12394
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="De- Sky Cinema HD" tvg-logo="http://www.vod-logo.net/photos/9d13421a71b007d57b78f8c601004eb3.jpg" group-title="Germany",De- Sky Cinema HD
+http://m-iptv.net:6204/miran/123/12398
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="De- Sky Cinema Hits HD" tvg-logo="http://www.vod-logo.net/photos/5767357d158a334b079aaa6656146532.jpg" group-title="Germany",De- Sky Cinema Hits HD
+http://m-iptv.net:6204/miran/123/12393
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="De- Sky Cinema Nostalgie SD" tvg-logo="http://www.vod-logo.net/photos/308e03d849d4afeed5e68d81795eb11f.jpg" group-title="Germany",De- Sky Cinema Nostalgie SD
+http://m-iptv.net:6204/miran/123/12390
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="De- Sky Krimi SD" tvg-logo="http://www.vod-logo.net/photos/004bfed6e48d49128d7533187cdccb8f.jpg" group-title="Germany",De- Sky Krimi SD
+http://m-iptv.net:6204/miran/123/12377
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="De- Sky Select 1 FHD" tvg-logo="http://www.vod-logo.net/photos/7efa20f24e16fcb9b536bf18a09ffeeb.jpg" group-title="Germany",De- Sky Select 1 FHD
+http://m-iptv.net:6204/miran/123/12387
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="De- Sky Select 2 FHD" tvg-logo="http://www.vod-logo.net/photos/202ee4913a8d01e93198752d669ce052.jpg" group-title="Germany",De- Sky Select 2 FHD
+http://m-iptv.net:6204/miran/123/12386
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="De- Sky Select 3 FHD" tvg-logo="http://www.vod-logo.net/photos/fa8fcfff463e26273bb75e10f015db6d.jpg" group-title="Germany",De- Sky Select 3 FHD
+http://m-iptv.net:6204/miran/123/12385
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="De- Sky Select 4 FHD" tvg-logo="http://www.vod-logo.net/photos/95c686d07aa7c3195fe7c9c8b4749a17.jpg" group-title="Germany",De- Sky Select 4 FHD
+http://m-iptv.net:6204/miran/123/12384
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="De- Sky Select 5 FHD" tvg-logo="http://www.vod-logo.net/photos/28cfd5deebb5634db073dc2acd9b216d.jpg" group-title="Germany",De- Sky Select 5 FHD
+http://m-iptv.net:6204/miran/123/12383
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="De- Sky Select 6 HD" tvg-logo="http://www.vod-logo.net/photos/9019cb573ae405a400b68aee096e6473.jpg" group-title="Germany",De- Sky Select 6 HD
+http://m-iptv.net:6204/miran/123/12382
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="De- Sky Select 7 FHD" tvg-logo="http://www.vod-logo.net/photos/1147e239f644e695461b90649f4981cd.jpg" group-title="Germany",De- Sky Select 7 FHD
+http://m-iptv.net:6204/miran/123/12381
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="De- Sky Select 8 FHD" tvg-logo="http://www.vod-logo.net/photos/feedd87c992a325a9f890150720236ac.jpg" group-title="Germany",De- Sky Select 8 FHD
+http://m-iptv.net:6204/miran/123/12380
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="De- Sky Sport  Austria FHD" tvg-logo="http://www.vod-logo.net/photos/87b8182f9fa36fbbbabf3eccb8cc34e9.jpg" group-title="Germany",De- Sky Sport  Austria FHD
+http://m-iptv.net:6204/miran/123/12354
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 1" tvg-logo="http://www.vod-logo.net/photos/1b8d997093d753db359f471ddb8a3ce1.png" group-title="Germany",De- Sky Sport 1
+http://m-iptv.net:6204/miran/123/12335
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sky Sport 1 FHD" tvg-logo="http://www.vod-logo.net/photos/8c9023f5b5008bc510920aa626b8c8c0.jpg" group-title="Germany",De- Sky Sport 1 FHD
+http://m-iptv.net:6204/miran/123/12337
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sky Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/8c9023f5b5008bc510920aa626b8c8c0.jpg" group-title="Germany",De- Sky Sport 1 HD
+http://m-iptv.net:6204/miran/123/12336
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 10 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 10 FHD
+http://m-iptv.net:6204/miran/123/12312
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 10 HD" tvg-logo="" group-title="Germany",De- Sky Sport 10 HD
+http://m-iptv.net:6204/miran/123/12311
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 11 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 11 FHD
+http://m-iptv.net:6204/miran/123/12310
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 11 HD" tvg-logo="" group-title="Germany",De- Sky Sport 11 HD
+http://m-iptv.net:6204/miran/123/12309
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2" tvg-logo="http://www.vod-logo.net/photos/25167c1a43c4f6b18faf7ec8de6529a5.jpg" group-title="Germany",De- Sky Sport 2
+http://m-iptv.net:6204/miran/123/12332
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2 FHD" tvg-logo="http://www.vod-logo.net/photos/83eaa2a3557623ab12a9c4d00401da22.jpg" group-title="Germany",De- Sky Sport 2 FHD
+http://m-iptv.net:6204/miran/123/12334
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/83eaa2a3557623ab12a9c4d00401da22.jpg" group-title="Germany",De- Sky Sport 2 HD
+http://m-iptv.net:6204/miran/123/12333
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 3" tvg-logo="" group-title="Germany",De- Sky Sport 3
+http://m-iptv.net:6204/miran/123/12329
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 3 FHD" tvg-logo="http://www.vod-logo.net/photos/18d1d9af863317ee0b258912e06de5c9.jpg" group-title="Germany",De- Sky Sport 3 FHD
+http://m-iptv.net:6204/miran/123/12331
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 3 HD" tvg-logo="" group-title="Germany",De- Sky Sport 3 HD
+http://m-iptv.net:6204/miran/123/12330
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 4" tvg-logo="" group-title="Germany",De- Sky Sport 4
+http://m-iptv.net:6204/miran/123/12326
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 4 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 4 FHD
+http://m-iptv.net:6204/miran/123/12328
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 4 HD" tvg-logo="" group-title="Germany",De- Sky Sport 4 HD
+http://m-iptv.net:6204/miran/123/12327
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 5" tvg-logo="" group-title="Germany",De- Sky Sport 5
+http://m-iptv.net:6204/miran/123/12323
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 5 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 5 FHD
+http://m-iptv.net:6204/miran/123/12325
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 5 HD" tvg-logo="" group-title="Germany",De- Sky Sport 5 HD
+http://m-iptv.net:6204/miran/123/12324
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 6" tvg-logo="" group-title="Germany",De- Sky Sport 6
+http://m-iptv.net:6204/miran/123/12320
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 6 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 6 FHD
+http://m-iptv.net:6204/miran/123/12322
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 6 HD" tvg-logo="" group-title="Germany",De- Sky Sport 6 HD
+http://m-iptv.net:6204/miran/123/12321
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 7" tvg-logo="" group-title="Germany",De- Sky Sport 7
+http://m-iptv.net:6204/miran/123/12317
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 7 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 7 FHD
+http://m-iptv.net:6204/miran/123/12319
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 7 HD" tvg-logo="" group-title="Germany",De- Sky Sport 7 HD
+http://m-iptv.net:6204/miran/123/12318
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 8 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 8 FHD
+http://m-iptv.net:6204/miran/123/12316
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 8 HD" tvg-logo="" group-title="Germany",De- Sky Sport 8 HD
+http://m-iptv.net:6204/miran/123/12315
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 9 FHD" tvg-logo="" group-title="Germany",De- Sky Sport 9 FHD
+http://m-iptv.net:6204/miran/123/12314
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 9 HD" tvg-logo="" group-title="Germany",De- Sky Sport 9 HD
+http://m-iptv.net:6204/miran/123/12313
+#EXTINF:-1 tvg-id="SkySportAustria.de" tvg-name="De- Sky Sport Austria SD" tvg-logo="http://www.vod-logo.net/photos/25c0c70d016ae46daef01a969eb8b68e.jpg" group-title="Germany",De- Sky Sport Austria SD
+http://m-iptv.net:6204/miran/123/12353
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 1 FHD" tvg-logo="http://www.vod-logo.net/photos/90e3f87ac95e67ada353d972ed4e7c39.jpg" group-title="Germany",De- Sky Sport Bundesliga 1 FHD
+http://m-iptv.net:6204/miran/123/12308
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 1 HD" tvg-logo="http://www.vod-logo.net/photos/90e3f87ac95e67ada353d972ed4e7c39.jpg" group-title="Germany",De- Sky Sport Bundesliga 1 HD
+http://m-iptv.net:6204/miran/123/12307
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="De- Sky Sport Bundesliga 10 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 10 FHD
+http://m-iptv.net:6204/miran/123/12290
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 10 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 10 HD
+http://m-iptv.net:6204/miran/123/12289
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="De- Sky Sport Bundesliga 2 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 2 FHD
+http://m-iptv.net:6204/miran/123/12306
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="De- Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 2 HD
+http://m-iptv.net:6204/miran/123/12305
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="De- Sky Sport Bundesliga 3 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 3 FHD
+http://m-iptv.net:6204/miran/123/12304
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="De- Sky Sport Bundesliga 3 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 3 HD
+http://m-iptv.net:6204/miran/123/12303
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="De- Sky Sport Bundesliga 4 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 4 FHD
+http://m-iptv.net:6204/miran/123/12302
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="De- Sky Sport Bundesliga 4 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 4 HD
+http://m-iptv.net:6204/miran/123/12301
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="De- Sky Sport Bundesliga 5 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 5 FHD
+http://m-iptv.net:6204/miran/123/12300
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="De- Sky Sport Bundesliga 5 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 5 HD
+http://m-iptv.net:6204/miran/123/12299
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="De- Sky Sport Bundesliga 6 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 6 FHD
+http://m-iptv.net:6204/miran/123/12298
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="De- Sky Sport Bundesliga 6 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 6 HD
+http://m-iptv.net:6204/miran/123/12297
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="De- Sky Sport Bundesliga 7 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 7 FHD
+http://m-iptv.net:6204/miran/123/12296
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="De- Sky Sport Bundesliga 7 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 7 HD
+http://m-iptv.net:6204/miran/123/12295
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="De- Sky Sport Bundesliga 8 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 8 FHD
+http://m-iptv.net:6204/miran/123/12294
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 8 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 8 HD
+http://m-iptv.net:6204/miran/123/12293
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="De- Sky Sport Bundesliga 9 FHD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 9 FHD
+http://m-iptv.net:6204/miran/123/12292
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 9 HD" tvg-logo="" group-title="Germany",De- Sky Sport Bundesliga 9 HD
+http://m-iptv.net:6204/miran/123/12291
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport News FHD" tvg-logo="http://www.vod-logo.net/photos/1b4f77ea6be87be95bf087d7e1b6dda7.jpg" group-title="Germany",De- Sky Sport News FHD
+http://m-iptv.net:6204/miran/123/12352
+#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport News HD." tvg-logo="http://www.vod-logo.net/photos/1b4f77ea6be87be95bf087d7e1b6dda7.jpg" group-title="Germany",De- Sky Sport News HD.
+http://m-iptv.net:6204/miran/123/12351
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="De- Spiegel Tv Geschichte HD" tvg-logo="http://www.vod-logo.net/photos/ced2d9dce4013ef80dc33694fc18a549.jpg" group-title="Germany",De- Spiegel Tv Geschichte HD
+http://m-iptv.net:6204/miran/123/12275
+#EXTINF:-1 tvg-id="SpiegelTV.de" tvg-name="De- Spiegel TV Wissen HD" tvg-logo="http://www.vod-logo.net/photos/7c22d5102faa543bf197d9a797e7f2fd.jpg" group-title="Germany",De- Spiegel TV Wissen HD
+http://m-iptv.net:6204/miran/123/12274
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sport 1 HD." tvg-logo="http://www.vod-logo.net/photos/5e8a1958541ca539a3cbe3d1bb428bc3.jpg" group-title="Germany",De- Sport 1 HD.
+http://m-iptv.net:6204/miran/123/12360
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sport1  HD" tvg-logo="http://www.vod-logo.net/photos/abe6c1200a69da93f5948f2098d656bb.jpg" group-title="Germany",De- Sport1  HD
+http://m-iptv.net:6204/miran/123/12359
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="De- Sport1 US FHD" tvg-logo="http://www.vod-logo.net/photos/fded7a1f00737a120805d8ae7c3e5f80.jpg" group-title="Germany",De- Sport1 US FHD
+http://m-iptv.net:6204/miran/123/12358
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="De- Sportdigital HD" tvg-logo="http://www.vod-logo.net/photos/709b5d33f61a4e46952421553f201828.jpg" group-title="Germany",De- Sportdigital HD
+http://m-iptv.net:6204/miran/123/12357
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="De- Super RTL FHD" tvg-logo="http://www.vod-logo.net/photos/50d71c0fb931fe478e10d180617d1829.jpg" group-title="Germany",De- Super RTL FHD
+http://m-iptv.net:6204/miran/123/12259
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="De- Super RTL HD" tvg-logo="http://www.vod-logo.net/photos/50d71c0fb931fe478e10d180617d1829.jpg" group-title="Germany",De- Super RTL HD
+http://m-iptv.net:6204/miran/123/12258
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="De- Super RTL SD" tvg-logo="http://www.vod-logo.net/photos/50d71c0fb931fe478e10d180617d1829.jpg" group-title="Germany",De- Super RTL SD
+http://m-iptv.net:6204/miran/123/12257
+#EXTINF:-1 tvg-id="" tvg-name="De- SyFy HD" tvg-logo="http://www.vod-logo.net/photos/ab8409742e520ccde7dc2f2770eee888.jpg" group-title="Germany",De- SyFy HD
+http://m-iptv.net:6204/miran/123/12375
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="De- Tele 5 HD" tvg-logo="http://www.vod-logo.net/photos/e766c60f7e67d524350ef28a0492110c.jpg" group-title="Germany",De- Tele 5 HD
+http://m-iptv.net:6204/miran/123/12192
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="De- TLC HD" tvg-logo="http://www.vod-logo.net/photos/ddc88f9385848128311761dfad1fac62.jpg" group-title="Germany",De- TLC HD
+http://m-iptv.net:6204/miran/123/12278
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="De- AXN HD" tvg-logo="http://www.vod-logo.net/photos/d3eb3e5d46aa2c12280d7ee711c29ccf.jpg" group-title="Germany",De- AXN HD
+http://m-iptv.net:6204/miran/123/14409
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="De- TNT Film FHD" tvg-logo="http://www.vod-logo.net/photos/9dd8955bea238de698e31b1ab4b4fb73.jpg" group-title="Germany",De- TNT Film FHD
+http://m-iptv.net:6204/miran/123/14411
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="De- TNT Film HD" tvg-logo="http://www.vod-logo.net/photos/9dd8955bea238de698e31b1ab4b4fb73.jpg" group-title="Germany",De- TNT Film HD
+http://m-iptv.net:6204/miran/123/14410
+#EXTINF:-1 tvg-id="TNTGlitz.de" tvg-name="De- TNT Comedy HD" tvg-logo="http://www.vod-logo.net/photos/08fe558824eeb37d13be74e8100dc039.jpg" group-title="Germany",De- TNT Comedy HD
+http://m-iptv.net:6204/miran/123/12369
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="De- TNT Serie HD" tvg-logo="http://www.vod-logo.net/photos/2f0a1e1997ec26b8fc0695f41c3c2855.jpg" group-title="Germany",De- TNT Serie HD
+http://m-iptv.net:6204/miran/123/12370
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="De- Toggo Plus" tvg-logo="http://www.vod-logo.net/photos/a7b59fb82907ee20fc3a82efd6a3420a.jpg" group-title="Germany",De- Toggo Plus
+http://m-iptv.net:6204/miran/123/12260
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="De- Universal Channel HD" tvg-logo="http://www.vod-logo.net/photos/a1e1a4fa3d12c6e582f6e0d6286397fc.jpg" group-title="Germany",De- Universal Channel HD
+http://m-iptv.net:6204/miran/123/12373
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="De- VOX  HD" tvg-logo="http://www.vod-logo.net/photos/874356e090791cc31fe2252354202fad.jpg" group-title="Germany",De- VOX  HD
+http://m-iptv.net:6204/miran/123/12235
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="De- VOX FHD" tvg-logo="http://www.vod-logo.net/photos/8661bec414d4ed55f31212674b2c6967.jpg" group-title="Germany",De- VOX FHD
+http://m-iptv.net:6204/miran/123/12236
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="De- VOX SD" tvg-logo="http://www.vod-logo.net/photos/4358eedc338ffa8caba8361231f41674.jpg" group-title="Germany",De- VOX SD
+http://m-iptv.net:6204/miran/123/12234
+#EXTINF:-1 tvg-id="" tvg-name="De- ZDF" tvg-logo="http://www.vod-logo.net/photos/82e51c90b4f87f590ad5f26d3e5a097c.jpg" group-title="Germany",De- ZDF
+http://m-iptv.net:6204/miran/123/12208
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="De- ZDF FHD" tvg-logo="http://www.vod-logo.net/photos/49b47cf65242bc69faa03d2fe89f1d7d.jpg" group-title="Germany",De- ZDF FHD
+http://m-iptv.net:6204/miran/123/12210
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="De- ZDF HD." tvg-logo="http://www.vod-logo.net/photos/224f97b45482d07c909e5f9b1d7753b0.jpg" group-title="Germany",De- ZDF HD.
+http://m-iptv.net:6204/miran/123/12209
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="De- ZDF Info HD" tvg-logo="http://www.vod-logo.net/photos/7b9f9c9dd65a1c2e33f8b67b6ed51ac5.jpg" group-title="Germany",De- ZDF Info HD
+http://m-iptv.net:6204/miran/123/12207
+#EXTINF:-1 tvg-id="" tvg-name="De- ZDF Neo" tvg-logo="http://www.vod-logo.net/photos/5d380e534387949b83fe8d1a27b840f4.jpg" group-title="Germany",De- ZDF Neo
+http://m-iptv.net:6204/miran/123/12204
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="De- ZDF Neo FHD" tvg-logo="http://www.vod-logo.net/photos/46f69ca712414fb35b8f56fb127a3a17.jpg" group-title="Germany",De- ZDF Neo FHD
+http://m-iptv.net:6204/miran/123/12206
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="De- ZDF Neo HD." tvg-logo="http://www.vod-logo.net/photos/4d08b894f8b3706c384d9e44bc6c016b.jpg" group-title="Germany",De- ZDF Neo HD.
+http://m-iptv.net:6204/miran/123/12205
+#EXTINF:-1 tvg-id="" tvg-name="De- Zee One" tvg-logo="http://www.vod-logo.net/photos/31986d4d0ed2208801122cd23f26b9c2.jpg" group-title="Germany",De- Zee One
+http://m-iptv.net:6204/miran/123/12388
+#EXTINF:-1 tvg-id="" tvg-name="De- Zee One FHD" tvg-logo="http://www.vod-logo.net/photos/bd9869ecd252421240b5b3748bebd81b.jpg" group-title="Germany",De- Zee One FHD
+http://m-iptv.net:6204/miran/123/12389
