@@ -51,6 +51,24 @@ http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25202
 http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/25196
 #EXTINF:-1,AL: RTSH Sport FHD
 http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/68662
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_005/index.m3u8
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_005/chunklist.m3u8
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_006/index.m3u8
+#EXTINF:0, TELEKOM SPORT 
+https://prd-mkt-live-extra.spectar.tv/MKT_2_006/chunklist.m3u8
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_007/index.m3u8
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_007/chunklist.m3u8
+#EXTINF:0, TELEKOM ARENA
+https://prd-mkt-live-extra.spectar.tv/MKT_2_009/chunklist.m3u8
+#EXTINF:0, TELEKOM SPORT
+https://prd-mkt-live-extra.spectar.tv/MKT_2_008/chunklist.m3u8
+#EXTINF:0, TELEKOM ARENA
+https://prd-mkt-live-extra.spectar.tv/MKT_2_008/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Sport Klub 1" tvg-logo="http://www.sportklub.rs/img/pssk1.png" group-title="Sport",Sport Klub 1 - Sport Klub 1
 http://dynds.iptvposokuca.info:80/live?channelId=20&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
 #EXTINF:-1 tvg-id="21" tvg-name="Sport Klub 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sport-Klub-2-Slovenia_o.jpg" group-title="Sport",Sport Klub 2 - Sport Klub 2
