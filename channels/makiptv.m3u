@@ -97,40 +97,42 @@ http://50.7.86.202/bht1/index.m3u8
 http://50.7.86.202/bn/index.m3u8
 #EXTINF:-1,MAK-IPTV_ATV
 http://50.7.86.202/atv/index.m3u8
-#EXTINF:-1,A1 Cinema
+#EXTINF:-1,MAK-IPTV_A1 Shqiptare
+http://178.132.6.97:8080/A1SHQIPTARE/tracks-v1a1/index.m3u8
+#EXTINF:-1,MAK-IPTV_A1 Cinema
 http://178.132.6.97:8080/A1CINEMA/tracks-v1a1/index.m3u8
-#EXTINF:-1,A1 Kids
+#EXTINF:-1,MAK-IPTV-A1 Kids
 http://178.132.6.97:8080/A1KIDS/tracks-v1a1/index.m3u8
-#EXTINF:-1,A1 World
+#EXTINF:-1,MAK-IPTV-A1 World
 http://178.132.6.97:8080/A1WORLD/index.m3u8
-#EXTINF:-1,A1 Bosnia
+#EXTINF:-1,MAK-IPTV-A1 Bosnia
 http://178.132.6.97:8080/A1BOSNIA/index.m3u8
-#EXTINF:-1,A1 Espana
+#EXTINF:-1,A1 MAK-IPTV-Espana
 http://178.132.6.97:8080/A1ESPANA/index.m3u8
-#EXTINF:-1,A1 SERBIA
+#EXTINF:-1,MAK-IPTV-A1 SERBIA
 http://178.132.6.97:8080/A1SERBIA/index.m3u8
-#EXTINF:0,OTV Valentino
+#EXTINF:0,MAK-IPTV-OTV Valentino
 http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
-#EXTINF:0,Spin TV
+#EXTINF:0,MAK-IPTV-Spin TV
 http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
 
-#EXTINF:0,Sky Folk Makedonija
+#EXTINF:0,MAK-IPTV-Sky Folk Makedonija
 http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
-#EXTINF:0,TV Tetova
+#EXTINF:0,MAK-IPTV-TV Tetova
 http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
-#EXTINF:0,TV7 TUZLA
+#EXTINF:0,MAK-IPTV-TV7 TUZLA
 http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
-#EXTINF:0,USK
+#EXTINF:0,MAK-IPTV-USK
 http://178.132.6.97/USK/index.m3u8
-#EXTINF:0,PLUS TV
+#EXTINF:0,MAK-IPTV-PLUS TV
 http://178.132.6.97:8080/PLUSTV1/tracks-v1a1/index.m3u8
-#EXTINF:0,a1vikom
+#EXTINF:0,MAK-IPTV-a1vikom
 http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
-#EXTINF:0,TVTK
+#EXTINF:0,MAK-IPTV-TVTK
 http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
-#EXTINF:0,SMART TV TESANJ
+#EXTINF:0,MAK-IPTV-SMART TV TESANJ
 http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
-#EXTINF:0,JazzeraAL
+#EXTINF:0,MAK-IPTV-JazzeraAL
 http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
-#EXTINF:0,RTV Zenica
+#EXTINF:0,MAK-IPTV-RTV Zenica
 http://178.132.6.97:8080/RTVZenica1/tracks-v1a1/index.m3u8
