@@ -1,18 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mak-iptv 
-Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Community
-iptv/channels/al.m3u
-@mak-iptv mak-iptv Update al.m3u
-ebf2788 16 hours ago
-791 lines (779 sloc)  36.4 KB
     
 
 #EXTM3U
@@ -1026,4 +1012,479 @@ http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/721
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/722
 #EXTINF:-1,MK: TV KOHA
 http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/719
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC1+tv+logo.png" group-title="Serbia",RTS 1 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC2+TV+logo.png" group-title="Serbia",RTS 2 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC3+TV+logo.png" group-title="Serbia",RTS 3 TV HD  SR
+http://195.181.169.152:8080/SERBIA/RTS_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+TV+LOGO.jpg" group-title="Serbia",PINK_1 TV HD  SR
+
+http://195.181.169.152:8080/SERBIA/PINK_1/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="PINK 2 (RS)" tvg-logo="https://s3.amazonaws.com/ok2logo/PINK2+tv+logo.jpg" group-title="BALKANS",PINK 2 (RS)
+http://195.181.169.152:8080/SERBIA/PINK_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_3TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK3+info+tv+logo.png" group-title="Serbia",PINK_3 TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WESTERN TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWestern_SRB.png" group-title="Serbia",PINK_WESTERN TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_WESTERN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ACTION TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+ACTION+tv+logo.jpg" group-title="Serbia",PINK_ACTION TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_PREMIUM TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+PREMIUM+tv+logo.jpg" group-title="Serbia",PINK_PREMIUM TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_PREMIUM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_ZABAVA TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkZabava_SRB.png" group-title="Serbia",PINK_ZABAVA TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_ZABAVA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_HORROR  TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkHorror_SRB.png" group-title="Serbia",PINK_HORROR TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_HORROR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_COMEDY TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkComedy_SRB.png" group-title="Serbia",PINK_COMEDY TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_COMEDY/index.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="PINK_WORLD TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWorld_SRB.png" group-title="Serbia",PINK_WORLD TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PINK_REALITY TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+REALITY+tv+logo.png" group-title="Serbia",PINK_REALITY TV HD  SR
+http://195.181.169.152:8080/SERBIA/PINK_REALITY/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV HD " tvg-logo="" group-title="Serbia",CINESTAR TV HD  SR
+http://195.181.169.152:8080/CROATIA/CINESTAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINESTAR  - ACTION TV HD " tvg-logo="" group-title="Serbia",CINESTAR-ACTION TV HD  SR
+http://195.181.169.152:8080/CROATIA/CINESTAR_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  CRIME TV HD " tvg-logo="" group-title="Serbia",CRIME TV HD  SR
+http://195.181.169.152:8080/CROATIA/RTL_CRIME/index.m3u8
+#EXTINF:-1,OBN
+http://85.0.26.89:3000/play/xxOBNxx
+#EXTINF:-1,RTRS plus
+http://85.0.26.89:3000/play/xxRTRSPLUSxx
+#EXTINF:-1,Sky Cinema Hits
+http://85.0.26.89:3000/play/xxcSkyHitscxx
+#EXTINF:-1,YU Planet
+http://85.0.26.89:3000/play/xxYUPlanetxx
+#EXTINF:-1,SIXX
+http://85.0.26.89:3000/play/xxSIXXxx
+#EXTINF:-1,Sky Sport 2
+http://85.0.26.89:3000/play/xxcSkySport2cxx
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://85.0.26.89:3000/play/xxcSkyLiga4cxx
+#EXTINF:-1,EWTN katholisches TV
+http://85.0.26.89:3000/play/xxEWTNkatholischesTVxx
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://85.0.26.89:3000/play/xxcSkyLiga3cxx
+#EXTINF:-1,N24 DOKU
+http://85.0.26.89:3000/play/xxN24DOKUxx
+#EXTINF:-1,Disney Channel
+http://85.0.26.89:3000/play/xxDisneyChannelxx
+#EXTINF:-1,Sky Cinema Family HD
+http://85.0.26.89:3000/play/xxcSkyFamilycxx
+#EXTINF:-1,CGTN F
+http://85.0.26.89:3000/play/a045
+#EXTINF:-1,TV5MONDE EUROPE
+http://85.0.26.89:3000/play/xxTV5MONDEEUROPExx
+#EXTINF:-1,RTK-1 SAT KOSOVO
+http://85.0.26.89:3000/play/xxRTK1SATKOSOVOxx
+#EXTINF:-1,QVC Style
+http://85.0.26.89:3000/play/xxQVCStylexx
+#EXTINF:-1,Russia Today
+http://85.0.26.89:3000/play/xxRussiaTodayxx
+#EXTINF:-1,Aurora TV
+http://85.0.26.89:3000/play/xxAuroraTVxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/SSBCTVEUROPESS
+#EXTINF:-1,France 24 (en Français)
+http://85.0.26.89:3000/play/xxFRANCE24frxx
+#EXTINF:-1,TLC
+http://85.0.26.89:3000/play/xxTLCxx
+#EXTINF:-1,CGTN Documentary
+http://85.0.26.89:3000/play/xxCGTNDocumentaryxx
+#EXTINF:-1,BN Music
+http://85.0.26.89:3000/play/xxBNMUSICxx
+#EXTINF:-1,France 24 (in Arabic)
+http://85.0.26.89:3000/play/xxFrance24arxx
+#EXTINF:-1,TRT World HD
+http://85.0.26.89:3000/play/xxTRTWorldHDxx
+#EXTINF:-1,HAYAT FOLK
+http://85.0.26.89:3000/play/xxHAYATFOLKxx
+#EXTINF:-1,CGTN
+http://85.0.26.89:3000/play/xxCGTNxx
+#EXTINF:-1,Service IPKO A03
+http://85.0.26.89:3000/play/a03u
+#EXTINF:-1,RTRS RRS
+http://85.0.26.89:3000/play/xxRTRSRRSxx
+#EXTINF:-1,France 24 (in English)
+http://85.0.26.89:3000/play/xxFrance24enxx
+#EXTINF:-1,HAYAT MUSIC
+http://85.0.26.89:3000/play/xxHAYATMUSICxx
+#EXTINF:-1,ANIXE SD
+http://85.0.26.89:3000/play/xxANIXESDxx
+#EXTINF:-1,PRO TV Int
+http://85.0.26.89:3000/play/xxPROTVIntxx
+#EXTINF:-1,Top News
+http://85.0.26.89:3000/play/xxTOPNEWSxx
+#EXTINF:-1,BCTV Europe
+http://85.0.26.89:3000/play/xxBCTVEuropexx
+#EXTM3U
+#EXTINF:-1,BHT HD – BHT HD
+http://s03.bihnet.net:80/live?channelId=172&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV SARAJEVO – TV SARAJEVO
+http://s03.bihnet.net:80/live?channelId=144&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,TV Zenica – TV Zenica
+http://s03.bihnet.net:80/live?channelId=235&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,USK – USK
+http://s03.bihnet.net:80/live?channelId=143&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Novi Pazar – Novi Pazar
+http://s03.bihnet.net:80/live?channelId=236&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SANDZAK TV – SANDZAK TV
+http://s03.bihnet.net:80/live?channelId=62&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTL TELEVIZIJA – RTL TELEVIZIJA
+http://s03.bihnet.net:80/live?channelId=3&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NOVA TV – NOVA TV
+http://s03.bihnet.net:80/live?channelId=4&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,Z1 – Z1
+http://s03.bihnet.net:80/live?channelId=370&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,OSJECKA TV – OSJECKA TV
+http://s03.bihnet.net:80/live?channelId=170&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GLAS DRINE – GLAS DRINE
+http://s03.bihnet.net:80/live?channelId=262&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,RTV CG – RTV CG
+http://s03.bihnet.net:80/live?channelId=263&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,N1 BiH – N1 BiH
+http://s03.bihnet.net:80/live?channelId=66&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,24 KITCHEN – 24 KITCHEN
+http://s03.bihnet.net:80/live?channelId=164&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,PINK PLUS – PINK PLUS
+http://s03.bihnet.net:80/live?channelId=204&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,GRAND 2 – GRAND 2
+http://s03.bihnet.net:80/live?channelId=25&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,B1 TEST – B1 TEST
+http://s03.bihnet.net:80/live?channelId=36&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM DY – AL – FILM DY
+http://s03.bihnet.net:80/live?channelId=91&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – FILM HITS – AL – FILM HITS
+http://s03.bihnet.net:80/live?channelId=92&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – KTV KOHAVIZION – AL – KTV KOHAVIZION
+http://s03.bihnet.net:80/live?channelId=192&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING – AL – TRING
+http://s03.bihnet.net:80/live?channelId=195&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – TRING PLANET – AL – TRING PLANET
+http://s03.bihnet.net:80/live?channelId=199&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 1 – AL – SUPER SPORT 1
+http://s03.bihnet.net:80/live?channelId=85&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 3 – AL – SUPER SPORT 3
+http://s03.bihnet.net:80/live?channelId=87&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,AL – SUPER SPORT 4 – AL – SUPER SPORT 4
+http://s03.bihnet.net:80/live?channelId=88&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,ARENA SPORT 3 SR – ARENA SPORT 3 SR
+http://s03.bihnet.net:80/live?channelId=44&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 HR – SPORT KLUB 3 HR
+http://s03.bihnet.net:80/live?channelId=148&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 2 – SPORT KLUB 2
+http://s03.bihnet.net:80/live?channelId=48&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,SPORT KLUB 3 – SPORT KLUB 3
+http://s03.bihnet.net:80/live?channelId=49&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 1 – UK – SPORT 1
+http://s03.bihnet.net:80/live?channelId=96&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 2 – UK – SPORT 2
+http://s03.bihnet.net:80/live?channelId=97&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 4 – UK – SPORT 4
+http://s03.bihnet.net:80/live?channelId=99&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,UK – SPORT 5 – UK – SPORT 5
+http://s03.bihnet.net:80/live?channelId=100&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Sport News – DE – Sport News
+http://s03.bihnet.net:80/live?channelId=249&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Germany History – DE – Germany History
+http://s03.bihnet.net:80/live?channelId=205&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – Krimi – DE – Krimi
+http://s03.bihnet.net:80/live?channelId=105&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,DE – ARD – DE – ARD
+http://s03.bihnet.net:80/live?channelId=130&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Comedy HD – IT – Comedy HD
+http://s03.bihnet.net:80/live?channelId=213&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Emotion – IT – Premium Emotion
+http://s03.bihnet.net:80/live?channelId=219&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Action HD – IT – Premium Action HD
+http://s03.bihnet.net:80/live?channelId=220&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Stories – IT – Premium Stories
+http://s03.bihnet.net:80/live?channelId=247&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,IT – Premium Joi – IT – Premium Joi
+http://s03.bihnet.net:80/live?channelId=248&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 Eredivisie HD – NL – Fox Sports 1 Eredivisie HD
+http://s03.bihnet.net:80/live?channelId=257&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 3 Eredivisie – NL – Fox Sports 3 Eredivisie
+http://s03.bihnet.net:80/live?channelId=259&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 5 Eredivisie – NL – Fox Sports 5 Eredivisie
+http://s03.bihnet.net:80/live?channelId=260&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,NL – Fox Sports 1 – NL – Fox Sports 1
+http://s03.bihnet.net:80/live?channelId=261&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+#EXTINF:-1,WOMAN – WOMAN
+http://s03.bihnet.net:80/live?channelId=229&uid=1276&deviceUser=stalker_portal&devicePass=tziUZT5684584RTZUtrudfhg45754
+
+
+#EXTINF:-1 tvg-id="10" tvg-name="Pink" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/RTV_Pink_logo,_2012.png" group-title="Ex-YU",Pink - Pink
+http://dynds.iptvposokuca.info:80/live?channelId=10&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="2" tvg-name="Pink 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Television_channel_Pink_2.jpg" group-title="Ex-YU",Pink 2 - Pink 2
+http://dynds.iptvposokuca.info:80/live?channelId=2&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="11" tvg-name="Pink 3" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/06/Pink3.png/revision/latest?cb=20130614130913" group-title="Ex-YU",Pink 3 - Pink 3
+http://dynds.iptvposokuca.info:80/live?channelId=11&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="167" tvg-name="Pink Plus" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkPlus.png" group-title="Ex-YU",Pink Plus - Pink Plus
+http://dynds.iptvposokuca.info:80/live?channelId=167&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="8" tvg-name="Pink BiH" tvg-logo="http://teve.ba/img/articles/12878.jpg" group-title="Ex-YU",Pink BiH - Pink BiH
+http://dynds.iptvposokuca.info:80/live?channelId=8&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="73" tvg-name="Pink Zabava" tvg-logo="http://www.studioproteus.si/wp-content/uploads/2014/08/Pink_Zabava-300x300.png" group-title="Ex-YU",Pink Zabava - Pink Zabava
+http://dynds.iptvposokuca.info:80/live?channelId=73&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="80" tvg-name="Pink Film" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pink_film.jpg" group-title="Ex-YU",Pink Film - Pink Film
+http://dynds.iptvposokuca.info:80/live?channelId=80&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="72" tvg-name="Pink Comedy" tvg-logo="http://4.bp.blogspot.com/-hFQBlQ5QITM/U8Yo9Q0WIDI/AAAAAAAADcs/T6tm4rr-9qk/s1600/556.jpeg" group-title="Ex-YU",Pink Comedy - Pink Comedy
+http://dynds.iptvposokuca.info:80/live?channelId=72&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="7" tvg-name="Pink Action" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkAction2.png" group-title="Ex-YU",Pink Action - Pink Action
+http://dynds.iptvposokuca.info:80/live?channelId=7&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="9" tvg-name="Pink Thriller" tvg-logo="http://tvprofil.net/img/kanali-logo/Pink_Thriller_logo.png" group-title="Ex-YU",Pink Thriller - Pink Thriller
+http://dynds.iptvposokuca.info:80/live?channelId=9&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="71" tvg-name="Pink Horror" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkHorror.png" group-title="Ex-YU",Pink Horror - Pink Horror
+http://dynds.iptvposokuca.info:80/live?channelId=71&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="1" tvg-name="Pink SCI-FI & Fantasy" tvg-logo="http://tvprofil.net/img/kanali-logo/Pink_SciFi_Fantasy_logo.png" group-title="Ex-YU",Pink SCI-FI & Fantasy - Pink SCI-FI & Fantasy
+http://dynds.iptvposokuca.info:80/live?channelId=1&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="6" tvg-name="Pink Crime & Mistery" tvg-logo="http://extratv.me/app.extratv/kanal_logo/327547.png" group-title="Ex-YU",Pink Crime & Mistery - Pink Crime & Mistery
+http://dynds.iptvposokuca.info:80/live?channelId=6&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="75" tvg-name="Pink Western" tvg-logo="http://tvprofil.net/img/kanali-logo/pink-western-logo.jpg" group-title="Ex-YU",Pink Western - Pink Western
+http://dynds.iptvposokuca.info:80/live?channelId=75&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="76" tvg-name="Pink Soap" tvg-logo="http://tvprofil.net/img/kanali-logo/PinkSoap.png" group-title="Ex-YU",Pink Soap - Pink Soap
+http://dynds.iptvposokuca.info:80/live?channelId=76&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="69" tvg-name="Pink Romance" tvg-logo="http://tvprofil.net/img/kanali-logo/Pink_Romance_logo.png" group-title="Ex-YU",Pink Romance - Pink Romance
+http://tvmaksi.iptvposokuca.info:80/live?channelId=69&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="77" tvg-name="Pink Reality" tvg-logo="http://media.realcity.cz/files/logo/15680/logo_4e8bca20c90eb7.53107846.jpg" group-title="Ex-YU",Pink Reality - Pink Reality
+http://tvmaksi.iptvposokuca.info:80/live?channelId=77&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="78" tvg-name="Pink Premium" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkPremium.png" group-title="Ex-YU",Pink Premium - Pink Premium
+http://tvmaksi.iptvposokuca.info:80/live?channelId=78&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="74" tvg-name="Pink World" tvg-logo="http://tvprofil.net/img/kanali-logo/pink-world-logo.png" group-title="Ex-YU",Pink World - Pink World
+http://dynds.iptvposokuca.info:80/live?channelId=74&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="3" tvg-name="RTS 1" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/02/Watch-RTS1-Serbia-Tv-logo.jpg" group-title="Ex-YU",RTS 1 - RTS 1
+http://dynds.iptvposokuca.info:80/live?channelId=3&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="223" tvg-name="RTS 1 (Rezervni)" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2013/02/Watch-RTS1-Serbia-Tv-logo.jpg" group-title="Ex-YU",RTS 1 (Rezervni) - RTS 1 (Rezervni)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=223&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="113" tvg-name="RTS 2" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS2_logo.png" group-title="Ex-YU",RTS 2 - RTS 2
+http://maksitv.iptvposokuca.info:80/live?channelId=113&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="209" tvg-name="RTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/1280px-RTS_3_logo.svg.png" group-title="Ex-YU",RTS 3 - RTS 3
+http://tvmaksi.iptvposokuca.info:80/live?channelId=209&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="126" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="Ex-YU",RTS HD - RTS HD
+http://maksitv.iptvposokuca.info:80/live?channelId=126&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="5" tvg-name="B92" tvg-logo="http://b92s.net/b92.png" group-title="Ex-YU",B92 - B92
+http://dynds.iptvposokuca.info:80/live?channelId=5&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="12" tvg-name="Prva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/6/65/Prva_TV.png" group-title="Ex-YU",Prva TV - Prva TV
+http://dynds.iptvposokuca.info:80/live?channelId=12&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="144" tvg-name="Prva Plus" tvg-logo="http://prvaplus.prva.rs/img/logo.png" group-title="Ex-YU",Prva Plus - Prva Plus
+http://maksitv.iptvposokuca.info:80/live?channelId=144&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="210" tvg-name="Prva World" tvg-logo="http://prvaworld.prva.rs/img/logo.png" group-title="Ex-YU",Prva World - Prva World
+http://tvmaksi.iptvposokuca.info:80/live?channelId=210&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="211" tvg-name="Prva Max" tvg-logo="http://prvamax.prva.rs/img/logo.png" group-title="Ex-YU",Prva Max - Prva Max
+http://tvmaksi.iptvposokuca.info:80/live?channelId=211&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="4" tvg-name="Happy TV" tvg-logo="http://www.rra.org.rs/uploads/broadcasters/1430991402-Nacionalna%20TV%20Happy.png" group-title="Ex-YU",Happy TV - Happy TV
+http://dynds.iptvposokuca.info:80/live?channelId=4&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="164" tvg-name="Nova (RS)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/TV_Nova.rs.png" group-title="Ex-YU",Nova (RS) - Nova (RS)
+http://maksitv.iptvposokuca.info:80/live?channelId=164&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="96" tvg-name="HRT 1" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="Ex-YU",HRT 1 - HRT 1
+http://dynds.iptvposokuca.info:80/live?channelId=96&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="97" tvg-name="HRT 2" tvg-logo="http://tvprofil.net/img/kanali-logo/htv2-logo.png" group-title="Ex-YU",HRT 2 - HRT 2
+http://dynds.iptvposokuca.info:80/live?channelId=97&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="98" tvg-name="HRT 3" tvg-logo="http://www.antoniosiber.org/peti_dan/HRT-3.jpg" group-title="Ex-YU",HRT 3 - HRT 3
+http://dynds.iptvposokuca.info:80/live?channelId=98&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="142" tvg-name="HRT 4" tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/hrt4.png" group-title="Ex-YU",HRT 4 - HRT 4
+http://maksitv.iptvposokuca.info:80/live?channelId=142&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="101" tvg-name="Nova TV" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2012/05/Nova-TV-logo.jpg" group-title="Ex-YU",Nova TV - Nova TV
+http://dynds.iptvposokuca.info:80/live?channelId=101&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="14" tvg-name="RTL" tvg-logo="http://4vector.com/i/free-vector-rtl-television-1_078119_rtl-television-1.png" group-title="Ex-YU",RTL - RTL
+http://dynds.iptvposokuca.info:80/live?channelId=14&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="124" tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/2000px-RTL_2_Logo.svg.png" group-title="Ex-YU",RTL 2 - RTL 2
+http://maksitv.iptvposokuca.info:80/live?channelId=124&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="122" tvg-name="RTL Living" tvg-logo="http://tvprofil.net/img/kanali-logo/RTL_Living_logo.png" group-title="Ex-YU",RTL Living - RTL Living
+http://maksitv.iptvposokuca.info:80/live?channelId=122&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="221" tvg-name="RTL Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png" group-title="Ex-YU",RTL Crime - RTL Crime
+http://tvmaksi.iptvposokuca.info:80/live?channelId=221&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="118" tvg-name="Doma TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/6/69/Doma_TV.jpg" group-title="Ex-YU",Doma TV - Doma TV
+http://maksitv.iptvposokuca.info:80/live?channelId=118&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="99" tvg-name="BHT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/BHT_1_logo.png" group-title="Ex-YU",BHT 1 - BHT 1
+http://dynds.iptvposokuca.info:80/live?channelId=99&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="165" tvg-name="BHT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/BHT_1_logo.png" group-title="Ex-YU",BHT HD - BHT HD
+http://maksitv.iptvposokuca.info:80/live?channelId=165&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="117" tvg-name="Federalna TV" tvg-logo="http://soc.ba/site/wp-content/uploads/2015/02/federalna_tv.png" group-title="Ex-YU",Federalna TV - Federalna TV
+http://maksitv.iptvposokuca.info:80/live?channelId=117&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="169" tvg-name="RTRS" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/c/c5/Rtrs-logo.png" group-title="Ex-YU",RTRS - RTRS
+http://maksitv.iptvposokuca.info:80/live?channelId=169&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="224" tvg-name="RTRS (Rezervni)" tvg-logo="https://pbs.twimg.com/profile_images/578679070617108480/xBKB2SoA.jpeg" group-title="Ex-YU",RTRS (Rezervni) - RTRS (Rezervni)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=224&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="37" tvg-name="Al Jazeera Balkans" tvg-logo="http://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2013/03/al-jazeera-logo.jpeg" group-title="Ex-YU",Al Jazeera Balkans - Al Jazeera Balkans
+http://dynds.iptvposokuca.info:80/live?channelId=37&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="116" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/4/40/20130407041256!TV1_Logo_2011.png" group-title="Ex-YU",TV1 - TV1
+http://maksitv.iptvposokuca.info:80/live?channelId=116&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="166" tvg-name="N1 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/N1teleLogo.jpg" group-title="Ex-YU",N1 TV - N1 TV
+http://maksitv.iptvposokuca.info:80/live?channelId=166&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="100" tvg-name="OBN" tvg-logo="http://navigator-upload-prod.s3.amazonaws.com/attachments/files/000/004/626/medium/obn-logo.png" group-title="Ex-YU",OBN - OBN
+http://dynds.iptvposokuca.info:80/live?channelId=100&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="13" tvg-name="Face TV" tvg-logo="http://teve.ba/img/articles/9259.jpg" group-title="Ex-YU",Face TV - Face TV
+http://dynds.iptvposokuca.info:80/live?channelId=13&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="32" tvg-name="BN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/BN_televizija_logo.png" group-title="Ex-YU",BN - BN
+http://dynds.iptvposokuca.info:80/live?channelId=32&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="226" tvg-name="ATV" tvg-logo="http://tvprofil.net/img/kanali-logo/ATV-logo.png" group-title="Ex-YU",ATV - ATV
+http://tvmaksi.iptvposokuca.info:80/live?channelId=226&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="15" tvg-name="Hayat" tvg-logo="http://analiziraj.ba/wp-content/uploads/2015/02/hayattv_big.png" group-title="Ex-YU",Hayat - Hayat
+http://dynds.iptvposokuca.info:80/live?channelId=15&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="35" tvg-name="Hayat Plus" tvg-logo="https://pbs.twimg.com/media/B9517WXIUAEGgjS.jpg" group-title="Ex-YU",Hayat Plus - Hayat Plus
+http://dynds.iptvposokuca.info:80/live?channelId=35&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="115" tvg-name="OTV" tvg-logo="http://www.crisalide-numerique.fr/wp-content/uploads/2014/09/OTV_red.jpg" group-title="Ex-YU",OTV - OTV
+http://maksitv.iptvposokuca.info:80/live?channelId=115&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="119" tvg-name="TK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png" group-title="Ex-YU",TK - TK
+http://maksitv.iptvposokuca.info:80/live?channelId=119&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="127" tvg-name="K3" tvg-logo="http://www.jadovno.com/tl_files/ug_jadovno/img/baneri/Kanal3.png" group-title="Ex-YU",K3 - K3
+http://maksitv.iptvposokuca.info:80/live?channelId=127&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="234" tvg-name="*********        DOKUMENTARNI KANALI        *********" tvg-logo="/noicon.png" group-title="Internaconal",*********        DOKUMENTARNI KANALI        ********* - *********        DOKUMENTARNI KANALI        *********
+http://dynds.iptvposokuca.info:80/live?channelId=234&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="83" tvg-name="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Internaconal",Discovery Channel - Discovery Channel
+http://dynds.iptvposokuca.info:80/live?channelId=83&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="199" tvg-name="ID Discovery" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/03/investigation-discovery-logo.png" group-title="Internaconal",ID Discovery - ID Discovery
+http://dynds.iptvposokuca.info:80/live?channelId=199&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="225" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Internaconal",Investigation Discovery - Investigation Discovery
+http://tvmaksi.iptvposokuca.info:80/live?channelId=225&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="29" tvg-name="History Channel" tvg-logo="http://moonmentum.com/blog/wp-content/uploads/2013/02/HistoryChannel1.png" group-title="Internaconal",History Channel - History Channel
+http://dynds.iptvposokuca.info:80/live?channelId=29&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="198" tvg-name="History Channel 2" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2012/05/History-2-logo-2011.png" group-title="Internaconal",History Channel 2 - History Channel 2
+http://maksitv.iptvposokuca.info:80/live?channelId=198&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="27" tvg-name="National Geographic" tvg-logo="http://balisouljournals.files.wordpress.com/2013/07/ng_logo_tm_whitebackground_cmyk.jpg" group-title="Internaconal",National Geographic - National Geographic
+http://dynds.iptvposokuca.info:80/live?channelId=27&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="197" tvg-name="Nat Geo Wild" tvg-logo="http://www.corusent.com/wp-content/uploads/2016/03/logo_ngw.png" group-title="Internaconal",Nat Geo Wild - Nat Geo Wild
+http://dynds.iptvposokuca.info:80/live?channelId=197&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="202" tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Viasat_History_Logo.jpg/1200px-Viasat_History_Logo.jpg" group-title="Internaconal",Viasat History - Viasat History
+http://dynds.iptvposokuca.info:80/live?channelId=202&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="179" tvg-name="Viasat Explorer" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Viasat_explorer.png" group-title="Internaconal",Viasat Explorer - Viasat Explorer
+http://maksitv.iptvposokuca.info:80/live?channelId=179&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="219" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="Internaconal",Viasat Nature - Viasat Nature
+http://tvmaksi.iptvposokuca.info:80/live?channelId=219&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="28" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/3/37/Animal_Planet_Logo_stari.png" group-title="Internaconal",Animal Planet - Animal Planet
+http://tvmaksi.iptvposokuca.info:80/live?channelId=28&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="162" tvg-name="Travel Channel" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/57/Travel_Channel_2002.png/revision/latest?cb=20091114171952" group-title="Internaconal",Travel Channel - Travel Channel
+http://maksitv.iptvposokuca.info:80/live?channelId=162&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="203" tvg-name="DocuBox" tvg-logo="https://www.google.ba/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjok6GLpLLXAhWIVhQKHcpKDZsQjRwIBw&url=http%3A%2F%2Fspiintl.com%2Fchannels%2Fdocubox&psig=AOvVaw3wmXs6R688-FbIdTyko17x&ust=1510344025933055" group-title="Internaconal",DocuBox - DocuBox
+http://maksitv.iptvposokuca.info:80/live?channelId=203&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="204" tvg-name="ID Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Id_xtra_large.jpg" group-title="Internaconal",ID Xtra - ID Xtra
+http://dynds.iptvposokuca.info:80/live?channelId=204&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="180" tvg-name="24 Kitchen" tvg-logo="http://www.totaltv.tv/upload/images/zoom/nw_24_kitchen.jpg" group-title="Internaconal",24 Kitchen - 24 Kitchen
+http://maksitv.iptvposokuca.info:80/live?channelId=180&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="220" tvg-name="E!" tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/EEntertainmentTelevisionHD.png" group-title="Internaconal",E! - E!
+http://tvmaksi.iptvposokuca.info:80/live?channelId=220&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="222" tvg-name="TLC" tvg-logo="http://cdn1.theodysseyonline.com/files/2015/12/18/6358607855033016661553201859_TLC_BANNER_WEB.png" group-title="Internaconal",TLC - TLC
+http://tvmaksi.iptvposokuca.info:80/live?channelId=222&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="215" tvg-name="Lov i Ribolov" tvg-logo="http://www.musicar.rs/wp-content/uploads/2014/03/1607054_191157701094968_72693872_n.png" group-title="Internaconal",Lov i Ribolov - Lov i Ribolov
+http://tvmaksi.iptvposokuca.info:80/live?channelId=215&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="233" tvg-name="*********        FILMSKI KANALI        *********" tvg-logo="/noicon.png" group-title="Movies",*********        FILMSKI KANALI        ********* - *********        FILMSKI KANALI        *********
+http://dynds.iptvposokuca.info:80/live?channelId=233&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="192" tvg-name="HBO" tvg-logo="http://cdn.wegotthiscovered.com/wp-content/uploads/HBO_LOGO_listings-640-360-th1.jpg" group-title="Movies",HBO - HBO
+http://maksitv.iptvposokuca.info:80/live?channelId=192&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="33" tvg-name="HBO 2" tvg-logo="http://www.neweumarket.com/logos/201303121146370.HBO%20Adria.jpg" group-title="Movies",HBO 2 - HBO 2
+http://dynds.iptvposokuca.info:80/live?channelId=33&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="34" tvg-name="HBO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png" group-title="Movies",HBO 3 - HBO 3
+http://dynds.iptvposokuca.info:80/live?channelId=34&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="131" tvg-name="Cinestar TV" tvg-logo="http://www.infel.net.mk/media/images/tv_channels/cinestar.png" group-title="Movies",Cinestar TV - Cinestar TV
+http://maksitv.iptvposokuca.info:80/live?channelId=131&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="16" tvg-name="Cinestar Premiere" tvg-logo="http://mojtv.hr/thumb.ashx?path=/images/f4e06415-ff89-4b72-888c-8fc2406c3ea6.jpg&w=491&h=250" group-title="Movies",Cinestar Premiere - Cinestar Premiere
+http://dynds.iptvposokuca.info:80/live?channelId=16&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="17" tvg-name="Cinestar Premiere 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cinestar-Premiere-2-HD-HR_o.jpg" group-title="Movies",Cinestar Premiere 2 - Cinestar Premiere 2
+http://dynds.iptvposokuca.info:80/live?channelId=17&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="132" tvg-name="Cinestar TV Action" tvg-logo="http://tvprofil.net/img/kanali-logo/CineStar_TV_action_logo.png" group-title="Movies",Cinestar TV Action - Cinestar TV Action
+http://maksitv.iptvposokuca.info:80/live?channelId=132&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="212" tvg-name="Cinestar Fantasy (Test)" tvg-logo="https://sbb.rs/oec/images/tv_channels/b1496b6ff58fdc7d0b4cd6708c3ff89c.png" group-title="Movies",Cinestar Fantasy (Test) - Cinestar Fantasy (Test)
+http://tvmaksi.iptvposokuca.info:80/live?channelId=212&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="133" tvg-name="Cinemax" tvg-logo="http://www.colormake.com/wp-content/uploads/2014/03/Cinemax_LA_logo.png" group-title="Movies",Cinemax - Cinemax
+http://maksitv.iptvposokuca.info:80/live?channelId=133&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="38" tvg-name="Cinemax 2" tvg-logo="http://images1.wikia.nocookie.net/__cb20101219233124/logopedia/images/7/71/Cinemax_2.png" group-title="Movies",Cinemax 2 - Cinemax 2
+http://dynds.iptvposokuca.info:80/live?channelId=38&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="196" tvg-name="Fox" tvg-logo="https://www.google.ba/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRv8vmobLXAhVEVRQKHdcICCgQjRwIBw&url=https%3A%2F%2Fcignal.tv%2Fchannels&psig=AOvVaw2Sjf2kEbHanAPxgPdYqHK1&ust=1510343410229908" group-title="Movies",Fox - Fox
+http://tvmaksi.iptvposokuca.info:80/live?channelId=196&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="30" tvg-name="Fox Movies" tvg-logo="http://www.tvprime.pt/wp-content/uploads/2012/10/canal-fox-movies-logo.jpg" group-title="Movies",Fox Movies - Fox Movies
+http://tvmaksi.iptvposokuca.info:80/live?channelId=30&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="31" tvg-name="Fox Crime" tvg-logo="http://www.tvsa.co.za/images/uploads/thumbs/0049909.png" group-title="Movies",Fox Crime - Fox Crime
+http://tvmaksi.iptvposokuca.info:80/live?channelId=31&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="195" tvg-name="Fox Life" tvg-logo="https://www.google.ba/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi8_9vAobLXAhVBrhQKHSPvDCMQjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFox_Life_(Netherlands)&psig=AOvVaw0l0d0z7aPB6Wi0URoq1pNk&ust=1510343331189059" group-title="Movies",Fox Life - Fox Life
+http://tvmaksi.iptvposokuca.info:80/live?channelId=195&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="125" tvg-name="TV 1000" tvg-logo="http://tvprofil.net/img/kanali-logo/viasat-tv-1000.png" group-title="Movies",TV 1000 - TV 1000
+http://maksitv.iptvposokuca.info:80/live?channelId=125&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="159" tvg-name="AXN" tvg-logo="http://img1.wikia.nocookie.net/__cb20140520122506/logopedia/images/b/bb/AXN_2011.png" group-title="Movies",AXN - AXN
+http://maksitv.iptvposokuca.info:80/live?channelId=159&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="245" tvg-name="OYO Cinema" tvg-logo="/noicon.png" group-title="Movies",OYO Cinema - OYO Cinema
+http://tvmaksi.iptvposokuca.info:80/live?channelId=245&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="246" tvg-name="OYO Family" tvg-logo="/noicon.png" group-title="Movies",OYO Family - OYO Family
+http://tvmaksi.iptvposokuca.info:80/live?channelId=246&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="194" tvg-name="M1 Film" tvg-logo="https://www.google.ba/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwidk96cobLXAhUJ1RQKHWmMBt4QjRwIBw&url=http%3A%2F%2Ftvprofil.net%2Fkanali%2Fkanal%2Fm1-film&psig=AOvVaw2eoGLt_ol4x2UKUbYWTVtt&ust=1510343256417714" group-title="Movies",M1 Film - M1 Film
+http://maksitv.iptvposokuca.info:80/live?channelId=194&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="168" tvg-name="Klasik TV" tvg-logo="http://www.frosat.net/images/logotv/original/Klasik-TV.jpg" group-title="Movies",Klasik TV - Klasik TV
+http://dynds.iptvposokuca.info:80/live?channelId=168&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="235" tvg-name="*********        DJECIJI KANALI        *********" tvg-logo="/noicon.png" group-title="Children",*********        DJECIJI KANALI        ********* - *********        DJECIJI KANALI        *********
+http://dynds.iptvposokuca.info:80/live?channelId=235&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="26" tvg-name="Nickelodeon" tvg-logo="http://www.2015auditions.com/wp-content/uploads/2014/06/nickelodeon-auditions.jpg" group-title="Children",Nickelodeon - Nickelodeon
+http://dynds.iptvposokuca.info:80/live?channelId=26&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="123" tvg-name="RTL Kockica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/RTL_Kockica.jpg" group-title="Children",RTL Kockica - RTL Kockica
+http://maksitv.iptvposokuca.info:80/live?channelId=123&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="145" tvg-name="Minimax" tvg-logo="http://files.pinotv.pl/images/channel/01/36/84/logo_13684_5f1a6a.png" group-title="Children",Minimax - Minimax
+http://maksitv.iptvposokuca.info:80/live?channelId=145&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="163" tvg-name="Mini TV" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/e4/Mini_TV.jpg/revision/latest?cb=20110926093319" group-title="Children",Mini TV - Mini TV
+http://maksitv.iptvposokuca.info:80/live?channelId=163&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1 tvg-id="70" tvg-name="Pink Kids" tvg-logo="http://www.tvportal.rs/tvportal/kanali/pinkkids.jpg" group-title="Children",Pink Kids - Pink Kids
+http://dynds.iptvposokuca.info:80/live?channelId=70&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTINF:-1,EX-YU: Arena Sport 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/74
+#EXTINF:-1,EX-YU: Arena Sport 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/75
+#EXTINF:-1,EX-YU: Arena Sport 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/76
+#EXTINF:-1,EX-YU: Arena Sport 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/77
+#EXTINF:-1,EX-YU: Arena Sport 5
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/78
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/983
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/72
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/73
+#EXTINF:-1,EX-YU: Sport Klub 4
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/70
+#EXTINF:-1,EX-YU: Sport Klub 5
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/222
+#EXTINF:-1,EX-YU: Sport Klub 6
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/711
+#EXTINF:-1,HR: HRT 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/83
+#EXTINF:-1,HR:HRT 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/84
+#EXTINF:-1,HR: RTL Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/85
+#EXTINF:-1,HR: RTL 2 Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/237
+#EXTINF:-1,HR: RTL Crime Croatia
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/239
+#EXTINF:-1,EX-YU: Happy TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/240
+#EXTINF:-1,EX-YU: Al Jazeera Balkans
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/86
+#EXTINF:-1,EX-YU: RTS 1
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/87
+#EXTINF:-1,EX-YU: RTS 2
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/88
+#EXTINF:-1,EX-YU: RTS 3
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/186
+#EXTINF:-1,EX-YU: B92
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/94
+#EXTINF:-1,EX-YU: Pink
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/95
+#EXTINF:-1,EX-YU: Prva TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/89
+#EXTINF:-1,EX-YU: OBN
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/127
+#EXTINF:-1,TR:Hayat
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/124
+#EXTINF:-1,SLO: A KANAL
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/975
+#EXTINF:-1,SLO: NATIONAL GEOGRAPHIC
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/974
+#EXTINF:-1,SLO: PLANET TV
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/973
+#EXTINF:-1,SLO: POP KINO
+http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/972
+#EXTINF:-1,SLO: POP TV
 
