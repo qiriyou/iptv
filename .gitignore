@@ -1,2 +1,3 @@
-node_modules/
-error.log
+*.m3u
+.DS_Store
+*.pyc
