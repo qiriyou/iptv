@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]---  HRVATSKA  ---[/COLOR]
-skip
 
-#EXTINF:-1,INFO FILM MAX TV
-http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8
-
-#EXTINF:0,tvg-id="NB Comedy Channel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="NB Comedy Channel" tvg-logo="https://pbs.twimg.com/profile_images/848073611651022849/1iVBmJoe_400x400.jpg",NB Comedy Channel
-http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
 
 #EXTINF:-1 tvg-name="HRT 1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
