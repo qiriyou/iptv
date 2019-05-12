@@ -481,3 +481,307 @@ http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19198
 http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19197
 #EXTINF:-1,Sky Primafila 16 HD
 http://nettv-xcruiser.com:8000/PVP5lN7aAn/FW9k1CO3vH/19196
+#EXTM3U
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbbd1b2412.png",Fox HD
+https://1.ip2stream.icu/live/fox_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc1f48d409.png",Fox Comedy HD
+https://1.ip2stream.icu/live/fox_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc1a0bf37b.png",Fox Crime HD
+https://1.ip2stream.icu/live/fox_crime_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce3d78dac85.png",Fox Life HD HD
+https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc57502b8c.png",Paramount Channel HD
+https://1.ip2stream.icu/live/paramount_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc5a96e412.png",Premium Action HD
+https://1.ip2stream.icu/live/premium_action_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc5a1835dc5.png",Premium Cinema Comedy HD
+https://1.ip2stream.icu/live/premium_cinema_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc65647492.png",Premium Cinema Emotion HD
+https://1.ip2stream.icu/live/premium_cinema_emotion_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc6910aca2.png",Premium Cinema Energy HD
+https://1.ip2stream.icu/live/premium_cinema_energy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc94b1e56.png",Premium Cinema HD HD
+https://1.ip2stream.icu/live/premium_cinema_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc72b103c0.png",Premium Joi HD
+https://1.ip2stream.icu/live/premium_joi/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc8458430a.png",Premium Studio Universal HD
+https://1.ip2stream.icu/live/studio_universal/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a3bb421c3e.png",Rai Movie HD
+https://1.ip2stream.icu/live/rai_movie/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb3544da4.png",Sky Cinema +1 HD
+https://1.ip2stream.icu/live/sky_cinema_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb05aa97f.png",Sky Cinema 24 HD
+https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb92464a1.png",Sky Cinema Classic HD
+https://1.ip2stream.icu/live/sky_cinema_classic_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcba07a64b.png",Sky Cinema Comedy HD
+https://1.ip2stream.icu/live/sky_cinema_comedy_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb8523648.png",Sky Cinema Cult SD
+https://1.ip2stream.icu/live/sky_cinema_cult_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb56df8f8.png",Sky Cinema Family HD
+https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb481b201.png",Sky Cinema Hits HD
+https://1.ip2stream.icu/live/sky_cinema_hits_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcb6d46677.png",Sky Cinema Max HD
+https://1.ip2stream.icu/live/sky_cinema_max_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Cinema HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c025d5eb571e.png",Top Crime HD
+https://1.ip2stream.icu/live/top_crime_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcae394bf4cd.png",Eurosport 1 HD
+https://1.ip2stream.icu/live/eurosport_1_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc82eab64ee.png",Eurosport 2 HD
+https://1.ip2stream.icu/live/eurosport_2_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd79ddce4.png",Sky Sport Arena HD
+https://1.ip2stream.icu/live/sky_sport_arena_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcc13569f3.png",Sky Sport 24 SD
+https://1.ip2stream.icu/live/sky_sport_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbccaf398cd.png",Sky Sport Football HD
+https://1.ip2stream.icu/live/sky_sport_football_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcbd5628b8.png",Sky Sport F1 HD
+https://1.ip2stream.icu/live/sky_sport_f1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd5ebdf79.png",Sky Sport Serie A HD
+https://1.ip2stream.icu/live/skspseriea/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbccc1aadcd.png",Sky Sport MotoGP HD
+https://1.ip2stream.icu/live/sky_sport_motogp_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd454f9c4.png",Sky Sport NBA HD
+https://1.ip2stream.icu/live/sky_sport_nba_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcd52a7367.png",Sky Sport Uno HD
+https://1.ip2stream.icu/live/sky_sport_uno_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb1c294a87.png",Sky Calcio 1 HD
+https://1.ip2stream.icu/live/skcl1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb1a07027f.png",Sky Calcio 2 HD
+https://1.ip2stream.icu/live/skycl2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2140b5ce.png",Sky Calcio 3 HD
+https://1.ip2stream.icu/live/skcl3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb245170ff.png",Sky Calcio 4 HD
+https://1.ip2stream.icu/live/skcl4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2a8c9bf9.png",Sky Calcio 5 HD
+https://1.ip2stream.icu/live/skcl5/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb2e988e86.png",Sky Calcio 6 HD
+https://1.ip2stream.icu/live/skcl6/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccb339b41a3.png",Sky Calcio 7 HD
+https://1.ip2stream.icu/live/skcl7/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbea7b8ddc.png",SuperTennis HD
+https://1.ip2stream.icu/live/supertennis/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1c43031f7.png",DAZN Sport 1 HD
+https://1.ip2stream.icu/live/dazn_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ccb50820.png",DAZN Sport 2 HD
+https://1.ip2stream.icu/live/dazn_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1d8b8c217.png",DAZN Sport 3 HD
+https://1.ip2stream.icu/live/dazn_3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1dbcdfdac.png",DAZN Sport 4 HD
+https://1.ip2stream.icu/live/dazn_4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ea710c70.png",DAZN Sport 5 HD
+https://1.ip2stream.icu/live/dazn_5/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1eb6e344d.png",DAZN Sport 7 HD
+https://1.ip2stream.icu/live/dazn_7/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ebd887d7.png",DAZN Sport 8 HD
+https://1.ip2stream.icu/live/dazn_8/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bce1ec4c13e7.png",DAZN Sport 9 HD
+https://1.ip2stream.icu/live/dazn_9/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbf208967a.png",Bike Channel HD
+https://1.ip2stream.icu/live/bike_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bccaeb032e8f.png",Rai Sport HD
+https://1.ip2stream.icu/live/rai_sport_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc2f5a13c6.png",Inter Channel HD
+https://1.ip2stream.icu/live/inter_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc410b847a.png",Lazio Style Channel HD
+https://1.ip2stream.icu/live/lazio_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc48f099cd.png",Milan Channel HD
+https://1.ip2stream.icu/live/milan_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd219de1c8f6.png",Animal Planet HD
+https://1.ip2stream.icu/live/animal_planet_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5b265a0f0aa3b.png",Discovery Channel HD
+https://1.ip2stream.icu/live/discovery_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc095e7838.png",Discovery Science HD
+https://1.ip2stream.icu/live/discovery_science_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc170bf09b.png",Focus HD
+https://1.ip2stream.icu/live/focus_mediaset_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc2b1cd38c.png",History HD
+https://1.ip2stream.icu/live/history_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a428966fc4.png",Marcopolo SD
+https://1.ip2stream.icu/live/marcopolo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc47da09f.png",Nat Geo People HD
+https://1.ip2stream.icu/live/natgeo_people_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc67a0cb3.png",Nat Geo Wild HD
+https://1.ip2stream.icu/live/natgeo_wild_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5b265a31dd767.png",National Geographic HD
+https://1.ip2stream.icu/live/national_geographic_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc7bc758ce.png",Premium Discovery Investigation HD
+https://1.ip2stream.icu/live/crime_investigation_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentari HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd0ccf564954.png",Rai Storia HD
+https://1.ip2stream.icu/live/rai_storia_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbb65341e7.png",20 Mediaset HD
+https://1.ip2stream.icu/live/20_mediaset_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbec59092d.png",Alice HD
+https://1.ip2stream.icu/live/alice_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcdf24d728.png",Auto Moto TV HD
+https://1.ip2stream.icu/live/auto_moto_tv_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbb826f372.png",Caccia e Pesca HD
+https://1.ip2stream.icu/live/caccia_e_pesca_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbf8cf135e.png",Canale 5 HD
+https://1.ip2stream.icu/live/canale_5_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0319fe5e.png",Cielo HD
+https://1.ip2stream.icu/live/cielo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc9d7a4c28.png",Discovery Travel e Living HD
+https://1.ip2stream.icu/live/travel_and_living_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bd0bfddb83ae.png",Fox Animation HD
+https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc27f2163f.png",Gambero Rosso HD
+https://1.ip2stream.icu/live/gambero_rosso_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc290e476b.png",Giallo HD
+https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a3cecd4b6c.png",Iris SD
+https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbc095338d.png",Italia 1 HD
+https://1.ip2stream.icu/live/italia_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc3b433be4.png",La7 HD
+https://1.ip2stream.icu/live/la_7_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a426478c09.png",Mediaset Extra HD
+https://1.ip2stream.icu/live/mediaset_extra_hd_enc/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc468dabf4.png",Mediaset Italia 2 HD
+https://1.ip2stream.icu/live/mediaset_italia_2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc7d59c651.png",Premium Stories HD
+https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc85d716d7.png",Real Time HD
+https://1.ip2stream.icu/live/real_time_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbe231854a.png",Rete 4 HD
+https://1.ip2stream.icu/live/rete_4_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc59d49e75b.png",RSI La 1 HD
+https://1.ip2stream.icu/live/rsi_la_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcc59df9f24a.png",RSI La 2 HD
+https://1.ip2stream.icu/live/rsi_la_2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc88105a91.png",Sky Arte HD
+https://1.ip2stream.icu/live/sky_arte_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Intratenimento HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbbe90e41df.png",Sky Uno HD
+https://1.ip2stream.icu/live/sky_uno_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbce59e5ba6.png",Cartoonito HD
+https://1.ip2stream.icu/live/cartoonito_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c0255bfe88bd.png",Dea Junior HD
+https://1.ip2stream.icu/live/dea_junior_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0bb49878.png",Disney Channel HD
+https://1.ip2stream.icu/live/disney_channel_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc0e0e87e1.png",Disney Junior HD
+https://1.ip2stream.icu/live/disney_junior_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5c025a4d1de2a.png",Disney XD HD
+https://1.ip2stream.icu/live/disney_xd_hd/playlist.m3u8l
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc257d3deb.png",Frisbee HD
+https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbc346a4711.png",K2 HD
+https://1.ip2stream.icu/live/k2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a128d982a7b0.png",Rai Gulp HD
+https://1.ip2stream.icu/live/rai_gulp_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5a12c49036770.png",Rai YoYo HD
+https://1.ip2stream.icu/live/rai_yoyo_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini HD" tvg-logo="https://skystreaming.io/files/Channels/image/5bcbcf153f6e3.png",Super! HD
+https://1.ip2stream.icu/live/super_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://skystreaming.io/files/Channels/image/5c026b76368e6.png",M2O TV HD
+https://1.ip2stream.icu/live/m2o_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://skystreaming.io/files/Channels/image/5c026843161b5.png",Radio Italia HD
+https://1.ip2stream.icu/live/radio_italia_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a49080225025.png",Rai News 24 HD
+https://1.ip2stream.icu/live/rai_news_24_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a490ab5f09b8.png",Sky TG24 HD
+https://1.ip2stream.icu/live/sky_tg_24/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://skystreaming.io/files/Channels/image/5a9a4111a4635.png",TGcom24 HD
+https://1.ip2stream.icu/live/tg_com_24_hd/playlist.m3u8
+
