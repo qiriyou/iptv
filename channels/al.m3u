@@ -289,382 +289,928 @@ http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
 
 #EXTINF:0 group-title="ALB IPTV2" *** TV SHQIP TEST 2 ***
 
-#EXTINF:-1,AL:RTK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1
-#EXTINF:-1,AL:RTK HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/784
-#EXTINF:-1,AL:RTV 21
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/2
-#EXTINF:-1,AL:KTV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/3
-#EXTINF:-1,AL:KTV HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/826
-#EXTINF:-1,AL: TV Dukagjini
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/100
-#EXTINF:-1,AL:T 7
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/578
-#EXTINF:-1,AL:Klan Kosova
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/6
-#EXTINF:-1,AL:Klan Kosova HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/827
-#EXTINF:-1,AL:Top Channel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/5
-#EXTINF:-1,AL:Top Channel SD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/147
-#EXTINF:-1,AL:Klan
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/7
-#EXTINF:-1,AL:Klan SD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/148
-#EXTINF:-1,AL:Top News
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/37
-#EXTINF:-1,AL:RTK 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/180
-#EXTINF:-1,AL:RTK 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/181
-#EXTINF:-1,AL:RTK 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/182
-#EXTINF:-1,AL:TVSH
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/4
-#EXTINF:-1,AL:RTSH HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/474
-#EXTINF:-1,AL:RTSH Sport HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/476
-#EXTINF:-1,AL:Vision+
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/8
-#EXTINF:-1,AL:Alsat-M
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/34
-#EXTINF:-1,AL:RTV21 M
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/209
-#EXTINF:-1,AL:Klan Plus
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/234
-#EXTINF:-1,AL:Film Hits
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/47
-#EXTINF:-1,AL:Film Aksion
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/45
-#EXTINF:-1,AL:Film Thriller
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/48
-#EXTINF:-1,AL:Film Autor
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/43
-#EXTINF:-1,AL:Film Comedy
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/46
-#EXTINF:-1,AL:Film Drame
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/44
-#EXTINF:-1,AL:Film Nje
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/49
-#EXTINF:-1,AL:Film Dy
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/50
-#EXTINF:-1,AL:EuroFilm
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/67
-#EXTINF:-1,AL:Digi Gold 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/374
-#EXTINF:-1,AL:Digi Gold 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/375
-#EXTINF:-1,AL:Digi Gold 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/376
-#EXTINF:-1,AL:Digi Gold 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/377
-#EXTINF:-1,AL:KS GOLD 1 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/379
-#EXTINF:-1,AL:KS GOLD 2 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/380
-#EXTINF:-1,AL:KS GOLD 3 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/642
-#EXTINF:-1,AL:KS GOLD 4 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/381
-#EXTINF:-1,AL: ShqipTv Aksion
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/903
-#EXTINF:-1,AL: ShqipTV Cinema
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/901
-#EXTINF:-1,AL: ShqipTV Film HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/904
-#EXTINF:-1,AL: ShqipTv Horror HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/900
-#EXTINF:-1,AL:ShqipTv Fantasy HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/902
-#EXTINF:-1,AL:Explorer History
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/51
-#EXTINF:-1,AL:Explorer Natyra
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/53
-#EXTINF:-1,AL:Explorer Shkence
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/52
-#EXTINF:-1,AL:Family HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/905
-#EXTINF:-1,AL:Alb Action
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/373
-#EXTINF:-1,AL: Kujtesa Sport 1 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/883
-#EXTINF:-1,AL: Kujtesa Sport 2 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/884
-#EXTINF:-1,AL: Kujtesa Sport 3 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/885
-#EXTINF:-1,AL: Kujtesa Sport 4 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/886
-#EXTINF:-1,AL:SS 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/63
-#EXTINF:-1,AL:SS 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/64
-#EXTINF:-1,AL:SS 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/65
-#EXTINF:-1,AL:SS 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/66
-#EXTINF:-1,AL:SS 5 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/360
-#EXTINF:-1,AL:SS 6 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/361
-#EXTINF:-1,AL:SS Kosova 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/345
-#EXTINF:-1,AL:SS Kosova 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/346
-#EXTINF:-1,AL:Tring Max
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/10
-#EXTINF:-1,AL:Tring Super
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/11
-#EXTINF:-1,AL:Tring Life
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/12
-#EXTINF:-1,AL:Tring Comedy
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/13
-#EXTINF:-1,AL:Tring Shqip
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/14
-#EXTINF:-1,AL:Tring Fantasy
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/15
-#EXTINF:-1,AL:Jolly HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/69
-#EXTINF:-1,AL:Tring History
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/24
-#EXTINF:-1,AL:Tring World
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/26
-#EXTINF:-1,AL:Tring Planet
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/25
-#EXTINF:-1,AL:3tring
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/16
-#EXTINF:-1,AL:Tring Tring
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/18
-#EXTINF:-1,AL:Tip TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/19
-#EXTINF:-1,AL:Tring Sport News
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/28
-#EXTINF:-1,AL:Tring Sport 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/96
-#EXTINF:-1,AL:Tring Sport 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/97
-#EXTINF:-1,AL:Tring Sport 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/98
-#EXTINF:-1,AL:Tring Sport 4
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/99
-#EXTINF:-1,AL:Sky AL 7
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/698
-#EXTINF:-1,AL:Sky Shkence AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/324
-#EXTINF:-1,AL:Sky Planet AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/325
-#EXTINF:-1,AL:Sky Histori AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/326
-#EXTINF:-1,AL:Sky Novela
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/327
-#EXTINF:-1,AL:Sky Aksion AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/328
-#EXTINF:-1,AL:Sky Max AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/329
-#EXTINF:-1,AL:Sky Drame AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/332
-#EXTINF:-1,AL:Sky Komedi AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/330
-#EXTINF:-1,AL:Sky Krimi
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/333
-#EXTINF:-1,AL:SKY HISTORI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/731
-#EXTINF:-1,AL:Fox Crime
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/29
-#EXTINF:-1,AL:FOX
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/160
-#EXTINF:-1,AL:Fox Life
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/30
-#EXTINF:-1,AL:ShqipTv  Stupcat HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/391
-#EXTINF:-1,AL:Stupcat Egjelli 24/7
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/392
-#EXTINF:-1,AL:ShqipTv Humor HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/395
-#EXTINF:-1,AL:Alb Humor 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/371
-#EXTINF:-1,AL:ShqipTv Komedi HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/394
-#EXTINF:-1,AL:Kafeneja Jone 24/7
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/393
-#EXTINF:-1,AL:Stinet
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/166
-#EXTINF:-1,AL:T
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/40
-#EXTINF:-1,AL:3Plus HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/54
-#EXTINF:-1,AL:Big Brother 1
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/245
-#EXTINF:-1,AL:Big Brother 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/246
-#EXTINF:-1,Junior =HEVC
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/984
-#EXTINF:-1,AL:Junior TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/235
-#EXTINF:-1,AL:Bang Bang
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/41
-#EXTINF:-1,AL:Cufo
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/42
-#EXTINF:-1,AL:Baby Tv
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/519
-#EXTINF:-1,AL:Duck TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/518
-#EXTINF:-1,AL:KIDS
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/517
-#EXTINF:-1,AL:Masha dhe Ariu
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/520
-#EXTINF:-1,AL:TV Kopliku HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/397
-#EXTINF:-1,AL:Kitchen24 shqip
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/522
-#EXTINF:-1,AL:RTV21Mix
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/188
-#EXTINF:-1,AL:TV 21 Junior
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/633
-#EXTINF:-1,AL:RTV21 Popullore
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/22
-#EXTINF:-1,AL:RTV21Plus
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/81
-#EXTINF:-1,AL:Star TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/334
-#EXTINF:-1,AL:Televizioni R
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/185
-#EXTINF:-1,AL:TV Llapi
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/538
-#EXTINF:-1,AL:Folk+
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/27
-#EXTINF:-1,AL:ELRODI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/23
-#EXTINF:-1,AL:ON TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/56
-#EXTINF:-1,AL:Balkanika AL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/336
-#EXTINF:-1,AL:Smile
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/17
-#EXTINF:-1,AL:Living
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/21
-#EXTINF:-1,AL:Luxe TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/36
-#EXTINF:-1,AL:Muse
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/61
-#EXTINF:-1,AL:Kanal 7
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/31
-#EXTINF:-1,AL:Click TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/38
-#EXTINF:-1,Al Jazeera International
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/911
-#EXTINF:-1,AL:BBF
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/60
-#EXTINF:-1,AL:My Music
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/219
-#EXTINF:-1,AL:Dasma
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/91
-#EXTINF:-1,AL:Islam Channel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/58
-#EXTINF:-1,AL:KS Ilahi Nasheed Channel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/398
-#EXTINF:-1,AL:Peace TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/82
-#EXTINF:-1,AL:TV Zico
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/210
-#EXTINF:-1,AL:Shenja TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/55
-#EXTINF:-1,AL:ALB QIFTELI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/525
-#EXTINF:-1,AL:Alb Western
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/576
-#EXTINF:-1,AL:TOP Hite 2016/17
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/515
-#EXTINF:-1,AL:Zana Food HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/521
-#EXTINF:-1,AL:Zjarr TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/523
-#EXTINF:-1,AL:TV Opoja
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/212
-#EXTINF:-1,AL:TV Diaspora
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/218
-#EXTINF:-1,AL:ABC News
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/39
-#EXTINF:-1,AL:News 24
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/950
-#EXTINF:-1,AL:OraNews
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/241
-#EXTINF:-1,AL:Arta TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/33
-#EXTINF:-1,AL:RTV ALDI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/62
-#EXTINF:-1,AL:RTV Bujanoci
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/93
-#EXTINF:-1,AL:RTV Presheva
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/92
-#EXTINF:-1,AL: ISTOGU CHANNEL
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1003
-#EXTINF:-1,AL:ZERI TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1004
-#EXTINF:-1,AL:TV Besa
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/102
-#EXTINF:-1,AL:TV koha
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/90
-#EXTINF:-1,AL:FirstChannel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/163
-#EXTINF:-1,AL:TV Mitrovica
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/101
-#EXTINF:-1,AL:MRT 2
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/35
-#EXTINF:-1,AL:RTSH 24 HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/909
-#EXTINF:-1,AL:RTSH 3
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/910
-#EXTINF:-1,AL:RTSH Muzike
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/908
-#EXTINF:-1,AL:RTSH Plus
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/906
-#EXTINF:-1,AL:RTSH Shqip
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/907
-#EXTINF:-1,AL:Rrokum TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/32
-#EXTINF:-1,AL: RTV Fontana
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/1001
-#EXTINF:-1,AL:TV Liria
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/164
-#EXTINF:-1,AL:TribunaChannel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/236
-#EXTINF:-1,AL:Drita TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/575
-#EXTINF:-1,AL:A-Mol
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/260
-#EXTINF:-1,AL:MTV Kosova
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/262
-#EXTINF:-1,AL:Turbo Channel
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/261
-#EXTINF:-1,AL:RTV Zik
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/867
-#EXTINF:-1,AL:ALB HITS
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/734
-#EXTINF:-1,AL:ALB HINDI
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/733
-#EXTINF:-1,AL:ALBSWISS MUSIC
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/728
-#EXTINF:-1,AL:FILMA 24
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/732
-#EXTINF:-1,AL:FOLK
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/723
-#EXTINF:-1,AL:FOLK MUSIC
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/726
-#EXTINF:-1,AL:HITS HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/725
-#EXTINF:-1,AL: Medina TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/715
-#EXTINF:-1,AL:Mekke TV
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/714
-#EXTINF:-1,AL:RTV ISLAM
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/716
-#EXTINF:-1,AL:SYRI BLUE HD
-http://cmskos.bekaks.net:777/RamushKurti/pQWJnuCgDK/724
+#EXTINF:-1,VIP ALB: Alsat M FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56565
+#EXTINF:-1,VIP ALB: Apollon News FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56564
+#EXTINF:-1,VIP ALB: Channel One FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56563
+#EXTINF:-1,VIP ALB: Discovery Science FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56562
+#EXTINF:-1,VIP ALB: EuroSport 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56561
+#EXTINF:-1,VIP ALB: EuroSport 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56560
+#EXTINF:-1,VIP ALB: Family FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56559
+#EXTINF:-1,VIP ALB: Film Dy FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56558
+#EXTINF:-1,VIP ALB: Film Nje FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56557
+#EXTINF:-1,VIP ALB: Jolly FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56556
+#EXTINF:-1,VIP ALB: Klan FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56555
+#EXTINF:-1,VIP ALB: Klan Kosova FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56554
+#EXTINF:-1,VIP ALB: Klan Plus FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56553
+#EXTINF:-1,VIP ALB: KTV FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56552
+#EXTINF:-1,VIP ALB: Living FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56551
+#EXTINF:-1,VIP ALB: MRTV 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56550
+#EXTINF:-1,VIP ALB: Rrokum FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56549
+#EXTINF:-1,VIP ALB: RTK 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56548
+#EXTINF:-1,VIP ALB: RTSH 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56547
+#EXTINF:-1,VIP ALB: RTV 21 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56546
+#EXTINF:-1,VIP ALB: RTV 21 Mix FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56545
+#EXTINF:-1,VIP ALB: RTV 21 MK FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56544
+#EXTINF:-1,VIP ALB: RTV 21 NewsBiz FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56543
+#EXTINF:-1,VIP ALB: RTV 21 Plus FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56542
+#EXTINF:-1,VIP ALB: RTV 21 Popullore FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56541
+#EXTINF:-1,VIP ALB: Star Plus FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56540
+#EXTINF:-1,VIP ALB: Super Sport 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56539
+#EXTINF:-1,VIP ALB: Super Sport 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56538
+#EXTINF:-1,VIP ALB: Super Sport 3 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56537
+#EXTINF:-1,VIP ALB: Super Sport 4 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56536
+#EXTINF:-1,VIP ALB: Super Sport 5 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56535
+#EXTINF:-1,VIP ALB: Super Sport 6 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56534
+#EXTINF:-1,VIP ALB: Super Sport 7 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56533
+#EXTINF:-1,VIP ALB: Super Sport Kosova 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56532
+#EXTINF:-1,VIP ALB: Super Sport Kosova 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56531
+#EXTINF:-1,VIP ALB: Super Sport Kosova 3 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56530
+#EXTINF:-1,VIP ALB: T FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56529
+#EXTINF:-1,VIP ALB: Top Channel FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56528
+#EXTINF:-1,VIP ALB: Tring Sport 1 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56527
+#EXTINF:-1,VIP ALB: Tring Sport 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56526
+#EXTINF:-1,VIP ALB: Tring Sport 3 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56525
+#EXTINF:-1,VIP ALB: Tring Sport 4 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56524
+#EXTINF:-1,VIP ALB: Tring Super FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56523
+#EXTINF:-1,VIP ALB: TV Dukagjini FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56522
+#EXTINF:-1,VIP ALB: Vizion Plus FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56521
+#EXTINF:-1,VIP ALB: X Action HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56520
+#EXTINF:-1,VIP ALB: X Cifteli HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56519
+#EXTINF:-1,VIP ALB: X Comedy HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56518
+#EXTINF:-1,VIP ALB: X Dark HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56517
+#EXTINF:-1,VIP ALB: X Drama HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56516
+#EXTINF:-1,VIP ALB: X Family HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56515
+#EXTINF:-1,VIP ALB: X Histori HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56514
+#EXTINF:-1,VIP ALB: X Humor HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56513
+#EXTINF:-1,VIP ALB: X Music Hits HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56512
+#EXTINF:-1,VIP ALB: X Natyra HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56511
+#EXTINF:-1,VIP ALB: X Popullore HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56510
+#EXTINF:-1,VIP ALB: X Premium 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56509
+#EXTINF:-1,VIP ALB: X Premium 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56508
+#EXTINF:-1,VIP ALB: X Premium 3 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56507
+#EXTINF:-1,VIP ALB: X Premium 4 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56506
+#EXTINF:-1,VIP ALB: X Romance HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56505
+#EXTINF:-1,VIP ALB: X Sci-Fi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56504
+#EXTINF:-1,VIP ALB: X Shkenca HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56503
+#EXTINF:-1,VIP ALB: X Thriller HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56502
+#EXTINF:-1,VIP ALB: X Western HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56501
+#EXTINF:-1,ALB VIP: Kino Family HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57036
+#EXTINF:-1,ALB VIP: Kino Romanc
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57035
+#EXTINF:-1,ALB VIP: Kino Scifi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57034
+#EXTINF:-1,ALB:  Top News
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57119
+#EXTINF:-1,ALB: 24 Kitchen
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57278
+#EXTINF:-1,ALB: 3  HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57016
+#EXTINF:-1,ALB: 3 Plus
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57021
+#EXTINF:-1,ALB: A1 Islam
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57306
+#EXTINF:-1,ALB: A1 SHQIPTARE
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57120
+#EXTINF:-1,ALB: A1 World
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57305
+#EXTINF:-1,ALB: ABC News
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57014
+#EXTINF:-1,ALB: Action
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57072
+#EXTINF:-1,ALB: Alb Action
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57277
+#EXTINF:-1,ALB: ALB ANIME
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57121
+#EXTINF:-1,ALB: Alb Film
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57276
+#EXTINF:-1,ALB: Alb Folk HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57275
+#EXTINF:-1,ALB: ALB Hindi
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57073
+#EXTINF:-1,ALB: ALB HITS HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57024
+#EXTINF:-1,ALB: Alb Humor 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57274
+#EXTINF:-1,ALB: Alb Music HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57202
+#EXTINF:-1,ALB: Alb Thriller
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57273
+#EXTINF:-1,ALB: ALB UK
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57122
+#EXTINF:-1,ALB: ALB UK HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57123
+#EXTINF:-1,ALB: Aljazaera Balkan
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56986
+#EXTINF:-1,ALB: AMOL TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57272
+#EXTINF:-1,ALB: Anime
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57074
+#EXTINF:-1,ALB: Arena Sport  1 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57011
+#EXTINF:-1,ALB: Arena Sport  2 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57008
+#EXTINF:-1,ALB: Arena Sport  2 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57009
+#EXTINF:-1,ALB: Arena Sport  3 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57006
+#EXTINF:-1,ALB: Arena Sport  3 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57007
+#EXTINF:-1,ALB: Arena Sport  4 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57004
+#EXTINF:-1,ALB: Arena Sport  4 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57005
+#EXTINF:-1,ALB: Arena Sport  5 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57003
+#EXTINF:-1,ALB: Arena Sport  6 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57001
+#EXTINF:-1,ALB: Arena Sport 1 FHD Croatia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57070
+#EXTINF:-1,ALB: Arena Sport 1 HD Serbian
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57065
+#EXTINF:-1,ALB: Arena Sport 1 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57010
+#EXTINF:-1,ALB: Arena Sport 1 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57060
+#EXTINF:-1,ALB: Arena Sport 1 Sr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57000
+#EXTINF:-1,ALB: Arena Sport 2 HD Croatia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57069
+#EXTINF:-1,ALB: Arena Sport 2 HD Serbian
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57064
+#EXTINF:-1,ALB: Arena Sport 2 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57059
+#EXTINF:-1,ALB: Arena Sport 2 Sr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56999
+#EXTINF:-1,ALB: Arena Sport 3 FHD Serbian
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57063
+#EXTINF:-1,ALB: Arena Sport 3 HD Croatia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57068
+#EXTINF:-1,ALB: Arena Sport 3 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57058
+#EXTINF:-1,ALB: Arena Sport 3 Sr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56998
+#EXTINF:-1,ALB: Arena Sport 4 HD Croatia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57067
+#EXTINF:-1,ALB: Arena Sport 4 HD Serbian
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57062
+#EXTINF:-1,ALB: Arena Sport 4 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57057
+#EXTINF:-1,ALB: Arena Sport 4 Sr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56997
+#EXTINF:-1,ALB: Arena Sport 5 FHD Croatia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57066
+#EXTINF:-1,ALB: Arena Sport 5 HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57002
+#EXTINF:-1,ALB: Arena Sport 5 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57056
+#EXTINF:-1,ALB: Arena Sport 5 Serbian
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57061
+#EXTINF:-1,ALB: Arena Sport 5 Sr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56996
+#EXTINF:-1,ALB: Arena Sport 6 HR HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57055
+#EXTINF:-1,ALB: ARTA NEWS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57271
+#EXTINF:-1,ALB: AS Sabac
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57304
+#EXTINF:-1,ALB: AV TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57270
+#EXTINF:-1,ALB: AXN Spin
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57303
+#EXTINF:-1,ALB: B92 Info
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57289
+#EXTINF:-1,ALB: Baby Tv
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57269
+#EXTINF:-1,ALB: Bambino
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57302
+#EXTINF:-1,ALB: Bang Bang
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57268
+#EXTINF:-1,ALB: BB11 Muzik
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57075
+#EXTINF:-1,ALB: BBC Earth HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57033
+#EXTINF:-1,ALB: BBF
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57015
+#EXTINF:-1,ALB: BHT 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56940
+#EXTINF:-1,ALB: Burimi TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57076
+#EXTINF:-1,ALB: Camel TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57077
+#EXTINF:-1,ALB: Channel 7
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57267
+#EXTINF:-1,ALB: Channel ONE
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57266
+#EXTINF:-1,ALB: Cinemax 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56988
+#EXTINF:-1,ALB: Cinemax 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56987
+#EXTINF:-1,ALB: Cinestar ACTION
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56990
+#EXTINF:-1,ALB: Cinestar Fantasy HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56989
+#EXTINF:-1,ALB: Cinestar Premiere 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56992
+#EXTINF:-1,ALB: Cinestar Premiere 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56991
+#EXTINF:-1,ALB: City TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57265
+#EXTINF:-1,ALB: Classic
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57078
+#EXTINF:-1,ALB: Click TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57264
+#EXTINF:-1,ALB: Club TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57263
+#EXTINF:-1,ALB: Cufo
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57124
+#EXTINF:-1,ALB: CUFO TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57027
+#EXTINF:-1,ALB: Dasma TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57262
+#EXTINF:-1,ALB: Diaspora
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57261
+#EXTINF:-1,ALB: DIGI GOLD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57079
+#EXTINF:-1,ALB: Digi Gold 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57260
+#EXTINF:-1,ALB: Digi Gold 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57206
+#EXTINF:-1,ALB: Digi Gold 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57205
+#EXTINF:-1,ALB: Digi Gold 4
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57204
+#EXTINF:-1,ALB: Digi Gold 5
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57259
+#EXTINF:-1,ALB: Disney Channel HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57022
+#EXTINF:-1,ALB: DOCUBOX HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57032
+#EXTINF:-1,ALB: Doma TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56930
+#EXTINF:-1,ALB: Drita Tv (test)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57258
+#EXTINF:-1,ALB: Dukagjini TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57257
+#EXTINF:-1,ALB: E!
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57023
+#EXTINF:-1,ALB: Elrodi TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57256
+#EXTINF:-1,ALB: ERA TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57184
+#EXTINF:-1,ALB: Eurosport 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57049
+#EXTINF:-1,ALB: Eurosport 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57048
+#EXTINF:-1,ALB: EXP HISTORI
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57080
+#EXTINF:-1,ALB: Explorer Histori
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57125
+#EXTINF:-1,ALB: Explorer Natyra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57126
+#EXTINF:-1,ALB: Explorer Shkenc
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57127
+#EXTINF:-1,ALB: FACE TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56939
+#EXTINF:-1,ALB: Face Tv HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56938
+#EXTINF:-1,ALB: FIGHT CHANNEL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56985
+#EXTINF:-1,ALB: Film Aksion HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57128
+#EXTINF:-1,ALB: Film Autor HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57129
+#EXTINF:-1,ALB: FILM DRAME
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57081
+#EXTINF:-1,ALB: FILM DY
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57082
+#EXTINF:-1,ALB: FILM GOLD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57083
+#EXTINF:-1,ALB: Film Hits HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57130
+#EXTINF:-1,ALB: Film Komedi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57131
+#EXTINF:-1,ALB: Film Nje HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57132
+#EXTINF:-1,ALB: Film Stinet
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57255
+#EXTINF:-1,ALB: FILM THRILLER
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57084
+#EXTINF:-1,ALB: FilmBox Extra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56995
+#EXTINF:-1,ALB: FilmBox Plus
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56994
+#EXTINF:-1,ALB: Fine Living
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57031
+#EXTINF:-1,ALB: First TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57133
+#EXTINF:-1,ALB: Folk
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57201
+#EXTINF:-1,ALB: Folk Plus
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57254
+#EXTINF:-1,ALB: Folklorit
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57253
+#EXTINF:-1,ALB: Food Network
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57030
+#EXTINF:-1,ALB: FOX
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57252
+#EXTINF:-1,ALB: Fox Life
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56934
+#EXTINF:-1,ALB: Fox Movies HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57308
+#EXTINF:-1,ALB: Gezuar me Luginen
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57251
+#EXTINF:-1,ALB: GlobiTV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57250
+#EXTINF:-1,ALB: GRAND 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57301
+#EXTINF:-1,ALB: Hayat BIH HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56941
+#EXTINF:-1,ALB: HAYAT PLUS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56937
+#EXTINF:-1,ALB: Hayatovci
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57309
+#EXTINF:-1,ALB: HBO Adria
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56993
+#EXTINF:-1,ALB: Hindi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57249
+#EXTINF:-1,ALB: HRT 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57325
+#EXTINF:-1,ALB: HRT 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57324
+#EXTINF:-1,ALB: HRT 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57323
+#EXTINF:-1,ALB: HRT 4
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57322
+#EXTINF:-1,ALB: Humor 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57085
+#EXTINF:-1,ALB: Humor 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57086
+#EXTINF:-1,ALB: JOLLY HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57087
+#EXTINF:-1,ALB: JUG TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57134
+#EXTINF:-1,ALB: Junior TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57135
+#EXTINF:-1,ALB: Kanali 7 News
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57248
+#EXTINF:-1,ALB: KCN 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57020
+#EXTINF:-1,ALB: KCN 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57019
+#EXTINF:-1,ALB: KCN 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57018
+#EXTINF:-1,ALB: Kino Action
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57136
+#EXTINF:-1,ALB: Kino Comedy HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57137
+#EXTINF:-1,ALB: Kino Dark HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57138
+#EXTINF:-1,ALB: Kino Family HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57139
+#EXTINF:-1,ALB: Kino Premiere 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57140
+#EXTINF:-1,ALB: Kino Premiere 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57141
+#EXTINF:-1,ALB: Kino Premiere 3 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57142
+#EXTINF:-1,ALB: Kino ROMANCE HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57143
+#EXTINF:-1,ALB: Kino Scifi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57144
+#EXTINF:-1,ALB: Kino Thriller HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57145
+#EXTINF:-1,ALB: KLAN HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57146
+#EXTINF:-1,ALB: KLAN Kosova HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57147
+#EXTINF:-1,ALB: Klan Kosova Toksor
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57148
+#EXTINF:-1,ALB: KLAN Plus
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57149
+#EXTINF:-1,ALB: Klasik TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57310
+#EXTINF:-1,ALB: KS SERIAL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57288
+#EXTINF:-1,ALB: KS SHQIP
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57287
+#EXTINF:-1,ALB: KSPORT ISLAM TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57247
+#EXTINF:-1,ALB: KTV HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57088
+#EXTINF:-1,ALB: Lexo TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57246
+#EXTINF:-1,ALB: Living HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57150
+#EXTINF:-1,ALB: Lov i Ribolov
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57307
+#EXTINF:-1,ALB: LUGINA ISLAM HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57245
+#EXTINF:-1,ALB: Lugina Serial HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57244
+#EXTINF:-1,ALB: Luxe TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57286
+#EXTINF:-1,ALB: Medina TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57243
+#EXTINF:-1,ALB: MFM Music
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57242
+#EXTINF:-1,ALB: Mini Ulta Tv
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57311
+#EXTINF:-1,ALB: MRTV 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57183
+#EXTINF:-1,ALB: MTV Adria
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56947
+#EXTINF:-1,ALB: MTV Kosova
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57241
+#EXTINF:-1,ALB: MTV XMAS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57029
+#EXTINF:-1,ALB: Muse
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57026
+#EXTINF:-1,ALB: Music AL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57200
+#EXTINF:-1,ALB: My Music
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57240
+#EXTINF:-1,ALB: N1 Bosna
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57312
+#EXTINF:-1,ALB: Nat Geographic
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57089
+#EXTINF:-1,ALB: NATIONAL GEOGRAPHIC
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57151
+#EXTINF:-1,ALB: National Geographic(1)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57090
+#EXTINF:-1,ALB: News 24
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57017
+#EXTINF:-1,ALB: News 24(1)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57091
+#EXTINF:-1,ALB: Nova HR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56935
+#EXTINF:-1,ALB: NOVA RS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57316
+#EXTINF:-1,ALB: OBN
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56936
+#EXTINF:-1,ALB: ON TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57171
+#EXTINF:-1,ALB: Ora News
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57012
+#EXTINF:-1,ALB: Ora News(1)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57092
+#EXTINF:-1,ALB: Orlando Kids
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57300
+#EXTINF:-1,ALB: OYO Cinema
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56933
+#EXTINF:-1,ALB: OYO Extra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56932
+#EXTINF:-1,ALB: OYO Family
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56931
+#EXTINF:-1,ALB: Parovi uzivo 24/7
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57299
+#EXTINF:-1,ALB: Peace Tv
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57071
+#EXTINF:-1,ALB: PINK
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56984
+#EXTINF:-1,ALB: PINK 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56983
+#EXTINF:-1,ALB: PINK 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56981
+#EXTINF:-1,ALB: Pink 3 Info
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56982
+#EXTINF:-1,ALB: Pink BH
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56948
+#EXTINF:-1,ALB: Pink Classic
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56960
+#EXTINF:-1,ALB: Pink Comedy
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56969
+#EXTINF:-1,ALB: Pink Extra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56967
+#EXTINF:-1,ALB: Pink Family
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56965
+#EXTINF:-1,ALB: Pink Fashion
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56964
+#EXTINF:-1,ALB: Pink Film
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56978
+#EXTINF:-1,ALB: Pink Folk 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56955
+#EXTINF:-1,ALB: Pink Folk 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56954
+#EXTINF:-1,ALB: Pink HAHA
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56966
+#EXTINF:-1,ALB: Pink Hits 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56971
+#EXTINF:-1,ALB: PINK HORROR
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56972
+#EXTINF:-1,ALB: Pink Kids
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56953
+#EXTINF:-1,ALB: Pink Koncert
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56963
+#EXTINF:-1,ALB: Pink Kuvar
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56968
+#EXTINF:-1,ALB: Pink LOL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56962
+#EXTINF:-1,ALB: Pink M
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56959
+#EXTINF:-1,ALB: Pink Movies
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56977
+#EXTINF:-1,ALB: Pink Music
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56950
+#EXTINF:-1,ALB: Pink Music 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56949
+#EXTINF:-1,ALB: Pink Pedia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56951
+#EXTINF:-1,ALB: Pink Plus TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56980
+#EXTINF:-1,ALB: PINK PREMIUM
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56974
+#EXTINF:-1,ALB: PINK REALITY
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56975
+#EXTINF:-1,ALB: PINK ROMANCE
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56976
+#EXTINF:-1,ALB: Pink Sci Fi & Fantasy
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56958
+#EXTINF:-1,ALB: Pink Serije
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56961
+#EXTINF:-1,ALB: Pink Show
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56957
+#EXTINF:-1,ALB: Pink Soap
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56970
+#EXTINF:-1,ALB: Pink Super Kids
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56952
+#EXTINF:-1,ALB: PINK WESTERN
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56973
+#EXTINF:-1,ALB: Pink World Cinema
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56979
+#EXTINF:-1,ALB: Pink Zabava
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56956
+#EXTINF:-1,ALB: PINK-FILM
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57291
+#EXTINF:-1,ALB: Plus HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57152
+#EXTINF:-1,ALB: PLUS HD(Digitalb)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57153
+#EXTINF:-1,ALB: Poker Central
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57290
+#EXTINF:-1,ALB: Prva Max
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57317
+#EXTINF:-1,ALB: Prva RS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57298
+#EXTINF:-1,ALB: PRVA TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57319
+#EXTINF:-1,ALB: PRVA WORLD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57318
+#EXTINF:-1,ALB: Report TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57154
+#EXTINF:-1,ALB: Rrokum TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57155
+#EXTINF:-1,ALB: RT Vojvodina 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57297
+#EXTINF:-1,ALB: RTK
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57093
+#EXTINF:-1,ALB: RTK 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57239
+#EXTINF:-1,ALB: RTK 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57238
+#EXTINF:-1,ALB: RTK 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57237
+#EXTINF:-1,ALB: RTK 4
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57236
+#EXTINF:-1,ALB: RTK1 Sat
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57285
+#EXTINF:-1,ALB: RTK2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57284
+#EXTINF:-1,ALB: RTK3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57283
+#EXTINF:-1,ALB: RTL 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56942
+#EXTINF:-1,ALB: RTL KOCKICA
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57320
+#EXTINF:-1,ALB: RTL LIVING
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57321
+#EXTINF:-1,ALB: RTRS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56946
+#EXTINF:-1,ALB: RTS 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56945
+#EXTINF:-1,ALB: RTS 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56944
+#EXTINF:-1,ALB: RTS 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56943
+#EXTINF:-1,ALB: RTS HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57296
+#EXTINF:-1,ALB: RTSH 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57235
+#EXTINF:-1,ALB: RTSH Sport HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57156
+#EXTINF:-1,ALB: RTV 21
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57094
+#EXTINF:-1,ALB: RTV 21 Junior
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57157
+#EXTINF:-1,ALB: RTV 21 Maqedonia
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57158
+#EXTINF:-1,ALB: RTV 21 Mix HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57159
+#EXTINF:-1,ALB: RTV 21 Popullore
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57160
+#EXTINF:-1,ALB: RTV Bujanovc
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57234
+#EXTINF:-1,ALB: RTV CG 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57295
+#EXTINF:-1,ALB: RTV CG 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57294
+#EXTINF:-1,ALB: RTV Sharri
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57013
+#EXTINF:-1,ALB: Rtv Zeri i Kosoves
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57233
+#EXTINF:-1,ALB: Shqip Fantazi
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57199
+#EXTINF:-1,ALB: Shqip Film
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57198
+#EXTINF:-1,ALB: Shqip Qifteli
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57197
+#EXTINF:-1,ALB: Shqip TV Aksion HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57047
+#EXTINF:-1,ALB: Shqip TV Cinema HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57046
+#EXTINF:-1,ALB: Shqip TV Drama HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57045
+#EXTINF:-1,ALB: Shqip TV Fantasy HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57044
+#EXTINF:-1,ALB: Shqip TV Film
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57043
+#EXTINF:-1,ALB: Shqip TV Hindi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57042
+#EXTINF:-1,ALB: Shqip TV Horror HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57041
+#EXTINF:-1,ALB: Shqip TV Islam
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57196
+#EXTINF:-1,ALB: Shqip TV Kino-DE HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57040
+#EXTINF:-1,ALB: Shqip TV Komedi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57039
+#EXTINF:-1,ALB: Shqip TV Mimi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57038
+#EXTINF:-1,ALB: Shqip TV Western
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57037
+#EXTINF:-1,ALB: ShqipTV Cinema
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57232
+#EXTINF:-1,ALB: ShqipTV Drama HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57195
+#EXTINF:-1,ALB: ShqipTV Film HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57231
+#EXTINF:-1,ALB: ShqipTV Hindi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57194
+#EXTINF:-1,ALB: ShqipTV Horror HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57193
+#EXTINF:-1,ALB: ShqipTV Humor HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57192
+#EXTINF:-1,ALB: ShqipTV Jeta HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57191
+#EXTINF:-1,ALB: ShqipTV Komedi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57190
+#EXTINF:-1,ALB: ShqipTV Mimi HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57189
+#EXTINF:-1,ALB: ShqipTV Stupcat HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57188
+#EXTINF:-1,ALB: ShqipTV Tom & Jerry HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57187
+#EXTINF:-1,ALB: ShqipTV WESTERN
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57186
+#EXTINF:-1,ALB: Sitel 2 ( MK )
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57314
+#EXTINF:-1,ALB: Sitel 3 ( MK )
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57313
+#EXTINF:-1,ALB: Sitel HD ( MK )
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57315
+#EXTINF:-1,ALB: Sky Aksion
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57161
+#EXTINF:-1,ALB: Sky AL Max
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57172
+#EXTINF:-1,ALB: Sky Comedy
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57162
+#EXTINF:-1,ALB: Sky Histori
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57173
+#EXTINF:-1,ALB: Sky Komedi
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57174
+#EXTINF:-1,ALB: Sky Max
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57230
+#EXTINF:-1,ALB: Sky Shkence
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57163
+#EXTINF:-1,ALB: Smile HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57229
+#EXTINF:-1,ALB: Sofia HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57228
+#EXTINF:-1,ALB: SOS
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57292
+#EXTINF:-1,ALB: SPORTKLUB 1 SLO
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57054
+#EXTINF:-1,ALB: SPORTKLUB 2 SLO
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57053
+#EXTINF:-1,ALB: SPORTKLUB 3 SLO
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57052
+#EXTINF:-1,ALB: SPORTKLUB 4 SLO
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57051
+#EXTINF:-1,ALB: SPORTSKA TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57050
+#EXTINF:-1,ALB: Star  Shkodra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57227
+#EXTINF:-1,ALB: Star  TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57226
+#EXTINF:-1,ALB: STV Folk
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57225
+#EXTINF:-1,ALB: Super Sport 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57095
+#EXTINF:-1,ALB: Super Sport 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57175
+#EXTINF:-1,ALB: Super Sport 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57096
+#EXTINF:-1,ALB: Super Sport 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57176
+#EXTINF:-1,ALB: Super Sport 3 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57177
+#EXTINF:-1,ALB: Super Sport 4 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57178
+#EXTINF:-1,ALB: Super Sport Kosovo 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57097
+#EXTINF:-1,ALB: Super Sport Kosovo 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57098
+#EXTINF:-1,ALB: Supersonic TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57282
+#EXTINF:-1,ALB: SuperSport 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57099
+#EXTINF:-1,ALB: SuperSport 4
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57100
+#EXTINF:-1,ALB: SuperSport 5
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57101
+#EXTINF:-1,ALB: SuperSport 6
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57102
+#EXTINF:-1,ALB: Syri Blue HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57224
+#EXTINF:-1,ALB: T HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57223
+#EXTINF:-1,ALB: Tele Sport
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57164
+#EXTINF:-1,ALB: Tema TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57222
+#EXTINF:-1,ALB: Thriller
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57103
+#EXTINF:-1,ALB: TOP CHANNEL FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57028
+#EXTINF:-1,ALB: Top Channel HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57104
+#EXTINF:-1,ALB: Top Estrada TV HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57221
+#EXTINF:-1,ALB: Top News
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57025
+#EXTINF:-1,ALB: Travel Channel
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57220
+#EXTINF:-1,ALB: Tribuna TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57219
+#EXTINF:-1,ALB: Tring 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57165
+#EXTINF:-1,ALB: Tring Comedy
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57105
+#EXTINF:-1,ALB: TRING FANTASY
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57106
+#EXTINF:-1,ALB: TRING HISTORI
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57107
+#EXTINF:-1,ALB: Tring History
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57218
+#EXTINF:-1,ALB: Tring Kids
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57217
+#EXTINF:-1,ALB: TRING KOMEDI
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57108
+#EXTINF:-1,ALB: Tring Life
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57109
+#EXTINF:-1,ALB: Tring Max
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57110
+#EXTINF:-1,ALB: Tring Planet
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57111
+#EXTINF:-1,ALB: Tring Shqip
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57112
+#EXTINF:-1,ALB: TRING SPORT 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57113
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57166
+#EXTINF:-1,ALB: Tring Sport 3 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57167
+#EXTINF:-1,ALB: TRING SPORT 4 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57114
+#EXTINF:-1,ALB: TRING SUPER
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57115
+#EXTINF:-1,ALB: TRING TRING
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57116
+#EXTINF:-1,ALB: Tring World
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57117
+#EXTINF:-1,ALB: TURBO CHANNEL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57216
+#EXTINF:-1,ALB: TV 2 Gostivar
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57215
+#EXTINF:-1,ALB: TV Dukagjini
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57281
+#EXTINF:-1,ALB: TV ERA
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57185
+#EXTINF:-1,ALB: TV Festa
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57203
+#EXTINF:-1,ALB: TV KLAN HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57280
+#EXTINF:-1,ALB: TV Koha
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57182
+#EXTINF:-1,ALB: TV Mitrovica
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57214
+#EXTINF:-1,ALB: TV Opoja
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57213
+#EXTINF:-1,ALB: TV Rozafa
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57212
+#EXTINF:-1,ALB: TV SHARRI HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57211
+#EXTINF:-1,ALB: TV Shenja
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57181
+#EXTINF:-1,ALB: TV Syri Vision
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57210
+#EXTINF:-1,ALB: TV Tetova
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57180
+#EXTINF:-1,ALB: TVSH HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57279
+#EXTINF:-1,ALB: Vali Tv
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57209
+#EXTINF:-1,ALB: Vijesti CG
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57293
+#EXTINF:-1,ALB: Vision Plus TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57179
+#EXTINF:-1,ALB: Vizion Plus HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57168
+#EXTINF:-1,ALB: Vizion Plus Toksor
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57169
+#EXTINF:-1,ALB: WesterN
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57118
+#EXTINF:-1,ALB: Zana Islam HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57208
+#EXTINF:-1,ALB: ZICO TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57207
+#EXTINF:-1,ALB: Zjarr TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/57170
 
 #EXTINF:0 group-title="ALB IPTV3",*** TV SHQIP TEST 3 ***
 http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
@@ -672,24 +1218,7 @@ http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221226793/index.m3u8
 #EXTINF:0 group-title="ALB IPTV3",FOX COMEDY
 http://161.0.157.50/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:0 group-title="ALB IPTV3",HORROR HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/10.ts
-#EXTINF:0 group-title="ALB IPTV3",HINDI HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/11.ts
-#EXTINF:0 group-title="ALB IPTV3",FILM HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/12.ts
-#EXTINF:0 group-title="ALB IPTV3",FANTASY HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/13.ts
-#EXTINF:0 group-title="ALB IPTV3",CINEMA
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/14.ts
-#EXTINF:0 group-title="ALB IPTV3",ACTION
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/15.ts
-#EXTINF:0 group-title="ALB IPTV3",WESTERN HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/6.ts
-#EXTINF:0 group-title="ALB IPTV3",KIDS HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/7.ts
-#EXTINF:0 group-title="ALB IPTV3",KOMEDI HD
-http://163.172.35.210:8000/live/teqifsharopt/donmevjedh/9.ts
+
 #EXTINF:0 group-title="ALB IPTV3",TV2
 http://178.132.6.97/tv2gostivar1/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ALB IPTV3",TV2 HD
@@ -716,22 +1245,7 @@ http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
 http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
 #EXTINF:0 group-title="ALB IPTV3",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",ALSAT
-http://85.25.218.196:8081/streamrtmp/alsatm/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",RTV 21
-http://85.25.218.196:8081/streamrtmp/rtv/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",TRING 3
-http://85.25.218.196:8081/streamrtmp/tring3plus/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",FILM Aksion
-http://85.25.43.14:8081/streamrtmp/aksion/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",T HD
-http://85.25.43.14:8081/streamrtmp/thd/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",FILM FAMELY
-http://85.25.43.14:8081/streamrtmp/thd/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV3",Thrriller
-http://85.25.43.14:8081/streamrtmp/thriller/chunks.m3u8
-#EXTINF:0 group-title="ALB IPTV3",Smile
-http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
+
 
 
 #EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/M0Te2VJ.png", ** RADIO SHQIP **
