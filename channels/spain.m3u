@@ -1359,4 +1359,437 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 http://mcrwowza4.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOSESTRANGEIRAS.png" group-title="RADIOS",FR: VOICE FRANCE (Copyright © 2019 - TeamBlue)
 http://audio1.video.ria.ru/voicefre?streamType=live
-Copyright © 2019 - TeamBlue
+#EXTM3U
+#EXTINF:-1,Sky Moto Gp HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1081
+#EXTINF:-1,ES: DAZN ESPANA FHD A
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1693
+#EXTINF:-1,IT:  Sky Sport Moto GP FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/2252
+#EXTINF:-1,SPORT IT: Sky Moto Gp HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/2197
+#EXTINF:-1,VIASAT MOTOR
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1690
+#EXTINF:-1,ES: DAZN ESPANA FHD B
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1694
+#EXTINF:-1,DE: Servus TvHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1692
+#EXTINF:-1,Publicidad TV MIRALO POR FAVOR
+http://ip.mamito.me:9966/movie/freeipspain/WZz7VYNKzw/3408.mp4
+#EXTINF:-1,========= M Generalistas ===========
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/504
+#EXTINF:-1,PUBLICIDAD TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3407
+#EXTINF:-1,ES: LA 1 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/495
+#EXTINF:-1,ES: LA 1 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/496
+#EXTINF:-1,ES: LA 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/494
+#EXTINF:-1,ES: La 2 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/493
+#EXTINF:-1,ES: ANTENA3 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/499
+#EXTINF:-1,ES: ANTENA 3 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/500
+#EXTINF:-1,ES: CUATRO HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/498
+#EXTINF:-1,ES: CUATRO FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/497
+#EXTINF:-1,ES: TELECINCO HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/488
+#EXTINF:-1,ES: TELECINCO FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/489
+#EXTINF:-1,ES: LA SEXTA HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/491
+#EXTINF:-1,ES: LA SEXTA  FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/492
+#EXTINF:-1,ES: TELE MADRID
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/629
+#EXTINF:-1,ES: TELEMADRID FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/630
+#EXTINF:-1,ES: #0 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/503
+#EXTINF:-1,ES: #0 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/490
+#EXTINF:-1,ES: 3/24
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/501
+#EXTINF:-1,ES: 24 HORAS
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/502
+#EXTINF:-1,=========== M Serie ===========
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/521
+#EXTINF:-1,ES: A3 SERIES HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/522
+#EXTINF:-1,ES: A3SERIES FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/523
+#EXTINF:-1,ES: M. SERIES
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/524
+#EXTINF:-1,ES: M. SERIES FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/525
+#EXTINF:-1,ES: M. SERIESMANIA HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/526
+#EXTINF:-1,ES: M. SERIESMANIA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/527
+#EXTINF:-1,ES: FOX HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/528
+#EXTINF:-1,ES: FOX FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/529
+#EXTINF:-1,ES: AXN HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/530
+#EXTINF:-1,ES: AXN FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/531
+#EXTINF:-1,ES: TNT HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/532
+#EXTINF:-1,ES: TNT FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/533
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/534
+#EXTINF:-1,ES: COMEDY CENTRAL FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/535
+#EXTINF:-1,ES: CALLE 13
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/536
+#EXTINF:-1,ES: CALLE 13 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/537
+#EXTINF:-1,ES: COSMO
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/538
+#EXTINF:-1,ES: COSMO FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/539
+#EXTINF:-1,ES: AMC
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/540
+#EXTINF:-1,ES: AMC FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/541
+#EXTINF:-1,ES: FOX LIFE HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/542
+#EXTINF:-1,ES: FOX LIFE FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/543
+#EXTINF:-1,ES: AXN WHITE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/544
+#EXTINF:-1,ES: AXN  WHITE FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/545
+#EXTINF:-1,ES: SYFY
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/546
+#EXTINF:-1,ES: SYFY FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/548
+#EXTINF:-1,ES: FDF
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/550
+#EXTINF:-1,ES: NEOX
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/551
+#EXTINF:-1,ES: XTRM FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/552
+#EXTINF:-1,ES: DARK
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/722
+#EXTINF:-1,ES: CANAL DE LAS ESTRELLAS
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/724
+#EXTINF:-1,============== M Cinema ===========
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/505
+#EXTINF:-1,ES: M. ESTRENOS HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/506
+#EXTINF:-1,ES: M. ESTRENOS FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/507
+#EXTINF:-1,ES: M. DRAMA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/508
+#EXTINF:-1,ES: M. DRAMA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/509
+#EXTINF:-1,ES: M.CINEDOC&ROLL
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/717
+#EXTINF:-1,ES: M.CINEDOC&ROLL FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/716
+#EXTINF:-1,ES: M. ACCION HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/510
+#EXTINF:-1,ES: M. ACCI©N FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/511
+#EXTINF:-1,ES: M. COMEDIA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/512
+#EXTINF:-1,ES: M. COMEDIA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/513
+#EXTINF:-1,ES: TCM
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/518
+#EXTINF:-1,ES: TCM FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/519
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/516
+#EXTINF:-1,ES:  HOLLYWOOD FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/517
+#EXTINF:-1,ES: M. Cine Espanol
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3403
+#EXTINF:-1,ES: Paramount
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/520
+#EXTINF:-1,ES: SUNDANCE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/725
+#EXTINF:-1,ES: DE PELICULA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/723
+#EXTINF:-1,ES: BOM
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/719
+#EXTINF:-1,============== M Documentos ==============
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/565
+#EXTINF:-1,ES: NG WILD HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/566
+#EXTINF:-1,ES: NG WILD FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/567
+#EXTINF:-1,ES: NAT GEO HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/568
+#EXTINF:-1,ES: NAT GEO FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/569
+#EXTINF:-1,ES: DISCOVERY
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/570
+#EXTINF:-1,ES: VIAJAR
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/573
+#EXTINF:-1,ES: VIAJAR FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/574
+#EXTINF:-1,ES: CAZA Y PESCA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/571
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/572
+#EXTINF:-1,ES: HISTORIA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3402
+#EXTINF:-1,ES: ODISEAS
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/804
+#EXTINF:-1,ES: Iberalia TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/585
+#EXTINF:-1,ES: DMAX
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/714
+#EXTINF:-1,ES: BLAZE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/586
+#EXTINF:-1,============== M Infantil ==============
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/553
+#EXTINF:-1,ES: CLAN TVE HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/554
+#EXTINF:-1,ES: CLAN TVE FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/555
+#EXTINF:-1,ES: NICKELODEON HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/559
+#EXTINF:-1,ES: NICKELODEON FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/560
+#EXTINF:-1,ES: DISNEY CH.
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/562
+#EXTINF:-1,ES: DISNEY CH FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/563
+#EXTINF:-1,ES: Nick Jr
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/558
+#EXTINF:-1,ES: BOING
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/557
+#EXTINF:-1,ES: DISNEY XD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/561
+#EXTINF:-1,ES: DISNEY JR
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/556
+#EXTINF:-1,ES: BABY TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/564
+#EXTINF:-1,ES: CANAL PANDA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/732
+#EXTINF:-1,ES: M. DISNEY
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/733
+#EXTINF:-1,============== M Estilo de Vida ==============
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/575
+#EXTINF:-1,ES: CANAL DECASA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/579
+#EXTINF:-1,ES: CANAL COCINA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/578
+#EXTINF:-1,ES: BE MAD FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/582
+#EXTINF:-1,ES: MEGA HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/581
+#EXTINF:-1,ES: MEGA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1676
+#EXTINF:-1,ES: NOVA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/580
+#EXTINF:-1,ES: Energy
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/576
+#EXTINF:-1,ES: CRIMEN+INVES
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/577
+#EXTINF:-1,ES: CANAL ORBE21
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/730
+#EXTINF:-1,============== M Otros ==============
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/583
+#EXTINF:-1,ES: TEN
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/713
+#EXTINF:-1,ES: DKISS HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/715
+#EXTINF:-1,ES: TV Galicia
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/584
+#EXTINF:-1,ES: TRECE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/720
+#EXTINF:-1,ES: MURCIA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/721
+#EXTINF:-1,ES: CAZAVISION
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/729
+#EXTINF:-1,ES: Aragon
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/588
+#EXTINF:-1,ES: Andalucia TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/587
+#EXTINF:-1,========= Musica ===========
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/739
+#EXTINF:-1,ES: M.FAMA 24H
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/712
+#EXTINF:-1,ES: MTV ESPANA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/549
+#EXTINF:-1,ES: SOL MUSICA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/737
+#EXTINF:-1,ES: TELEHIT
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/734
+#EXTINF:-1,ES: RITMOSON
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/736
+#EXTINF:-1,ES: CLASSICA
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/735
+#EXTINF:-1,ES: MEZZO LIVE HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/738
+#EXTINF:-1,===== >> TODO DEPORTE FUTBOL <<  =====
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1679
+#EXTINF:-1,ES: BEINLALIGA HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/594
+#EXTINF:-1,ES: BEINLALIGA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/595
+#EXTINF:-1,ES: LALIGATV BAR HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/597
+#EXTINF:-1,ES: LALIGATV BAR FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/598
+#EXTINF:-1,ES: LALIGA123TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/600
+#EXTINF:-1,ES: LALIGA 123 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/601
+#EXTINF:-1,ES: M.LCAMPEONES HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/664
+#EXTINF:-1,SP: M.LCAMPEONES B HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1399
+#EXTINF:-1,ES: M.LCAMPEONES FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/662
+#EXTINF:-1,SP: M.LCAMPEONES B FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/1390
+#EXTINF:-1,ES: M.LCAMPEONES 1 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/665
+#EXTINF:-1,ES: M.LCAMPEONES 1 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/666
+#EXTINF:-1,ES: M. PARTIDAZO HD ( SOLO EVENTOS )
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/792
+#EXTINF:-1,ES: M. PARTIDAZO FHD ( SOLO EVENTOS )
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/596
+#EXTINF:-1,ES: LALIGATVBAR 1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/599
+#EXTINF:-1,ES: LALIGATVBAR 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/589
+#EXTINF:-1,ES: LALIGA 123 TVM 1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/726
+#EXTINF:-1,ES: LALIGA 123 TVM 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/727
+#EXTINF:-1,ES: LALIGA 123 TVM 3
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/728
+#EXTINF:-1,ES: LALIGA 123 TVM 4
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/718
+#EXTINF:-1,ES: GOLTV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/602
+#EXTINF:-1,ES: TELEDEPORTE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/626
+#EXTINF:-1,ES: TELEDEPORTE FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/628
+#EXTINF:-1,ES: Sevilla FC
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/631
+#EXTINF:-1,ES: R. MADRID TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/622
+#EXTINF:-1,ES: BARCA TV
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/625
+#EXTINF:-1,ES: #VAMOS HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/616
+#EXTINF:-1,ES: #VAMOS FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/615
+#EXTINF:-1,ES: M. DEPORTES HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/607
+#EXTINF:-1,ES: M. DEPORTES FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/614
+#EXTINF:-1,ES: M. DEPORTES 1 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/613
+#EXTINF:-1,ES: M. DEPORTES 1 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/612
+#EXTINF:-1,ES: M. FORMULA 1 HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/617
+#EXTINF:-1,ES: M.FORMULA FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/618
+#EXTINF:-1,ES: M. GOLF HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/692
+#EXTINF:-1,ES: M. GOLF FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/619
+#EXTINF:-1,ES: TOROS HD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/634
+#EXTINF:-1,ES: TOROS FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/635
+#EXTINF:-1,ES: EUROSPORT 1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/605
+#EXTINF:-1,ES: EUROSPORT 1 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/632
+#EXTINF:-1,ES: EUROSPORT 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/606
+#EXTINF:-1,ES: BEIN LALIGA 1 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/653
+#EXTINF:-1,ES: BEIN LALIGA 1 FHD (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3404
+#EXTINF:-1,ES: BEIN LALIGA 2 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/654
+#EXTINF:-1,ES: BEIN LALIGA 2 FHD (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3405
+#EXTINF:-1,ES: BEIN LALIGA 3 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/655
+#EXTINF:-1,ES: BEIN LALIGA 4 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/657
+#EXTINF:-1,ES: BEIN LALIGA 5 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/658
+#EXTINF:-1,ES: BEIN LALIGA 6 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/659
+#EXTINF:-1,ES: BEIN LALIGA 7 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/660
+#EXTINF:-1,ES: BEIN LALIGA 8 (solo eventos)
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/661
+#EXTINF:-1,ES: M.LCAMPEON 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/667
+#EXTINF:-1,ES: M.LCAMPEON 2 FHD
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/668
+#EXTINF:-1,ES: M.LCAMPEON 3
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/669
+#EXTINF:-1,ES: M.LCAMPEON 4
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/670
+#EXTINF:-1,ES: M.LCAMPEON 5
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/671
+#EXTINF:-1,ES: M.LCAMPEON 6
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/672
+#EXTINF:-1,ES: M.LCAMPEON 7
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/673
+#EXTINF:-1,ES: M.LCAMPEON 8
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/674
+#EXTINF:-1,ES: MULTIDEPORTE
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/675
+#EXTINF:-1,ES: MULTIDEPORTE  1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/676
+#EXTINF:-1,ES: MULTI DEPORTE 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/677
+#EXTINF:-1,ES: MULTIDEPORTE  3
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/678
+#EXTINF:-1,ES: MULTIDEPORTE  4
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/679
+#EXTINF:-1,ES: MULTIDEPORTE  5
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/680
+#EXTINF:-1,ES: MULTIDEPORTE  6
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/681
+#EXTINF:-1,ES: MULTIDEPORTE  7
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/682
+#EXTINF:-1,ES: M. F.TBOL
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/487
+#EXTINF:-1,ES: M. F.TBOL 1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3288
+#EXTINF:-1,ES: M. F.TBOL 2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/3289
+#EXTINF:-1,ES: MULTI FUTBOL
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/683
+#EXTINF:-1,ES: MULTIFUTBOL  1
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/684
+#EXTINF:-1,ES: MULTIFUTBOL  2
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/685
+#EXTINF:-1,ES: MULTIFUTBOL  3
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/686
+#EXTINF:-1,ES: MULTIFUTBOL  4
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/687
+#EXTINF:-1,ES: MULTIFUTBOL  5
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/688
+#EXTINF:-1,ES: MULTIFUTBOL  6
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/689
+#EXTINF:-1,ES: MULTIFUTBOL  7
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/690
+#EXTINF:-1,ES: MULTIFUTBOL  8
+http://ip.mamito.me:9966/freeipspain/WZz7VYNKzw/691
+
