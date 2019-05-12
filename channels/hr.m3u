@@ -40,54 +40,195 @@ http://195.181.169.152:8080/CROATIA/RTL_CRIME/index.m3u8
 http://195.181.169.152:8080/CROATIA/RTL_LIVING/index.m3u8
 #EXTINF:-1,CMC TV
 http://195.181.169.152:8080/CROATIA/CMC/index.m3u8
+#EXTM3U
+#EXTINF:0,HR: 24 Kitchen
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56228
+#EXTINF:0,HR: Animal Planet
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56239
+#EXTINF:0,HR: AXN Adria
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56275
+#EXTINF:0,HR: Baby TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56223
+#EXTINF:0,HR: CBS Reality
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56274
+#EXTINF:0,HR: Cinemania
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56260
+#EXTINF:0,HR: CineMax 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56259
+#EXTINF:0,HR: Cinemax 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56258
+#EXTINF:0,HR: Cinestar Fantasy HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56257
+#EXTINF:0,HR: CineStar Premiere 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56256
+#EXTINF:0,HR: CineStar Premiere 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56254
+#EXTINF:0,HR: Cinestar TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56252
+#EXTINF:0,HR: CineStar TV Action
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56251
+#EXTINF:0,HR: CMC Music
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56216
+#EXTINF:0,HR: Comedy Central Extra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56270
+#EXTINF:0,HR: Crime & Investigation
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56238
+#EXTINF:0,HR: Discovery Channel
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56237
+#EXTINF:0,HR: Discovery ID
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56236
+#EXTINF:0,HR: Discovery ID Xtra HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56235
+#EXTINF:0,HR: Discovery Science HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56234
+#EXTINF:0,HR: Diva
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56273
+#EXTINF:0,HR: Doma
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56272
+#EXTINF:0,HR: E!
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56271
+#EXTINF:0,HR: Fox
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56269
+#EXTINF:0,HR: Fox Crime
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56268
+#EXTINF:0,HR: Fox Life
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56267
+#EXTINF:0,HR: Fox Movies
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56266
+#EXTINF:0,HR: HBO 2 FHD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56249
+#EXTINF:0,HR: HBO 3 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56248
+#EXTINF:0,HR: HBO HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56250
+#EXTINF:0,HR: History 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56233
+#EXTINF:0,HR: History Channel
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56232
+#EXTINF:0,HR: HNTV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56218
+#EXTINF:0,HR: HRT 1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56293
+#EXTINF:0,HR: HRT 1 (Backup)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56292
+#EXTINF:0,HR: HRT 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56291
+#EXTINF:0,HR: HRT 2 (Backup)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56290
+#EXTINF:0,HR: HRT 3
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56289
+#EXTINF:0,HR: HRT 3 (Backup)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56288
+#EXTINF:0,HR: HRT 4
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56287
+#EXTINF:0,HR: HRT 4 (Backup)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56286
+#EXTINF:0,HR: Jugoton TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56217
+#EXTINF:0,HR: Kanal R
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56203
+#EXTINF:0,HR: Kino TV HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56255
+#EXTINF:0,HR: Klasik TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56202
+#EXTINF:0,HR: Kreator TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56201
+#EXTINF:0,HR: Laudato TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56200
+#EXTINF:0,HR: Lov I Ribolov
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56199
+#EXTINF:0,HR: M1 Film
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56247
+#EXTINF:0,HR: MAX Action
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56246
+#EXTINF:0,HR: MAX Documentary
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56231
+#EXTINF:0,HR: Max Select 01 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56245
+#EXTINF:0,HR: Max Select 02 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56244
+#EXTINF:0,HR: Max Select 03 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56243
+#EXTINF:0,HR: Max Select 04 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56242
+#EXTINF:0,HR: Max Select 05 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56241
+#EXTINF:0,HR: Max Select 06 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56240
+#EXTINF:0,HR: Mini TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56222
+#EXTINF:0,HR: Movies 1 HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56253
+#EXTINF:0,HR: MTV Adria
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56215
+#EXTINF:0,HR: N1 TV HD
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56214
+#EXTINF:0,HR: Narodna TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56213
+#EXTINF:0,HR: Nat Geo Wild
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56229
+#EXTINF:0,HR: National Geographic
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56230
+#EXTINF:0,HR: Nick Jr
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56221
+#EXTINF:0,HR: Nickelodeon
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56220
+#EXTINF:0,HR: Nova TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56278
+#EXTINF:0,HR: Nova TV BH
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56277
+#EXTINF:0,HR: Nova World
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56276
+#EXTINF:0,HR: Orlando Kids
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56219
+#EXTINF:0,HR: Osjecka
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56265
+#EXTINF:0,HR: OYO Cinema
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56264
+#EXTINF:0,HR: OYO Family
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56263
+#EXTINF:0,HR: RTL
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56285
+#EXTINF:0,HR: RTL (Backup)
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56284
+#EXTINF:0,HR: RTL 2
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56283
+#EXTINF:0,HR: RTL Crime
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56282
+#EXTINF:0,HR: RTL Kockica
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56281
+#EXTINF:0,HR: RTL Living
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56280
+#EXTINF:0,HR: RTL Passion
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56279
+#EXTINF:0,HR: SB TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56212
+#EXTINF:0,HR: Slavonska TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56211
+#EXTINF:0,HR: Sportska TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56210
+#EXTINF:0,HR: Srce TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56209
+#EXTINF:0,HR: TLC
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56227
+#EXTINF:0,HR: Travel Channel
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56226
+#EXTINF:0,HR: Trend TV Karlovac
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56208
+#EXTINF:0,HR: TV Banovina
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56262
+#EXTINF:0,HR: TV Istra
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56261
+#EXTINF:0,HR: Viasat Explorer
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56225
+#EXTINF:0,HR: Viasat History
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56224
+#EXTINF:0,HR: Vinkovacka TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56207
+#EXTINF:0,HR: VTV Varazdin
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56206
+#EXTINF:0,HR: Z1
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56205
+#EXTINF:0,HR: Zdrava TV
+http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56204
 
-#EXTINF:-1,AMC
-http://93.138.100.70:4001/play/a014/index.m3u8
-#EXTINF:-1,CMC
-http://93.138.100.70:4001/play/a00k/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://93.138.100.70:4001/play/a00h/index.m3u8
-#EXTINF:-1,CineStar Action and Thriller
-http://93.138.100.70:4001/play/a00y/index.m3u8
-#EXTINF:-1,CineStar TV
-http://93.138.100.70:4001/play/a00x/index.m3u8
-#EXTINF:-1,Comedy Central Extra
-http://93.138.100.70:4001/play/a013/index.m3u8
-#EXTINF:-1,DIVA
-http://93.138.100.70:4001/play/a00z/index.m3u8
-#EXTINF:-1,DocuBox
-http://93.138.100.70:4001/play/a00u/index.m3u8
-#EXTINF:-1,Doku TV
-http://93.138.100.70:4001/play/a00r/index.m3u8
-#EXTINF:-1,FOX
-http://93.138.100.70:4001/play/a010/index.m3u8
-#EXTINF:-1,FOX Life
-http://93.138.100.70:4001/play/a011/index.m3u8
-#EXTINF:-1,History HD
-http://93.138.100.70:4001/play/a00p/index.m3u8
-#EXTINF:-1,MTV
-http://93.138.100.70:4001/play/a00i/index.m3u8
-#EXTINF:-1,MiniTV
-http://93.138.100.70:4001/play/a00e/index.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://93.138.100.70:4001/play/a00o/index.m3u8
-#EXTINF:-1,National Geographic
-http://93.138.100.70:4001/play/a00q/index.m3u8
-#EXTINF:-1,National Geographic HD
-http://93.138.100.70:4001/play/a00n/index.m3u8
-#EXTINF:-1,Nick Jr (HR)
-http://93.138.100.70:4001/play/a01f/index.m3u8
-#EXTINF:-1,Nickelodeon 
-http://93.138.100.70:4001/play/a00f/index.m3u8
-#EXTINF:-1,Planet Earth
-http://93.138.100.70:4001/play/a00v/index.m3u8
-#EXTINF:-1,RTL Living
-http://93.138.100.70:4001/play/a00w/index.m3u8
-#EXTINF:-1,VH1
-http://93.138.100.70:4001/play/a00j/index.m3u8
-#EXTINF:-1,Viasat Explore
-http://93.138.100.70:4001/play/a00t/index.m3u8
-#EXTINF:-1,Viasat History
-http://93.138.100.70:4001/play/a00s/index.m3u8
-#EXTINF:-1,Viasat TV 1000
-http://93.138.100.70:4001/play/a012/index.m3u8
