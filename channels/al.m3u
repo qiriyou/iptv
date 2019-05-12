@@ -1175,3 +1175,784 @@ http://radio-pendimi.com:8000/
 http://174.36.206.197:8038/
 #EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/4FlyUWw.png",RADIO MARIMANGA
 http://91.82.85.71:9084/
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KLAN HD
+http://89.163.135.249:25461/osamire/upcidupci/36
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP CHANNEL HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TOP CHANNEL HD
+http://89.163.135.249:25461/osamire/upcidupci/35
+#EXTINF:-1 tvg-id="" tvg-name="AL: VIZION PLUS" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: VIZION PLUS
+http://89.163.135.249:25461/osamire/upcidupci/40
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN KOSOVA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KLAN KOSOVA
+http://89.163.135.249:25461/osamire/upcidupci/32
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN MACEDONIA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KLAN MACEDONIA
+http://89.163.135.249:25461/osamire/upcidupci/39
+#EXTINF:-1 tvg-id="" tvg-name="AL: KLAN PLUS" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KLAN PLUS
+http://89.163.135.249:25461/osamire/upcidupci/38
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTSH 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/42
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 2 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTSH 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/43
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTSH 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/44
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FILM HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTSH FILM HD
+http://89.163.135.249:25461/osamire/upcidupci/45
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SHQIP HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTSH SHQIP HD
+http://89.163.135.249:25461/osamire/upcidupci/46
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FEMIJE" tvg-logo="" group-title="FEMIJE",AL: RTSH FEMIJE
+http://89.163.135.249:25461/osamire/upcidupci/76
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 1" tvg-logo="" group-title="ISLAME",AL: RTV 1
+http://89.163.135.249:25461/osamire/upcidupci/18
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTK 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/1
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTK 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/3
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTK 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/4
+#EXTINF:-1 tvg-id="" tvg-name="AL: ERA TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: ERA TV
+http://89.163.135.249:25461/osamire/upcidupci/53
+#EXTINF:-1 tvg-id="" tvg-name="AL: FAX NEWS" tvg-logo="" group-title="LAJME",AL: FAX NEWS
+http://89.163.135.249:25461/osamire/upcidupci/70
+#EXTINF:-1 tvg-id="" tvg-name="AL: REPORT TV" tvg-logo="" group-title="LAJME",AL: REPORT TV
+http://89.163.135.249:25461/osamire/upcidupci/15
+#EXTINF:-1 tvg-id="" tvg-name="AL: CHANNEL ONE" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: CHANNEL ONE
+http://89.163.135.249:25461/osamire/upcidupci/51
+#EXTINF:-1 tvg-id="" tvg-name="AL: NEWS 24" tvg-logo="" group-title="LAJME",AL: NEWS 24
+http://89.163.135.249:25461/osamire/upcidupci/14
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB UK HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: ALB UK HD
+http://89.163.135.249:25461/osamire/upcidupci/5
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALSAT M" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: ALSAT M
+http://89.163.135.249:25461/osamire/upcidupci/41
+#EXTINF:-1 tvg-id="" tvg-name="AL: ARTA NEWS" tvg-logo="" group-title="LAJME",AL: ARTA NEWS
+http://89.163.135.249:25461/osamire/upcidupci/67
+#EXTINF:-1 tvg-id="" tvg-name="AL: FIRST CHANNEL" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: FIRST CHANNEL
+http://89.163.135.249:25461/osamire/upcidupci/62
+#EXTINF:-1 tvg-id="" tvg-name="AL: KOPLIKU TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KOPLIKU TV
+http://89.163.135.249:25461/osamire/upcidupci/50
+#EXTINF:-1 tvg-id="" tvg-name="AL: KTV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: KTV
+http://89.163.135.249:25461/osamire/upcidupci/20
+#EXTINF:-1 tvg-id="" tvg-name="AL: OPOJA TV" tvg-logo="" group-title="MUZIKE",AL: OPOJA TV
+http://89.163.135.249:25461/osamire/upcidupci/8
+#EXTINF:-1 tvg-id="" tvg-name="AL: ORA NEWS" tvg-logo="" group-title="LAJME",AL: ORA NEWS
+http://89.163.135.249:25461/osamire/upcidupci/16
+#EXTINF:-1 tvg-id="" tvg-name="AL: RROKUM" tvg-logo="" group-title="MUZIKE",AL: RROKUM
+http://89.163.135.249:25461/osamire/upcidupci/68
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTV 21 HD
+http://89.163.135.249:25461/osamire/upcidupci/31
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV 21 MACEDONIA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTV 21 MACEDONIA
+http://89.163.135.249:25461/osamire/upcidupci/54
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ZIK" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: RTV ZIK
+http://89.163.135.249:25461/osamire/upcidupci/9
+#EXTINF:-1 tvg-id="" tvg-name="AL: SCAN TV" tvg-logo="" group-title="LAJME",AL: SCAN TV
+http://89.163.135.249:25461/osamire/upcidupci/71
+#EXTINF:-1 tvg-id="" tvg-name="AL: SYRI VIZION" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: SYRI VIZION
+http://89.163.135.249:25461/osamire/upcidupci/21
+#EXTINF:-1 tvg-id="" tvg-name="AL: TOP NEWS" tvg-logo="" group-title="LAJME",AL: TOP NEWS
+http://89.163.135.249:25461/osamire/upcidupci/66
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRIBUNA CHANNEL" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TRIBUNA CHANNEL
+http://89.163.135.249:25461/osamire/upcidupci/24
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV DIELLI" tvg-logo="" group-title="MUZIKE",AL: TV DIELLI
+http://89.163.135.249:25461/osamire/upcidupci/59
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV DUKAGJINI" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TV DUKAGJINI
+http://89.163.135.249:25461/osamire/upcidupci/34
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV LIRIA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TV LIRIA
+http://89.163.135.249:25461/osamire/upcidupci/56
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV LLAPI" tvg-logo="" group-title="MUZIKE",AL: TV LLAPI
+http://89.163.135.249:25461/osamire/upcidupci/55
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV MITROVICA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TV MITROVICA
+http://89.163.135.249:25461/osamire/upcidupci/63
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV SHENJA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TV SHENJA
+http://89.163.135.249:25461/osamire/upcidupci/61
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV TEMA" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: TV TEMA
+http://89.163.135.249:25461/osamire/upcidupci/57
+#EXTINF:-1 tvg-id="" tvg-name="AL: USKANA TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: USKANA TV
+http://89.163.135.249:25461/osamire/upcidupci/60
+#EXTINF:-1 tvg-id="" tvg-name="AL: WEDDING CHANNEL" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: WEDDING CHANNEL
+http://89.163.135.249:25461/osamire/upcidupci/29
+#EXTINF:-1 tvg-id="" tvg-name="AL: BESA TV" tvg-logo="" group-title="ISLAME",AL: BESA TV
+http://89.163.135.249:25461/osamire/upcidupci/196
+#EXTINF:-1 tvg-id="" tvg-name="AL: LIVING" tvg-logo="" group-title="TRING",AL: LIVING
+http://89.163.135.249:25461/osamire/upcidupci/195
+#EXTINF:-1 tvg-id="" tvg-name="AL: NATIONAL GEOGRAPHIC" tvg-logo="" group-title="TRING",AL: NATIONAL GEOGRAPHIC
+http://89.163.135.249:25461/osamire/upcidupci/202
+#EXTINF:-1 tvg-id="" tvg-name="AL: SOFIA" tvg-logo="" group-title="FEMIJE",AL: SOFIA
+http://89.163.135.249:25461/osamire/upcidupci/203
+#EXTINF:-1 tvg-id="" tvg-name="AL: ZJARR TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: ZJARR TV
+http://89.163.135.249:25461/osamire/upcidupci/64
+#EXTINF:-1 tvg-id="" tvg-name="AL: ADRIANET" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: ADRIANET
+http://89.163.135.249:25461/osamire/upcidupci/158
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV DIASPORA" tvg-logo="" group-title="MUZIKE",AL: TV DIASPORA
+http://89.163.135.249:25461/osamire/upcidupci/153
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART KINO 1 HD" tvg-logo="" group-title="ARTMOTION",AL: ART KINO 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/255
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART KINO 2 HD" tvg-logo="" group-title="ARTMOTION",AL: ART KINO 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/256
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART KINO 3 HD" tvg-logo="" group-title="ARTMOTION",AL: ART KINO 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/257
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART DOKU 1 HD" tvg-logo="" group-title="ARTMOTION",AL: ART DOKU 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/258
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART DOKU 2 HD" tvg-logo="" group-title="ARTMOTION",AL: ART DOKU 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/259
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="" group-title="DIGITALB",AL: T HD
+http://89.163.135.249:25461/osamire/upcidupci/96
+#EXTINF:-1 tvg-id="" tvg-name="AL: BANG BANG" tvg-logo="" group-title="FEMIJE",AL: BANG BANG
+http://89.163.135.249:25461/osamire/upcidupci/72
+#EXTINF:-1 tvg-id="" tvg-name="AL: CUFO" tvg-logo="" group-title="FEMIJE",AL: CUFO
+http://89.163.135.249:25461/osamire/upcidupci/73
+#EXTINF:-1 tvg-id="" tvg-name="AL: JOLLY HD" tvg-logo="" group-title="DIGITALB",AL: JOLLY HD
+http://89.163.135.249:25461/osamire/upcidupci/25
+#EXTINF:-1 tvg-id="" tvg-name="AL: JUNIOR TV" tvg-logo="" group-title="FEMIJE",AL: JUNIOR TV
+http://89.163.135.249:25461/osamire/upcidupci/77
+#EXTINF:-1 tvg-id="" tvg-name="AL: FAMILY" tvg-logo="" group-title="DIGITALB",AL: FAMILY
+http://89.163.135.249:25461/osamire/upcidupci/97
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM FAMILY" tvg-logo="" group-title="DIGITALB",AL: FILM FAMILY
+http://89.163.135.249:25461/osamire/upcidupci/261
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM STINET" tvg-logo="" group-title="DIGITALB",AL: FILM STINET
+http://89.163.135.249:25461/osamire/upcidupci/260
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM AKSION" tvg-logo="" group-title="DIGITALB",AL: FILM AKSION
+http://89.163.135.249:25461/osamire/upcidupci/102
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM AUTOR" tvg-logo="" group-title="DIGITALB",AL: FILM AUTOR
+http://89.163.135.249:25461/osamire/upcidupci/104
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM DRAME" tvg-logo="" group-title="DIGITALB",AL: FILM DRAME
+http://89.163.135.249:25461/osamire/upcidupci/105
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM DY HD" tvg-logo="" group-title="DIGITALB",AL: FILM DY HD
+http://89.163.135.249:25461/osamire/upcidupci/99
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM HITS" tvg-logo="" group-title="DIGITALB",AL: FILM HITS
+http://89.163.135.249:25461/osamire/upcidupci/101
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM KOMEDI" tvg-logo="" group-title="DIGITALB",AL: FILM KOMEDI
+http://89.163.135.249:25461/osamire/upcidupci/103
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM NJE HD" tvg-logo="" group-title="DIGITALB",AL: FILM NJE HD
+http://89.163.135.249:25461/osamire/upcidupci/98
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILM TRILLER" tvg-logo="" group-title="DIGITALB",AL: FILM TRILLER
+http://89.163.135.249:25461/osamire/upcidupci/106
+#EXTINF:-1 tvg-id="" tvg-name="AL: STINET" tvg-logo="" group-title="DIGITALB",AL: STINET
+http://89.163.135.249:25461/osamire/upcidupci/92
+#EXTINF:-1 tvg-id="" tvg-name="AL: 7 NEWS" tvg-logo="" group-title="LAJME",AL: 7 NEWS
+http://89.163.135.249:25461/osamire/upcidupci/30
+#EXTINF:-1 tvg-id="" tvg-name="AL: SMILE" tvg-logo="" group-title="TRING",AL: SMILE
+http://89.163.135.249:25461/osamire/upcidupci/26
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING TRING" tvg-logo="" group-title="FEMIJE",AL: TRING TRING
+http://89.163.135.249:25461/osamire/upcidupci/74
+#EXTINF:-1 tvg-id="" tvg-name="AL: KIDS" tvg-logo="" group-title="FEMIJE",AL: KIDS
+http://89.163.135.249:25461/osamire/upcidupci/75
+#EXTINF:-1 tvg-id="" tvg-name="AL: TIP TV" tvg-logo="" group-title="FEMIJE",AL: TIP TV
+http://89.163.135.249:25461/osamire/upcidupci/78
+#EXTINF:-1 tvg-id="" tvg-name="AL: 7 HD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: 7 HD
+http://89.163.135.249:25461/osamire/upcidupci/132
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SHQIP" tvg-logo="" group-title="TRING",AL: TRING SHQIP
+http://89.163.135.249:25461/osamire/upcidupci/107
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING 3+" tvg-logo="" group-title="TRING",AL: TRING 3+
+http://89.163.135.249:25461/osamire/upcidupci/91
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FANTASY" tvg-logo="" group-title="TRING",AL: TRING FANTASY
+http://89.163.135.249:25461/osamire/upcidupci/111
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING FESTA" tvg-logo="" group-title="TRING",AL: TRING FESTA
+http://89.163.135.249:25461/osamire/upcidupci/110
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING INTERNATIOAL" tvg-logo="" group-title="TRING",AL: TRING INTERNATIOAL
+http://89.163.135.249:25461/osamire/upcidupci/108
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING LIFE" tvg-logo="" group-title="TRING",AL: TRING LIFE
+http://89.163.135.249:25461/osamire/upcidupci/112
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SUPER" tvg-logo="" group-title="TRING",AL: TRING SUPER
+http://89.163.135.249:25461/osamire/upcidupci/109
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS HISTORI" tvg-logo="" group-title="KSPORT",AL: KS HISTORI
+http://89.163.135.249:25461/osamire/upcidupci/88
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS SHKENCE" tvg-logo="" group-title="KSPORT",AL: KS SHKENCE
+http://89.163.135.249:25461/osamire/upcidupci/90
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS AKSION HD" tvg-logo="" group-title="KSPORT",AL: KS AKSION HD
+http://89.163.135.249:25461/osamire/upcidupci/123
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS COMEDY HD" tvg-logo="" group-title="KSPORT",AL: KS COMEDY HD
+http://89.163.135.249:25461/osamire/upcidupci/124
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS EPIC HD" tvg-logo="" group-title="KSPORT",AL: KS EPIC HD
+http://89.163.135.249:25461/osamire/upcidupci/122
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS FESTA HD" tvg-logo="" group-title="KSPORT",AL: KS FESTA HD
+http://89.163.135.249:25461/osamire/upcidupci/121
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS GOLD 1 HD" tvg-logo="" group-title="KSPORT",AL: KS GOLD 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/117
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS GOLD 2 HD" tvg-logo="" group-title="KSPORT",AL: KS GOLD 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/118
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS GOLD 3 HD" tvg-logo="" group-title="KSPORT",AL: KS GOLD 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/119
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS GOLD 4 HD" tvg-logo="" group-title="KSPORT",AL: KS GOLD 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/120
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS HORRORR HD" tvg-logo="" group-title="KSPORT",AL: KS HORRORR HD
+http://89.163.135.249:25461/osamire/upcidupci/126
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS HUMOR HD" tvg-logo="" group-title="KSPORT",AL: KS HUMOR HD
+http://89.163.135.249:25461/osamire/upcidupci/128
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS ISLAM TV" tvg-logo="" group-title="ISLAME",AL: KS ISLAM TV
+http://89.163.135.249:25461/osamire/upcidupci/162
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS PRANKS HD" tvg-logo="" group-title="KSPORT",AL: KS PRANKS HD
+http://89.163.135.249:25461/osamire/upcidupci/131
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 1 HD" tvg-logo="" group-title="KSPORT",AL: KS PREMIER 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/113
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 3 HD" tvg-logo="" group-title="KSPORT",AL: KS PREMIER 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/115
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS PREMIER 4 HD" tvg-logo="" group-title="KSPORT",AL: KS PREMIER 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/116
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS SERIAL HD" tvg-logo="" group-title="KSPORT",AL: KS SERIAL HD
+http://89.163.135.249:25461/osamire/upcidupci/129
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS SERIES HD" tvg-logo="" group-title="KSPORT",AL: KS SERIES HD
+http://89.163.135.249:25461/osamire/upcidupci/130
+#EXTINF:-1 tvg-id="" tvg-name="AL: KS WESTERN HD" tvg-logo="" group-title="KSPORT",AL: KS WESTERN HD
+http://89.163.135.249:25461/osamire/upcidupci/125
+#EXTINF:-1 tvg-id="" tvg-name="AL:  KS PREMIER 2 HD" tvg-logo="" group-title="KSPORT",AL:  KS PREMIER 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/114
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER HISTORI" tvg-logo="" group-title="DIGITALB",AL: EXPLORER HISTORI
+http://89.163.135.249:25461/osamire/upcidupci/84
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER NATYRA" tvg-logo="" group-title="DIGITALB",AL: EXPLORER NATYRA
+http://89.163.135.249:25461/osamire/upcidupci/83
+#EXTINF:-1 tvg-id="" tvg-name="AL: EXPLRER SHKENCE" tvg-logo="" group-title="DIGITALB",AL: EXPLRER SHKENCE
+http://89.163.135.249:25461/osamire/upcidupci/82
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING HISTORI" tvg-logo="" group-title="TRING",AL: TRING HISTORI
+http://89.163.135.249:25461/osamire/upcidupci/87
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING PLANET" tvg-logo="" group-title="TRING",AL: TRING PLANET
+http://89.163.135.249:25461/osamire/upcidupci/86
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING WORLD" tvg-logo="" group-title="TRING",AL: TRING WORLD
+http://89.163.135.249:25461/osamire/upcidupci/85
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIP TV MIMI" tvg-logo="" group-title="SHQIP TV",AL: SHQIP TV MIMI
+http://89.163.135.249:25461/osamire/upcidupci/80
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIP TV TOM & JERRY" tvg-logo="" group-title="SHQIP TV",AL: SHQIP TV TOM & JERRY
+http://89.163.135.249:25461/osamire/upcidupci/79
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV AKSION" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV AKSION
+http://89.163.135.249:25461/osamire/upcidupci/148
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV CINEMA" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV CINEMA
+http://89.163.135.249:25461/osamire/upcidupci/145
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV FANTASY" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV FANTASY
+http://89.163.135.249:25461/osamire/upcidupci/147
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV FILM" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV FILM
+http://89.163.135.249:25461/osamire/upcidupci/150
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV HORRORR" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV HORRORR
+http://89.163.135.249:25461/osamire/upcidupci/142
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV HUMOR" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV HUMOR
+http://89.163.135.249:25461/osamire/upcidupci/143
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV ISLAM" tvg-logo="" group-title="ISLAME",AL: SHQIPTV ISLAM
+http://89.163.135.249:25461/osamire/upcidupci/163
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV KOMEDY" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV KOMEDY
+http://89.163.135.249:25461/osamire/upcidupci/141
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHQIPTV WESTERN" tvg-logo="" group-title="SHQIP TV",AL: SHQIPTV WESTERN
+http://89.163.135.249:25461/osamire/upcidupci/149
+#EXTINF:-1 tvg-id="" tvg-name="AL; SHQIPTV HINDI" tvg-logo="" group-title="SHQIP TV",AL; SHQIPTV HINDI
+http://89.163.135.249:25461/osamire/upcidupci/146
+#EXTINF:-1 tvg-id="" tvg-name="AL; ALB ACTION" tvg-logo="" group-title="ALB",AL; ALB ACTION
+http://89.163.135.249:25461/osamire/upcidupci/137
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB HINDI" tvg-logo="" group-title="ALB",AL: ALB HINDI
+http://89.163.135.249:25461/osamire/upcidupci/139
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB HITS" tvg-logo="" group-title="ALB",AL: ALB HITS
+http://89.163.135.249:25461/osamire/upcidupci/154
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB ISLAM" tvg-logo="" group-title="ISLAME",AL: ALB ISLAM
+http://89.163.135.249:25461/osamire/upcidupci/165
+#EXTINF:-1 tvg-id="" tvg-name="AL: ALB TRILLER" tvg-logo="" group-title="ALB",AL: ALB TRILLER
+http://89.163.135.249:25461/osamire/upcidupci/138
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY 7" tvg-logo="" group-title="SKY ALBANIA",AL: SKY 7
+http://89.163.135.249:25461/osamire/upcidupci/198
+#EXTINF:-1 tvg-id="" tvg-name="AL; SKY DRAME" tvg-logo="" group-title="SKY ALBANIA",AL; SKY DRAME
+http://89.163.135.249:25461/osamire/upcidupci/136
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY AKSION" tvg-logo="" group-title="SKY ALBANIA",AL: SKY AKSION
+http://89.163.135.249:25461/osamire/upcidupci/133
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY KOMEDY" tvg-logo="" group-title="SKY ALBANIA",AL: SKY KOMEDY
+http://89.163.135.249:25461/osamire/upcidupci/135
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY MAX" tvg-logo="" group-title="SKY ALBANIA",AL: SKY MAX
+http://89.163.135.249:25461/osamire/upcidupci/134
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY COMEDY" tvg-logo="" group-title="SKY ALBANIA",AL: SKY COMEDY
+http://89.163.135.249:25461/osamire/upcidupci/200
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY DRAME" tvg-logo="" group-title="SKY ALBANIA",AL: SKY DRAME
+http://89.163.135.249:25461/osamire/upcidupci/199
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY NOVELA" tvg-logo="" group-title="SKY ALBANIA",AL: SKY NOVELA
+http://89.163.135.249:25461/osamire/upcidupci/93
+#EXTINF:-1 tvg-id="" tvg-name="AL: FOX" tvg-logo="" group-title="TRING",AL: FOX
+http://89.163.135.249:25461/osamire/upcidupci/94
+#EXTINF:-1 tvg-id="" tvg-name="AL: MAKKAH TV" tvg-logo="" group-title="ISLAME",AL: MAKKAH TV
+http://89.163.135.249:25461/osamire/upcidupci/166
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEDINA TV" tvg-logo="" group-title="ISLAME",AL: MEDINA TV
+http://89.163.135.249:25461/osamire/upcidupci/167
+#EXTINF:-1 tvg-id="" tvg-name="AL: PEACE TV" tvg-logo="" group-title="ISLAME",AL: PEACE TV
+http://89.163.135.249:25461/osamire/upcidupci/164
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV PENDIMI" tvg-logo="" group-title="ISLAME",AL: RTV PENDIMI
+http://89.163.135.249:25461/osamire/upcidupci/160
+#EXTINF:-1 tvg-id="" tvg-name="EGJELI 1" tvg-logo="" group-title="KOMBETARE & LOKALE",EGJELI 1
+http://89.163.135.249:25461/osamire/upcidupci/22
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPERSONIC" tvg-logo="" group-title="MUZIKE",AL: SUPERSONIC
+http://89.163.135.249:25461/osamire/upcidupci/159
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT NEWS HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT NEWS HD
+http://89.163.135.249:25461/osamire/upcidupci/168
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 1 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/170
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 2 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/171
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 3 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/172
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 4 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/173
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT 5 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/174
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT NEWS HD" tvg-logo="" group-title="SPORT",AL: TRING SPORT NEWS HD
+http://89.163.135.249:25461/osamire/upcidupci/175
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 1 HD" tvg-logo="" group-title="SPORT",AL: TRING SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/176
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 2 HD" tvg-logo="" group-title="SPORT",AL: TRING SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/177
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 3 HD" tvg-logo="" group-title="SPORT",AL: TRING SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/178
+#EXTINF:-1 tvg-id="" tvg-name="AL: TRING SPORT 4 HD" tvg-logo="" group-title="SPORT",AL: TRING SPORT 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/179
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 1 HD" tvg-logo="" group-title="SPORT",AL: ART SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/180
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 2 HD" tvg-logo="" group-title="SPORT",AL: ART SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/181
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART SPORT 3 HD" tvg-logo="" group-title="SPORT",AL: ART SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/182
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 1 HD" tvg-logo="" group-title="SPORT",AL: KUJTESA SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/185
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 2 HD" tvg-logo="" group-title="SPORT",AL: KUJTESA SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/186
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 3 HD" tvg-logo="" group-title="SPORT",AL: KUJTESA SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/187
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 4 HD" tvg-logo="" group-title="SPORT",AL: KUJTESA SPORT 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/188
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUJTESA SPORT 5 HD" tvg-logo="" group-title="SPORT",AL: KUJTESA SPORT 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/189
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT KOSOVA 1 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT KOSOVA 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/183
+#EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORT KOSOVA 2 HD" tvg-logo="" group-title="SPORT",AL: SUPER SPORT KOSOVA 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/184
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 1 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/216
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 2 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/217
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 3 HD" tvg-logo="" group-title="SPORT",IT: SKY SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/218
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 1 HD" tvg-logo="" group-title="ITALY",IT: RAI 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/204
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2 HD" tvg-logo="" group-title="ITALY",IT: RAI 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/205
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 3 HD" tvg-logo="" group-title="ITALY",IT: RAI 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/206
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4 HD" tvg-logo="" group-title="ITALY",IT: RAI 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/207
+#EXTINF:-1 tvg-id="" tvg-name="IT:TOP CRIME MEDIASET" tvg-logo="" group-title="ITALY",IT:TOP CRIME MEDIASET
+http://89.163.135.249:25461/osamire/upcidupci/612
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 5 HD" tvg-logo="" group-title="ITALY",IT: RAI 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/269
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 1 HD" tvg-logo="" group-title="ITALY",IT: ITALIA 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/219
+#EXTINF:-1 tvg-id="" tvg-name="IT: RETE 4 HD" tvg-logo="" group-title="ITALY",IT: RETE 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/270
+#EXTINF:-1 tvg-id="" tvg-name="IT: CANALE 5 HD" tvg-logo="" group-title="ITALY",IT: CANALE 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/220
+#EXTINF:-1 tvg-id="" tvg-name="IT: CIELO" tvg-logo="" group-title="ITALY",IT: CIELO
+http://89.163.135.249:25461/osamire/upcidupci/273
+#EXTINF:-1 tvg-id="" tvg-name="IT: IRIS" tvg-logo="" group-title="ITALY",IT: IRIS
+http://89.163.135.249:25461/osamire/upcidupci/272
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 5" tvg-logo="" group-title="ITALY",IT: LA 5
+http://89.163.135.249:25461/osamire/upcidupci/274
+#EXTINF:-1 tvg-id="" tvg-name="IT: LA 7" tvg-logo="" group-title="ITALY",IT: LA 7
+http://89.163.135.249:25461/osamire/upcidupci/275
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI GULP" tvg-logo="" group-title="ITALY",IT: RAI GULP
+http://89.163.135.249:25461/osamire/upcidupci/208
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY",IT: RAI MOVIE
+http://89.163.135.249:25461/osamire/upcidupci/209
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY",IT: RAI PREMIUM
+http://89.163.135.249:25461/osamire/upcidupci/210
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA 1 HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/211
+#EXTINF:-1 tvg-id="" tvg-name="IT SKY CINEMA HITS HD" tvg-logo="" group-title="SKY CINEMA IT",IT SKY CINEMA HITS HD
+http://89.163.135.249:25461/osamire/upcidupci/292
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA 1+24 HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA 1+24 HD
+http://89.163.135.249:25461/osamire/upcidupci/291
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY ATLANTIC" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY ATLANTIC
+http://89.163.135.249:25461/osamire/upcidupci/296
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY UNO HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY UNO HD
+http://89.163.135.249:25461/osamire/upcidupci/297
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA CLASSICS" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA CLASSICS
+http://89.163.135.249:25461/osamire/upcidupci/295
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA COMEDY HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA COMEDY HD
+http://89.163.135.249:25461/osamire/upcidupci/293
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA CULT HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA CULT HD
+http://89.163.135.249:25461/osamire/upcidupci/294
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA CLASSICS HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA CLASSICS HD
+http://89.163.135.249:25461/osamire/upcidupci/215
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA FAMILY HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA FAMILY HD
+http://89.163.135.249:25461/osamire/upcidupci/214
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA MAX HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA MAX HD
+http://89.163.135.249:25461/osamire/upcidupci/213
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY CINEMA PASSION HD" tvg-logo="" group-title="SKY CINEMA IT",IT: SKY CINEMA PASSION HD
+http://89.163.135.249:25461/osamire/upcidupci/212
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 1 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/223
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 2 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/224
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 3 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/225
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 5 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/307
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 6 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 6 HD
+http://89.163.135.249:25461/osamire/upcidupci/308
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 7 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 7 HD
+http://89.163.135.249:25461/osamire/upcidupci/309
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 8 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 8 HD
+http://89.163.135.249:25461/osamire/upcidupci/310
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 9 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 9 HD
+http://89.163.135.249:25461/osamire/upcidupci/311
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 10 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 10 HD
+http://89.163.135.249:25461/osamire/upcidupci/312
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 11 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 11 HD
+http://89.163.135.249:25461/osamire/upcidupci/313
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 12 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 12 HD
+http://89.163.135.249:25461/osamire/upcidupci/314
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIMAFILA 4 HD" tvg-logo="" group-title="PRIMAFILA",IT: PRIMAFILA 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/226
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA ADVENTURA" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA ADVENTURA
+http://89.163.135.249:25461/osamire/upcidupci/277
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA ANIMAZIONE" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA ANIMAZIONE
+http://89.163.135.249:25461/osamire/upcidupci/287
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA AZIONE" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA AZIONE
+http://89.163.135.249:25461/osamire/upcidupci/276
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA COMICO" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA COMICO
+http://89.163.135.249:25461/osamire/upcidupci/281
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA COMMEDIA" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA COMMEDIA
+http://89.163.135.249:25461/osamire/upcidupci/279
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA DISNEY" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA DISNEY
+http://89.163.135.249:25461/osamire/upcidupci/290
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA DRAMATICO" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA DRAMATICO
+http://89.163.135.249:25461/osamire/upcidupci/286
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA FANTASTICO" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA FANTASTICO
+http://89.163.135.249:25461/osamire/upcidupci/278
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA FILM IN SALA" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA FILM IN SALA
+http://89.163.135.249:25461/osamire/upcidupci/289
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA HORRORR" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA HORRORR
+http://89.163.135.249:25461/osamire/upcidupci/288
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA MITOLOGIA" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA MITOLOGIA
+http://89.163.135.249:25461/osamire/upcidupci/284
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA PASSIONE" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: EAGLE CINEMA PASSIONE
+http://89.163.135.249:25461/osamire/upcidupci/285
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA SORRISO" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA SORRISO
+http://89.163.135.249:25461/osamire/upcidupci/280
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA STORICO" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA STORICO
+http://89.163.135.249:25461/osamire/upcidupci/283
+#EXTINF:-1 tvg-id="" tvg-name="IT: EAGLE CINEMA TRILLER" tvg-logo="" group-title="EAGLE CINEMA IT",IT: EAGLE CINEMA TRILLER
+http://89.163.135.249:25461/osamire/upcidupci/282
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA 24 HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA 24 HD
+http://89.163.135.249:25461/osamire/upcidupci/299
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA ACTION HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA ACTION HD
+http://89.163.135.249:25461/osamire/upcidupci/300
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA COMMEDY HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA COMMEDY HD
+http://89.163.135.249:25461/osamire/upcidupci/301
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA EMOTION HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA EMOTION HD
+http://89.163.135.249:25461/osamire/upcidupci/303
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA ENERGY HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA ENERGY HD
+http://89.163.135.249:25461/osamire/upcidupci/302
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CINEMA HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CINEMA HD
+http://89.163.135.249:25461/osamire/upcidupci/298
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM CRIME HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM CRIME HD
+http://89.163.135.249:25461/osamire/upcidupci/306
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM JOY HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM JOY HD
+http://89.163.135.249:25461/osamire/upcidupci/304
+#EXTINF:-1 tvg-id="" tvg-name="IT: PREMIUM STORIES HD" tvg-logo="" group-title="PREMIUM CINEMA IT",IT: PREMIUM STORIES HD
+http://89.163.135.249:25461/osamire/upcidupci/305
+#EXTINF:-1 tvg-id="" tvg-name="IT: MEDIASET EXTRA" tvg-logo="" group-title="ITALY",IT: MEDIASET EXTRA
+http://89.163.135.249:25461/osamire/upcidupci/271
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="" group-title="SKY CINEMA DE",DE: SKY ATLANTIC HD
+http://89.163.135.249:25461/osamire/upcidupci/246
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA" tvg-logo="" group-title="SKY CINEMA DE",DE: SKY CINEMA
+http://89.163.135.249:25461/osamire/upcidupci/247
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY EMOTION" tvg-logo="" group-title="SKY CINEMA DE",DE: SKY EMOTION
+http://89.163.135.249:25461/osamire/upcidupci/248
+#EXTINF:-1 tvg-id="" tvg-name="RTV ISLAM . COM" tvg-logo="" group-title="KOMBETARE & LOKALE",RTV ISLAM . COM
+http://89.163.135.249:25461/osamire/upcidupci/607
+#EXTINF:-1 tvg-id="" tvg-name="AL: DRITA TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: DRITA TV
+http://89.163.135.249:25461/osamire/upcidupci/318
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV ISLAM" tvg-logo="" group-title="ISLAME",AL: RTV ISLAM
+http://89.163.135.249:25461/osamire/upcidupci/319
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 1 HD" tvg-logo="" group-title="SPORT",AR: BEIN 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/398
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 2 HD" tvg-logo="" group-title="SPORT",AR: BEIN 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/399
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 3 HD" tvg-logo="" group-title="SPORT",AR: BEIN 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/400
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 4 HD" tvg-logo="" group-title="SPORT",AR: BEIN 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/401
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 5 HD" tvg-logo="" group-title="SPORT",AR: BEIN 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/402
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 6 HD" tvg-logo="" group-title="SPORT",AR: BEIN 6 HD
+http://89.163.135.249:25461/osamire/upcidupci/403
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 7 HD" tvg-logo="" group-title="SPORT",AR: BEIN 7 HD
+http://89.163.135.249:25461/osamire/upcidupci/404
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 8 HD" tvg-logo="" group-title="SPORT",AR: BEIN 8 HD
+http://89.163.135.249:25461/osamire/upcidupci/405
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN 9 HD" tvg-logo="" group-title="SPORT",AR: BEIN 9 HD
+http://89.163.135.249:25461/osamire/upcidupci/406
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOx SPORTS 1" tvg-logo="" group-title="SPORT",DE: FOx SPORTS 1
+http://89.163.135.249:25461/osamire/upcidupci/418
+#EXTINF:-1 tvg-id="" tvg-name="DE: FOX SPORTS 2" tvg-logo="" group-title="SPORT",DE: FOX SPORTS 2
+http://89.163.135.249:25461/osamire/upcidupci/419
+#EXTINF:-1 tvg-id="" tvg-name="EX YOU: SPORT CLUB 2" tvg-logo="" group-title="SPORT",EX YOU: SPORT CLUB 2
+http://89.163.135.249:25461/osamire/upcidupci/421
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="" group-title="SPORT",FR: BEIN SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/408
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="" group-title="SPORT",FR: BEIN SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/409
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="" group-title="SPORT",FR: BEIN SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/410
+#EXTINF:-1 tvg-id="" tvg-name="IT: EURO SPORT 1 HD" tvg-logo="" group-title="SPORT",IT: EURO SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/416
+#EXTINF:-1 tvg-id="" tvg-name="IT: EURO SPORT 2" tvg-logo="" group-title="SPORT",IT: EURO SPORT 2
+http://89.163.135.249:25461/osamire/upcidupci/417
+#EXTINF:-1 tvg-id="" tvg-name="SP: DIGI SPORT 1" tvg-logo="" group-title="SPORT",SP: DIGI SPORT 1
+http://89.163.135.249:25461/osamire/upcidupci/412
+#EXTINF:-1 tvg-id="" tvg-name="SP: DIGI SPORT 2" tvg-logo="" group-title="SPORT",SP: DIGI SPORT 2
+http://89.163.135.249:25461/osamire/upcidupci/413
+#EXTINF:-1 tvg-id="" tvg-name="SP: DIGI SPORT 3" tvg-logo="" group-title="SPORT",SP: DIGI SPORT 3
+http://89.163.135.249:25461/osamire/upcidupci/414
+#EXTINF:-1 tvg-id="" tvg-name="SP: DIGI SPORT 4" tvg-logo="" group-title="SPORT",SP: DIGI SPORT 4
+http://89.163.135.249:25461/osamire/upcidupci/415
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1 HD" tvg-logo="" group-title="SPORT",UK: BT SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/388
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3 HD" tvg-logo="" group-title="SPORT",UK: BT SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/390
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 1 HD" tvg-logo="" group-title="SPORT",UK: SKY SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/393
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 24 HD" tvg-logo="" group-title="SPORT",UK: SKY SPORT 24 HD
+http://89.163.135.249:25461/osamire/upcidupci/394
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT 5 HD" tvg-logo="" group-title="SPORT",UK: SKY SPORT 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/396
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA COMEDY HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA COMEDY HD
+http://89.163.135.249:25461/osamire/upcidupci/456
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA EMOTION HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA EMOTION HD
+http://89.163.135.249:25461/osamire/upcidupci/457
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FAMILY HD
+http://89.163.135.249:25461/osamire/upcidupci/460
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA FHD" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA FHD
+http://89.163.135.249:25461/osamire/upcidupci/458
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY CINEMA WESTERN" tvg-logo="" group-title="GERMANY",DE: SKY CINEMA WESTERN
+http://89.163.135.249:25461/osamire/upcidupci/461
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ABENTEURER HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA ABENTEURER HD
+http://89.163.135.249:25461/osamire/upcidupci/481
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ACTION HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA ACTION HD
+http://89.163.135.249:25461/osamire/upcidupci/477
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ANIMATION HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA ANIMATION HD
+http://89.163.135.249:25461/osamire/upcidupci/479
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA DRAMA HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA DRAMA HD
+http://89.163.135.249:25461/osamire/upcidupci/480
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA GESCHIHTE HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA GESCHIHTE HD
+http://89.163.135.249:25461/osamire/upcidupci/485
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA HUMOR HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA HUMOR HD
+http://89.163.135.249:25461/osamire/upcidupci/482
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA KNOSAAL HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA KNOSAAL HD
+http://89.163.135.249:25461/osamire/upcidupci/489
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA KOMEDIE HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA KOMEDIE HD
+http://89.163.135.249:25461/osamire/upcidupci/483
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA LACHEN HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA LACHEN HD
+http://89.163.135.249:25461/osamire/upcidupci/484
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA MYTHOLOGIE HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA MYTHOLOGIE HD
+http://89.163.135.249:25461/osamire/upcidupci/486
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA PREMIERE HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA PREMIERE HD
+http://89.163.135.249:25461/osamire/upcidupci/476
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA ROMANTISCH HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA ROMANTISCH HD
+http://89.163.135.249:25461/osamire/upcidupci/487
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA SCI-FI HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA SCI-FI HD
+http://89.163.135.249:25461/osamire/upcidupci/478
+#EXTINF:-1 tvg-id="" tvg-name="DE: EAGLE CINEMA TRILLER HD" tvg-logo="" group-title="EAGLE CINEMA DE",DE: EAGLE CINEMA TRILLER HD
+http://89.163.135.249:25461/osamire/upcidupci/488
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/462
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/463
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 3 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/464
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 4 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/465
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT 5 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/466
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/467
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 10 HD
+http://89.163.135.249:25461/osamire/upcidupci/475
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 2 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/468
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 3 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/469
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 4 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 4 HD
+http://89.163.135.249:25461/osamire/upcidupci/470
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 5 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 5 HD
+http://89.163.135.249:25461/osamire/upcidupci/471
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 6 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 6 HD
+http://89.163.135.249:25461/osamire/upcidupci/472
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 7 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 7 HD
+http://89.163.135.249:25461/osamire/upcidupci/473
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 8 HD" tvg-logo="" group-title="SPORT",DE: SKY SPORT BUNDESLIGA 8 HD
+http://89.163.135.249:25461/osamire/upcidupci/474
+#EXTINF:-1 tvg-id="" tvg-name="GR: BHT 1 HD" tvg-logo="" group-title="",GR: BHT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/545
+#EXTINF:-1 tvg-id="" tvg-name="GR: BHT ACTION HD" tvg-logo="" group-title="",GR: BHT ACTION HD
+http://89.163.135.249:25461/osamire/upcidupci/547
+#EXTINF:-1 tvg-id="" tvg-name="GR: CANALI HD" tvg-logo="" group-title="",GR: CANALI HD
+http://89.163.135.249:25461/osamire/upcidupci/540
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 1 HD" tvg-logo="" group-title="",GR: ERT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/538
+#EXTINF:-1 tvg-id="" tvg-name="GR: ERT 2 HD" tvg-logo="" group-title="",GR: ERT 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/539
+#EXTINF:-1 tvg-id="" tvg-name="AL: SOT 7" tvg-logo="" group-title="ALB",AL: SOT 7
+http://89.163.135.249:25461/osamire/upcidupci/537
+#EXTINF:-1 tvg-id="" tvg-name="GR: KPHTH" tvg-logo="" group-title="",GR: KPHTH
+http://89.163.135.249:25461/osamire/upcidupci/541
+#EXTINF:-1 tvg-id="" tvg-name="GR: LYXNOC" tvg-logo="" group-title="",GR: LYXNOC
+http://89.163.135.249:25461/osamire/upcidupci/542
+#EXTINF:-1 tvg-id="" tvg-name="GR: SYRIOS" tvg-logo="" group-title="",GR: SYRIOS
+http://89.163.135.249:25461/osamire/upcidupci/543
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1 HD" tvg-logo="" group-title="TURKE",TR: BEIN BOX OFFICE 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/549
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2 HD" tvg-logo="" group-title="TURKE",TR: BEIN BOX OFFICE 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/550
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE3 3 HD" tvg-logo="" group-title="TURKE",TR: BEIN BOX OFFICE3 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/551
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN GURME" tvg-logo="" group-title="TURKE",TR: BEIN GURME
+http://89.163.135.249:25461/osamire/upcidupci/552
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN HOME HD" tvg-logo="" group-title="TURKE",TR: BEIN HOME HD
+http://89.163.135.249:25461/osamire/upcidupci/553
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIES ACTION 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/554
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIES ACTION HD
+http://89.163.135.249:25461/osamire/upcidupci/555
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES COMEDY HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIES COMEDY HD
+http://89.163.135.249:25461/osamire/upcidupci/556
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMILY HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIES FAMILY HD
+http://89.163.135.249:25461/osamire/upcidupci/557
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE HD" tvg-logo="" group-title="TURKE",TR: BEIN SERIES VICE HD
+http://89.163.135.249:25461/osamire/upcidupci/558
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE SMART CLASIC HD" tvg-logo="" group-title="TURKE",TR: MOVIE SMART CLASIC HD
+http://89.163.135.249:25461/osamire/upcidupci/559
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIE SMART ACTION HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIE SMART ACTION HD
+http://89.163.135.249:25461/osamire/upcidupci/560
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIE SMART GOLD HD" tvg-logo="" group-title="TURKE",TR: BEIN MOVIE SMART GOLD HD
+http://89.163.135.249:25461/osamire/upcidupci/562
+#EXTINF:-1 tvg-id="" tvg-name="TR|: BEIN MOVIE SMART FAMILY HD" tvg-logo="" group-title="TURKE",TR|: BEIN MOVIE SMART FAMILY HD
+http://89.163.135.249:25461/osamire/upcidupci/561
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TURKE",TR: TRT 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/569
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT ARAPCA" tvg-logo="" group-title="TURKE",TR: TRT ARAPCA
+http://89.163.135.249:25461/osamire/upcidupci/576
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="TURKE",TR: TRT AVAZ
+http://89.163.135.249:25461/osamire/upcidupci/574
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK" tvg-logo="" group-title="TURKE",TR: TRT COCUK
+http://89.163.135.249:25461/osamire/upcidupci/570
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER" tvg-logo="" group-title="TURKE",TR: TRT HABER
+http://89.163.135.249:25461/osamire/upcidupci/571
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT KURDI" tvg-logo="" group-title="TURKE",TR: TRT KURDI
+http://89.163.135.249:25461/osamire/upcidupci/577
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT MUZIK" tvg-logo="" group-title="TURKE",TR: TRT MUZIK
+http://89.163.135.249:25461/osamire/upcidupci/575
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT TURK" tvg-logo="" group-title="TURKE",TR: TRT TURK
+http://89.163.135.249:25461/osamire/upcidupci/572
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER" tvg-logo="" group-title="TURKE",TR: A HABER
+http://89.163.135.249:25461/osamire/upcidupci/586
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA" tvg-logo="" group-title="TURKE",TR: A PARA
+http://89.163.135.249:25461/osamire/upcidupci/588
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR" tvg-logo="" group-title="TURKE",TR: A SPOR
+http://89.163.135.249:25461/osamire/upcidupci/587
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="" group-title="TURKE",TR: ATV
+http://89.163.135.249:25461/osamire/upcidupci/580
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK" tvg-logo="" group-title="TURKE",TR: CNN TURK
+http://89.163.135.249:25461/osamire/upcidupci/585
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TURKE",TR: DMAX
+http://89.163.135.249:25461/osamire/upcidupci/591
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="" group-title="TURKE",TR: FOX TV
+http://89.163.135.249:25461/osamire/upcidupci/582
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL A" tvg-logo="" group-title="TURKE",TR: KANAL A
+http://89.163.135.249:25461/osamire/upcidupci/579
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="" group-title="TURKE",TR: KANAL D
+http://89.163.135.249:25461/osamire/upcidupci/578
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="" group-title="TURKE",TR: KOY TV
+http://89.163.135.249:25461/osamire/upcidupci/593
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV" tvg-logo="" group-title="TURKE",TR: NTV
+http://89.163.135.249:25461/osamire/upcidupci/584
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 2" tvg-logo="" group-title="TURKE",TR: TELE 2
+http://89.163.135.249:25461/osamire/upcidupci/590
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC TV HD" tvg-logo="" group-title="TURKE",TR: TLC TV HD
+http://89.163.135.249:25461/osamire/upcidupci/592
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV SHOW" tvg-logo="" group-title="TURKE",TR: TV SHOW
+http://89.163.135.249:25461/osamire/upcidupci/581
+#EXTINF:-1 tvg-id="" tvg-name="FRAME-TV" tvg-logo="" group-title="KOMBETARE & LOKALE",FRAME-TV
+http://163.172.87.151:9037/frametv
+#EXTINF:-1 tvg-id="" tvg-name="MAGNET-TV" tvg-logo="" group-title="KOMBETARE & LOKALE",MAGNET-TV
+http://89.163.135.249:25461/osamire/upcidupci/595
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel - Italia" tvg-logo="" group-title="ITALY",Discovery Channel - Italia
+http://89.163.135.249:25461/osamire/upcidupci/599
+#EXTINF:-1 tvg-id="" tvg-name="AL: FXHD" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: FXHD
+http://89.163.135.249:25461/osamire/upcidupci/610
+#EXTINF:-1 tvg-id="" tvg-name="DRITA TV" tvg-logo="" group-title="",DRITA TV
+http://89.163.135.249:25461/movie/osamire/upcidupci/604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RTV ISLAM" tvg-logo="" group-title="",RTV ISLAM
+http://89.163.135.249:25461/movie/osamire/upcidupci/605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRITA TV . COM" tvg-logo="" group-title="KOMBETARE & LOKALE",DRITA TV . COM
+http://89.163.135.249:25461/osamire/upcidupci/606
+#EXTINF:-1 tvg-id="" tvg-name="AL: D CIFTELI HD" tvg-logo="" group-title="KANALE D",AL: D CIFTELI HD
+http://89.163.135.249:25461/osamire/upcidupci/662
+#EXTINF:-1 tvg-id="" tvg-name="AL: D FILM ISLAM HD" tvg-logo="" group-title="ISLAME",AL: D FILM ISLAM HD
+http://89.163.135.249:25461/osamire/upcidupci/663
+#EXTINF:-1 tvg-id="" tvg-name="AL: D HADITHE HD" tvg-logo="" group-title="ISLAME",AL: D HADITHE HD
+http://89.163.135.249:25461/osamire/upcidupci/664
+#EXTINF:-1 tvg-id="" tvg-name="AL: D HISTORI HD" tvg-logo="" group-title="ISLAME",AL: D HISTORI HD
+http://89.163.135.249:25461/osamire/upcidupci/665
+#EXTINF:-1 tvg-id="" tvg-name="AL: D ILAHI HD" tvg-logo="" group-title="ISLAME",AL: D ILAHI HD
+http://89.163.135.249:25461/osamire/upcidupci/666
+#EXTINF:-1 tvg-id="" tvg-name="AL: D LIGJERATA HD" tvg-logo="" group-title="ISLAME",AL: D LIGJERATA HD
+http://89.163.135.249:25461/osamire/upcidupci/667
+#EXTINF:-1 tvg-id="" tvg-name="AL: D SERIAL HD" tvg-logo="" group-title="KANALE D",AL: D SERIAL HD
+http://89.163.135.249:25461/osamire/upcidupci/668
+#EXTINF:-1 tvg-id="" tvg-name="AL: D SHQIP HD" tvg-logo="" group-title="KANALE D",AL: D SHQIP HD
+http://89.163.135.249:25461/osamire/upcidupci/669
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO FEMIJE HD" tvg-logo="" group-title="ISLAME",AL: LEXO FEMIJE HD
+http://89.163.135.249:25461/osamire/upcidupci/671
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO GATIME HD" tvg-logo="" group-title="ISLAME",AL: LEXO GATIME HD
+http://89.163.135.249:25461/osamire/upcidupci/672
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO KURAN HD" tvg-logo="" group-title="ISLAME",AL: LEXO KURAN HD
+http://89.163.135.249:25461/osamire/upcidupci/673
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO LIGJERATA HD" tvg-logo="" group-title="ISLAME",AL: LEXO LIGJERATA HD
+http://89.163.135.249:25461/osamire/upcidupci/674
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO MESO HD" tvg-logo="" group-title="ISLAME",AL: LEXO MESO HD
+http://89.163.135.249:25461/osamire/upcidupci/675
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA FEMIJE HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA FEMIJE HD
+http://89.163.135.249:25461/osamire/upcidupci/676
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA FILM 1 HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA FILM 1 HD
+http://89.163.135.249:25461/osamire/upcidupci/677
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA FILM 3 HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA FILM 3 HD
+http://89.163.135.249:25461/osamire/upcidupci/679
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA ISLAM HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA ISLAM HD
+http://89.163.135.249:25461/osamire/upcidupci/680
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA MUZIKE HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA MUZIKE HD
+http://89.163.135.249:25461/osamire/upcidupci/681
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA PRIMO HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA PRIMO HD
+http://89.163.135.249:25461/osamire/upcidupci/683
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA SHQIP HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA SHQIP HD
+http://89.163.135.249:25461/osamire/upcidupci/682
+#EXTINF:-1 tvg-id="" tvg-name="AL: D HITS 90 HD" tvg-logo="" group-title="KANALE D",AL: D HITS 90 HD
+http://89.163.135.249:25461/osamire/upcidupci/684
+#EXTINF:-1 tvg-id="" tvg-name="AL: D ARAGOSTA HD" tvg-logo="" group-title="KANALE D",AL: D ARAGOSTA HD
+http://89.163.135.249:25461/osamire/upcidupci/685
+#EXTINF:-1 tvg-id="" tvg-name="AL: D KURAN HD" tvg-logo="" group-title="KANALE D",AL: D KURAN HD
+http://89.163.135.249:25461/osamire/upcidupci/687
+#EXTINF:-1 tvg-id="" tvg-name="AL: D POPULLORE HD" tvg-logo="" group-title="KANALE D",AL: D POPULLORE HD
+http://89.163.135.249:25461/osamire/upcidupci/688
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA DOKUMENTAR HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA DOKUMENTAR HD
+http://89.163.135.249:25461/osamire/upcidupci/686
+#EXTINF:-1 tvg-id="" tvg-name="AL: D DOKUMENTARE NATYRE HD" tvg-logo="" group-title="ISLAME",AL: D DOKUMENTARE NATYRE HD
+http://89.163.135.249:25461/osamire/upcidupci/689
+#EXTINF:-1 tvg-id="" tvg-name="AL: D FEMIJE ISLAM HD" tvg-logo="" group-title="ISLAME",AL: D FEMIJE ISLAM HD
+http://89.163.135.249:25461/osamire/upcidupci/690
+#EXTINF:-1 tvg-id="" tvg-name="AL: D FILM FAMILJA HD" tvg-logo="" group-title="KANALE D",AL: D FILM FAMILJA HD
+http://89.163.135.249:25461/osamire/upcidupci/691
+#EXTINF:-1 tvg-id="" tvg-name="AL: D KIDS HD" tvg-logo="" group-title="KANALE D",AL: D KIDS HD
+http://89.163.135.249:25461/osamire/upcidupci/692
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO DOKUMENTAR HD" tvg-logo="" group-title="ISLAME",AL: LEXO DOKUMENTAR HD
+http://89.163.135.249:25461/osamire/upcidupci/693
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO FAMILJA HD" tvg-logo="" group-title="ISLAME",AL: LEXO FAMILJA HD
+http://89.163.135.249:25461/osamire/upcidupci/694
+#EXTINF:-1 tvg-id="" tvg-name="AL: LEXO TV HD" tvg-logo="" group-title="ISLAME",AL: LEXO TV HD
+http://89.163.135.249:25461/osamire/upcidupci/695
+#EXTINF:-1 tvg-id="" tvg-name="AL: D DOKUMENTAR ISLAM HD" tvg-logo="" group-title="KANALE D",AL: D DOKUMENTAR ISLAM HD
+http://89.163.135.249:25461/osamire/upcidupci/696
+#EXTINF:-1 tvg-id="" tvg-name="AL: D FILM AKSION HD" tvg-logo="" group-title="KANALE D",AL: D FILM AKSION HD
+http://89.163.135.249:25461/osamire/upcidupci/698
+#EXTINF:-1 tvg-id="" tvg-name="AL: MEGA FILM 2 HD" tvg-logo="" group-title="MEGA PRIMO",AL: MEGA FILM 2 HD
+http://89.163.135.249:25461/osamire/upcidupci/697
+#EXTINF:-1 tvg-id="" tvg-name="AL: D FILM HITS HD" tvg-logo="" group-title="KANALE D",AL: D FILM HITS HD
+http://89.163.135.249:25461/osamire/upcidupci/699
+#EXTINF:-1 tvg-id="" tvg-name="AL: SHIJAK TV" tvg-logo="" group-title="KOMBETARE & LOKALE",AL: SHIJAK TV
+http://89.163.135.249:25461/osamire/upcidupci/700
