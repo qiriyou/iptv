@@ -1,21 +1,21 @@
 #EXTINF:-1,tvg-ID="SITEL MK" tvg-name="SITEL Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONA",SITEL Full HD
-http://195.181.169.152:8080/MACEDONIA/SITEL_HD/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/SITEL_HD/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID="KANAL5 MK" tvg-name="KANAL 5 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg" group-title="MAKEDONA",KANAL5 Full HD
-http://195.181.169.152:8080/MACEDONIA/KANAL_5/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/KANAL_5/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID="ALFA TV MK" tvg-name="ALFA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONA",ALFA  TV Full HD
-http://195.181.169.152:8080/MACEDONIA/ALFA_HD/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/ALFA_HD/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID="TELMA TV MK" tvg-name="TELMA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONA",TELMA  TV Full HD
-http://195.181.169.152:8080/MACEDONIA/TELMA_HD/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/TELMA_HD/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID=" MRT 1 TV MK" tvg-name="MRT1 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="MAKEDONA",MRT1 TV Full HD
-http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID=" MRT 2 TV MK" tvg-name="MRT2 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt2.png" group-title="MAKEDONA",MRT2 TV Full HD
-http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/MRT_2/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,tvg-ID=" MRT 3 TV MK" tvg-name="MRT3 TV Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_sobraniski_kanal.jpg" group-title="MAKEDONA",MRT2 TV Full HD
-http://195.181.169.152:8080/MACEDONIA/MRT_3/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/MRT_3/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1 tvg-id="" tvg-name="1 TV HD MK" tvg-logo="https://i.imgur.com/foIanG6.png" group-title="Macedonia",1 TV HD MK
-http://195.181.169.152:8080/MACEDONIA/1_TV/index.m3u8
+http://195.181.169.152:8080/MACEDONIA/1_TV/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1 tvg-id="" tvg-name="HUGO TV HD MK" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:w-150/18506_logo_y_h1_satelite_hugo_tv.png" group-title="Macedonia",HUGO TV HD MK
-http://195.181.169.152:8080/CROATIA/TV_NOVA/index.m3u8
+http://195.181.169.152:8080/CROATIA/TV_NOVA/mpegts?token=ADM1-1559015410-42da87d3e69551287c75ef4537866444ad3e4a9e
 #EXTINF:-1,DSTV
 
 rtmp://46.249.95.140:1935/live/livestream
