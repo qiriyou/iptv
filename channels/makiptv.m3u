@@ -1,279 +1,1280 @@
 #EXTM3U
-#EXTINF:-1,MAK-IPTV_TV1
-http://50.7.86.202/tv1/index.m3u8
-#EXTINF:-1,MAK-IPTV_TELMA
-http://50.7.86.202/telma/index.m3u8
-#EXTINF:-1,MAK-IPTV_SK4
-http://50.7.86.202/sk4/index.m3u8
-#EXTINF:-1,MAK-IPTV_SK3
-http://50.7.86.202/sk3/index.m3u8
-#EXTINF:-1,MAK-IPTV_SK2
-http://50.7.86.202/sk2/index.m3u8
-#EXTINF:-1,MAK-IPTV_SK1
-http://50.7.86.202/sk1/index.m3u8
-#EXTINF:-1,MAK-IPTV_SITEL
-http://50.7.86.202/sitel/index.m3u8
-#EXTINF:-1,MAK-IPTV_RTS2
-http://50.7.86.202/rts2/index.m3u8
-#EXTINF:-1,MAK-IPTV_RTS1
-http://50.7.86.202/rts1/index.m3u8
-#EXTINF:-1,MAK-IPTV_RTRS
-http://50.7.86.202/rtrs/index.m3u8
-#EXTINF:-1,MAK-IPTV_RTL2
-http://50.7.86.202/rtl2/index.m3u8
-#EXTINF:-1,MAK-IPTV_RTL
-http://50.7.86.202/rtl/index.m3u8
-#EXTINF:-1,MAK-IPTV_PRAVA-TV
-http://50.7.86.202/prvatv/index.m3u8
-#EXTINF:-1,MAK-IPTV_PRAVA-PLUS
-http://50.7.86.202/prvaplus/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-ZABAVA
-http://50.7.86.202/pinkzabava/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-THRILER
-http://50.7.86.202/pinkthriller/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-SOAP
-http://50.7.86.202/pinksoap/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-ROMANCE
-http://50.7.86.202/pinkromance/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-PREMIUM
-http://50.7.86.202/pinkpremium/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-PLUS
-http://50.7.86.202/pinkplus/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-MOVIES
-http://50.7.86.202/pinkmovies/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-FILM
-http://50.7.86.202/pinkfilm/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-FAMILY
-http://50.7.86.202/pinkfamily/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-EXTRA
-http://50.7.86.202/pinkextra/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-COMEDY
-http://50.7.86.202/pinkcomedy/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-BIH
-http://50.7.86.202/pinkbih/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK-ACTION
-http://50.7.86.202/pinkaction/index.m3u8
-#EXTINF:-1,MAK-IPTV_PINK2
-http://50.7.86.202/pink2/index.m3u8
-#EXTINF:-1,MAK-IPTV_O2
-http://50.7.86.202/O2/index.m3u8
-#EXTINF:-1,MAK-IPTV_OBN
-http://50.7.86.202/obn/index.m3u8
-#EXTINF:-1,MAK-IPTV_TV NOVA
-http://50.7.86.202/nova/index.m3u8
-#EXTINF:-1,MAK-IPTV_KANAL-5
-http://50.7.86.202/kanal5/index.m3u8
-#EXTINF:-1,MAK-IPTV_HRT3
-http://50.7.86.202/hrt3/index.m3u8
-#EXTINF:-1,MAK-IPTV_HRT2
-http://50.7.86.202/hrt2/index.m3u8
-#EXTINF:-1,MAK-IPTV_HRT1
-http://50.7.86.202/hrt1/index.m3u8
-#EXTINF:-1,MAK-IPTV_HAYAT-PLUS
-http://50.7.86.202/hayat_plus/index.m3u8
-#EXTINF:-1,MAK-IPTV_HAYAT
-http://50.7.86.202/hayat/index.m3u8
-#EXTINF:-1,MAK-IPTV_HAPPY
-http://50.7.86.202/happy/index.m3u8
-#EXTINF:-1,MAK-IPTV_GRAND-TV
-http://50.7.86.202/grandtv/index.m3u8
-#EXTINF:-1,MAK-IPTV_FTV
-http://50.7.86.202/ftv/index.m3u8
-#EXTINF:-1,MAK-IPTV_FOXLIFE
-http://50.7.86.202/foxlife/index.m3u8
-#EXTINF:-1,MAK-IPTV_FOXCRIME
-http://50.7.86.202/foxcrime/index.m3u8
-#EXTINF:-1,MAK-IPTV_FOX
-http://50.7.86.202/fox/index.m3u8
-#EXTINF:-1,MAK-IPTV_EIROSPORT 2
-http://50.7.86.202/eurosport2/index.m3u8
-#EXTINF:-1,MAK-IPTV_FACETV
-http://50.7.86.202/facetv/index.m3u8
-#EXTINF:-1,MAK-IPTV_DOMATV
-http://50.7.86.202/domatv/index.m3u8
-#EXTINF:-1,MAK-IPTV_BHT 1
-http://50.7.86.202/bht1/index.m3u8
-#EXTINF:-1,MAK-IPTV_BN
-http://50.7.86.202/bn/index.m3u8
-#EXTINF:-1,MAK-IPTV_ATV
-http://50.7.86.202/atv/index.m3u8
-#EXTINF:-1,MAK-IPTV_A1 Shqiptare
-http://178.132.6.97:8080/A1SHQIPTARE/tracks-v1a1/index.m3u8
-#EXTINF:-1,MAK-IPTV_A1 Cinema
-http://178.132.6.97:8080/A1CINEMA/tracks-v1a1/index.m3u8
-#EXTINF:-1,MAK-IPTV-A1 Kids
-http://178.132.6.97:8080/A1KIDS/tracks-v1a1/index.m3u8
-#EXTINF:-1,MAK-IPTV-A1 World
-http://178.132.6.97:8080/A1WORLD/index.m3u8
-#EXTINF:-1,MAK-IPTV-A1 Bosnia
-http://178.132.6.97:8080/A1BOSNIA/index.m3u8
-#EXTINF:-1,A1 MAK-IPTV-Espana
-http://178.132.6.97:8080/A1ESPANA/index.m3u8
-#EXTINF:-1,MAK-IPTV-A1 SERBIA
-http://178.132.6.97:8080/A1SERBIA/index.m3u8
-#EXTINF:0,MAK-IPTV-OTV Valentino
-http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-Spin TV
-http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
-
-#EXTINF:0,MAK-IPTV-Sky Folk Makedonija
-http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-TV Tetova
-http://178.132.6.97:8080/TVTetova1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-TV7 TUZLA
-http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-USK
-http://178.132.6.97/USK/index.m3u8
-#EXTINF:0,MAK-IPTV-PLUS TV
-http://178.132.6.97:8080/PLUSTV1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-a1vikom
-http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-TVTK
-http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-SMART TV TESANJ
-http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-JazzeraAL
-http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
-#EXTINF:0,MAK-IPTV-RTV Zenica
-http://178.132.6.97:8080/RTVZenica1/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,mak-iptv_1
-http://89.163.135.249:25461/osamire/upcidupci/35
-#EXTINF:-1,mak-iptv_2
-http://89.163.135.249:25461/osamire/upcidupci/36
-#EXTINF:-1,mak-iptv_3
-http://89.163.135.249:25461/osamire/upcidupci/38
-#EXTINF:-1,mak-iptv_6
-http://95.107.132.104/out/u/398_1.m3u8
-#EXTINF:-1,mak-iptv_8
-http://95.107.132.104/out/u/159_1.m3u8
-#EXTINF:-1,mak-iptv_9
-http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
-#EXTINF:-1,mak-iptv_10
-http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
-#EXTINF:-1,mak-iptv_11
-http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
-#EXTINF:-1,mak-iptv_12
-http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
-#EXTINF:-1,mak-iptv_13
-http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
-#EXTINF:-1,mak-iptv_14
-http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
-#EXTINF:-1,mak-iptv_15
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,mak-iptv_16
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1,mak-iptv_17
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,mak-iptv_18
-https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8
-#EXTINF:-1,mak-iptv_19
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1,mak-iptv_20
-http://95.107.132.104/out/u/38_1.m3u8
-#EXTINF:-1,mak-iptv_21
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-1,mak-iptv_22
-http://95.107.132.104/out/u/151_1.m3u8
-#EXTINF:-1,mak-iptv_23
-http://95.107.132.104/out/u/163_1.m3u8
-#EXTINF:-1,mak-iptv_24
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8
-#EXTINF:-1,mak-iptv_25
-http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:-1,mak-iptv_26
-https://59583158c050f.streamlock.net:443/7064/7064/playlist.m3u8
-#EXTINF:-1,SYRI BLUE HD
-http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
-#EXTINF:-1,mak-iptv_29
-http://79.106.102.68/hls/rtvnje.m3u8
-#EXTINF:-1,mak-iptv_36
-http://95.107.132.104/out/u/159_1.m3u8
-#EXTINF:-1,mak-iptv_37
-http://89.163.135.249:8000/play/a00c/index.m3u8
-#EXTINF:-1,mak-iptv_38
-http://95.107.132.104/out/u/332_1.m3u8
-#EXTINF:-1,mak-iptv_39
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,mak-iptv_40
-http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:-1,mak-iptv_42
-http://95.107.132.104/out/u/332_1.m3u8
-#EXTINF:-1,mak-iptv_45
-http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF:-1,mak-iptv_47
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1,mak-iptv_48
-http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-1,mak-iptv_50
-http://95.107.132.104/out/u/155_1.m3u8
-#EXTINF:-1,mak-iptv_51
-http://95.107.132.104/out/u/44_1.m3u8
-#EXTINF:-1,mak-iptv_53
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,mak-iptv_54
-http://178.132.6.97:8080/SYRIVISION1/tracks-v1a1/index.m3u8
-#EXTINF:-1,mak-iptv_55
-http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
-#EXTINF:-1,mak-iptv_57
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,IT: RAI PREMIUM
-http://89.163.135.249:25461/live/osamire/upcidupci/210.m3u8
-#EXTINF:-1,IT: RAI MOVIE
-http://89.163.135.249:25461/live/osamire/upcidupci/209.m3u8
-#EXTINF:-1,mak-iptv_60
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1,mak-iptv_61
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1,mak-iptv_62
-http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1,mak-iptv_63
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1,mak-iptv_64
-http://95.107.132.104/out/u/51_1.m3u8
-#EXTINF:-1,mak-iptv_65
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1,mak-iptv_69
-http://95.107.132.104/out/u/123_1.m3u8
-#EXTINF:-1,mak-iptv_70
-http://95.107.132.104/out/u/115_1.m3u8
-#EXTINF:-1,mak-iptv_71
-http://95.107.132.104/out/u/115_1.m3u8
-#EXTINF:-1,mak-iptv_72
-http://95.107.132.104/out/u/127_1.m3u8
-#EXTINF:-1,AL: TV DUKAGJINI
-http://89.163.135.249:25461/live/osamire/upcidupci/34.m3u8
-#EXTINF:-1,AL: TV SHENJA
-http://89.163.135.249:25461/live/osamire/upcidupci/61.m3u8
-#EXTINF:-1,AL: TV DIELLI
-http://89.163.135.249:25461/live/osamire/upcidupci/59.m3u8
-#EXTINF:-1,AL: PEACE TV
-http://89.163.135.249:25461/live/osamire/upcidupci/164.m3u8
-#EXTINF:-1,AL: TV DIASPORA
-http://89.163.135.249:25461/live/osamire/upcidupci/153.m3u8
-#EXTINF:-1,mak-iptv_81
-http://89.163.135.249:25461/osamire/upcidupci/135
-#EXTINF:-1,AL: SHQIPTV FILM
-http://89.163.135.249:25461/live/osamire/upcidupci/150.m3u8
-#EXTINF:-1,AL: SHQIPTV HORRORR
-http://89.163.135.249:25461/live/osamire/upcidupci/142.m3u8
-#EXTINF:-1,AL: SHQIPTV HUMOR
-http://89.163.135.249:25461/live/osamire/upcidupci/143.m3u8
-#EXTINF:-1,AL; ALB ACTION
-http://89.163.135.249:25461/live/osamire/upcidupci/137.m3u8
-#EXTINF:-1,AL; SHQIPTV HINDI
-http://89.163.135.249:25461/live/osamire/upcidupci/146.m3u8
-#EXTINF:-1,mak-iptv_88
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,mak-iptv_89
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,mak-iptv_90
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1,mak-iptv_91
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
-#EXTINF:-1,mak-iptv_92
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-#EXTINF:-1,mak-iptv_93
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,mak-iptv_94
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,*****SHQIP TV*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2648
+#EXTINF:-1,RTK 1
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2647
+#EXTINF:-1,RTK Serial HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10327
+#EXTINF:-1,RTK2 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2646
+#EXTINF:-1,RTK3 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2645
+#EXTINF:-1,RTK4 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2644
+#EXTINF:-1,RTV 21 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2643
+#EXTINF:-1,RTV 21 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4938
+#EXTINF:-1,RTV21 HD-Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2658
+#EXTINF:-1,21 Popullore
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2641
+#EXTINF:-1,RTV21 Plus HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2640
+#EXTINF:-1,RTV21 Mix HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2639
+#EXTINF:-1,RTV21 Maqedonia AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2638
+#EXTINF:-1,RTV Fontana HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17149
+#EXTINF:-1,21 Junior
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2637
+#EXTINF:-1,KTV -Tring TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2656
+#EXTINF:-1,KTV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2636
+#EXTINF:-1,ALSAT M HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2632
+#EXTINF:-1,Alsat-M
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2657
+#EXTINF:-1,ALSAT.MK HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2659
+#EXTINF:-1,Klan Kosova HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2631
+#EXTINF:-1,Klan TV HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2630
+#EXTINF:-1,KLAN TV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2660
+#EXTINF:-1,Top Channel HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2626
+#EXTINF:-1,TOP Channel HD. AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6777
+#EXTINF:-1,KlanPlus AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2628
+#EXTINF:-1,A FILM AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18330
+#EXTINF:-1,T 7 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10084
+#EXTINF:-1,TV 7 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17183
+#EXTINF:-1,T HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2623
+#EXTINF:-1,1 First Channel  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2622
+#EXTINF:-1,Dukagjini HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2615
+#EXTINF:-1,SHIJAK TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17437
+#EXTINF:-1,Euro Film -Digitalb AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2574
+#EXTINF:-1,Euro Film 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18328
+#EXTINF:-1,Euro Film 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18327
+#EXTINF:-1,Euro Film 3 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18326
+#EXTINF:-1,Euro Film 4 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18325
+#EXTINF:-1,Film GOLD Action HD°  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2573
+#EXTINF:-1,Film GOLD Cinema HD°  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2571
+#EXTINF:-1,Film GOLD Atlantic  HD°  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2569
+#EXTINF:-1,Film GOLD Family HD°  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2567
+#EXTINF:-1,Film Nje HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2564
+#EXTINF:-1,Film Dy HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2563
+#EXTINF:-1,Film Aksion
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2562
+#EXTINF:-1,Film Thriller
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2561
+#EXTINF:-1,Film Autor AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2560
+#EXTINF:-1,Film Hits AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2559
+#EXTINF:-1,Film Komedi
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2557
+#EXTINF:-1,T Stinet  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2553
+#EXTINF:-1,Film Drame
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2556
+#EXTINF:-1,Junior TV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2555
+#EXTINF:-1,Family HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2554
+#EXTINF:-1,EXP Histori
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2474
+#EXTINF:-1,EXP Natyra
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2473
+#EXTINF:-1,EXP Shkence
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2472
+#EXTINF:-1,Tring - International HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2484
+#EXTINF:-1,Jolly HD -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2551
+#EXTINF:-1,Tring Fantazi Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2550
+#EXTINF:-1,Tring Action -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2549
+#EXTINF:-1,Tring Super -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2548
+#EXTINF:-1,Tring Comedy -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2546
+#EXTINF:-1,Tip TV -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2545
+#EXTINF:-1,Tring Life -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2544
+#EXTINF:-1,Tring Shqip  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2543
+#EXTINF:-1,Tring Tring -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2542
+#EXTINF:-1,Tring 3 Plus -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2541
+#EXTINF:-1,Living -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2540
+#EXTINF:-1,Tring World -Tring  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2539
+#EXTINF:-1,Tring Histori -Tring TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2470
+#EXTINF:-1,Tring Planet -Tring TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2471
+#EXTINF:-1,Tallava 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7796
+#EXTINF:-1,Ashkali TV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7831
+#EXTINF:-1,TV Ashkali & Egjiptjan HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18324
+#EXTINF:-1,ASHK TV 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17482
+#EXTINF:-1,ASHK TV 2 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17483
+#EXTINF:-1,ASHK TV 3 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17484
+#EXTINF:-1,STAR DRENASI HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8635
+#EXTINF:-1,EPISODE AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15972
+#EXTINF:-1,Prime AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15971
+#EXTINF:-1,TV Delli HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/18329
+#EXTINF:-1,TVSH AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2627
+#EXTINF:-1,RTSH1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2459
+#EXTINF:-1,RTSH 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15935
+#EXTINF:-1,RTSH 3 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8634
+#EXTINF:-1,RTSH 24 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15937
+#EXTINF:-1,RTSH Shqip HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15939
+#EXTINF:-1,RTSH FILM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2460
+#EXTINF:-1,RTSH PLUS AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/11538
+#EXTINF:-1,RTSH Muzike AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10455
+#EXTINF:-1,RTSH Femije AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15936
+#EXTINF:-1,RTSH GJIROKASTRA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12271
+#EXTINF:-1,RTSH KORÇA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12272
+#EXTINF:-1,RTSH  KUVEND TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15938
+#EXTINF:-1,Channel 7 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10454
+#EXTINF:-1,Top News HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2625
+#EXTINF:-1,A1 Reporter AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8642
+#EXTINF:-1,ABC News
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2450
+#EXTINF:-1,Kanali 7 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2449
+#EXTINF:-1,Ora News Tv  Lajme AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6161
+#EXTINF:-1,Zeri TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17390
+#EXTINF:-1,News24 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2448
+#EXTINF:-1,Tribuna TV (Lajme) AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2451
+#EXTINF:-1,Star Plus - Shkod AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2457
+#EXTINF:-1,Vizion Plus HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/9552
+#EXTINF:-1,TV LLAPI HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12181
+#EXTINF:-1,TV BONI  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17389
+#EXTINF:-1,TV XIKI Muzik AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2367
+#EXTINF:-1,EURO-AL AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2411
+#EXTINF:-1,Folk +  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2611
+#EXTINF:-1,RTV Zeri Kosoves AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4972
+#EXTINF:-1,FRAME-TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8592
+#EXTINF:-1,TV MITROVICA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8641
+#EXTINF:-1,ERA TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2621
+#EXTINF:-1,Syri Vision  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2620
+#EXTINF:-1,TV Shenja AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2617
+#EXTINF:-1,Koha TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2616
+#EXTINF:-1,TV Sharri HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2614
+#EXTINF:-1,TV OPOJA  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2613
+#EXTINF:-1,Shota TV HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10328
+#EXTINF:-1,TV Tema HD [Ferizaj]  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/9160
+#EXTINF:-1,Melody.Tv  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2595
+#EXTINF:-1,Tetova TV HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2581
+#EXTINF:-1,KLAN MACEDONIA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2445
+#EXTINF:-1,Lugina Popullore  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4976
+#EXTINF:-1,Folklorit  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2597
+#EXTINF:-1,TV 1 Channel Shkodër AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2454
+#EXTINF:-1,Vizioni-Muzik TV HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2375
+#EXTINF:-1,RTI ILIRIA HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2604
+#EXTINF:-1,STV Folk  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2587
+#EXTINF:-1,SyriBlue HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2588
+#EXTINF:-1,TV Jeta  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2592
+#EXTINF:-1,Muzik AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2585
+#EXTINF:-1,My Music
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2429
+#EXTINF:-1,BB11 Muzik HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2599
+#EXTINF:-1,Burimi TV HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2601
+#EXTINF:-1,Blue Sky TV HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2583
+#EXTINF:-1,BBF Music TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2600
+#EXTINF:-1,BALKANIKA MUSIC TV HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10330
+#EXTINF:-1,Amol
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2598
+#EXTINF:-1,TURBO CHANNEL  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2591
+#EXTINF:-1,TopEstrada Music TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2590
+#EXTINF:-1,Supersonic TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2596
+#EXTINF:-1,A1 Shqiptare HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2594
+#EXTINF:-1,Dasma TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2582
+#EXTINF:-1,Elrodi TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2584
+#EXTINF:-1,Zjarr TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2579
+#EXTINF:-1,Zico Tv HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2580
+#EXTINF:-1,Kafeneja Jone 24/7  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2526
+#EXTINF:-1,Stupcat Egjelli 24/7  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4977
+#EXTINF:-1,ALB HUMOR HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17436
+#EXTINF:-1,ALB HUMOR 2 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17435
+#EXTINF:-1,KS HUMOR (test)  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6800
+#EXTINF:-1,KS HUMOR HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12266
+#EXTINF:-1,KS ÇIFTELI HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12257
+#EXTINF:-1,KS POPULLORE  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12256
+#EXTINF:-1,KS MUZIK  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12255
+#EXTINF:-1,KS FESTA HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15926
+#EXTINF:-1,KSport Hits  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2493
+#EXTINF:-1,KS AKSION  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12269
+#EXTINF:-1,KS PREMIER 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12265
+#EXTINF:-1,KS PREMIER 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12264
+#EXTINF:-1,KS PREMIER 3 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12263
+#EXTINF:-1,KS PREMIER 4 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12262
+#EXTINF:-1,KS GOLD 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6804
+#EXTINF:-1,KS GOLD 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6803
+#EXTINF:-1,KS GOLD 3 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6802
+#EXTINF:-1,KS GOLD 4 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6801
+#EXTINF:-1,KS EPIC HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15927
+#EXTINF:-1,KS DRAMA  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15932
+#EXTINF:-1,KS HORROR  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12268
+#EXTINF:-1,KS COMEDY  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12260
+#EXTINF:-1,KS SERIAL  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12267
+#EXTINF:-1,KS SERIES HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12261
+#EXTINF:-1,KS WESTERN HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15933
+#EXTINF:-1,KS HINDI HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12259
+#EXTINF:-1,KS PRANKS  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12258
+#EXTINF:-1,KINO PRANK AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2485
+#EXTINF:-1,KS WWE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17187
+#EXTINF:-1,KS Motors HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17189
+#EXTINF:-1,KS UFC HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17188
+#EXTINF:-1,KS BABY HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15928
+#EXTINF:-1,KS  Histori HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12270
+#EXTINF:-1,KS Shkencë HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15925
+#EXTINF:-1,KSPORT KIDS  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15929
+#EXTINF:-1,Horror HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/9862
+#EXTINF:-1,ART KINO 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15917
+#EXTINF:-1,ART KINO 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15918
+#EXTINF:-1,ART KINO 3 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15919
+#EXTINF:-1,ART DOKU 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15920
+#EXTINF:-1,ART DOKU 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15921
+#EXTINF:-1,X Action HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15967
+#EXTINF:-1,X Filma24.TV  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15969
+#EXTINF:-1,X Premium 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15956
+#EXTINF:-1,X Premium 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15955
+#EXTINF:-1,X Premium 3 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15954
+#EXTINF:-1,X Premium 4 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15953
+#EXTINF:-1,X Romance HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15952
+#EXTINF:-1,X Sci-Fi HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15951
+#EXTINF:-1,X Dark HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15964
+#EXTINF:-1,X Thriller HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15949
+#EXTINF:-1,X Drama HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15963
+#EXTINF:-1,X Comedy HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15965
+#EXTINF:-1,X Western HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15948
+#EXTINF:-1,X Family HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15962
+#EXTINF:-1,X Humor HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15960
+#EXTINF:-1,X Cifteli HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15966
+#EXTINF:-1,X Popullore HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15957
+#EXTINF:-1,X Music Hits HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15959
+#EXTINF:-1,X Histori HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15961
+#EXTINF:-1,Kino Premiere 1 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12043
+#EXTINF:-1,Kino Premiere 2 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12042
+#EXTINF:-1,Kino Premiere 3 HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12041
+#EXTINF:-1,Kino Sci-Fi HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12040
+#EXTINF:-1,Kino Thriller HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12039
+#EXTINF:-1,ShqipTV Aksion HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2523
+#EXTINF:-1,ShqipTV Cinema HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2521
+#EXTINF:-1,ShqipTV Film HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2519
+#EXTINF:-1,ShqipTV Fantasy HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2520
+#EXTINF:-1,ShqipTV Horror HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2517
+#EXTINF:-1,ShqipTV Komedi HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2513
+#EXTINF:-1,ShqipTV Drama HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2483
+#EXTINF:-1,ShqipTV Western HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2516
+#EXTINF:-1,ShqipTV Hindi HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2518
+#EXTINF:-1,ShqipTV Stupcat HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2512
+#EXTINF:-1,ShqipTV Qifteli HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2514
+#EXTINF:-1,ShqipTV Family HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10440
+#EXTINF:-1,ShqipTV Humor HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10439
+#EXTINF:-1,ShqipTV Qeshu HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10441
+#EXTINF:-1,ShqipTV Serial HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10442
+#EXTINF:-1,ShqipTV Mimi HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/6162
+#EXTINF:-1,ShqipTV Folk HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2510
+#EXTINF:-1,ShqipTV Tom & Jerry HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2511
+#EXTINF:-1,FOX TV HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2528
+#EXTINF:-1,Fox Crime -Digitalb  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2527
+#EXTINF:-1,Fox Life
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2525
+#EXTINF:-1,Fox Movie  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2524
+#EXTINF:-1,MTV Kosova HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2506
+#EXTINF:-1,Sky Aksion  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2505
+#EXTINF:-1,Sky Max  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2504
+#EXTINF:-1,Sky 7 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2447
+#EXTINF:-1,Sky Comedy  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2503
+#EXTINF:-1,Sky Drama  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2502
+#EXTINF:-1,Sky Histori  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2501
+#EXTINF:-1,Sky Novela  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2500
+#EXTINF:-1,Sky Shkence  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2499
+#EXTINF:-1,Alb Action  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2497
+#EXTINF:-1,ALB THRILLER  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2492
+#EXTINF:-1,ALB HINDI AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2488
+#EXTINF:-1,ALB COMEDY AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2487
+#EXTINF:-1,Alb Horror HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2491
+#EXTINF:-1,Music Hits HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2494
+#EXTINF:-1,Smile -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2479
+#EXTINF:-1,Sofia -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2478
+#EXTINF:-1,Baby TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2482
+#EXTINF:-1,Bang Bang
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2480
+#EXTINF:-1,Cufo TV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2481
+#EXTINF:-1,Masha dhe Ariu  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17150
+#EXTINF:-1,MR BEAN (cartoon) AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10085
+#EXTINF:-1,Qamria TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2409
+#EXTINF:-1,Discovery Turbo-X AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2407
+#EXTINF:-1,24 KITCHEN ALBANIA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2389
+#EXTINF:-1,TV 2 Gostivar AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2446
+#EXTINF:-1,Annimal Planet AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2390
+#EXTINF:-1,Apollon AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2440
+#EXTINF:-1,Camel TV HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2374
+#EXTINF:-1,Channel One AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2439
+#EXTINF:-1,CLICK-Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2437
+#EXTINF:-1,Club TV -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2436
+#EXTINF:-1,TV DRITA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2410
+#EXTINF:-1,Muse -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2430
+#EXTINF:-1,IN Cine Mania TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2433
+#EXTINF:-1,Nat Geo HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2467
+#EXTINF:-1,National Geographic -Digitalb AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2466
+#EXTINF:-1,REAL RTV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2462
+#EXTINF:-1,Rrokum TV
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2461
+#EXTINF:-1,RTV BUJANOVC AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2464
+#EXTINF:-1,RTV PRESHEVA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2463
+#EXTINF:-1,Travel Channel -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2452
+#EXTINF:-1,TV Dibra AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2377
+#EXTINF:-1,Alb Swiss TV HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2378
+#EXTINF:-1,TV-OPINION AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2380
+#EXTINF:-1,*****FILMA ISLAME*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17617
+#EXTINF:-1,Vod:Babai I Te Derguarit
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17618.mkv
+#EXTINF:-1,Vod:Ejubi A S
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17623.mkv
+#EXTINF:-1,Vod:Isai A S
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17622.mkv
+#EXTINF:-1,Vod:Ibrahimi A S
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17620.mkv
+#EXTINF:-1,Vod:Muhamedi Savs Mesazhi
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17621.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 2
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17626.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 1
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17625.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 3
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17627.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 4
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17628.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 5
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17629.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 6
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17641.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 7
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/17642.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 8
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18021.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 9
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18026.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 10
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18027.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 11
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18028.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 12
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18029.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 13
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18030.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 14
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18302.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 16
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18304.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 15
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18303.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 17
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18311.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 18
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18312.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 19
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18313.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 20
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18320.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 21
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18321.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 22
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18322.mkv
+#EXTINF:-1,Vod: Omeri R A Pjesa 23
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18323.mkv
+#EXTINF:-1,Vod: Omeri r.a Pjesa 24
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18331.mkv
+#EXTINF:-1,Vod: Omeri r.a Pjesa 25
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18332.mkv
+#EXTINF:-1,Vod: Omeri r.a Pjesa 26
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18333.mkv
+#EXTINF:-1,Vod: Omeri r.a Pjesa 27
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18335.mkv
+#EXTINF:-1,Vod: Omeri r.a Pjesa 28
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18334.mkv
+#EXTINF:-1,Vod: Jusufi a.s Pjesa 1
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18338.mkv
+#EXTINF:-1,Vod: Jusufi a.s Pjesa 2
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18339.mkv
+#EXTINF:-1,Vod: Jusufi a.s Pjesa 3
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18340.mkv
+#EXTINF:-1,Vod: Jusufi a.s Pjesa 4
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18341.mkv
+#EXTINF:-1,Vod: Jusufi a.s Pjesa 5
+http://hv-iptv.ddns.net:88/movie/arbeni/tsrsfagwg/18344.mkv
+#EXTINF:-1,*****ISLAME TV*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8832
+#EXTINF:-1,LEXO TV HD AL 1
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17528
+#EXTINF:-1,LEXO KURAN HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17517
+#EXTINF:-1,LEXO LIGJERATA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17516
+#EXTINF:-1,LEXO MESO HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17515
+#EXTINF:-1,LEXO FEMIJE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17519
+#EXTINF:-1,LEXO FAMILJA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17497
+#EXTINF:-1,LEXO DOKUMENTAR HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17498
+#EXTINF:-1,LEXO GATIME HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17518
+#EXTINF:-1,D FILM AKSION HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17495
+#EXTINF:-1,D FILM HITS HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17493
+#EXTINF:-1,D FILM ISLAM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17526
+#EXTINF:-1,D KURAN HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17505
+#EXTINF:-1,D HADITHE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17525
+#EXTINF:-1,D ILAHI HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17523
+#EXTINF:-1,D LIGJERATA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17522
+#EXTINF:-1,D FEMIJE ISLAM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17501
+#EXTINF:-1,D DOKUMENTAR ISLAM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17496
+#EXTINF:-1,D DOKUMENTARE NATYRE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17502
+#EXTINF:-1,D FILM FAMILJA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17500
+#EXTINF:-1,D ARAGOSTA HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17506
+#EXTINF:-1,D KIDS HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17499
+#EXTINF:-1,D POPULLORE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17504
+#EXTINF:-1,D CIFTELI HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17527
+#EXTINF:-1,D SERIAL HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17521
+#EXTINF:-1,D SHQIP HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17520
+#EXTINF:-1,D HITS 90 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17507
+#EXTINF:-1,D HISTORI HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17524
+#EXTINF:-1,MEGA FEMIJE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17514
+#EXTINF:-1,MEGA FILM 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17513
+#EXTINF:-1,MEGA FILM 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17494
+#EXTINF:-1,MEGA FILM 3 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17512
+#EXTINF:-1,MEGA ISLAM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17511
+#EXTINF:-1,MEGA MUZIKE HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17510
+#EXTINF:-1,MEGA SHQIP HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17508
+#EXTINF:-1,MEGA DOKUMENTAR HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17503
+#EXTINF:-1,MEGA PRIMO HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17509
+#EXTINF:-1,Ashkali TV ISLAM
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7971
+#EXTINF:-1,KS ISLAM TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15931
+#EXTINF:-1,KS Ilahi Nasheed Channel AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15930
+#EXTINF:-1,RTV Pendimi AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/10487
+#EXTINF:-1,ShqipTV Islam HD  AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2515
+#EXTINF:-1,PEACE TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8816
+#EXTINF:-1,PEACE TV  SHQIP AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8824
+#EXTINF:-1,RTV ISLAM HD TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8825
+#EXTINF:-1,RTV NJE ISLAM HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17177
+#EXTINF:-1,SEMERKAND HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8814
+#EXTINF:-1,Xhamia E Tabakve ISLAM TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4978
+#EXTINF:-1,TV 5 BOSNA AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8822
+#EXTINF:-1,TV Meka Islam AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2423
+#EXTINF:-1,TV Medine Islam TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2424
+#EXTINF:-1,RTV islam AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2414
+#EXTINF:-1,Peace tv (English) AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2406
+#EXTINF:-1,Besa TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2405
+#EXTINF:-1,Igman Tv Islam AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2421
+#EXTINF:-1,Quran Tv AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2419
+#EXTINF:-1,Al Anwar 1 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/16175
+#EXTINF:-1,Al Anwar 2 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/16174
+#EXTINF:-1,AL Zahra TV AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/17142
+#EXTINF:-1,Al Forat AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/5004
+#EXTINF:-1,Imam hussein 1 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2426
+#EXTINF:-1,Imam hussein 2 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2379
+#EXTINF:-1,Imam hussein 3 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/5003
+#EXTINF:-1,Imam hussein 4 AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2425
+#EXTINF:-1,*****SPORT SHQIP TV*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7428
+#EXTINF:-1,Motors TV -Tring AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2431
+#EXTINF:-1,EUROSPORT 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8377
+#EXTINF:-1,EUROSPORT 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8378
+#EXTINF:-1,RTSH SPORT HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8376
+#EXTINF:-1,ART SPORT 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15922
+#EXTINF:-1,ART SPORT 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15923
+#EXTINF:-1,ART SPORT 3 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/15924
+#EXTINF:-1,SUPER SPORT KOSOVA 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8363
+#EXTINF:-1,SUPER SPORT KOSOVA 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8364
+#EXTINF:-1,SUPER SPORT 1  HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8356
+#EXTINF:-1,SUPER SPORT 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8357
+#EXTINF:-1,SUPER SPORT 3  HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8358
+#EXTINF:-1,SUPER SPORT 4 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8359
+#EXTINF:-1,SUPER SPORT 5 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8360
+#EXTINF:-1,Kujtesa Sport 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8372
+#EXTINF:-1,Kujtesa Sport 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8373
+#EXTINF:-1,Kujtesa Sport 3 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8374
+#EXTINF:-1,Kujtesa Sport 4 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8375
+#EXTINF:-1,Kujtesa Sport 5 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/16161
+#EXTINF:-1,Tele Sport HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8371
+#EXTINF:-1,TRING SPORT NEWS.HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8366
+#EXTINF:-1,TRING SPORT 1 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8367
+#EXTINF:-1,TRING SPORT 2 HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8368
+#EXTINF:-1,TRING SPORT 3. HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8369
+#EXTINF:-1,TRING SPORT 4. HD AL
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/8370
+#EXTINF:-1,*****Schweiz*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4971
+#EXTINF:-1,CH:SRF INFO HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1909
+#EXTINF:-1,CH:SRF 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1912
+#EXTINF:-1,CH:SRF 2 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1911
+#EXTINF:-1,CH:S1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7790
+#EXTINF:-1,CH:Swiss 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7789
+#EXTINF:-1,CH:+3 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1908
+#EXTINF:-1,CH:+4 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4753
+#EXTINF:-1,CH:+5 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/4754
+#EXTINF:-1,CH:ACHT HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7791
+#EXTINF:-1,CH:TV24 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7792
+#EXTINF:-1,CH:TV25 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7793
+#EXTINF:-1,CH:Teleclub Cinema
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1913
+#EXTINF:-1,CH:Teleclub Star
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1915
+#EXTINF:-1,CH:Teleclub Prime
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1914
+#EXTINF:-1,CH:Teleclub Sport 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1910
+#EXTINF:-1,CH:TELECLUB SPORT 1
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7779
+#EXTINF:-1,CH:TELECLUB SPORT 2
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7778
+#EXTINF:-1,*****EX-YU*****
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/1907
+#EXTINF:-1,Roma Tv EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2330
+#EXTINF:-1,Shutel TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2312
+#EXTINF:-1,RTS HD EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2307
+#EXTINF:-1,RTRS EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2303
+#EXTINF:-1,RTS 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2365
+#EXTINF:-1,RTS 1 (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2304
+#EXTINF:-1,RTS 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2364
+#EXTINF:-1,RTS 2 (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2305
+#EXTINF:-1,RTS 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2306
+#EXTINF:-1,Nova HR EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2354
+#EXTINF:-1,NOVA TV HR EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2175
+#EXTINF:-1,Nova World TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2238
+#EXTINF:-1,Nova RS EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2249
+#EXTINF:-1,TV Nova MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2335
+#EXTINF:-1,KanalR EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/9429
+#EXTINF:-1,Otv Valentino EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2250
+#EXTINF:-1,BN:OBN EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2171
+#EXTINF:-1,OBN EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2355
+#EXTINF:-1,Grand TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2214
+#EXTINF:-1,GRAND 2 TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2321
+#EXTINF:-1,Taraf Tv EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2329
+#EXTINF:-1,DM Sat EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2346
+#EXTINF:-1,BN Music EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2164
+#EXTINF:-1,Happy EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2215
+#EXTINF:-1,Osijecka TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2216
+#EXTINF:-1,Hayat Folk EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2348
+#EXTINF:-1,Hayat HD EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2349
+#EXTINF:-1,HAYAT MUSIC EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2217
+#EXTINF:-1,HAYAT PLUS EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2218
+#EXTINF:-1,Hayatovci EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2219
+#EXTINF:-1,BHT EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2161
+#EXTINF:-1,BHT 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2192
+#EXTINF:-1,BN EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2345
+#EXTINF:-1,Bosna TV 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2193
+#EXTINF:-1,B92 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2188
+#EXTINF:-1,B92 Info EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2190
+#EXTINF:-1,HRT 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2353
+#EXTINF:-1,HRT 2. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2172
+#EXTINF:-1,HRT 3. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2173
+#EXTINF:-1,HRT 4. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2174
+#EXTINF:-1,HRT 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2352
+#EXTINF:-1,HRT 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2351
+#EXTINF:-1,HRT 4 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2350
+#EXTINF:-1,Pink EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2291
+#EXTINF:-1,PINK 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2290
+#EXTINF:-1,EX-YU:PINK 1 (reserve)
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2289
+#EXTINF:-1,PINK2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2288
+#EXTINF:-1,PINK2. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2287
+#EXTINF:-1,PINK 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2285
+#EXTINF:-1,Pink Action EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2283
+#EXTINF:-1,Pink BH EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2251
+#EXTINF:-1,Pink & Roll EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2258
+#EXTINF:-1,Pink Comedy EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2282
+#EXTINF:-1,Pink Crime & Mystery EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2272
+#EXTINF:-1,Pink Crime&Mystery EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2273
+#EXTINF:-1,Pink Extra EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2254
+#EXTINF:-1,Pink Film EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2271
+#EXTINF:-1,Pink Folk EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2260
+#EXTINF:-1,Pink Folk 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2259
+#EXTINF:-1,Pink Hits 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2256
+#EXTINF:-1,Pink Horror EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2281
+#EXTINF:-1,Pink Kids EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2268
+#EXTINF:-1,Pink Koncert EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2257
+#EXTINF:-1,Pink Kuvar EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2264
+#EXTINF:-1,Pink M EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2265
+#EXTINF:-1,Pink Movies EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2280
+#EXTINF:-1,Pink Music EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2262
+#EXTINF:-1,Pink Music 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2261
+#EXTINF:-1,Pink Pedia EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2253
+#EXTINF:-1,Pink Plus EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2284
+#EXTINF:-1,Pink Premium EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2275
+#EXTINF:-1,Pink Reality EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2252
+#EXTINF:-1,Pink Romance EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2274
+#EXTINF:-1,Pink Sci-Fi & Fantasy EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2279
+#EXTINF:-1,Pink Sci-Fi&Fantasy EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2278
+#EXTINF:-1,Pink Serije EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2270
+#EXTINF:-1,Pink Show EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2263
+#EXTINF:-1,Pink Soap EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2269
+#EXTINF:-1,Pink Super Kids EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2267
+#EXTINF:-1,Pink Thriller EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2276
+#EXTINF:-1,Pink Western EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2277
+#EXTINF:-1,Pink World EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2255
+#EXTINF:-1,Pink Zabava EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2266
+#EXTINF:-1,EX-YU:CINEMAX-1
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2162
+#EXTINF:-1,EX-YU:CINEMAX-2
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2163
+#EXTINF:-1,CINESTAR TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2166
+#EXTINF:-1,EX-YU:Cinemax HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2159
+#EXTINF:-1,EX-YU:Cinestar Action
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2158
+#EXTINF:-1,EX-YU:Cinestar Premier 1
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2156
+#EXTINF:-1,Cinestar Premiere 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2194
+#EXTINF:-1,EX-YU:Cinestar Premier 2
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2157
+#EXTINF:-1,Cinestar Premiere 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2165
+#EXTINF:-1,Max Select 1 HD EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12217
+#EXTINF:-1,EX-YU:Max Select 2 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12216
+#EXTINF:-1,EX-YU:Max Select 3 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12215
+#EXTINF:-1,EX-YU:Max Select 5 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12214
+#EXTINF:-1,EX-YU:Max Select 6 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12213
+#EXTINF:-1,EX-YU:Max Select 7 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12212
+#EXTINF:-1,EX-YU:Max Select 8 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12211
+#EXTINF:-1,EX-YU:Max Select 9 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/12210
+#EXTINF:-1,EX-YU: CINE+SELECT 1 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7949
+#EXTINF:-1,EX-YU: CINE+SELECT 2 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7950
+#EXTINF:-1,EX-YU: CINE+SELECT 3 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7951
+#EXTINF:-1,EX-YU: CINE+SELECT 4 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7952
+#EXTINF:-1,EX-YU: CINE+SELECT 5 HD
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/7953
+#EXTINF:-1,Fightbox EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2208
+#EXTINF:-1,FILMBOX EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2209
+#EXTINF:-1,FilmBox Extra EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2210
+#EXTINF:-1,FOX EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2211
+#EXTINF:-1,Fox Crime EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2212
+#EXTINF:-1,Fox Life EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2362
+#EXTINF:-1,Fox Movies EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2213
+#EXTINF:-1,HBO 2 SLO EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2220
+#EXTINF:-1,HBO 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2221
+#EXTINF:-1,HBO ADRIA EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2360
+#EXTINF:-1,HBO HD EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2222
+#EXTINF:-1,HBO HD 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2223
+#EXTINF:-1,A1-BALKAN EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2178
+#EXTINF:-1,DOMA-TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2167
+#EXTINF:-1,HBO 2. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2168
+#EXTINF:-1,HBO Adria. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2169
+#EXTINF:-1,HISTORY CHANNEL EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2170
+#EXTINF:-1,RTL. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2176
+#EXTINF:-1,RTL 2. EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2177
+#EXTINF:-1,TV Slon EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2344
+#EXTINF:-1,24 KITCHEN EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2180
+#EXTINF:-1,24 Vesti (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2181
+#EXTINF:-1,A TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2182
+#EXTINF:-1,Alfa (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2183
+#EXTINF:-1,ANIMAL PLANET EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2184
+#EXTINF:-1,Naša TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2185
+#EXTINF:-1,AXN Adria EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2187
+#EXTINF:-1,RTL EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2358
+#EXTINF:-1,RTL 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2357
+#EXTINF:-1,RTL CRIME EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2301
+#EXTINF:-1,RTL KOCKICA EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2302
+#EXTINF:-1,RTL Living EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2356
+#EXTINF:-1,RTV Novi Pazar EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2308
+#EXTINF:-1,RTV Zenica EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2310
+#EXTINF:-1,Sandzak TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2311
+#EXTINF:-1,Sitel (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2313
+#EXTINF:-1,SITEL 3 (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2314
+#EXTINF:-1,B 92 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2363
+#EXTINF:-1,BALKANIKA EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2361
+#EXTINF:-1,Belle Amie EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2191
+#EXTINF:-1,CMC EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2195
+#EXTINF:-1,Crime & Investigation EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2197
+#EXTINF:-1,Da Vinci Learning EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2198
+#EXTINF:-1,Discovery Serbia EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2199
+#EXTINF:-1,Doma TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2347
+#EXTINF:-1,DUGA TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2201
+#EXTINF:-1,E! EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2202
+#EXTINF:-1,ERA TV MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2203
+#EXTINF:-1,FACE TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2206
+#EXTINF:-1,Federalna TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2207
+#EXTINF:-1,History 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2224
+#EXTINF:-1,ID Discovery EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2226
+#EXTINF:-1,RT Mostar EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2227
+#EXTINF:-1,zvorna TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2228
+#EXTINF:-1,Jugoton TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2229
+#EXTINF:-1,Kanal 5 (local) MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2230
+#EXTINF:-1,KANAL 5 Plus MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2231
+#EXTINF:-1,KCN 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2232
+#EXTINF:-1,EXKCN 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2233
+#EXTINF:-1,KCN 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2234
+#EXTINF:-1,Klasik TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2179
+#EXTINF:-1,LOV I RIBOLOV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2235
+#EXTINF:-1,Mini TV HR EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2239
+#EXTINF:-1,Minimax/Cinemania EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2240
+#EXTINF:-1,MRT 1 (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2241
+#EXTINF:-1,MRTV 3 MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2242
+#EXTINF:-1,MTV Igman EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2244
+#EXTINF:-1,N1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2245
+#EXTINF:-1,Nat Geo Wild EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2246
+#EXTINF:-1,National Geographic EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2247
+#EXTINF:-1,Nickelodeon EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2248
+#EXTINF:-1,Posavina TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2294
+#EXTINF:-1,Prva EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2295
+#EXTINF:-1,Prva (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2296
+#EXTINF:-1,Prva Plus EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2160
+#EXTINF:-1,Puls TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2298
+#EXTINF:-1,RT Vojvodina 1 (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2300
+#EXTINF:-1,RTCG EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2366
+#EXTINF:-1,Slovenia TV 1 HD EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2315
+#EXTINF:-1,SOS (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2317
+#EXTINF:-1,Studentska TV EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2318
+#EXTINF:-1,Studio B EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2319
+#EXTINF:-1,Telma (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2320
+#EXTINF:-1,TLC (local) EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2322
+#EXTINF:-1,TOP Sound EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2323
+#EXTINF:-1,TV 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2324
+#EXTINF:-1,TV 1000 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2325
+#EXTINF:-1,TV 3 SLO EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2326
+#EXTINF:-1,TV 5 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2327
+#EXTINF:-1,TV Banovina EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2328
+#EXTINF:-1,TV Hram EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2332
+#EXTINF:-1,TV Kanal Plus MK EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2333
+#EXTINF:-1,TV Palma Plus Jagodina EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2336
+#EXTINF:-1,TV Sarajevo EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2337
+#EXTINF:-1,TV Sehara EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2338
+#EXTINF:-1,Viasat nature EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2341
+#EXTINF:-1,Z1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2343
+#EXTINF:-1,Eurosport 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2204
+#EXTINF:-1,Eurosport 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2205
+#EXTINF:-1,Sport Klub 1 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2150
+#EXTINF:-1,Sport Klub 2 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2149
+#EXTINF:-1,Sport Klub 3 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2148
+#EXTINF:-1,Sport Klub 4 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2147
+#EXTINF:-1,Sport Klub 5 EX-YU
+http://hv-iptv.ddns.net:88/arbeni/tsrsfagwg/2146
+#EXTINF:-1,Sport Klub 6 EX-YU
