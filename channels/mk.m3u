@@ -1,13 +1,13 @@
 #EXTINF:-1,tvg-ID="SITEL MK" tvg-name="SITEL Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sitel.jpg" group-title="MAKEDONA",SITEL Full HD
-http://195.181.169.152:8080/MACEDONIA/SITEL_HD/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
+http://190.2.154.72:8081/tvstanici/s1/playlist.m3u8
 #EXTINF:-1,tvg-ID="KANAL5 MK" tvg-name="KANAL 5 Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal5_ua.jpg" group-title="MAKEDONA",KANAL5 Full HD
-http://195.181.169.152:8080/MACEDONIA/KANAL_5/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
+http://190.2.154.72:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1,tvg-ID="ALFA TV MK" tvg-name="ALFA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="MAKEDONA",ALFA  TV Full HD
-http://195.181.169.152:8080/MACEDONIA/ALFA_HD/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
+http://190.2.154.72:8081/tvstanici/33/playlist.m3u8
 #EXTINF:-1,tvg-ID="TELMA TV MK" tvg-name="TELMA TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/telma.png" group-title="MAKEDONA",TELMA  TV Full HD
-http://195.181.169.152:8080/MACEDONIA/TELMA_HD/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
+http://190.2.154.72:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1,tvg-ID=" MRT 1 TV MK" tvg-name="MRT1 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="MAKEDONA",MRT1 TV Full HD
-http://195.181.169.152:8080/MACEDONIA/MRT_1_HD/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
+http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8
 #EXTINF:-1,tvg-ID=" MRT 2 TV MK" tvg-name="MRT2 TV Full HD" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt2.png" group-title="MAKEDONA",MRT2 TV Full HD
 http://195.181.169.152:8080/MACEDONIA/MRT_2/mpegts?token=ADM1-1559122518-395ae46a3e6cf7b35eeb9d79d27d5ca25ea65a6f
 #EXTINF:-1,tvg-ID=" MRT 3 TV MK" tvg-name="MRT3 TV Full HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mrt_sobraniski_kanal.jpg" group-title="MAKEDONA",MRT2 TV Full HD
