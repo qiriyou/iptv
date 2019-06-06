@@ -16,219 +16,401 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 
 #EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.rtlgroup.com/files/jpg1/RTL_Televizija_Logo.jpg" group-title="HRVATSKA",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1 tvg-name="HRT 1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1
+.#EXTM3U
 
-http://195.181.169.152:8080/CROATIA/HRT_1/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-name="HRT 2" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-logo="https://www.scena.hr/wp-content/uploads/2016/06/HRT-2.jpg" group-title="HRVATSKA",HRT 2
 
-http://195.181.169.152:8080/CROATIA/HRT_2/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="HTV3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 3" tvg-logo="http://nextgen-iptv.com/logo/HRT3_HR.png" group-title="Hrvatska",HRT 3
 
-http://195.181.169.152:8080/CROATIA/HRT_3/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="HTV4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 4" tvg-logo="http://nextgen-iptv.com/logo/HRT4_HR.png" group-title="Hrvatska",HRT 4
 
-http://195.181.169.152:8080/CROATIA/HRT_4/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,HRT 5
-http://195.181.169.152:8080/CROATIA/HRT_5/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,RTL
-http://195.181.169.152:8080/CROATIA/RTL/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,RTL 2
-http://195.181.169.152:8080/CROATIA/RTL_2/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,RTL CRIME
-http://195.181.169.152:8080/CROATIA/RTL_CRIME/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,RTL LIVING
-http://195.181.169.152:8080/CROATIA/RTL_LIVING/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,CMC TV
-http://195.181.169.152:8080/CROATIA/CMC/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTM3U
-#EXTINF:0,HR: 24 Kitchen
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56228
-#EXTINF:0,HR: Animal Planet
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56239
-#EXTINF:0,HR: AXN Adria
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56275
-#EXTINF:0,HR: Baby TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56223
-#EXTINF:0,HR: CBS Reality
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56274
-#EXTINF:0,HR: Cinemania
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56260
-#EXTINF:0,HR: CineMax 1
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56259
-#EXTINF:0,HR: Cinemax 2
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56258
-#EXTINF:0,HR: Cinestar Fantasy HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56257
-#EXTINF:0,HR: CineStar Premiere 1
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56256
-#EXTINF:0,HR: CineStar Premiere 2
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56254
-#EXTINF:0,HR: Cinestar TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56252
-#EXTINF:0,HR: CineStar TV Action
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56251
-#EXTINF:0,HR: CMC Music
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56216
-#EXTINF:0,HR: Comedy Central Extra
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56270
-#EXTINF:0,HR: Crime & Investigation
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56238
-#EXTINF:0,HR: Discovery Channel
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56237
-#EXTINF:0,HR: Discovery ID
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56236
-#EXTINF:0,HR: Discovery ID Xtra HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56235
-#EXTINF:0,HR: Discovery Science HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56234
-#EXTINF:0,HR: Diva
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56273
-#EXTINF:0,HR: Doma
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56272
-#EXTINF:0,HR: E!
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56271
-#EXTINF:0,HR: Fox
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56269
-#EXTINF:0,HR: Fox Crime
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56268
-#EXTINF:0,HR: Fox Life
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56267
-#EXTINF:0,HR: Fox Movies
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56266
-#EXTINF:0,HR: HBO 2 FHD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56249
-#EXTINF:0,HR: HBO 3 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56248
-#EXTINF:0,HR: HBO HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56250
-#EXTINF:0,HR: History 2
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56233
-#EXTINF:0,HR: History Channel
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56232
-#EXTINF:0,HR: HNTV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56218
-#EXTINF:0,HR: HRT 1
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56293
-#EXTINF:0,HR: HRT 1 (Backup)
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56292
-#EXTINF:0,HR: HRT 2
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56291
-#EXTINF:0,HR: HRT 2 (Backup)
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56290
-#EXTINF:0,HR: HRT 3
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56289
-#EXTINF:0,HR: HRT 3 (Backup)
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56288
-#EXTINF:0,HR: HRT 4
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56287
-#EXTINF:0,HR: HRT 4 (Backup)
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56286
-#EXTINF:0,HR: Jugoton TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56217
-#EXTINF:0,HR: Kanal R
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56203
-#EXTINF:0,HR: Kino TV HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56255
-#EXTINF:0,HR: Klasik TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56202
-#EXTINF:0,HR: Kreator TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56201
-#EXTINF:0,HR: Laudato TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56200
-#EXTINF:0,HR: Lov I Ribolov
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56199
-#EXTINF:0,HR: M1 Film
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56247
-#EXTINF:0,HR: MAX Action
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56246
-#EXTINF:0,HR: MAX Documentary
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56231
-#EXTINF:0,HR: Max Select 01 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56245
-#EXTINF:0,HR: Max Select 02 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56244
-#EXTINF:0,HR: Max Select 03 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56243
-#EXTINF:0,HR: Max Select 04 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56242
-#EXTINF:0,HR: Max Select 05 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56241
-#EXTINF:0,HR: Max Select 06 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56240
-#EXTINF:0,HR: Mini TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56222
-#EXTINF:0,HR: Movies 1 HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56253
-#EXTINF:0,HR: MTV Adria
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56215
-#EXTINF:0,HR: N1 TV HD
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56214
-#EXTINF:0,HR: Narodna TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56213
-#EXTINF:0,HR: Nat Geo Wild
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56229
-#EXTINF:0,HR: National Geographic
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56230
-#EXTINF:0,HR: Nick Jr
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56221
-#EXTINF:0,HR: Nickelodeon
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56220
-#EXTINF:0,HR: Nova TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56278
-#EXTINF:0,HR: Nova TV BH
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56277
-#EXTINF:0,HR: Nova World
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56276
-#EXTINF:0,HR: Orlando Kids
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56219
-#EXTINF:0,HR: Osjecka
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56265
-#EXTINF:0,HR: OYO Cinema
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56264
-#EXTINF:0,HR: OYO Family
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56263
-#EXTINF:0,HR: RTL
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56285
-#EXTINF:0,HR: RTL (Backup)
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56284
-#EXTINF:0,HR: RTL 2
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56283
-#EXTINF:0,HR: RTL Crime
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56282
-#EXTINF:0,HR: RTL Kockica
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56281
-#EXTINF:0,HR: RTL Living
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56280
-#EXTINF:0,HR: RTL Passion
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56279
-#EXTINF:0,HR: SB TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56212
-#EXTINF:0,HR: Slavonska TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56211
-#EXTINF:0,HR: Sportska TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56210
-#EXTINF:0,HR: Srce TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56209
-#EXTINF:0,HR: TLC
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56227
-#EXTINF:0,HR: Travel Channel
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56226
-#EXTINF:0,HR: Trend TV Karlovac
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56208
-#EXTINF:0,HR: TV Banovina
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56262
-#EXTINF:0,HR: TV Istra
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56261
-#EXTINF:0,HR: Viasat Explorer
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56225
-#EXTINF:0,HR: Viasat History
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56224
-#EXTINF:0,HR: Vinkovacka TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56207
-#EXTINF:0,HR: VTV Varazdin
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56206
-#EXTINF:0,HR: Z1
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56205
-#EXTINF:0,HR: Zdrava TV
-http://viphdpro.eu:8080/IoannisGaitanoglou/NmHEiRWChf/56204
 
+
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/HRT%201.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt1
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/htv2-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 2[/COLOR] HD
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt2
+#EXTINF:-1 tvg- logo="https://epg.serbianforum.org/logo_znaci/Nova%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1 tvg-ID="HRT 1" tvg-name="HRT 1" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
+https://tv.si/ts/HRT1/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-ID="HRT 2" tvg-name="HRT 2" tvg-logo="https://www.scena.hr/wp-content/uploads/2016/06/HRT-2.jpg" group-title="HRVATSKA",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 2[/COLOR]
+https://tv.si/ts/HRT2/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 1[/COLOR]
+http://195.29.70.67/PLTV/88888888/224/3221226130/04.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/htv2-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 2[/COLOR] HD
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 3[/COLOR]
+http://195.29.70.82/PLTV/88888888/224/3221226280/04.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/hrt4-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 4[/COLOR]
+http://195.29.70.82/PLTV/88888888/224/3221226281/04.m3u8|User-agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="N1 Hrva.ka" tvg-name="N1 Hrva.ka" tvg-logo="http://freeweb.t-2.net/itak/LOGO/N1_Hrvaska.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]N1[/COLOR]
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="N1 Hrva.ka" tvg-name="N1 Hrva.ka" tvg-logo="http://freeweb.t-2.net/itak/LOGO/N1_Hrvaska.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]N1[/COLOR]
+https://tv.si/ts/N1HR/stream_iptv_2000k.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1 tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2016/04/rtb-tv-logo_00000-e1461001636787.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Banovina TV[/COLOR]
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://stream-02.ix7.dailymotion.com/dm/3/x654gen/live-3.m3u8",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Jabuka TV[/COLOR]
+https://epg.serbianforum.org/logo_znaci/Jabuka%20TV.png
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Osjecka%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Osjecka TV[/COLOR]
+https://epg.serbianforum.org/logo_znaci/Osjecka%20TV.png
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Nova%20TV.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Nova TV[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="RTL TV" tvg-name="RTL TV" tvg-logo="http://tvprofil.net/img/kanali-logo/rtl-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL (HR)[/COLOR]
+https://tv.si/ts/RTLHRVATSKA/stream_iptv_2000k.m3u8|User-Agent="VRPC
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="RTL 2 Hrva.ka" tvg-name="RTL 2 Hrva.ka" tvg-logo="http://shrani.si/f/3E/yz/q1CTVwe/rtl2.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL 2 (HR)[/COLOR]
+https://tv.si/ts/RTLHRVATSKA2/stream_iptv_2000k.m3u8|User-Agent="VRPC
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="RTL Kockica" tvg-name="RTL Kockica" tvg-logo="http://nextgen-iptv.com/logo/RTLKockica_HR.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]RTL Kockica (HR)[/COLOR]
+https://vipottbpkstream.vip.hr/Content/vipnet-hls-vmx/Live/Channel(RTL_Kockica)/index.m3u8
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="HRT 3" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="HRT3"tvglogo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]HRT 3[/COLOR]
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="HRT 4" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="HRT 4" tvg-logo="http://tvprofil.net/img/kanali-logo/hrt4-logo.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red] HRT 4[/COLOR]
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8|User-Agent=Mozilla/5.0(WindowsNT6.1)AppleWebKit/537.36(KHTML,likeGecko)Chrome/54.0.2840.99Safari/537.36&mode=12"
+#EXTINF:-1 group-title="Hrva.ki" tvg-id="SlavonskaTV" tvg-name="Slavonska TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Hr: Slavonska TV" tvg-logo="http://boomtv.club/logo/slavonska.png",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Slavonska Tv (HR)[/COLOR]
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:-1 tvg-logo="http://makarska-post.com/wp-content/uploads/2014/07/LOGO-ZA-SLANJE-TZM1.jpg",[COLOR silver]Hrvatska>[/COLOR][COLOR red]Makarska>[/COLOR] live cam
+http://146.185.16.10:1935/makarska/makarska.stream/playlist.m3u8
+#EXTINF:-1,[COLOR silver]Hrvatska>[/COLOR][COLOR red]Trend TV (hr-karlovac)[/COLOR]
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,[COLOR gold].....[/COLOR][COLOR blue]Lista 1[/COLOR][COLOR gold].....[/COLOR]
+http://lista 2.tk:8000/peperutka3366/2@4aw5r41r4t6/5135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: BANOVINA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134370
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134372
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65444
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65245
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65246
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65244
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/117256
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: JABUKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134128
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Jugoton TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65276
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: LAUDATO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156660
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156661
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156662
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156663
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MTV Adria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/109562
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: N1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134140
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134380
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Nova TV HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210377
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210861
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: OSJECKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/143783
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/146078
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134381
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL KOCKICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134382
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134383
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210863
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134384
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SLAVONSKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210864
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SRCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134129
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/197378
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Vinkovacka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134134
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Z1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/197385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR gold].....[/COLOR][COLOR lime]Lista 2[/COLOR][COLOR gold].....[/COLOR]
+http://lista 2.tk:8000/peperutka3366/2@4aw5r41r4t6/5135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: BANOVINA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134370
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134372
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/65444
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/65245
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/65246
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/65244
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/117256
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: JABUKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134128
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Jugoton TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/65276
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: LAUDATO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/156660
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/156661
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/156662
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/156663
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MTV Adria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/109562
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: N1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134140
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134380
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Nova TV HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/210377
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/210861
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: OSJECKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/143783
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/146078
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134381
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL KOCKICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134382
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134383
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/210863
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134384
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SLAVONSKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/210864
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SRCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134129
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/197378
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Vinkovacka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/134134
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Z1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/SYZ0xKaN9j/5wYmBkuWld/197385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR gold].....[/COLOR][COLOR red]Lista 3[/COLOR][COLOR gold].....[/COLOR]
+http://lista 2.tk:8000/peperutka3366/2@4aw5r41r4t6/5135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: BANOVINA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134370
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134372
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65444
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65245
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65246
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65244
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: HRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/117256
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: JABUKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134128
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Jugoton TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/65276
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: LAUDATO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156660
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156661
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156662
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MaxCRO Select 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/156663
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: MTV Adria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/109562
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: N1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134140
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134380
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Nova TV HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210377
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: NOVA World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210861
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: OSJECKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/143783
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/146078
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134381
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL KOCKICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134382
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134383
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210863
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: RTL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134384
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SLAVONSKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/210864
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: SRCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134129
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/197378
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Vinkovacka TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/134134
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg",HR: Z1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://dibo.live:8080/pk10291/579365/197385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR gold].....[/COLOR][COLOR magenta]Lista 4[/COLOR][COLOR gold].....[/COLOR]
+http://lista 2.tk:8000/peperutka3366/2@4aw5r41r4t6/5135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26200
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", DOMA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26199
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26198
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26197
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26196
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26195
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26194
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", N1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26193
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26192
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", NOVA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26191
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", OSJECKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26190
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26189
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26188
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26187
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26186
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26185
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", TV BANOVINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26184
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR gold].....[/COLOR][COLOR pink]Lista 5[/COLOR][COLOR gold].....[/COLOR]
+http://lista 2.tk:8000/peperutka3366/2@4aw5r41r4t6/5135
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26200
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", DOMA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26199
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26198
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26197
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26196
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26195
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", HRT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26194
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", N1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26193
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26192
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", NOVA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26191
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", OSJECKA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26190
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26189
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26188
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26187
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26186
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", RTL PASSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26185
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/7b/45/667b45831280faa176142198aeb43912.jpg", TV BANOVINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GreenIPTV ;url=http://www.sansat.net:25461/7989220643/7989220643/26184
