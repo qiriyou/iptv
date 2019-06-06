@@ -1,111 +1,93 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC1+tv+logo.png" group-title="Serbia",RTS 1 TV HD  SR
-http://195.181.169.152:8080/SERBIA/RTS_1/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="RTS 2 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC2+TV+logo.png" group-title="Serbia",RTS 2 TV HD  SR
-http://195.181.169.152:8080/SERBIA/RTS_2/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-
-#EXTINF:-1 tvg-id="" tvg-name="RTS 3 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PTC3+TV+logo.png" group-title="Serbia",RTS 3 TV HD  SR
-http://195.181.169.152:8080/SERBIA/RTS_3/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_1 TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+TV+LOGO.jpg" group-title="Serbia",PINK_1 TV HD  SR
-
-http://195.181.169.152:8080/SERBIA/PINK_1/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5 
-#EXTINF:-1 tvg-id="" tvg-name="PINK 2 (RS)" tvg-logo="https://s3.amazonaws.com/ok2logo/PINK2+tv+logo.jpg" group-title="BALKANS",PINK 2 (RS)
-http://195.181.169.152:8080/SERBIA/PINK_2/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_3TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK3+info+tv+logo.png" group-title="Serbia",PINK_3 TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_3/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_WESTERN TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWestern_SRB.png" group-title="Serbia",PINK_WESTERN TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_WESTERN/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_ACTION TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+ACTION+tv+logo.jpg" group-title="Serbia",PINK_ACTION TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_ACTION/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_PREMIUM TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+PREMIUM+tv+logo.jpg" group-title="Serbia",PINK_PREMIUM TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_PREMIUM/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_ZABAVA TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkZabava_SRB.png" group-title="Serbia",PINK_ZABAVA TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_ZABAVA/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_HORROR  TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkHorror_SRB.png" group-title="Serbia",PINK_HORROR TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_HORROR/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_COMEDY TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkComedy_SRB.png" group-title="Serbia",PINK_COMEDY TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_COMEDY/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5 
-#EXTINF:-1 tvg-id="" tvg-name="PINK_WORLD TV HD " tvg-logo="http://nextgen-iptv.com/logo/PinkWorld_SRB.png" group-title="Serbia",PINK_WORLD TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_WORLD/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="PINK_REALITY TV HD " tvg-logo="https://s3.amazonaws.com/ok2logo/PINK+REALITY+tv+logo.png" group-title="Serbia",PINK_REALITY TV HD  SR
-http://195.181.169.152:8080/SERBIA/PINK_REALITY/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR TV HD " tvg-logo="" group-title="Serbia",CINESTAR TV HD  SR
-http://195.181.169.152:8080/CROATIA/CINESTAR/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="CINESTAR  - ACTION TV HD " tvg-logo="" group-title="Serbia",CINESTAR-ACTION TV HD  SR
-http://195.181.169.152:8080/CROATIA/CINESTAR_ACTION/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1 tvg-id="" tvg-name="  CRIME TV HD " tvg-logo="" group-title="Serbia",CRIME TV HD  SR
-http://195.181.169.152:8080/CROATIA/RTL_CRIME/mpegts?token=ADM1-1559016259-a3a3d1fe4e8d74f8c259eb37d69b7609e2dca9b5
-#EXTINF:-1,OBN
-http://85.0.26.89:3000/play/xxOBNxx
-#EXTINF:-1,RTRS plus
-http://85.0.26.89:3000/play/xxRTRSPLUSxx
-#EXTINF:-1,Sky Cinema Hits
-http://85.0.26.89:3000/play/xxcSkyHitscxx
-#EXTINF:-1,YU Planet
-http://85.0.26.89:3000/play/xxYUPlanetxx
-#EXTINF:-1,SIXX
-http://85.0.26.89:3000/play/xxSIXXxx
-#EXTINF:-1,Sky Sport 2
-http://85.0.26.89:3000/play/xxcSkySport2cxx
-#EXTINF:-1,Sky Sport Bundesliga 4
-http://85.0.26.89:3000/play/xxcSkyLiga4cxx
-#EXTINF:-1,EWTN katholisches TV
-http://85.0.26.89:3000/play/xxEWTNkatholischesTVxx
-#EXTINF:-1,Sky Sport Bundesliga 3
-http://85.0.26.89:3000/play/xxcSkyLiga3cxx
-#EXTINF:-1,N24 DOKU
-http://85.0.26.89:3000/play/xxN24DOKUxx
-#EXTINF:-1,Disney Channel
-http://85.0.26.89:3000/play/xxDisneyChannelxx
-#EXTINF:-1,Sky Cinema Family HD
-http://85.0.26.89:3000/play/xxcSkyFamilycxx
-#EXTINF:-1,CGTN F
-http://85.0.26.89:3000/play/a045
-#EXTINF:-1,TV5MONDE EUROPE
-http://85.0.26.89:3000/play/xxTV5MONDEEUROPExx
-#EXTINF:-1,RTK-1 SAT KOSOVO
-http://85.0.26.89:3000/play/xxRTK1SATKOSOVOxx
-#EXTINF:-1,QVC Style
-http://85.0.26.89:3000/play/xxQVCStylexx
-#EXTINF:-1,Russia Today
-http://85.0.26.89:3000/play/xxRussiaTodayxx
-#EXTINF:-1,Aurora TV
-http://85.0.26.89:3000/play/xxAuroraTVxx
-#EXTINF:-1,BCTV Europe
-http://85.0.26.89:3000/play/SSBCTVEUROPESS
-#EXTINF:-1,France 24 (en Français)
-http://85.0.26.89:3000/play/xxFRANCE24frxx
-#EXTINF:-1,TLC
-http://85.0.26.89:3000/play/xxTLCxx
-#EXTINF:-1,CGTN Documentary
-http://85.0.26.89:3000/play/xxCGTNDocumentaryxx
-#EXTINF:-1,BN Music
-http://85.0.26.89:3000/play/xxBNMUSICxx
-#EXTINF:-1,France 24 (in Arabic)
-http://85.0.26.89:3000/play/xxFrance24arxx
-#EXTINF:-1,TRT World HD
-http://85.0.26.89:3000/play/xxTRTWorldHDxx
-#EXTINF:-1,HAYAT FOLK
-http://85.0.26.89:3000/play/xxHAYATFOLKxx
-#EXTINF:-1,CGTN
-http://85.0.26.89:3000/play/xxCGTNxx
-#EXTINF:-1,Service IPKO A03
-http://85.0.26.89:3000/play/a03u
-#EXTINF:-1,RTRS RRS
-http://85.0.26.89:3000/play/xxRTRSRRSxx
-#EXTINF:-1,France 24 (in English)
-http://85.0.26.89:3000/play/xxFrance24enxx
-#EXTINF:-1,HAYAT MUSIC
-http://85.0.26.89:3000/play/xxHAYATMUSICxx
-#EXTINF:-1,ANIXE SD
-http://85.0.26.89:3000/play/xxANIXESDxx
-#EXTINF:-1,PRO TV Int
-http://85.0.26.89:3000/play/xxPROTVIntxx
-#EXTINF:-1,Top News
-http://85.0.26.89:3000/play/xxTOPNEWSxx
-#EXTINF:-1,BCTV Europe
-http://85.0.26.89:3000/play/xxBCTVEuropexx
+.#EXTM3U
 
 
+
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_rts_svet.png",[COLOR teal]RTS Svet[/COLOR]
+https://tv.si/ts/RTS/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%20HD.png",[COLOR teal]RTS 1[/COLOR]
+http://5.254.16.98:8080/stream/?fw=true&route=srv-04&rule=null&sp=xtim&channel=rts1&stream=orig&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=http
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%201.png",[COLOR teal]RTS 1[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
+
+
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%202.png",[COLOR teal]RTS 2[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%202.png",[COLOR teal]RTS 2[/COLOR]
+http://5.254.16.98:8080/stream/?fw=true&route=srv-04&rule=null&sp=xtim&channel=rts2&stream=orig&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=http
+
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%203.png",[COLOR teal]RTS 3[/COLOR]
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/N1.png",[COLOR teal]N1[/COLOR]
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+ 
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/O2%20TV.png",[COLOR teal]O2/B92[/COLOR]
+http://mobilesrbija.gcdn.co/livecacheloworigin/b92.stream/chunklist.m3u8?md5=HtBSTDqkE_SJ8wzlLlG3TA&expires=1559861974
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Prva.png",[COLOR teal]Prva[/COLOR]
+http://mobilesrbija.gcdn.co/livecacheloworigin/prva.stream/chunklist.m3u8?md5=ErTDxv0qP_W_bKfoL88Ofg&expires=1559861974
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Prva.png",[COLOR teal]Prva[/COLOR]
+http://62.210.205.41:8080/PRVA/mpegts
+ 
+#EXTINF:-1 tvg-logo="http://balkanius.net/logo/srb/Happy_new_logo.png",[COLOR teal]happy TV[/COLOR]
+http://mobilesrbija.gcdn.co/livecacheloworigin/happy.stream/chunklist.m3u8?md5=yBBd1K_P-RWKJ6hJ2Aj9-A&expires=1559861974
+
+#EXTINF:-1 tvg-logo="http://www.razvoj-karijere.com/media/images/o/Insajder.png",[COLOR teal]Insajder[/COLOR]
+http://mobilesrbija.gcdn.co/livecacheloworigin/insajder.stream/chunklist.m3u8?md5=9Lu88N-0MvUzAVqW1vt7SQ&expires=1559861974
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/TV%20Bor.png",[COLOR teal]TV BOR[/COLOR]
+http://mobilesrbija.gcdn.co/livecacheloworigin/rtvbor.stream/chunklist.m3u8?md5=x2PCgyvf504K3ruFxHBgqQ&expires=1559861974
+ 
+ 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://sbb.rs/Picture/64988/jpeg/top-ns.jpg",[COLOR teal]Nova S[/COLOR]
+https://tinyurl.com/ProfiMedia1
+
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Studio%20B.png",[COLOR teal]Studio B[/COLOR]
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/KCN%201.png",[COLOR teal]K:CN[/COLOR]1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/KCN%202.png",[COLOR teal]K:CN[/COLOR]2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/KCN%203.png",[COLOR teal]K:CN[/COLOR]3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/TV%20Leskovac.png",[COLOR teal]Leskovac[/COLOR]
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+
+
+#EXTINF:-1 tvg-logo="http://www.tvhram.rs/layout/img/logo.png",[COLOR teal]HramTv[/COLOR]
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://radio-uzivo.square7.net/uploads/thumbs/ab4217544-1.jpg",[COLOR teal]M Kanal Paracin[/COLOR]
+http://176.67.210.1:8888/
+
+ 
+ 
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTCG%201.png",[COLOR teal]RTCG SAT[/COLOR] CG
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/777.png",[COLOR teal]777[/COLOR] CG
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
