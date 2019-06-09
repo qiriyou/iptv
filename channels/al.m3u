@@ -1,4 +1,103 @@
 #EXTM3U
+
+
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=1803
+EXTINF:-1,Kujtesa 1
+http://51.15.5.152:99/live/TV/SPORT/108.ts
+#EXTVLCOPT:http-user-agent=1803
+EXTINF:-1,ALB HUMOR
+http://51.15.5.152:99/live/TV/SPORT/99.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,ALSAT M 2
+http://51.15.5.152:99/live/TV/SPORT/96.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,gold 2
+http://51.15.5.152:99/live/TV/SPORT/73.ts
+
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,gold 1
+http://51.15.5.152:99/live/TV/SPORT/72.ts
+#EXTVLCOPT:http-user-agent=1803
+
+#EXTINF:-1,top channel
+http://51.15.5.152:99/live/TV/SPORT/68.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,KLAN PLUS
+http://51.15.5.152:99/live/TV/SPORT/67.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,Klan Kosova
+http://51.15.5.152:99/live/TV/SPORT/69.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,klan HD
+http://51.15.5.152:99/live/TV/SPORT/66.ts
+
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,Super Sport 5
+http://51.15.5.152:99/live/TV/SPORT/10.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,Super Sport 4
+http://51.15.5.152:99/live/TV/SPORT/9.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,Super Sport 3
+http://51.15.5.152:99/live/TV/SPORT/8.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,Super Sport 2
+http://51.15.5.152:99/live/TV/SPORT/7.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,super sport 1
+http://51.15.5.152:99/live/TV/SPORT/6.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SS6
+http://51.15.5.152:99/live/TV/SPORT/21.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP WESTERN
+http://51.15.5.152:99/live/TV/SPORT/49.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP TOM AND JERRY
+http://51.15.5.152:99/live/TV/SPORT/48.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP KOMEDI
+http://51.15.5.152:99/live/TV/SPORT/47.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP HORROR
+http://51.15.5.152:99/live/TV/SPORT/46.ts
+#EXTINF:-1,SHQIP HINDI
+http://51.15.5.152:99/live/TV/SPORT/45.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP FILM
+http://51.15.5.152:99/live/TV/SPORT/44.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP FANTASY
+http://51.15.5.152:99/live/TV/SPORT/43.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP CINEMA
+http://51.15.5.152:99/live/TV/SPORT/42.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,SHQIP AKSION
+http://51.15.5.152:99/live/TV/SPORT/41.ts
+#EXTVLCOPT:http-user-agent=1803
+
+#EXTINF:-1,kujtesa 2
+http://51.15.5.152:99/live/TV/SPORT/2.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,CHELSEA TV
+http://51.15.5.152:99/live/TV/SPORT/24.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,BEIN SPORT 7
+http://51.15.5.152:99/live/TV/SPORT/17.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,BEIN SPORT 6
+http://51.15.5.152:99/live/TV/SPORT/16.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,BEIN SPORT 5
+http://51.15.5.152:99/live/TV/SPORT/15.ts
+#EXTVLCOPT:http-user-agent=1803
+#EXTINF:-1,BEIN SPORT 4
+http://51.15.5.152:99/live/TV/SPORT/14.ts
+
+#EXTM3U
 #EXTINF:-1,RTK 1
 http://185.186.81.58:5432/play/a0e7
 #EXTINF:-1,RTK 1 HD
