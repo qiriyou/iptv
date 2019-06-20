@@ -91,3 +91,332 @@ http://176.67.210.1:8888/
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/777.png",[COLOR teal]777[/COLOR] CG
 http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,EX-YU: INTV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/216283
+#EXTINF:0,EX-YU: 24 KITCHEN
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65251
+#EXTINF:0,EX-YU: 24 Vesti
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65252
+#EXTINF:0,EX-YU: Al Jazeera Balkans
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160865
+#EXTINF:0,EX-YU: Alfa
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65255
+#EXTINF:0,EX-YU: Alternativa TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/124463
+#EXTINF:0,EX-YU: AMC
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96070
+#EXTINF:0,EX-YU: ANIMAL PLANET HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65392
+#EXTINF:0,EX-YU: AURORA TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155829
+#EXTINF:0,EX-YU: AXN HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65458
+#EXTINF:0,EX-YU: AXN SPIN
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/89479
+#EXTINF:0,EX-YU: B 92
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65409
+#EXTINF:0,EX-YU: Baby TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/175251
+#EXTINF:0,EX-YU: Balkan Film
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206503
+#EXTINF:0,EX-YU: Balkan Folk
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206501
+#EXTINF:0,EX-YU: Balkan Sci-Fi
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206504
+#EXTINF:0,EX-YU: Balkanika
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212854
+#EXTINF:0,EX-YU: Banovina TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96073
+#EXTINF:0,EX-YU: BHT HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212856
+#EXTINF:0,EX-YU: BN Music
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65412
+#EXTINF:0,EX-YU: BN SAT
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212858
+#EXTINF:0,EX-YU: CBS Reality
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208431
+#EXTINF:0,EX-YU: Cinemania
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/210359
+#EXTINF:0,EX-YU: CineMax 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/210534
+#EXTINF:0,EX-YU: CINEMAX 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65461
+#EXTINF:0,EX-YU: CineStar Aktion
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212859
+#EXTINF:0,EX-YU: CineStar Fan
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212860
+#EXTINF:0,EX-YU: CINESTAR TV HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/78442
+#EXTINF:0,EX-YU: CMC HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65393
+#EXTINF:0,EX-YU: Comedy Central Extra
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65261
+#EXTINF:0,EX-YU: Crime & Investigation HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65262
+#EXTINF:0,EX-YU: CRO MAX SELECT 3 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208503
+#EXTINF:0,EX-YU: Da Vinci Learning
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65263
+#EXTINF:0,EX-YU: Discovery Channel
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65273
+#EXTINF:0,EX-YU: Discovery Science
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206524
+#EXTINF:0,EX-YU: Discovery Turbo Xtra
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/134403
+#EXTINF:0,EX-YU: DIVA
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155855
+#EXTINF:0,EX-YU: DM Sat
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65414
+#EXTINF:0,EX-YU: Dma TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/153140
+#EXTINF:0,EX-YU: Domatv HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208441
+#EXTINF:0,EX-YU: Duga TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212864
+#EXTINF:0,EX-YU: E! HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65389
+#EXTINF:0,EX-YU: ERA TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65265
+#EXTINF:0,EX-YU: EUROSPORT 1 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65447
+#EXTINF:0,EX-YU: EUROSPORT 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65448
+#EXTINF:0,EX-YU: Face TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65266
+#EXTINF:0,EX-YU: Federalna TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65395
+#EXTINF:0,EX-YU: Fight box FHD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65267
+#EXTINF:0,EX-YU: Fight Channel
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160877
+#EXTINF:0,EX-YU: FILM BOX Extra
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65456
+#EXTINF:0,EX-YU: Film box Plus
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96083
+#EXTINF:0,EX-YU: Fox Crime HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65468
+#EXTINF:0,EX-YU: Fox HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65287
+#EXTINF:0,EX-YU: Fox Life HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65469
+#EXTINF:0,EX-YU: Fox Movies HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65470
+#EXTINF:0,EX-YU: GRAND 2 TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65297
+#EXTINF:0,EX-YU: Grand TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65396
+#EXTINF:0,EX-YU: Happy Parovi 24/7
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/215794
+#EXTINF:0,EX-YU: Happy TV HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65269
+#EXTINF:0,EX-YU: Happy TV PAROVI LIVE
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212865
+#EXTINF:0,EX-YU: HAWA TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65368
+#EXTINF:0,EX-YU: Hayat HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212867
+#EXTINF:0,EX-YU: HAYAT PLUS
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/215795
+#EXTINF:0,EX-YU: Hayatovci
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/215796
+#EXTINF:0,EX-YU: HBO 1 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208445
+#EXTINF:0,EX-YU: HBO 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65452
+#EXTINF:0,EX-YU: HBO 3 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65450
+#EXTINF:0,EX-YU: HBO family
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212309
+#EXTINF:0,EX-YU: HBO GO
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/214297
+#EXTINF:0,EX-YU: History 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65271
+#EXTINF:0,EX-YU: HISTORY CHANNEL
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65243
+#EXTINF:0,EX-YU: HIT TELEVIZIJA
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155830
+#EXTINF:0,EX-YU: IDJ Digital
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155831
+#EXTINF:0,EX-YU: Investigation Discovery
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/126327
+#EXTINF:0,EX-YU: Istok TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65274
+#EXTINF:0,EX-YU: K3
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/124452
+#EXTINF:0,EX-YU: KCN 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212870
+#EXTINF:0,EX-YU: KCN 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212871
+#EXTINF:0,EX-YU: KINO TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/192670
+#EXTINF:0,EX-YU: Klasik TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208451
+#EXTINF:0,EX-YU: KREATOR TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/192671
+#EXTINF:0,EX-YU: LOV I RIBOLOV HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65391
+#EXTINF:0,EX-YU: M1 Film
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/117259
+#EXTINF:0,EX-YU: Mini TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65293
+#EXTINF:0,EX-YU: MlaveTv
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208454
+#EXTINF:0,EX-YU: Movies Premiere
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208498
+#EXTINF:0,EX-YU: Movies Smile
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/208497
+#EXTINF:0,EX-YU: MPT 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65299
+#EXTINF:0,EX-YU: MPT 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/153293
+#EXTINF:0,EX-YU: MTV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160890
+#EXTINF:0,EX-YU: MTV DANCE
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206659
+#EXTINF:0,EX-YU: mtv Igman
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65301
+#EXTINF:0,EX-YU: Music TOP
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65278
+#EXTINF:0,EX-YU: NAT GEO HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65387
+#EXTINF:0,EX-YU: NAT GEO Wild HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65303
+#EXTINF:0,EX-YU: Nickelodon
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65296
+#EXTINF:0,EX-YU: NOVA TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/117265
+#EXTINF:0,EX-YU: O2 TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65418
+#EXTINF:0,EX-YU: OBN HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65413
+#EXTINF:0,EX-YU: OTV Valentino
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/210539
+#EXTINF:0,EX-YU: PICKBOX 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212306
+#EXTINF:0,EX-YU: PICKBOX 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212307
+#EXTINF:0,EX-YU: PICKBOX 3
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212308
+#EXTINF:0,EX-YU: Pikaboo
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155822
+#EXTINF:0,EX-YU: Prva Max
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212876
+#EXTINF:0,EX-YU: Prva Plus
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212877
+#EXTINF:0,EX-YU: Prva World
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212878
+#EXTINF:0,EX-YU: PRVA.RS
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/206497
+#EXTINF:0,EX-YU: PTC 1 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65436
+#EXTINF:0,EX-YU: PTC 2 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/192653
+#EXTINF:0,EX-YU: PTC CBIT
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65280
+#EXTINF:0,EX-YU: PTPC
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65433
+#EXTINF:0,EX-YU: PTPC Plus
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96104
+#EXTINF:0,EX-YU: PTV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65427
+#EXTINF:0,EX-YU: Repiza 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155871
+#EXTINF:0,EX-YU: Roma TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65333
+#EXTINF:0,EX-YU: RT Vojvodina 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65312
+#EXTINF:0,EX-YU: RTL 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65249
+#EXTINF:0,EX-YU: RTL Cocica
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65422
+#EXTINF:0,EX-YU: RTL CRIME
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65421
+#EXTINF:0,EX-YU: RTL Living
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65420
+#EXTINF:0,EX-YU: RTL PASSION
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/134426
+#EXTINF:0,EX-YU: RTS 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/192651
+#EXTINF:0,EX-YU: RTS 2 FHD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65438
+#EXTINF:0,EX-YU: RTS 3
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155850
+#EXTINF:0,EX-YU: RTV Novi Pazar
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/149020
+#EXTINF:0,EX-YU: Sandzak TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65316
+#EXTINF:0,EX-YU: Sci-Fi
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/134428
+#EXTINF:0,EX-YU: Shutel TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65317
+#EXTINF:0,EX-YU: Sitel 2
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/175235
+#EXTINF:0,EX-YU: Sitel 3 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212880
+#EXTINF:0,EX-YU: Sitel HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65318
+#EXTINF:0,EX-YU: SLAVONSKA TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/117274
+#EXTINF:0,EX-YU: Slovenia TV 1 HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65320
+#EXTINF:0,EX-YU: SOS Plus
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/207350
+#EXTINF:0,EX-YU: Sport Klub HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/212882
+#EXTINF:0,EX-YU: Sportskatv
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/134438
+#EXTINF:0,EX-YU: Studio B
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96108
+#EXTINF:0,EX-YU: super kids
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160909
+#EXTINF:0,EX-YU: SUPER STAR TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/220177
+#EXTINF:0,EX-YU: Telma
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65325
+#EXTINF:0,EX-YU: TLC
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/153136
+#EXTINF:0,EX-YU: TNT KIDS
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155823
+#EXTINF:0,EX-YU: Travel Channel
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/96112
+#EXTINF:0,EX-YU: TRING SPORT NEWS
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/111647
+#EXTINF:0,EX-YU: TV 1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65417
+#EXTINF:0,EX-YU: TV 5
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65277
+#EXTINF:0,EX-YU: TV 6
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/210391
+#EXTINF:0,EX-YU: TV 1000
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65328
+#EXTINF:0,EX-YU: TV Banovina
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65331
+#EXTINF:0,EX-YU: TV Glas Drine
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65334
+#EXTINF:0,EX-YU: TV Mini
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160919
+#EXTINF:0,EX-YU: TV Sehara
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65372
+#EXTINF:0,EX-YU: TV Slon
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65378
+#EXTINF:0,EX-YU: TV Sonce
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65373
+#EXTINF:0,EX-YU: Ultra TV
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/211162
+#EXTINF:0,EX-YU: USK HD
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/207161
+#EXTINF:0,EX-YU: VAVOOM KIDS
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/155888
+#EXTINF:0,EX-YU: VH1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/160926
+#EXTINF:0,EX-YU: VIASAT EXPLORER
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/154035
+#EXTINF:0,EX-YU: VIASAT HISTORY
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/154036
+#EXTINF:0,EX-YU: Viasat nature
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65375
+#EXTINF:0,EX-YU: Z1
+http://bestiptv.info:8080/SYZ0xKaN9j/5wYmBkuWld/65377
+
