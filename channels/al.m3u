@@ -1,635 +1,216 @@
-#EXTM3U
-#EXTINF:-1,########## Albania ##########
-http://mytv.fun:8080/portal11/73trqqawnj/4754
-#EXTINF:-1,RTK 1 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4844
-#EXTINF:-1,RTK 1 (backup) AL
-http://mytv.fun:8080/portal11/73trqqawnj/14125
-#EXTINF:-1,RTK 2 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4843
-#EXTINF:-1,RTK 2 (backup) AL
-http://mytv.fun:8080/portal11/73trqqawnj/14124
-#EXTINF:-1,RTK 3 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4842
-#EXTINF:-1,RTK 3 (backup) AL
-http://mytv.fun:8080/portal11/73trqqawnj/14123
-#EXTINF:-1,RTK 4 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4841
-#EXTINF:-1,RTK 4 (backup) AL
-http://mytv.fun:8080/portal11/73trqqawnj/14122
-#EXTINF:-1,TVSH AL
-http://mytv.fun:8080/portal11/73trqqawnj/9946
-#EXTINF:-1,RTSH 1 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4849
-#EXTINF:-1,RTSH 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10105
-#EXTINF:-1,RTSH 3 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/14128
-#EXTINF:-1,RTSH Shqip AL
-http://mytv.fun:8080/portal11/73trqqawnj/14129
-#EXTINF:-1,RTSH Muzik AL
-http://mytv.fun:8080/portal11/73trqqawnj/14130
-#EXTINF:-1,RTSH Sport HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/14017
-#EXTINF:-1,RTV 21 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9959
-#EXTINF:-1,RTV 21 EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9979
-#EXTINF:-1,RTV 21 Toksor AL
-http://mytv.fun:8080/portal11/73trqqawnj/10018
-#EXTINF:-1,RTV 21 Maqedonia AL
-http://mytv.fun:8080/portal11/73trqqawnj/4839
-#EXTINF:-1,RTV 21 Mix HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4840
-#EXTINF:-1,RTV 21 Plus AL
-http://mytv.fun:8080/portal11/73trqqawnj/9958
-#EXTINF:-1,RTV 21 Popullore HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/14016
-#EXTINF:-1,RTV 21 Junior AL
-http://mytv.fun:8080/portal11/73trqqawnj/9956
-#EXTINF:-1,KTV FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4838
-#EXTINF:-1,KTV Toksor FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4837
-#EXTINF:-1,KTV EST FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9983
-#EXTINF:-1,Top Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/4856
-#EXTINF:-1,Top Channel HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/21321
-#EXTINF:-1,Klan TV FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4855
-#EXTINF:-1,Klan TV HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9985
-#EXTINF:-1,Klan Kosova Toksor AL
-http://mytv.fun:8080/portal11/73trqqawnj/10017
-#EXTINF:-1,Klan KS EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9984
-#EXTINF:-1,Klan Kosova AL
-http://mytv.fun:8080/portal11/73trqqawnj/4846
-#EXTINF:-1,Klan Plus FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4847
-#EXTINF:-1,Vizion FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9955
-#EXTINF:-1,Vizion Plus FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10016
-#EXTINF:-1,Vizion Plus Toksor FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10015
-#EXTINF:-1,Vizion Plus EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9975
-#EXTINF:-1,First TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4834
-#EXTINF:-1,First Channel TV EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9986
-#EXTINF:-1,First Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/9948
-#EXTINF:-1,Alsat M AL
-http://mytv.fun:8080/portal11/73trqqawnj/4836
-#EXTINF:-1,Alsat M (2) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10014
-#EXTINF:-1,Alsat M Usa Time AL
-http://mytv.fun:8080/portal11/73trqqawnj/10172
-#EXTINF:-1,Alsat M EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9987
-#EXTINF:-1,TV Shenja AL
-http://mytv.fun:8080/portal11/73trqqawnj/4835
-#EXTINF:-1,Shenja TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/7880
-#EXTINF:-1,TV Koha AL
-http://mytv.fun:8080/portal11/73trqqawnj/10075
-#EXTINF:-1,TV 2 Gostivar AL
-http://mytv.fun:8080/portal11/73trqqawnj/10068
-#EXTINF:-1,TV Era AL
-http://mytv.fun:8080/portal11/73trqqawnj/9949
-#EXTINF:-1,ERA TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10063
-#EXTINF:-1,TV Dukagjini HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9954
-#EXTINF:-1,RTV Zeri I Kosoves AL
-http://mytv.fun:8080/portal11/73trqqawnj/9923
-#EXTINF:-1,Channel ONE AL
-http://mytv.fun:8080/portal11/73trqqawnj/4832
-#EXTINF:-1,TV Diaspora AL
-http://mytv.fun:8080/portal11/73trqqawnj/10066
-#EXTINF:-1,Plus AL
-http://mytv.fun:8080/portal11/73trqqawnj/4816
-#EXTINF:-1,RTV Presheva AL
-http://mytv.fun:8080/portal11/73trqqawnj/10065
-#EXTINF:-1,RTV Sharri HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9922
-#EXTINF:-1,A1 Shqiptare AL
-http://mytv.fun:8080/portal11/73trqqawnj/9930
-#EXTINF:-1,Tribuna Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/9950
-#EXTINF:-1,AV TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10062
-#EXTINF:-1,Jug TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/9999
-#EXTINF:-1,Star Shkodra AL
-http://mytv.fun:8080/portal11/73trqqawnj/9998
-#EXTINF:-1,Star TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10116
-#EXTINF:-1,Tema TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4716
-#EXTINF:-1,TV Besa AL
-http://mytv.fun:8080/portal11/73trqqawnj/9934
-#EXTINF:-1,TV Mitrovica AL
-http://mytv.fun:8080/portal11/73trqqawnj/9951
-#EXTINF:-1,Cameria TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10040
-#EXTINF:-1,Dibra TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10208
-#EXTINF:-1,TV Kontakt AL
-http://mytv.fun:8080/portal11/73trqqawnj/10057
-#EXTINF:-1,TV Kopliku HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10212
-#EXTINF:-1,TV Kutia AL
-http://mytv.fun:8080/portal11/73trqqawnj/10070
-#EXTINF:-1,TV Rozafa AL
-http://mytv.fun:8080/portal11/73trqqawnj/10069
-#EXTINF:-1,TV Syri Vision AL
-http://mytv.fun:8080/portal11/73trqqawnj/10071
-#EXTINF:-1,Vali TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10174
-#EXTINF:-1,Zjarr TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4714
-#EXTINF:-1,Sole TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/9964
-#EXTINF:-1,MPT2 Sat AL
-http://mytv.fun:8080/portal11/73trqqawnj/10013
-#EXTINF:-1,24 Kitchen AL
-http://mytv.fun:8080/portal11/73trqqawnj/4808
-#EXTINF:-1,English Club TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10200
-#EXTINF:-1,Nick HD (English Audio) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10095
-#EXTINF:-1,ABC News AL
-http://mytv.fun:8080/portal11/73trqqawnj/4854
-#EXTINF:-1,ABC News EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9977
-#EXTINF:-1,ORA News HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4853
-#EXTINF:-1,News 24 AL
-http://mytv.fun:8080/portal11/73trqqawnj/10005
-#EXTINF:-1,Top News AL
-http://mytv.fun:8080/portal11/73trqqawnj/4851
-#EXTINF:-1,A1 Report AL
-http://mytv.fun:8080/portal11/73trqqawnj/4852
-#EXTINF:-1,Kanali 7 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4848
-#EXTINF:-1,Top News HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10007
-#EXTINF:-1,Arta TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10204
-#EXTINF:-1,Channel 7 AL
-http://mytv.fun:8080/portal11/73trqqawnj/10175
-#EXTINF:-1,News 24 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10006
-#EXTINF:-1,TV Arta AL
-http://mytv.fun:8080/portal11/73trqqawnj/10072
-#EXTINF:-1,Report TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10002
-#EXTINF:-1,Kafeneja Jone 24/7 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10192
-#EXTINF:-1,KS Serial AL
-http://mytv.fun:8080/portal11/73trqqawnj/10019
-#EXTINF:-1,KS Humor AL
-http://mytv.fun:8080/portal11/73trqqawnj/10020
-#EXTINF:-1,Alb Comedy HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4750
-#EXTINF:-1,Alb Humor 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4748
-#EXTINF:-1,Alb Humor 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4747
-#EXTINF:-1,Lugina Serial HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10061
-#EXTINF:-1,Stupcat Egjelli 24/7 AL
-http://mytv.fun:8080/portal11/73trqqawnj/10107
-#EXTINF:-1,Amol TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10114
-#EXTINF:-1,RTV Pendimi AL
-http://mytv.fun:8080/portal11/73trqqawnj/624941
-#EXTINF:-1,RTV Iliria HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10044
-#EXTINF:-1,KS Muzik HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9920
-#EXTINF:-1,Top Estrada TV HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10009
-#EXTINF:-1,Real RTV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10083
-#EXTINF:-1,Folklorit AL
-http://mytv.fun:8080/portal11/73trqqawnj/10103
-#EXTINF:-1,Elrodi TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10121
-#EXTINF:-1,Tirana AL
-http://mytv.fun:8080/portal11/73trqqawnj/4715
-#EXTINF:-1,Alb Hits AL
-http://mytv.fun:8080/portal11/73trqqawnj/10118
-#EXTINF:-1,Tallava HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/16736
-#EXTINF:-1,Qifteli FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10132
-#EXTINF:-1,Alb Folk HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10120
-#EXTINF:-1,BBF AL
-http://mytv.fun:8080/portal11/73trqqawnj/4734
-#EXTINF:-1,City TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10127
-#EXTINF:-1,Zico TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10122
-#EXTINF:-1,Click TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10169
-#EXTINF:-1,Burimi TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10210
-#EXTINF:-1,Dasma TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4732
-#EXTINF:-1,Folk AL
-http://mytv.fun:8080/portal11/73trqqawnj/4736
-#EXTINF:-1,Lugina Popullore AL
-http://mytv.fun:8080/portal11/73trqqawnj/10171
-#EXTINF:-1,MTV Kosova AL
-http://mytv.fun:8080/portal11/73trqqawnj/10125
-#EXTINF:-1,Muzike Hite AL
-http://mytv.fun:8080/portal11/73trqqawnj/10050
-#EXTINF:-1,My Music AL
-http://mytv.fun:8080/portal11/73trqqawnj/10111
-#EXTINF:-1,Supersonic TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10109
-#EXTINF:-1,Syri Blue FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10048
-#EXTINF:-1,STV Folk AL
-http://mytv.fun:8080/portal11/73trqqawnj/4733
-#EXTINF:-1,Tetova Muzike AL
-http://mytv.fun:8080/portal11/73trqqawnj/10180
-#EXTINF:-1,Turbo Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/10113
-#EXTINF:-1,BB11 Muzik HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9919
-#EXTINF:-1,BB11 HD (backup) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10123
-#EXTINF:-1,BBF Music AL
-http://mytv.fun:8080/portal11/73trqqawnj/10104
-#EXTINF:-1,TV SH EST AL
-http://mytv.fun:8080/portal11/73trqqawnj/9976
-#EXTINF:-1,Uskana TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10133
-#EXTINF:-1,Living FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4831
-#EXTINF:-1,Muse AL
-http://mytv.fun:8080/portal11/73trqqawnj/4820
-#EXTINF:-1,National Geographic AL
-http://mytv.fun:8080/portal11/73trqqawnj/4818
-#EXTINF:-1,Travel Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/4817
-#EXTINF:-1,Kino SciFi HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4756
-#EXTINF:-1,Discovery Science AL
-http://mytv.fun:8080/portal11/73trqqawnj/10101
-#EXTINF:-1,Discovery Science FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10043
-#EXTINF:-1,Discovery Showcase FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10093
-#EXTINF:-1,Discovery Turbo Extra AL
-http://mytv.fun:8080/portal11/73trqqawnj/10100
-#EXTINF:-1,Explorer Histori AL
-http://mytv.fun:8080/portal11/73trqqawnj/4813
-#EXTINF:-1,Explorer Natyra AL
-http://mytv.fun:8080/portal11/73trqqawnj/4814
-#EXTINF:-1,Explorer Shkence AL
-http://mytv.fun:8080/portal11/73trqqawnj/4815
-#EXTINF:-1,Tring History AL
-http://mytv.fun:8080/portal11/73trqqawnj/4811
-#EXTINF:-1,Tring Planet AL
-http://mytv.fun:8080/portal11/73trqqawnj/9924
-#EXTINF:-1,Tring World AL
-http://mytv.fun:8080/portal11/73trqqawnj/4812
-#EXTINF:-1,Tring Muse AL
-http://mytv.fun:8080/portal11/73trqqawnj/10086
-#EXTINF:-1,Camel TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10170
-#EXTINF:-1,History Channel HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10042
-#EXTINF:-1,Nat Geo Wild FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10097
-#EXTINF:-1,Sky Histori AL
-http://mytv.fun:8080/portal11/73trqqawnj/4809
-#EXTINF:-1,Sky Shkence AL
-http://mytv.fun:8080/portal11/73trqqawnj/4810
-#EXTINF:-1,Viasat Explorer AL
-http://mytv.fun:8080/portal11/73trqqawnj/10046
-#EXTINF:-1,Viasat Nature FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10045
-#EXTINF:-1,Baby TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4821
-#EXTINF:-1,Junior TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4828
-#EXTINF:-1,Cufo AL
-http://mytv.fun:8080/portal11/73trqqawnj/4827
-#EXTINF:-1,Cufo (Back up) AL
-http://mytv.fun:8080/portal11/73trqqawnj/9973
-#EXTINF:-1,Tring Tring AL
-http://mytv.fun:8080/portal11/73trqqawnj/4826
-#EXTINF:-1,Tring Kids AL
-http://mytv.fun:8080/portal11/73trqqawnj/4825
-#EXTINF:-1,Sofia TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4824
-#EXTINF:-1,Tip TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/4823
-#EXTINF:-1,Alb Anime AL
-http://mytv.fun:8080/portal11/73trqqawnj/4822
-#EXTINF:-1,Ksport Kids AL
-http://mytv.fun:8080/portal11/73trqqawnj/9972
-#EXTINF:-1,Disney Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/10207
-#EXTINF:-1,Disney Junior HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10094
-#EXTINF:-1,Disney XD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10091
-#EXTINF:-1,Bang Bang AL
-http://mytv.fun:8080/portal11/73trqqawnj/4829
-#EXTINF:-1,Alb Kids AL
-http://mytv.fun:8080/portal11/73trqqawnj/10085
-#EXTINF:-1,Boomerang AL
-http://mytv.fun:8080/portal11/73trqqawnj/10216
-#EXTINF:-1,Cartoon Network AL
-http://mytv.fun:8080/portal11/73trqqawnj/10090
-#EXTINF:-1,Cartoon Network HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10092
-#EXTINF:-1,Duck TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/9960
-#EXTINF:-1,Jim Jam (English Audio) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10098
-#EXTINF:-1,Masha dhe Ariu AL
-http://mytv.fun:8080/portal11/73trqqawnj/10186
-#EXTINF:-1,Nick Jr AL
-http://mytv.fun:8080/portal11/73trqqawnj/10217
-#EXTINF:-1,Mimi HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4742
-#EXTINF:-1,Rrokum HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4833
-#EXTINF:-1,Kino Action HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10215
-#EXTINF:-1,Kino Aksion HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4762
-#EXTINF:-1,Kino Comedy AL
-http://mytv.fun:8080/portal11/73trqqawnj/4760
-#EXTINF:-1,Kino Dark HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4757
-#EXTINF:-1,Film Kinema (Despicable Me 3) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10191
-#EXTINF:-1,Kino Drama HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10214
-#EXTINF:-1,Kino Family HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4758
-#EXTINF:-1,Kino Prank HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4755
-#EXTINF:-1,Kino Premiere 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4765
-#EXTINF:-1,Kino Premiere 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4763
-#EXTINF:-1,Kino Premiere 3 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10213
-#EXTINF:-1,Kino Thriller HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4761
-#EXTINF:-1,KS Film Komedi AL
-http://mytv.fun:8080/portal11/73trqqawnj/4773
-#EXTINF:-1,KS Gold 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10024
-#EXTINF:-1,KS Gold 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10023
-#EXTINF:-1,KS Gold 3 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10022
-#EXTINF:-1,KS Gold 4 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10021
-#EXTINF:-1,Film Hits AL
-http://mytv.fun:8080/portal11/73trqqawnj/4805
-#EXTINF:-1,Film Nje AL
-http://mytv.fun:8080/portal11/73trqqawnj/4799
-#EXTINF:-1,Film DY AL
-http://mytv.fun:8080/portal11/73trqqawnj/4798
-#EXTINF:-1,Family HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9929
-#EXTINF:-1,Film Komedi AL
-http://mytv.fun:8080/portal11/73trqqawnj/4803
-#EXTINF:-1,Film Stinet AL
-http://mytv.fun:8080/portal11/73trqqawnj/4797
-#EXTINF:-1,Film Shqip AL
-http://mytv.fun:8080/portal11/73trqqawnj/10087
-#EXTINF:-1,Film Thriller AL
-http://mytv.fun:8080/portal11/73trqqawnj/4802
-#EXTINF:-1,Family HD (Digitalb) AL
-http://mytv.fun:8080/portal11/73trqqawnj/9962
-#EXTINF:-1,Film Aksion AL
-http://mytv.fun:8080/portal11/73trqqawnj/4806
-#EXTINF:-1,Film Autor AL
-http://mytv.fun:8080/portal11/73trqqawnj/4801
-#EXTINF:-1,Film Drame AL
-http://mytv.fun:8080/portal11/73trqqawnj/4800
-#EXTINF:-1,Film Gold 1 AL
-http://mytv.fun:8080/portal11/73trqqawnj/10196
-#EXTINF:-1,Filma 24 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10082
-#EXTINF:-1,Tring 3 Plus AL
-http://mytv.fun:8080/portal11/73trqqawnj/4789
-#EXTINF:-1,Tring Comedy AL
-http://mytv.fun:8080/portal11/73trqqawnj/4786
-#EXTINF:-1,Tring Fantasy AL
-http://mytv.fun:8080/portal11/73trqqawnj/4784
-#EXTINF:-1,Tring Jolly FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4787
-#EXTINF:-1,Jolly (Backup) FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10193
-#EXTINF:-1,Tring Life AL
-http://mytv.fun:8080/portal11/73trqqawnj/4783
-#EXTINF:-1,Tring Action AL
-http://mytv.fun:8080/portal11/73trqqawnj/9925
-#EXTINF:-1,Tring Super AL
-http://mytv.fun:8080/portal11/73trqqawnj/4785
-#EXTINF:-1,Tring Shqip AL
-http://mytv.fun:8080/portal11/73trqqawnj/4782
-#EXTINF:-1,Tring Smile AL
-http://mytv.fun:8080/portal11/73trqqawnj/4788
-#EXTINF:-1,Alb Movie HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4751
-#EXTINF:-1,Alb Western HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4749
-#EXTINF:-1,Alb Action HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4753
-#EXTINF:-1,Alb Thriller HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4752
-#EXTINF:-1,Euro Film AL
-http://mytv.fun:8080/portal11/73trqqawnj/4796
-#EXTINF:-1,Digi Gold 1 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4780
-#EXTINF:-1,Digi Gold 2 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4779
-#EXTINF:-1,Digi Gold 3 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4778
-#EXTINF:-1,Digi Gold 4 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9928
-#EXTINF:-1,Shqip TV Cinema HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9944
-#EXTINF:-1,Fantasy HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4739
-#EXTINF:-1,Shqip TV Film AL
-http://mytv.fun:8080/portal11/73trqqawnj/4740
-#EXTINF:-1,Shqip TV Hindi HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9942
-#EXTINF:-1,Shqip TV Horror HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4743
-#EXTINF:-1,Shqip TV Komedi HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4744
-#EXTINF:-1,Kino-DE HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9943
-#EXTINF:-1,Shqip TV Western AL
-http://mytv.fun:8080/portal11/73trqqawnj/4738
-#EXTINF:-1,Sky Aksion AL
-http://mytv.fun:8080/portal11/73trqqawnj/4774
-#EXTINF:-1,Sky AL Max AL
-http://mytv.fun:8080/portal11/73trqqawnj/4772
-#EXTINF:-1,Sky Drame AL
-http://mytv.fun:8080/portal11/73trqqawnj/4768
-#EXTINF:-1,Sky Novela AL
-http://mytv.fun:8080/portal11/73trqqawnj/4767
-#EXTINF:-1,Sky Komedi AL
-http://mytv.fun:8080/portal11/73trqqawnj/4770
-#EXTINF:-1,Sky Max AL
-http://mytv.fun:8080/portal11/73trqqawnj/10080
-#EXTINF:-1,7 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10081
-#EXTINF:-1,Zana Action HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10084
-#EXTINF:-1,Fox AL
-http://mytv.fun:8080/portal11/73trqqawnj/4794
-#EXTINF:-1,Fox Crime AL
-http://mytv.fun:8080/portal11/73trqqawnj/4792
-#EXTINF:-1,Fox Life AL
-http://mytv.fun:8080/portal11/73trqqawnj/4793
-#EXTINF:-1,Nickelodeon AL
-http://mytv.fun:8080/portal11/73trqqawnj/10096
-#EXTINF:-1,KS Ilahi Nasheed Channel AL
-http://mytv.fun:8080/portal11/73trqqawnj/10190
-#EXTINF:-1,Ksport Islam TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10036
-#EXTINF:-1,A1 Islam AL
-http://mytv.fun:8080/portal11/73trqqawnj/10052
-#EXTINF:-1,Alb Islam AL
-http://mytv.fun:8080/portal11/73trqqawnj/10056
-#EXTINF:-1,Lexo TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/9933
-#EXTINF:-1,Lugina Islam HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10058
-#EXTINF:-1,Makkah TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/10054
-#EXTINF:-1,Peace TV Shqip AL
-http://mytv.fun:8080/portal11/73trqqawnj/10060
-#EXTINF:-1,Peace TV (English) AL
-http://mytv.fun:8080/portal11/73trqqawnj/10051
-#EXTINF:-1,Peace TV AL
-http://mytv.fun:8080/portal11/73trqqawnj/9932
-#EXTINF:-1,Tring Sport 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4721
-#EXTINF:-1,Tring Sport 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/21615
-#EXTINF:-1,Tring Sport 3 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4719
-#EXTINF:-1,Tring Sport 4 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4718
-#EXTINF:-1,Supersport Kosova 2 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4723
-#EXTINF:-1,Kujtesa Sport 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/15177
-#EXTINF:-1,Kujtesa Sport 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/151762
-#EXTINF:-1,Kujtesa Sport 3 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/151754
-#EXTINF:-1,Kujtesa Sport 4 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/15174
-#EXTINF:-1,Telesport AL
-http://mytv.fun:8080/portal11/73trqqawnj/4722
-#EXTINF:-1,Supersport Kosova 1 AL
-http://mytv.fun:8080/portal11/73trqqawnj/53275
-#EXTINF:-1,Supersport 1 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4729
-#EXTINF:-1,Supersport 2 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4728
-#EXTINF:-1,Supersport 3 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/625241
-#EXTINF:-1,Supersport 4 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/625240
-#EXTINF:-1,Supersport 5 FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4725
-#EXTINF:-1,Golden Hits of Disco Music AL
-http://mytv.fun:8080/portal11/73trqqawnj/9965
-#EXTINF:-1,Top Channel EST FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9978
-#EXTINF:-1,Vision Plus FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4850
-#EXTINF:-1,T7 HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/20567
-#EXTINF:-1,Shqip TV Humor AL
-http://mytv.fun:8080/portal11/73trqqawnj/4741
-#EXTINF:-1,Shqip TV Stupcat HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/9940
-#EXTINF:-1,TV Tetova AL
-http://mytv.fun:8080/portal11/73trqqawnj/10073
-#EXTINF:-1,Besa Film HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/14018
-#EXTINF:-1,Aksion HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4745
-#EXTINF:-1,Film Hits FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4720
-#EXTINF:-1,Film Box HD AL
-http://mytv.fun:8080/portal11/73trqqawnj/10197
-#EXTINF:-1,Film Hits +1 AL
-http://mytv.fun:8080/portal11/73trqqawnj/4804
-#EXTINF:-1,Alb Music AL
-http://mytv.fun:8080/portal11/73trqqawnj/10168
-#EXTINF:-1,Radio 24 Popullore AL
-http://mytv.fun:8080/portal11/73trqqawnj/10161
-#EXTINF:-1,Radio Kosova AL
-http://mytv.fun:8080/portal11/73trqqawnj/10163
-#EXTINF:-1,Radio Kosova e Lire AL
-http://mytv.fun:8080/portal11/73trqqawnj/10162
-#EXTINF:-1,Radio KS POPULLORE AL
-http://mytv.fun:8080/portal11/73trqqawnj/10159
-#EXTINF:-1,Radio KS'Dahuria AL
-http://mytv.fun:8080/portal11/73trqqawnj/10152
-#EXTINF:-1,Radio KS'Electro AL
-http://mytv.fun:8080/portal11/73trqqawnj/10150
-#EXTINF:-1,Radio KS'HITS- 90s Pop AL
-http://mytv.fun:8080/portal11/73trqqawnj/10151
-#EXTINF:-1,Radio Shqipet e Folklorit AL
-http://mytv.fun:8080/portal11/73trqqawnj/10160
-#EXTINF:-1,T FHD AL
-http://mytv.fun:8080/portal11/73trqqawnj/4795
-#EXTINF:-1,TV Llapi AL
-http://mytv.fun:8080/portal11/73trqqawnj/648469
-#EXTINF:-1,X Action AL
-http://mytv.fun:8080/portal11/73trqqawnj/655155
-#EXTINF:-1,X Cifteli AL
-http://mytv.fun:8080/portal11/73trqqawnj/655154
-#EXTINF:-1,X Comedy AL
-http://mytv.fun:8080/portal11/73trqqawnj/655153
-#EXTINF:-1,X Dark AL
-http://mytv.fun:8080/portal11/73trqqawnj/655152
-#EXTINF:-1,X Drama AL
-http://mytv.fun:8080/portal11/73trqqawnj/655151
-#EXTINF:-1,X Family AL
-http://mytv.fun:8080/portal11/73trqqawnj/655150
-#EXTINF:-1,X Histori AL
-http://mytv.fun:8080/portal11/73trqqawnj/655149
-#EXTINF:-1,X Humor AL
-http://mytv.fun:8080/portal11/73trqqawnj/655148
-#EXTINF:-1,X Music Hits AL
-http://mytv.fun:8080/portal11/73trqqawnj/655147
-#EXTINF:-1,X Natyra AL
-http://mytv.fun:8080/portal11/73trqqawnj/655146
-#EXTINF:-1,X Romance AL
-http://mytv.fun:8080/portal11/73trqqawnj/655145
-#EXTINF:-1,X Shkenca AL
-http://mytv.fun:8080/portal11/73trqqawnj/655144
-#EXTINF:-1,X Thriller AL
-http://mytv.fun:8080/portal11/73trqqawnj/655143
-#EXTINF:-1,X Western AL
-http://mytv.fun:8080/portal11/73trqqawnj/655142
+#EXTINF:-1,AL: ALB ACTION
+http://mles.us:1925/bassamMyhd/Myhdbassam/9687
+#EXTINF:-1,AL: ALB Thriller
+http://mles.us:1925/bassamMyhd/Myhdbassam/9680
+#EXTINF:-1,AL: ALB Western
+http://mles.us:1925/bassamMyhd/Myhdbassam/9679
+#EXTINF:-1,AL: Bbf Music
+http://mles.us:1925/bassamMyhd/Myhdbassam/9723
+#EXTINF:-1,AL: Besa
+http://mles.us:1925/bassamMyhd/Myhdbassam/9722
+#EXTINF:-1,AL: Camel Tv
+http://mles.us:1925/bassamMyhd/Myhdbassam/9720
+#EXTINF:-1,AL: Channel One
+http://mles.us:1925/bassamMyhd/Myhdbassam/9714
+#EXTINF:-1,AL: DIGI GOLD 2 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9677
+#EXTINF:-1,AL: DIGI GOLD 3 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9676
+#EXTINF:-1,AL: DIGI GOLD 4 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9675
+#EXTINF:-1,AL: Drita Tv
+http://mles.us:1925/bassamMyhd/Myhdbassam/9713
+#EXTINF:-1,AL: Film Aksion
+http://mles.us:1925/bassamMyhd/Myhdbassam/9648
+#EXTINF:-1,AL: Film Autor
+http://mles.us:1925/bassamMyhd/Myhdbassam/9647
+#EXTINF:-1,AL: Film Baby
+http://mles.us:1925/bassamMyhd/Myhdbassam/9692
+#EXTINF:-1,AL: Film Gold 1
+http://mles.us:1925/bassamMyhd/Myhdbassam/9638
+#EXTINF:-1,AL: Film Gold 2
+http://mles.us:1925/bassamMyhd/Myhdbassam/9637
+#EXTINF:-1,AL: Film Gold 4
+http://mles.us:1925/bassamMyhd/Myhdbassam/9635
+#EXTINF:-1,AL: Film Hits
+http://mles.us:1925/bassamMyhd/Myhdbassam/9644
+#EXTINF:-1,AL: Film Hits  1
+http://mles.us:1925/bassamMyhd/Myhdbassam/9641
+#EXTINF:-1,AL: Film Komedy
+http://mles.us:1925/bassamMyhd/Myhdbassam/9640
+#EXTINF:-1,AL: Film Stinet
+http://mles.us:1925/bassamMyhd/Myhdbassam/9639
+#EXTINF:-1,AL: First Channel
+http://mles.us:1925/bassamMyhd/Myhdbassam/9734
+#EXTINF:-1,AL: Jug Tv
+http://mles.us:1925/bassamMyhd/Myhdbassam/9712
+#EXTINF:-1,AL: K Sport 2
+http://mles.us:1925/bassamMyhd/Myhdbassam/9603
+#EXTINF:-1,AL: K Sport 3
+http://mles.us:1925/bassamMyhd/Myhdbassam/9602
+#EXTINF:-1,AL: K Sport 4
+http://mles.us:1925/bassamMyhd/Myhdbassam/9601
+#EXTINF:-1,AL: K Sport 5
+http://mles.us:1925/bassamMyhd/Myhdbassam/9600
+#EXTINF:-1,AL: KINO ACTION HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9671
+#EXTINF:-1,AL: KINO COMEDY HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9670
+#EXTINF:-1,AL: KINO DRAMA HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9668
+#EXTINF:-1,AL: KINO EPIC HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9663
+#EXTINF:-1,AL: KINO F?MIJ? HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9667
+#EXTINF:-1,AL: KINO POPULLORE HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9665
+#EXTINF:-1,AL: KINO PRANK
+http://mles.us:1925/bassamMyhd/Myhdbassam/9666
+#EXTINF:-1,AL: KINO PREMIERE 1 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9674
+#EXTINF:-1,AL: KINO PREMIERE 2 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9673
+#EXTINF:-1,AL: KINO PREMIERE 3 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9672
+#EXTINF:-1,AL: Klan Kosova
+http://mles.us:1925/bassamMyhd/Myhdbassam/9719
+#EXTINF:-1,AL: Muse
+http://mles.us:1925/bassamMyhd/Myhdbassam/9725
+#EXTINF:-1,AL: News 24
+http://mles.us:1925/bassamMyhd/Myhdbassam/9733
+#EXTINF:-1,AL: Peace TV HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9696
+#EXTINF:-1,AL: Rrhokum
+http://mles.us:1925/bassamMyhd/Myhdbassam/9709
+#EXTINF:-1,AL: RTK 1
+http://mles.us:1925/bassamMyhd/Myhdbassam/9755
+#EXTINF:-1,AL: RTK 2
+http://mles.us:1925/bassamMyhd/Myhdbassam/9754
+#EXTINF:-1,AL: RTK 3
+http://mles.us:1925/bassamMyhd/Myhdbassam/9753
+#EXTINF:-1,AL: RTK 4
+http://mles.us:1925/bassamMyhd/Myhdbassam/9752
+#EXTINF:-1,AL: RTSH 1
+http://mles.us:1925/bassamMyhd/Myhdbassam/9751
+#EXTINF:-1,AL: RTSH 2
+http://mles.us:1925/bassamMyhd/Myhdbassam/9750
+#EXTINF:-1,AL: RTSH 3
+http://mles.us:1925/bassamMyhd/Myhdbassam/9749
+#EXTINF:-1,AL: RTSH FEMIJE
+http://mles.us:1925/bassamMyhd/Myhdbassam/9746
+#EXTINF:-1,AL: RTSH FILM
+http://mles.us:1925/bassamMyhd/Myhdbassam/9747
+#EXTINF:-1,AL: RTSH KOR?A
+http://mles.us:1925/bassamMyhd/Myhdbassam/9744
+#EXTINF:-1,AL: RTSH MUZIKE
+http://mles.us:1925/bassamMyhd/Myhdbassam/9742
+#EXTINF:-1,AL: RTSH PLUS
+http://mles.us:1925/bassamMyhd/Myhdbassam/9741
+#EXTINF:-1,AL: RTSH SHQIP
+http://mles.us:1925/bassamMyhd/Myhdbassam/9740
+#EXTINF:-1,AL: RTSH SPORT
+http://mles.us:1925/bassamMyhd/Myhdbassam/9599
+#EXTINF:-1,AL: RTV21 Junior
+http://mles.us:1925/bassamMyhd/Myhdbassam/9694
+#EXTINF:-1,AL: ShqipTv Aksion
+http://mles.us:1925/bassamMyhd/Myhdbassam/9661
+#EXTINF:-1,AL: ShqipTV Cinema
+http://mles.us:1925/bassamMyhd/Myhdbassam/9660
+#EXTINF:-1,AL: ShqipTv Fantasy HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9653
+#EXTINF:-1,AL: ShqipTV Film HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9659
+#EXTINF:-1,AL: ShqipTv Horror HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9658
+#EXTINF:-1,AL: ShqipTv Humor HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9657
+#EXTINF:-1,AL: ShqipTv Islam HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9650
+#EXTINF:-1,AL: ShqipTv Komedi HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9656
+#EXTINF:-1,AL: ShqipTv Mimi HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9655
+#EXTINF:-1,AL: ShqipTv Stupcat HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9662
+#EXTINF:-1,AL: SHQIPTV TOM & JERRY HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9651
+#EXTINF:-1,AL: ShqipTv Western HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9654
+#EXTINF:-1,AL: SKY AKSION
+http://mles.us:1925/bassamMyhd/Myhdbassam/9633
+#EXTINF:-1,AL: SKY DRAME
+http://mles.us:1925/bassamMyhd/Myhdbassam/9631
+#EXTINF:-1,AL: SKY KOMEDI
+http://mles.us:1925/bassamMyhd/Myhdbassam/9629
+#EXTINF:-1,AL: SKY MAX
+http://mles.us:1925/bassamMyhd/Myhdbassam/9632
+#EXTINF:-1,AL: SKY NOVELA
+http://mles.us:1925/bassamMyhd/Myhdbassam/9628
+#EXTINF:-1,AL: SKY SHKENCE
+http://mles.us:1925/bassamMyhd/Myhdbassam/9627
+#EXTINF:-1,AL: SuperSport 2
+http://mles.us:1925/bassamMyhd/Myhdbassam/9613
+#EXTINF:-1,AL: SuperSport 3
+http://mles.us:1925/bassamMyhd/Myhdbassam/9612
+#EXTINF:-1,AL: SuperSport 4
+http://mles.us:1925/bassamMyhd/Myhdbassam/9611
+#EXTINF:-1,AL: SuperSport 5
+http://mles.us:1925/bassamMyhd/Myhdbassam/9610
+#EXTINF:-1,AL: Tirana Tv
+http://mles.us:1925/bassamMyhd/Myhdbassam/9707
+#EXTINF:-1,AL: Top News
+http://mles.us:1925/bassamMyhd/Myhdbassam/9726
+#EXTINF:-1,AL: Tring International
+http://mles.us:1925/bassamMyhd/Myhdbassam/9693
+#EXTINF:-1,AL: TV Era
+http://mles.us:1925/bassamMyhd/Myhdbassam/9705
+#EXTINF:-1,AL: Tv Opoja
+http://mles.us:1925/bassamMyhd/Myhdbassam/9704
+#EXTINF:-1,AL: Zjarr HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9703
+#EXTINF:-1,AL:Cufo
+http://mles.us:1925/bassamMyhd/Myhdbassam/9689
+#EXTINF:-1,AL:Film Drame
+http://mles.us:1925/bassamMyhd/Myhdbassam/9646
+#EXTINF:-1,AL:Film DY HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9645
+#EXTINF:-1,AL:Film NJE HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9643
+#EXTINF:-1,AL:Film Thriller
+http://mles.us:1925/bassamMyhd/Myhdbassam/9642
+#EXTINF:-1,AL:Junior TV
+http://mles.us:1925/bassamMyhd/Myhdbassam/9691
+#EXTINF:-1,AL:Klan HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9736
+#EXTINF:-1,AL:RTV 21 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9729
+#EXTINF:-1,AL:Tring 3
+http://mles.us:1925/bassamMyhd/Myhdbassam/9626
+#EXTINF:-1,AL:Tring Bang Bang
+http://mles.us:1925/bassamMyhd/Myhdbassam/9690
+#EXTINF:-1,AL:Tring Fantasy
+http://mles.us:1925/bassamMyhd/Myhdbassam/9624
+#EXTINF:-1,AL:Tring History
+http://mles.us:1925/bassamMyhd/Myhdbassam/9623
+#EXTINF:-1,AL:Tring Life
+http://mles.us:1925/bassamMyhd/Myhdbassam/9622
+#EXTINF:-1,AL:Tring Planet
+http://mles.us:1925/bassamMyhd/Myhdbassam/9620
+#EXTINF:-1,AL:Tring Shqip
+http://mles.us:1925/bassamMyhd/Myhdbassam/9619
+#EXTINF:-1,AL:Tring Smile
+http://mles.us:1925/bassamMyhd/Myhdbassam/9618
+#EXTINF:-1,AL:Tring Sport 1 FHD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9608
+#EXTINF:-1,AL:Tring Sport 2 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9607
+#EXTINF:-1,AL:Tring Sport 3 HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9606
+#EXTINF:-1,AL:Tring Sport News HD
+http://mles.us:1925/bassamMyhd/Myhdbassam/9609
+#EXTINF:-1,AL:Tring Super
+http://mles.us:1925/bassamMyhd/Myhdbassam/9617
+#EXTINF:-1,AL:Tring Tring
+http://mles.us:1925/bassamMyhd/Myhdbassam/9616
+#EXTINF:-1,AL:Tring World
+http://mles.us:1925/bassamMyhd/Myhdbassam/9615
