@@ -1,73 +1,32 @@
 #EXTM3U
-#EXTINF:-1,tring tv_RTSH1
+#EXTINF:-1,RTSH1
 http://edge01eu.ekranet.com/rtshhd_low/index.m3u8
-#EXTINF:-1,tring tv_RTSH2
+#EXTINF:-1,RTSH2
 http://edge01eu.ekranet.com/rtsh2hd_240p/index.m3u8
-#EXTINF:-1,tring tv_RTSH3
+#EXTINF:-1,RTSH3
 http://edge01eu.ekranet.com/rtsh3hd_240p/index.m3u8
-#EXTINF:-1,tring tv_RTSH24
+#EXTINF:-1,RTSH24
 http://edge01eu.ekranet.com/rtsh24/index.m3u8
-#EXTINF:-1,tring tv_RTSH FILM
+#EXTINF:-1,RTSH FILM
 http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1,tring tv_RTSH SHQIP
+#EXTINF:-1,RTSH SHQIP
 http://edge01eu.ekranet.com/rtshshqip_240p/index.m3u8
 #EXTINF:1,RTSH KORCA
 http://edge01eu.ekranet.com/tvkorca/index.m3u8
 
-#EXTINF:-1,tring tv_RTSH SPORT
+#EXTINF:-1,RTSH SPORT
 http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 
-#EXTINF:-1,tring tv_RTSH MUSIC
+#EXTINF:-1,RTSH MUSIC
 http://edge01eu.ekranet.com/rtshmusic_240p/index.m3u8
-#EXTINF:-1,tring tv_Elrodi  tv
+#EXTINF:-1,Elrodi  tv
 
 http://edge06eu.ekranet.com/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=00:1A:79:28:07:98&apps=elroditv_240p&appsfinal=appsfinal
 
 
-#EXTINF:-1,tring tv_RTSH-PLUS TV
+#EXTINF:-1,RTSH-PLUS TV
 http://edge06eu.ekranet.com/rtshplus_240p/index.m3u8?e=asdasd&c=rtshplus_240p&mac=00:1A:79:28:07:98&apps=rtshplus_240p&appsfinal=appsfinal
-#EXTINF:-1, GLOBI TV|AL
-rtmp://globi.shqiptv.us:1935/live/globitv
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TV Opoja" tvg-logo="https://i.imgur.com/Vi8NDWt.png",AL: OPOJA
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Ora News" tvg-logo="https://i.imgur.com/L2dJlvS.png",AL: ORANEWS
-http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="News 24" tvg-logo="https://i.imgur.com/pkc5B5s.png",AL: NEWS24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Report TV" tvg-logo="https://i.imgur.com/IZlygWw.png",AL: REPORT
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="rtvzik.com" tvg-logo="https://i.imgur.com/KlxIolB.png",AL: ZIK
-http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Rozafa TV" tvg-logo="https://i.imgur.com/uvZDzJR.png",AL: ROZAFA
-http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Rrokum TV" tvg-logo="https://i.imgur.com/ZW7NxG7.png",AL: RROKUM
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TV Jug" tvg-logo="https://i.imgur.com/XLVEnLc.png",AL: JUG
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Shkodra TV" tvg-logo="https://i.imgur.com/5XhIe57.png",AL: SHKODRA
-http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="PEACE TV" tvg-logo="https://i.imgur.com/RTKl89F.png",AL: PEACE
-rtmp://82.114.67.178/live/peacetv1
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="DASMA TV" tvg-logo="https://i.imgur.com/v8CBVXu.png",AL: DASMA
-http://91.187.117.230:8080
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TRIBUNA" tvg-logo="https://i.imgur.com/qUPvuma.png",AL: TRIBUNA 
-http://stream.shqiptv.com:7080/8091/index.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="ALB MUSIC HD" tvg-logo="https://i.imgur.com/2gDBhQb.png",AL: ALBMUSIC HD
-http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/520.ts
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="ALBUK HD" tvg-logo="https://i.imgur.com/iGY8zi7.png",AL: ALBUK HD
-http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/521.ts
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="RTV Pendimi" tvg-logo="https://i.imgur.com/835rgzH.png",AL: PENDIMI
-http://streamtv.rtvpendimi.com:1935/TVPENDIMI/TVPENDIMI/playlist.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Altvusa" tvg-logo="https://i.imgur.com/pOavhvs.png",AL: ALTVUSA 
-http://stream.shqiptv.com:7080/altvusa/index.m3u8
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Tetova TV" tvg-logo="https://i.imgur.com/OJdhsK6.png",AL: TETOVA
-rtmp://ip.tvtetova.net:5119/live/tvtetova
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Koha TV" tvg-logo="https://i.imgur.com/xRzENB4.png",AL: KOHA |*me VLC/A.-iOS
-rtmp://live.tvkoha.tv/live/koha/livestream
-#EXTINF:0 group-title="ALB IPTV *TEST"tvg-language="sq" tvg-id="top estrada"tvg-logo="https://i.imgur.com/xRzENB4.png",AL: TOP ESTRADA
-rtmp://89.163.208.115/live/topestrada/livestream
-#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-logo="https://i.imgur.com/IEiyqGo.png",AL: SYRIVIZION
-rtmp://37.26.69.49:80/live//syri
+
 #EXTINF:-1,Tring Action
 http://stream.shqiptv.com:7080/TRINGACTION-8769-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
 
@@ -103,6 +62,23 @@ http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4
 https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
 #EXTINF:-1, Vizion plus
 http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw 
+#EXTINF:0,Tring Sport News 
+
+http://stream.shqiptv.com:7080/TRINGSPORTNEWS-8785-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+
+#EXTINF:0,Dasma TV 
+
+http://stream.shqiptv.com:7080/DASMATV-8793-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+
+#EXTINF:0,Elrodi
+
+http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1, ORA NEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:-1, NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:-1,RTK1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8   
 #EXTINF:-1,RTK2
