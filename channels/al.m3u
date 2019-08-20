@@ -1,85 +1,114 @@
 #EXTM3U
-#EXTINF:-1,makiptv_7
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,makiptv_8
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,makiptv_9
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,makiptv_10
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,makiptv_11
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1,makiptv_12
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1,makiptv_13
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1,makiptv_14
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1,makiptv_15
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1,makiptv_16
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1,makiptv_17
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,makiptv_18
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,makiptv_19
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,makiptv_20
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,makiptv_25
-http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
-#EXTINF:-1,makiptv_26
-http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
-#EXTINF:-1,makiptv_27
-http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
-#EXTINF:-1,makiptv_28
-http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
-#EXTINF:-1,makiptv_29
-http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_30
-http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_31
-http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_32
-http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_35
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_36
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_38
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_40
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_49
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_50
-https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
-#EXTINF:-1,makiptv_51
+#EXTINF:-1,tring tv_RTSH1
+http://edge01eu.ekranet.com/rtshhd_low/index.m3u8
+#EXTINF:-1,tring tv_RTSH2
+http://edge01eu.ekranet.com/rtsh2hd_240p/index.m3u8
+#EXTINF:-1,tring tv_RTSH3
+http://edge01eu.ekranet.com/rtsh3hd_240p/index.m3u8
+#EXTINF:-1,tring tv_RTSH24
+http://edge01eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1,tring tv_RTSH FILM
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-1,tring tv_RTSH SHQIP
+http://edge01eu.ekranet.com/rtshshqip_240p/index.m3u8
+#EXTINF:1,RTSH KORCA
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+
+#EXTINF:-1,tring tv_RTSH SPORT
+http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
+
+#EXTINF:-1,tring tv_RTSH MUSIC
+http://edge01eu.ekranet.com/rtshmusic_240p/index.m3u8
+#EXTINF:-1,tring tv_Elrodi  tv
+
+http://edge06eu.ekranet.com/elroditv_240p/index.m3u8?e=asdasd&c=elroditv_240p&mac=00:1A:79:28:07:98&apps=elroditv_240p&appsfinal=appsfinal
+
+
+#EXTINF:-1,tring tv_RTSH-PLUS TV
+http://edge06eu.ekranet.com/rtshplus_240p/index.m3u8?e=asdasd&c=rtshplus_240p&mac=00:1A:79:28:07:98&apps=rtshplus_240p&appsfinal=appsfinal
+#EXTINF:-1, GLOBI TV|AL
+rtmp://globi.shqiptv.us:1935/live/globitv
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TV Opoja" tvg-logo="https://i.imgur.com/Vi8NDWt.png",AL: OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Ora News" tvg-logo="https://i.imgur.com/L2dJlvS.png",AL: ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="News 24" tvg-logo="https://i.imgur.com/pkc5B5s.png",AL: NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Report TV" tvg-logo="https://i.imgur.com/IZlygWw.png",AL: REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="rtvzik.com" tvg-logo="https://i.imgur.com/KlxIolB.png",AL: ZIK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Rozafa TV" tvg-logo="https://i.imgur.com/uvZDzJR.png",AL: ROZAFA
+http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Rrokum TV" tvg-logo="https://i.imgur.com/ZW7NxG7.png",AL: RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TV Jug" tvg-logo="https://i.imgur.com/XLVEnLc.png",AL: JUG
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Shkodra TV" tvg-logo="https://i.imgur.com/5XhIe57.png",AL: SHKODRA
+http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="PEACE TV" tvg-logo="https://i.imgur.com/RTKl89F.png",AL: PEACE
+rtmp://82.114.67.178/live/peacetv1
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="DASMA TV" tvg-logo="https://i.imgur.com/v8CBVXu.png",AL: DASMA
+http://91.187.117.230:8080
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="TRIBUNA" tvg-logo="https://i.imgur.com/qUPvuma.png",AL: TRIBUNA 
+http://stream.shqiptv.com:7080/8091/index.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="ALB MUSIC HD" tvg-logo="https://i.imgur.com/2gDBhQb.png",AL: ALBMUSIC HD
+http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/520.ts
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="ALBUK HD" tvg-logo="https://i.imgur.com/iGY8zi7.png",AL: ALBUK HD
+http://5.226.137.132:8000/live/stalkermaqedonsit45trweyrfdfasdtew/stalkermaqedonsiijdksfheyugt673rfwe/521.ts
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="RTV Pendimi" tvg-logo="https://i.imgur.com/835rgzH.png",AL: PENDIMI
+http://streamtv.rtvpendimi.com:1935/TVPENDIMI/TVPENDIMI/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Altvusa" tvg-logo="https://i.imgur.com/pOavhvs.png",AL: ALTVUSA 
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Tetova TV" tvg-logo="https://i.imgur.com/OJdhsK6.png",AL: TETOVA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Koha TV" tvg-logo="https://i.imgur.com/xRzENB4.png",AL: KOHA |*me VLC/A.-iOS
+rtmp://live.tvkoha.tv/live/koha/livestream
+#EXTINF:0 group-title="ALB IPTV *TEST"tvg-language="sq" tvg-id="top estrada"
+rtmp://89.163.208.115/live/topestrada/livestream
+#EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-logo="https://i.imgur.com/IEiyqGo.png",AL: SYRIVIZION
+rtmp://37.26.69.49:80/live//syri
+#EXTINF:-1,Tring Action
 http://stream.shqiptv.com:7080/TRINGACTION-8769-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_52
-http://stream.shqiptv.com:7080/TRINGACTION-8769-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_53
-http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_54
-http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_55
-http://stream.shqiptv.com:7080/TRINGFANTASY-8766-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_56
-http://stream.shqiptv.com:7080/TRINGFANTASY-8766-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_57
-http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_58
-http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_59
-http://stream.shqiptv.com:7080/TRINGSHQIP-8762-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_60
-http://stream.shqiptv.com:7080/TRINGSHQIP-8762-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_61
+
+#EXTINF:-1,Jolly
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
+#EXTINF:-1,Smile
 http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
-#EXTINF:-1,makiptv_62
-http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
-#EXTINF:-1,makiptv_63
+#EXTINF:-1,7 News
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1,Tribuna Channel
+https://stream.shqiptv.com/tst/TRIBUNA-8791-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1,arta News
+https://stream.shqiptv.com/tst/ARTANEWS-8745-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1,Rrokum TV
+https://stream.shqiptv.com/tst/RROKUMTV-8849-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1,Tring Planet
+http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Tring Fantasy
+http://stream.shqiptv.com:7080/TRINGFANTASY-8766-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Tring Super
 http://stream.shqiptv.com:7080/TRINGSUPER-8770-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
-#EXTINF:-1,makiptv_64
-http://stream.shqiptv.com:7080/TRINGSUPER-8770-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Tring Comedy
+http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Tring Life
+http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Tring Shqip
+http://stream.shqiptv.com:7080/TRINGSHQIP-8762-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Smile
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,Jolly
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1,3 Plus
+https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:-1, Vizion plus
+http://stream.shqiptv.com:7080/VIZIONPLUS-8703-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw 
+#EXTINF:-1,RTK1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8   
+#EXTINF:-1,RTK2
+http://stream1.rtkit.com:1935/rtk1stream/rtk2.stream/playlist.m3u8   
+#EXTINF:-1,RTK3
+http://stream1.rtkit.com:1935/rtk1stream/rtk3.stream/playlist.m3u8  
+#EXTINF:-1,RTK4
+http://stream1.rtkit.com:1935/rtk1stream/rtk4.stream/playlist.m3u8  
+
