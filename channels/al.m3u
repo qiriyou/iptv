@@ -64,7 +64,7 @@ http://stream.shqiptv.com:7080/altvusa/index.m3u8
 rtmp://ip.tvtetova.net:5119/live/tvtetova
 #EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-id="Koha TV" tvg-logo="https://i.imgur.com/xRzENB4.png",AL: KOHA |*me VLC/A.-iOS
 rtmp://live.tvkoha.tv/live/koha/livestream
-#EXTINF:0 group-title="ALB IPTV *TEST"tvg-language="sq" tvg-id="top estrada"
+#EXTINF:0 group-title="ALB IPTV *TEST"tvg-language="sq" tvg-id="top estrada"tvg-logo="https://i.imgur.com/xRzENB4.png",AL: TOP ESTRADA
 rtmp://89.163.208.115/live/topestrada/livestream
 #EXTINF:0 group-title="ALB IPTV *TEST" tvg-language="sq" tvg-logo="https://i.imgur.com/IEiyqGo.png",AL: SYRIVIZION
 rtmp://37.26.69.49:80/live//syri
