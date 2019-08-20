@@ -29,6 +29,9 @@ http://edge06eu.ekranet.com/rtshplus_240p/index.m3u8?e=asdasd&c=rtshplus_240p&ma
 
 #EXTINF:-1,Tring Action
 http://stream.shqiptv.com:7080/TRINGACTION-8769-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:-1,MKTV2
+
+https://stream.shqiptv.com/tst/MKTV2-8728-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
 
 #EXTINF:-1,Jolly
 http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
