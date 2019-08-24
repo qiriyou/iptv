@@ -1,55 +1,357 @@
 #EXTM3U
-#EXTINF:-1,ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,ATV AVRUPA
-http://trkvz-m.ercdn.net/trkvz-temp/atvavrupam.m3u8
-#EXTINF:-1,A HABER HD
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:-1,A SPOR HD
-http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1,minikago
-http://trkvz-m.ercdn.net/minikago/minikago.m3u8
-#EXTINF:-1,minikago cocuk
-http://trkvz-m.ercdn.net/minikagococuk/minikagococuk.m3u8
-#EXTINF:-1,atv avrupa
-http://trkvz-m.ercdn.net/atvavrupa/atvavrupa.m3u8
-#EXTINF:-1,A ParaTV
-https://trkvz-m.ercdn.net/trkvz-temp/aparahdm.m3u8
-#EXTINF:-1,A2 TV
-https://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
-#EXTINF:-1,ATV HD
-http://trkvz-m.ercdn.net/atvhd/atvhd.m3u8
-#EXTINF:-1,A2 HD
-http://trkvz-m.ercdn.net/a2tv/a2tv.m3u8
-#EXTINF:-1,A PARA HD
-http://trkvz-m.ercdn.net/aparahd/aparahd.m3u8
-#EXTINF:-1,A SPOR HD
-http://trkvz-m.ercdn.net/asporhd/asporhd.m3u8
-#EXTINF:-1,A HABER HD
-http://trkvz-m.ercdn.net/ahaberhd/ahaberhd.m3u8
-#EXTINF:-1,TURKISH | A News
-http://trkvz-m.ercdn.net/anewshd/anewshd.m3u8
-#EXTINF:-1,TRT OKUL
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1,TRT MÜZİK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,TRT ARAPÇA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,TRT HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
-#EXTINF:-1,TURKISH | TRT 1 HD
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1550_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT COCUK HD
-https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1250_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT AVAZ HD
-https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1250_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT KURDI HD
-https://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1250_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT SPOR (1 )
-https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1050_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT TURK HD
-https://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1250_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT WORLD FHD
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080p_av-b.m3u8
-#EXTINF:-1,TURKISH | TRT WORLD HD
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720pp_av-p.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) STAR TV" tvg-logo="" group-title="",(TR) STAR TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TV8 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TV8 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  STAR HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  STAR HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  STAR TV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  STAR TV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  ATV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  ATV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  ATV HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  ATV HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/238.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  ATV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  ATV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) SHOW TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) SHOW TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  SHOW HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  SHOW HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  SHOW TV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  SHOW TV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/369.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANALD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANALD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANAL D HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANAL D HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANAL D 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANAL D 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) FOX TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) FOX TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  FOX HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  FOX HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/242.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) FOX TV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) FOX TV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TV8" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TV8
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TV8 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TV8 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TV8 BUCUK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TV8 BUCUK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TV8 BUCUK  4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TV8 BUCUK  4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) ÃœLKE TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) ÃœLKE TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) ULKE TV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) ULKE TV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  A2" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  A2
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BEYAZ TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BEYAZ TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  BEYAZ TV HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  BEYAZ TV HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/244.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  BEYAZ TV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  BEYAZ TV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANAL7" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANAL7
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  KANAL7 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  KANAL7 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANAL 7 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANAL 7 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TRT1" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TRT1
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TRT1 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TRT1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/245.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT 1 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT 1 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT TURK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT TURK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TV2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TV2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TLC HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TLC HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  NTV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  NTV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  NTV HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  NTV HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NTV 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NTV 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  AHABER" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  AHABER
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) AHABER HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) AHABER HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  AHABER 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  AHABER 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) HABERTÃœRK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) HABERTÃœRK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  HABERTÃœRK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  HABERTÃœRK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  HABER TURK 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  HABER TURK 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  CNNTÃœRK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  CNNTÃœRK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) CNNTÃœRK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) CNNTÃœRK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  CNN TURK 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  CNN TURK 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT HABER" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT HABER
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TRT HABER 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TRT HABER 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BLOOMBERG HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BLOOMBERG HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/292.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) SKY360" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) SKY360
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TGRT HABER" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TGRT HABER
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TGRT HABER 4K" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TGRT HABER 4K
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TVNET" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TVNET
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TVNET" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TVNET
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KANAL 24" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KANAL 24
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) HALK TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) HALK TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) FLASH TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) FLASH TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) CEM TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) CEM TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  ASPOR" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  ASPOR
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  ASPOR HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  ASPOR HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR)  TRT SPOR" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR)  TRT SPOR
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRTSPOR HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRTSPOR HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/271.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) SARAN SPORTV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) SARAN SPORTV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) SPORTS TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) SPORTS TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) FB TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) FB TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TJK TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TJK TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/278.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KRAL TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KRAL TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/279.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KRAL POP" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KRAL POP
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/280.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NUMBER1 TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NUMBER1 TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/283.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NUMBER1 TURK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NUMBER1 TURK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/284.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) POWER TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) POWER TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/281.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) POWER TURK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) POWER TURK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DREAM TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DREAM TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/285.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DREAM TÃœRK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DREAM TÃœRK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT MUZIK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT MUZIK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT COCUK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT COCUK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/208.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) MINIKA COCUK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) MINIKA COCUK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) MINIKA GO HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) MINIKA GO HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) PLANET COCUK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) PLANET COCUK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) CARTOON NETWORK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) CARTOON NETWORK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/252.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) KIDZ ANIMEZ" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) KIDZ ANIMEZ
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DISNEY JR" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DISNEY JR
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NICKLODEON HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NICKLODEON HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NICK JR HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NICK JR HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DISNEY CHANNEL" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DISNEY CHANNEL
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DISNNEY XD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DISNNEY XD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BABYFÄ°RST TV HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BABYFÄ°RST TV HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BABY TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BABY TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TRT BELGESEL HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TRT BELGESEL HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NAT GEO" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NAT GEO
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NAT GEO WILD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NAT GEO WILD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) NAT GEO PEOPLE HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) NAT GEO PEOPLE HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/288.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DISCOVERY" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DISCOVERY
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DISCOVERY SCIENCE" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DISCOVERY SCIENCE
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) HISTORY CH" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) HISTORY CH
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) LIFETIME HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) LIFETIME HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) Ä°ZTV HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) Ä°ZTV HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) ANIMAL PLANET" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) ANIMAL PLANET
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) YABAN TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) YABAN TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AKIT TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",AKIT TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) YOL TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) YOL TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) GS TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) GS TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/351.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) EUROSPORT 2 (TR)" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) EUROSPORT 2 (TR)
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) EUROSPORT 1 (TR)" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) EUROSPORT 1 (TR)
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) DMAX HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) DMAX HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BURSA SPOR TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BURSA SPOR TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BJK TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BJK TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) AKTIF TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) AKTIF TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP |Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP |Sky Sport Bundesliga 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Bundesliga 2 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Bundesliga 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/412.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Bundesliga 3" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Bundesliga 3
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Bundesliga 4" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Bundesliga 4
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Bundesliga 5" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Bundesliga 5
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Bundesliga 6" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Bundesliga 6
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Sport 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Sport 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP |Sky Sport 2  HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP |Sky Sport 2  HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sport1  HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sport1  HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Dazn Bar 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Dazn Bar 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Dazn Bar 2 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Dazn Bar 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sport Digital HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sport Digital HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Sky Sport News HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Sky Sport News HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/407.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | EuroSport 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | EuroSport 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Eurosport 2 HD" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Eurosport 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DESP | Eurosport 2 HD Xtra" tvg-logo="" group-title="ALMAN KANALLARI",DESP | Eurosport 2 HD Xtra
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 1" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 1
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 2" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 2
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 3" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 3
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 4" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 4
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 5" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 5
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 6" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 6
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 7" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 7
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 8" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 8
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 9" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 9
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(AR) BEINSPORT HD 10" tvg-logo="" group-title="ARAP KANALLARI",(AR) BEINSPORT HD 10
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) STERK TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) STERK TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) RUDAW TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) RUDAW TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/295.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) RONAHI TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) RONAHI TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) TELE 1" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) TELE 1
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) MEDYA HABER" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) MEDYA HABER
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/300.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) MED MUSIC" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) MED MUSIC
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) KURDSAT TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) KURDSAT TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/298.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) CIRA TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) CIRA TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/301.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) ARTI GERCEK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) ARTI GERCEK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/299.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) TVEM" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) TVEM
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/428.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) CAN TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) CAN TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/429.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) EKIN TURK" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) EKIN TURK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/430.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(KR) ZAROK TV" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(KR) ZAROK TV
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BEIN OFFICE 1 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BEIN OFFICE 1 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BEIN OFFICE 2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BEIN OFFICE 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) BEIN OFFICE 3 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) BEIN OFFICE 3 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SERIES COMEDY HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN SERIES COMEDY HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/414.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SERIES DRAMA HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN SERIES DRAMA HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/415.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SERIES SCI-FI HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN SERIES SCI-FI HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/416.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN SERIES VICE HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN SERIES VICE HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/417.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES OSCARS HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES OSCARS HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/418.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES ACTION 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/419.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES PREMIERE 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/420.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES STARS HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES STARS HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/421.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN HOME & ENTERTAINMENT HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN HOME & ENTERTAINMENT HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/422.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES_COMEDY" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES_COMEDY
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/423.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES_FAMILY" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES_FAMILY
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/424.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES_FESTIVAL" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES_FESTIVAL
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/425.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES_PREMIER" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES_PREMIER
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/426.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: beIN MOVIES_ACTION" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: beIN MOVIES_ACTION
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/427.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIMAXTURK" tvg-logo="" group-title="",TR: MOVIMAXTURK
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/305.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) MOVIEMAXTURK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) MOVIEMAXTURK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/350.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART TURK HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART TURK HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/306.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART PREMIUM HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART PREMIUM HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART PREMIUM 2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART PREMIUM 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART PLATIN HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART PLATIN HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/309.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART PLATIN 2 HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART PLATIN 2 HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART FEST HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART FEST HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART FAMILY HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART FAMILY HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART CLASSIC HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART CLASSIC HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: MOVIE SMART ACTION HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: MOVIE SMART ACTION HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",TR: DIZI SMART PREMIUM HD
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/413.ts
+#EXTINF:-1 tvg-ID="" tvg-name="(TR) SONY CHANNEL HD (TR)" tvg-logo="" group-title="TÃœRK ULUSAL KANALLARI",(TR) SONY CHANNEL HD (TR)
+http://doremon.selfip.com:17777/live/5Gip9kEhlV/AKOQhOBOaa/367.ts
