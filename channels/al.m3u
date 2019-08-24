@@ -90,215 +90,147 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk3.stream/playlist.m3u8  
 #EXTINF:-1,RTK4
 http://stream1.rtkit.com:1935/rtk1stream/rtk4.stream/playlist.m3u8  
-#EXTM3U
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,top cannel
-http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Tv Klan
-http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Vizion plus
-http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,klan plus
-http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv aksion
-http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  western
-http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  Horor
-http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,SHQIP TV KOMEDY
-http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv film
-http://51.159.3.14:8081/live/SHQIPTVFILM/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,FILM AKSION
-http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,TRING AKSION
-http://51.159.3.14:8081/live/TRINAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 1HD
-http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 2 HD
-http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 3 HD 
-http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 4HD
-http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X AKSION
-http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X KOMEDY
-http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X THRILER
-http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X WESTERN
-http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 1
-http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 2
-http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 3
-http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
-#EXTM3U
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,top cannel
-http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Tv Klan
-http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Vizion plus
-http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,klan plus
-http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv aksion
-http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  western
-http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  Horor
-http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,SHQIP TV KOMEDY
-http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv film
-http://51.159.3.14:8081/live/SHQIPTVFILM/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,FILM AKSION
-http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,TRING AKSION
-http://51.159.3.14:8081/live/TRINAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 1HD
-http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 2 HD
-http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 3 HD 
-http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 4HD
-http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X AKSION
-http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X KOMEDY
-http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X THRILER
-http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X WESTERN
-http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 1
-http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 2
-http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 3
-http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
+
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,top cannel
+#EXTINF:0 tvg-id="ext" group-title="Channels",top cannel
 http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Tv Klan
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",Tv Klan
 http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Vizion plus
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",Vizion plus
 http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,klan plus
+#EXTINF:0 tvg-id="ext" group-title="Channels",klan plus
 http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv aksion
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv aksion
 http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  western
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  western
 http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,Shqip tv  Horor
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  Horor
 http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,SHQIP TV KOMEDY
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHQIP TV KOMEDY
 http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,shqip tv film
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv film
 http://51.159.3.14:8081/live/SHQIPTVFILM/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,FILM AKSION
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",FILM AKSION
 http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,TRING AKSION
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING AKSION
 http://51.159.3.14:8081/live/TRINAKSION/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 1HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 1HD
 http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 2 HD
 http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 3 HD 
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 3 HD
 http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X PREMIUM 4HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 4HD
 http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X AKSION
+#EXTINF:0 tvg-id="ext" group-title="Channels",X AKSION
 http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X KOMEDY
+#EXTINF:0 tvg-id="ext" group-title="Channels",X KOMEDY
 http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X THRILER
+#EXTINF:0 tvg-id="ext" group-title="Channels",X THRILER
 http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X WESTERN
+#EXTINF:0 tvg-id="ext" group-title="Channels",X WESTERN
 http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 1
 http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 2
 http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,ART KINO 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 3
 http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X SHKENCE
+#EXTINF:0 tvg-id="ext" group-title="Channels",top cannel
+http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",Tv Klan
+http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",Vizion plus
+http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",klan plus
+http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv aksion
+http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  western
+http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  Horor
+http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHQIP TV KOMEDY
+http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv film
+http://51.159.3.14:8081/live/SHQIPTVFILM/playlist.m3u8
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",FILM AKSION
+http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING AKSION
+http://51.159.3.14:8081/live/TRINAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 1HD
+http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 2 HD
+http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 3 HD
+http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 4HD
+http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X AKSION
+http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X KOMEDY
+http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X THRILER
+http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X WESTERN
+http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 1
+http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 2
+http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 3
+http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",top cannel
+http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8
+#EXTINF:0 tvg-id="KlanTV.al" group-title="Channels",Tv Klan
+http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Channels",Vizion plus
+http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",klan plus
+http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv aksion
+http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  western
+http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Shqip tv  Horor
+http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SHQIP TV KOMEDY
+http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",shqip tv film
+http://51.159.3.14:8081/live/SHQIPTVFILM/playlist.m3u8
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Channels",FILM AKSION
+http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRING AKSION
+http://51.159.3.14:8081/live/TRINAKSION/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 1HD
+http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 2 HD
+http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 3 HD
+http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X PREMIUM 4HD
+http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X AKSION
+http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X KOMEDY
+http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X THRILER
+http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X WESTERN
+http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 1
+http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 2
+http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ART KINO 3
+http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",X SHKENCE
 http://163.172.26.137:8081/live/XSHKENCAHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X NATYRA
+#EXTINF:0 tvg-id="ext" group-title="Channels",X NATYRA
 http://163.172.26.137:8081/live/XNATYRAHD/playlist.m3u8
-#EXTVLCOPT:http-user-agent=2139jkjks
-#EXTINF:-1,X HISTORY
+#EXTINF:0 tvg-id="ext" group-title="Channels",X HISTORY
 http://163.172.26.137:8081/live/XHISTORYHD/playlist.m3u8
+
+
 
