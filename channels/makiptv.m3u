@@ -1245,3 +1245,34 @@ http://195.154.41.235:9001/live.ts?channelId=815&deviceMac=00:1A:79:A3:B1:B9&uid
 http://195.154.41.235:9001/live.ts?channelId=816&deviceMac=00:1A:79:A3:B1:B9&uid=12283
 #EXTINF:-1 tvg-id="Tennis USA" tvg-link="" tvg-name="Tennis USA" tvg-logo="" group-title="USA/CA Channels",Tennis USA
 http://195.154.41.235:9001/live.ts?channelId=817&deviceMac=00:1A:79:A3:B1:B9&uid=12283
+
+#EXTM3U Albdroid TV
+#EXTINF:-1,h1:Прилеп
+http://prva-iptv.hugo.mk:1935/live/sd/sd/1.ts
+#EXTINF:-1,h2:Прилеп
+http://prva-iptv.hugo.mk:1935/live/sd/sd/2.ts
+#EXTINF:-1,h3:Прилеп
+http://prva-iptv.hugo.mk:1935/live/sd/sd/3.ts
+#EXTINF:-1,1tv
+http://prva-iptv.hugo.mk:1935/live/sd/sd/6.ts
+#EXTINF:-1,МТМ:Скопје
+http://prva-iptv.hugo.mk:1935/live/sd/sd/8.ts
+#EXTINF:-1,Канал3:Куманово
+http://prva-iptv.hugo.mk:1935/live/sd/sd/9.ts
+#EXTINF:-1,Едо:Скопје
+http://prva-iptv.hugo.mk:1935/live/sd/sd/10.ts
+#EXTINF:-1,Шутел:Скопје
+http://prva-iptv.hugo.mk:1935/live/sd/sd/7.ts
+#EXTINF:-1,Сител2:Кратово
+http://prva-iptv.hugo.mk:1935/live/sd/sd/11.ts
+#EXTINF:-1,Cinestar
+http://prva-iptv.hugo.mk:1935/live/sd/sd/13.ts
+#EXTINF:-1,Cinestar Action
+http://prva-iptv.hugo.mk:1935/live/sd/sd/25.ts
+#EXTINF:-1,VH1
+http://prva-iptv.hugo.mk:1935/live/sd/sd/26.ts
+#EXTINF:-1,VH1 Classic
+http://prva-iptv.hugo.mk:1935/live/sd/sd/27.ts
+#EXTINF:-1,zadruga
+http://prva-iptv.hugo.mk:1935/live/sd/sd/12.ts
+ 
