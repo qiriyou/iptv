@@ -1248,17 +1248,17 @@ http://195.154.41.235:9001/live.ts?channelId=817&deviceMac=00:1A:79:A3:B1:B9&uid
 
 #EXTM3U Albdroid TV
 #EXTINF:-1,h1:Прилеп
-http://prva-iptv.hugo.mk:1935/live/sd/sd/1.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/1.ts
 #EXTINF:-1,h2:Прилеп
-http://prva-iptv.hugo.mk:1935/live/sd/sd/2.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/2.ts
 #EXTINF:-1,h3:Прилеп
-http://prva-iptv.hugo.mk:1935/live/sd/sd/3.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/3.ts
 #EXTINF:-1,1tv
-http://prva-iptv.hugo.mk:1935/live/sd/sd/6.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/6.ts
 #EXTINF:-1,МТМ:Скопје
-http://prva-iptv.hugo.mk:1935/live/sd/sd/8.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/8.ts
 #EXTINF:-1,Канал3:Куманово
-http://prva-iptv.hugo.mk:1935/live/sd/sd/9.ts
+http://prva-iptv.hugo.mk:1935/live/hd/stream/9.ts
 #EXTINF:-1,Едо:Скопје
 http://prva-iptv.hugo.mk:1935/live/sd/sd/10.ts
 #EXTINF:-1,Шутел:Скопје
