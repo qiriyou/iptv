@@ -1,22 +1,17 @@
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Passion XXX 18+" group-title="18+" tvg-name="Passion XXX 18+",Passion XXX 18+ 
-#EXTGRP:18+
-http://ruip.tv/6774/video.m3u8?token=u06qiW
-#EXTINF:-1,"parent-code="1234" tvg-id="Penthouse Black 18+" group-title="18+" tvg-name="Penthouse Black 18+",Penthouse Black 18+
-#EXTGRP:18+
-http://ruip.tv/8559/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Penthouse HD 18+" group-title="18+" tvg-name="Penthouse HD 18+",Penthouse HD 18+
-#EXTGRP:18+
-http://ruip.tv/6447/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Pink O TV 18+" group-title="18+" tvg-name="Pink O TV 18+",Pink O TV 18+
-#EXTGRP:18+
-http://ruip.tv/3567/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Playboy TV" group-title="18+"tvg-name="Playboy TV",Playboy TV
-#EXTGRP:18+
-http://ruip.tv/6534/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Private HD 18+" group-title="18+" tvg-name="Private HD 18+",Private HD 18+
-#EXTGRP:18+
-http://ruip.tv/1265/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="PRIVE TV 18+" group-title="18+" tvg-name="PRIVE TV 18+",PRIVE TV 18+
-#EXTGRP:18+
-http://ruip.tv/3797/video.m3u8?token=u06qiW
-#EXTINF:-1 ,"parent-code="1234"tvg-id="Redlight HD 18+" group-title="18+" tvg-name="Redlight HD 18+",Redlight HD 18+
+#EXTM3U 
+#EXTINF:-1,ADULTS | Jasmin TV HD (18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,ADULTS | Visit-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,ADULTS | Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,ADULTS | Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,ADULTS | Blowjob (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1,ADULTS | Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,ADULTS | Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,ADULTS | Lesbian (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
