@@ -166,4 +166,79 @@ http://163.172.26.137:8081/live/XNATYRAHD/playlist.m3u8
 #EXTINF:-1,X HISTORY
 http://163.172.26.137:8081/live/XHISTORYHD/playlist.m3u8
 
+#EXTM3U8
+
+
+#EXTINF:-1, ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, TETOVA
+http://ip.tvtetova.net:8080/hls/tvtetova.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, JOLLY
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,sr: RTK 2
+http://176.31.74.161:8081/live/rtk2/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, RTK 3
+http://176.31.74.161:8081/live/rtk3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, RTK 4
+http://176.31.74.161:8081/live/rtk4/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, ZiKD
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, PENDIMI
+http://tv.rtvpendimi.com:8081/hls/RTVPendimi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, RTV 1
+http://79.106.102.68/hls/rtvnje.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, APOLLON
+https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, ALBMUSIC
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, DASMA
+http://91.187.117.230:8080
+#EXTINF:-1, VOA (18:00)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, ILIRIDA
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,TRING Smile
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1, EURO-AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH HD
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,HBO
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,FOX CINEMA
+http://161.0.157.50/PLTV/88888888/224/3221226793/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,FOX COMEDY
+http://161.0.157.50/PLTV/88888888/224/3221226800/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RADIO CLUB FM
+http://93.190.141.15:7166/;stream.mp3?_=1
+#EXTINF:-1,RADIO NRG
+http://ice31.securenetsystems.net:80/AL09
+#EXTINF:-1,RADIO GLAM
+http://glam.itprishtina.com:8000/glam
+#EXTINF:-1,RADIO KOSOVA
+http://stream1.rtkit.com:1935/radiostream/rk1.stream/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RADIO 21 (iOS)
+http://84.22.44.247:1935/live/radio.stream/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
+#EXTINF:-1,RADIO EMIGRANTI
+http://www.radioemigranti.com:8000/radioauto48
 
