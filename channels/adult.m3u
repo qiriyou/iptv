@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1,DUSK tv
+https://mobia.si/ts/Dusk/stream_wifi_1200k.m3u8
+#EXTINF:-1,DORCEL tv
+https://mobia.si/ts/DORCEL/stream_wifi_1200k.m3u8
+#EXTINF:-1,Hustler
+https://mobia.si/ts/HUSTLER/stream_wifi_1200k.m3u8
 #EXTINF:-1,ADULTS | Jasmin TV HD (18+)
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,ADULTS | Visit-X TV (18+)
