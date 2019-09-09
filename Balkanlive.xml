@@ -5,8 +5,13 @@
 <fanart>http://maksattv.altervista.org/Repo/Livetv/Logo/fanart.png</fanart>
 <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/balkan.xml</externallink>
 </item>
-	
-<item>
+
+	<item>
+<title>[B][I][COLOR lime]ALBANIA LIVE TV[/B][/I][/COLOR]</title>
+<link>http://ignorame<link><thumbnail>http://sat-albania.com/images/forumicons/flag_sq_forum_new-48.png</thumbnail>
+<fanart>http://maksattv.altervista.org/Repo/Livetv/Logo/fanart.png</fanart>
+<externallink>https://raw.githubusercontent.com/mak-iptv/iptv/master/channels/al.m3u</externallink>
+</item>item>
 <title>[B][I][COLOR lime]WORLD LIVE TV[/B][/I][/COLOR]</title>
 <link>http://ignorame<link><thumbnail>https://www.world-iptv.com/wp-content/uploads/2014/10/logo_world_iptv-1.png</thumbnail>
 <fanart>http://maksattv.altervista.org/Repo/Livetv/Logo/fanart.png</fanart>
@@ -27,4 +32,5 @@
 <fanart>https://www.worksoft.com/wp-content/uploads/2017/08/x-tr-placeholder-icon-analyze.png</fanart>
 <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/test.xml</externallink>
 </item>
+
 </channels>
