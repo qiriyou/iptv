@@ -1,4 +1,4 @@
-
+<layoutype>thumbnail</layoutype>
 
 <item>
 <title>[B][I][COLOR lime]BALKAN LIVE TV[/B][/I][/COLOR]</title>
@@ -35,5 +35,7 @@
 <fanart>https://www.worksoft.com/wp-content/uploads/2017/08/x-tr-placeholder-icon-analyze.png</fanart>
 <externallink>http://kodibalkan.com/IPTVROBINHOOD/MenuIPTV/test.xml</externallink>
 </item>
+
+</channels>
 
 
