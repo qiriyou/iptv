@@ -143,6 +143,139 @@
 
 
 
+ 
+<item>
+<title>[B][COLOR lime]MOBDRO[/COLOR][/B] [B][COLOR gold]ne radi na kodi 16[/COLOR][/B]</title>
+<thumbnail>https://img1.androidappsapk.co/300/c/7/b/com.mobalsa.ratac.png</thumbnail>
+<link>#</link><jsonrpc>plugin://script.module.deceit-uktvnow</jsonrpc>
+</item>
+
+
+<item>
+      <title>[B][COLOR lime]BOSANSKI KANALI[/COLOR][/B]</title>
+      <thumbnail>https://cdn.kme.si/public/images-cache/750xX/2015/05/23/61f91f0a7976639a2139e347727d767f/55608161c892f/61f91f0a7976639a2139e347727d767f.jpeg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/BIH.xml</externallink>
+</item>
+</items>
+
+ <item>
+      <title>[B][COLOR lime]HRVATSKI KANALI[/COLOR][/B]</title>
+      <thumbnail>https://direktno.hr/upload/images/cms-image-000045218.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/HR.xml</externallink>
+</item>
+</items>
+
+ <item>
+      <title>[B][COLOR lime]SRPSKI KANALI[/COLOR][/B]</title>
+      <thumbnail>https://i.ytimg.com/vi/LBpId-u9tGk/maxresdefault.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/RS.xml</externallink>
+</item>
+</items>
+
+
+ <item>
+      <title>[B][COLOR lime]MAKEDONSKI KANALI[/COLOR][/B]</title>
+      <thumbnail>http://novo.hr/wp-content/uploads/2018/01/Makedonska-zastava-shutterstock.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/MK.xml</externallink>
+</item>
+</items>
+
+ <item>
+      <title>[B][COLOR lime]SLOVENSKI KANALI[/COLOR][/B]</title>
+      <thumbnail>http://www.zastave.hr/upload_data/site_photos/big_slovenska_zastava.jpg</thumbnail>
+      <fanart>http://www.zastave.hr/upload_data/site_photos/big_slovenska_zastava.jpg</fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/slo.xml</externallink>
+</item>
+</items>
+
+
+ <item>
+      <title>[B][COLOR magenta]PINK KANALI[/COLOR][/B]</title>
+      <thumbnail>http://i.imgur.com/51aZGU7.png</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/pink.xml</externallink>
+</item>
+</items>
+
+
+ <item>
+      <title>[B][COLOR lime]FILMOVI I SERIJE[/COLOR][/B]</title>
+      <thumbnail>http://www.lumiere.rs/wp-content/uploads/2011/10/marketing-filmovi-i-knjige.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/film.xml</externallink>
+</item>
+</items>
+
+
+ 
+
+
+
+ <item>
+      <title>[B][COLOR lime]DOKUMENTARNI KANALI[/COLOR][/B]</title>
+      <thumbnail>http://www.globalmediaplanet.info/wp-content/uploads/2015/08/besplatni-online-DOKUMENTARCI-s-prevodom.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/doku.xml</externallink>
+</item>
+</items>
+
+ <item>
+      <title>[B][COLOR lime]KANALI ZA NAJMLADJE[/COLOR][/B]</title>
+      <thumbnail>http://www.tvkanald.rs/images/logo_tvkanald_big_decijatv.png</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/kids.xml</externallink>
+</item>
+</items>
+
+ <item>
+      <title>[B][COLOR lime]MUZICKI KANALI[/COLOR][/B]</title>
+      <thumbnail>http://static.mondo.rs/Picture/612790/png/Muzicki_paket_940x529.png</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/music.xml</externallink>
+</item>
+
+ <item>
+      <title>[B][COLOR lime]STRANI KANALI[/COLOR][/B]</title>
+      <thumbnail>https://4.bp.blogspot.com/-h7gm7anvL3I/Vvwug8kMPTI/AAAAAAAAAK8/Dmo3wT2ktcQkxfP6Gd4gJqoUibjNfvy6gCPcB/s1600/s640_47975433078cf24537eae95219112.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/strani.xml</externallink>
+</item>
+
+
+ <item>
+      <title>[B][COLOR gold]DENIS LIST PLATINUM[/COLOR][/B]</title>
+      <thumbnail>https://s8.postimg.cc/q4zhuv6dx/icon.png</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/DENIS/platinum1.xml</externallink>
+</item>
+
+ 
+ <item>
+      <title>[B][COLOR lime]XXX[/COLOR][/B]</title>
+      <thumbnail>https://www.italoamericano.org/sites/default/files/styles/crop_show/public/media/main/bellucci.jpg?itok=vINsWEG5&c=8a7281a2fe56ac793c3a00a60d856a2a</thumbnail>
+      <fanart>https://www.italoamericano.org/sites/default/files/styles/crop_show/public/media/main/bellucci.jpg?itok=vINsWEG5&c=8a7281a2fe56ac793c3a00a60d856a2a</fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi.csadria.org/GREENaddon/TVlive/xxx.xml</externallink>
+</item>
+</items>
+
+
 
 
 
