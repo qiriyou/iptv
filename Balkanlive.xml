@@ -46,6 +46,106 @@
 </item>
 
 
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]SPORT[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/Sport.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Sport/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]SERBIA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/srbija.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Srbija/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]CROATIA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/hrvatska.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Hrvatska/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]BiH[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/bih.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Bosna/meni.xml</externallink>
+</item>
+</items>
+
+<!--// Slovenija    \\-->
+  <item>
+<title>[B][COLOR orange]SLOVENIA[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Slovenia_%28bordered%29.png</thumbnail>      LOJZE BOC
+<fanart></fanart>
+<externallink>http://kodi-zorro.com/addon/tv/EX-YU/Slovenija/meni.xml</externallink>
+</item>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]MACEDONIA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/makedonija.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Makedonija/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]MONTENEGRO[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/montenegro.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Montenegro/meni.xml</externallink>
+</item>
+</items>
+
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]MOVIES[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/Filmski.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Filmski/meni.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]PINK[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/pink.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/EX-YU/Pink/meni.xml</externallink>
+</item>
+</items>
+
+
+
+
+
+
+
 </channels>
 
 
