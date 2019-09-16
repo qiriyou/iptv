@@ -383,6 +383,137 @@
 
 
 
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]ALBANIJA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/albanija.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Albanija/meni.xml</externallink>
+</item>
+</items>
+
+
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]ENGLAND[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/england.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/England/meni.xml</externallink>
+</item>
+</items>
+
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]FRANCE[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/france.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/France/meni.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]GERMANY[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/germany.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Germany/meni.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]GREECE[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/greece.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Greece/meni.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]ITALI[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/italy.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Italija/meni.xml</externallink>
+</item>
+</items>
+
+
+
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]ROMANIA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/rumunija.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Rumunija/meni.xml</externallink>
+</item>
+</items>
+
+
+<items>
+ <item>
+      <title>[B][COLOR orange]TURCEY[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/turska.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Turska/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]RUSIA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/Rusija.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/Rusija/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]USA[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/us.jpg</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/USA/meni.xml</externallink>
+</item>
+</items>
+
+<items>
+ <item>
+      <title>[B][COLOR orange]WORLD-Stream[/COLOR][/B]</title>
+      <thumbnail>http://kodi-zorro.com/addon/tv/Slike/world.png</thumbnail>
+      <fanart></fanart>
+      <link>http://ignoreme</link>
+      <externallink>http://kodi-zorro.com/addon/tv/Svet/WORLD-Stream.xml</externallink>
+</item>
+</items>
+
+
+
+
+
+
+
 
 
 </channels>
