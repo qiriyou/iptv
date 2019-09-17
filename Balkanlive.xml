@@ -510,6 +510,23 @@
 
 
 
+<item>
+ <title>[B][COLOR white]CANALES[/COLOR][COLOR dodgerblue] ABIERTOS[/COLOR][/B]</title>
+ <link>$doregex[freeworld]</link>
+ <regex>
+ <name>freeworld</name>
+ <listrepeat><![CDATA[
+<title>[COLOR yellow][B][freeworld.param3][/B][/COLOR]</title>
+<link>[freeworld.param2]|Referer=http://dazplayer.com/chh/&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<thumbnail>https://forounivers.com/uploads/monthly_2017_01/Pantalla.png.08f71481a61d7904965e8c5e621f3b66.png</thumbnail>
+<fanart>https://i2.cdn.cnn.com/cnnnext/dam/assets/160122140719-beyond-the-call-of-duty-background-full-169.jpg</fanart>
+]]></listrepeat>
+ <expres><![CDATA[(?s)src='(.*?)'.*?<a href='(.*?)'.*?playlist__track__title'>(.*?)<.*?]]></expres>
+ <page>http://dazplayer.com/chh/</page>
+ </regex>
+</item>
+
+
 
 
 
