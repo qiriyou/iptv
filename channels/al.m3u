@@ -243,3 +243,233 @@ http://84.22.44.247:1935/live/radio.stream/playlist.m3u8|User-Agent=AppleCoreMed
 http://www.radioemigranti.com:8000/radioauto48
 #EXTINF:-1. PREMIUM X1
 http://195.181.174.234//streaming/clients_live.php?username=HvUOM5kxi0&password=H89b2ZjGx6&stream=22784&extension=m3u8&hash=f0aa2b6f7780bc7165f20c70833c2605&time=0&external_device=
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Top Channel
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/28.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Klan TV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/27.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Vizion Plus
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/26.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Klan plus
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/86.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,news 24
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/75.ts
+
+#EXTINF:-1,Report tv#EXTVLCOPT:http-user-agent=163.172.35.210
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/76.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Ora news
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/74.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Alsat
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/87.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,T HD Channel
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/56.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Aksion
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/63.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Komedi
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/58.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Hits
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/59.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Nje HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/57.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Dy HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/60.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Dram
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/61.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Film Autor
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/62.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,EXP Shkenca
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/64.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,EXP Natyra
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/65.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,EXP Histori
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/66.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Cufo
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/43.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Digi Gold
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/678.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Bang Bang
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/42.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Junior
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/41.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Jolly HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/40.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Smil
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/88.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring World
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/32.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Planet
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/31.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Histori
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/35.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Shqip
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/30.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Super
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/29.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Max
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/33.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring  
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/34.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Fantazi
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/36.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring 3 Plus
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/38.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring tring
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/89.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Western HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/692.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV
+ Tom & Jerry
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/687.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Komedi HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/691.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Horror HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/690.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,SHQIPTV Hindi HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/683.ts
+
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTV Film HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/685.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Fantasy HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/689.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ShqipTv Aksion
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/688.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,EST: Vizion Plus
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/670.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,EST: Top Channel
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/669.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,OPOJA TV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/77.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,syri tv
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/82.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Jug tv
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/80.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Dasma TV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/817.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ZjarrTV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/813.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,TemaTV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/812.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,RTVZiK
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/815.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,RTK 4
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/799.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Rrokum HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/800.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,JugTV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/816.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,IN TV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/814.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Euro AL
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/819.ts
+.
+#EXTINF:-1,Elrodi TV
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/818.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB UK MUSIC
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/84.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,ALB UK HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/85.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa Sport 4
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/859.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa Sport 3
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/858.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa Sport 2
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/857.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Kujtesa Sport 1
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/856.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport Kosova 2 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/55.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super Sport Kosova 1 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/54.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super SPORT 1 HD
+#EXTVLCOPT:http-user-agent=163.172.35.210
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/48.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super SPORT 2 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/49.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super SPORT 3 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/50.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super SPORT 4 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/51.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Super SPORT 5 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/52.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Sport 1 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/44.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Sport 2 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/45.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Sport 3 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/46.ts
+#EXTVLCOPT:http-user-agent=163.172.35.210
+#EXTINF:-1,Tring Sport 4 HD
+http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/47.ts
