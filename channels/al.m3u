@@ -241,4 +241,5 @@ http://stream1.rtkit.com:1935/radiostream/rk1.stream/playlist.m3u8|User-Agent=Ap
 http://84.22.44.247:1935/live/radio.stream/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #EXTINF:-1,RADIO EMIGRANTI
 http://www.radioemigranti.com:8000/radioauto48
-
+#EXTINF:-1. PREMIUM X1
+http://195.181.174.234//streaming/clients_live.php?username=HvUOM5kxi0&password=H89b2ZjGx6&stream=22784&extension=m3u8&hash=f0aa2b6f7780bc7165f20c70833c2605&time=0&external_device=
