@@ -473,3 +473,145 @@ http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/46.ts
 #EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1,Tring Sport 4 HD
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/47.ts
+#EXTM3U Albdroid TV
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,Al: Vizion Plus
+http://195.154.232.129:8080/live/albatv/shqiptv/350.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring World
+http://195.154.232.129:8080/live/albatv/shqiptv/369.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Tring
+http://195.154.232.129:8080/live/albatv/shqiptv/358.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Super HD
+http://195.154.232.129:8080/live/albatv/shqiptv/390.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Smile
+http://195.154.232.129:8080/live/albatv/shqiptv/375.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Shqip
+http://195.154.232.129:8080/live/albatv/shqiptv/389.ts#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Planet
+http://195.154.232.129:8080/live/albatv/shqiptv/370.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Life
+http://195.154.232.129:8080/live/albatv/shqiptv/393.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring History
+http://195.154.232.129:8080/live/albatv/shqiptv/371.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Fantasy
+http://195.154.232.129:8080/live/albatv/shqiptv/392.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Comedy
+http://195.154.232.129:8080/live/albatv/shqiptv/394.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring Action
+http://195.154.232.129:8080/live/albatv/shqiptv/391.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tring 3
+http://195.154.232.129:8080/live/albatv/shqiptv/373.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Top News HD
+http://195.154.232.129:8080/live/albatv/shqiptv/353.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Top Channel
+http://195.154.232.129:8080/live/albatv/shqiptv/346.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Tip TV
+http://195.154.232.129:8080/live/albatv/shqiptv/364.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: T HD
+http://195.154.232.129:8080/live/albatv/shqiptv/377.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Stinet
+http://195.154.232.129:8080/live/albatv/shqiptv/374.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Sole TV
+http://195.154.232.129:8080/live/albatv/shqiptv/361.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Sofia HD
+http://195.154.232.129:8080/live/albatv/shqiptv/360.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: RTV 21 Mix HD
+http://195.154.232.129:8080/live/albatv/shqiptv/352.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: RTSH FEMIJE
+http://195.154.232.129:8080/live/albatv/shqiptv/362.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: ORA News HD
+http://195.154.232.129:8080/live/albatv/shqiptv/354.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Living HD
+http://195.154.232.129:8080/live/albatv/shqiptv/376.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Klan Plus
+http://195.154.232.129:8080/live/albatv/shqiptv/348.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: KLAN Macedonia
+http://195.154.232.129:8080/live/albatv/shqiptv/349.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Klan Kosova
+http://195.154.232.129:8080/live/albatv/shqiptv/345.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Klan
+http://195.154.232.129:8080/live/albatv/shqiptv/347.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Kids
+http://195.154.232.129:8080/live/albatv/shqiptv/359.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Junior TV
+http://195.154.232.129:8080/live/albatv/shqiptv/363.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Jolly HD
+http://195.154.232.129:8080/live/albatv/shqiptv/388.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Thriller
+http://195.154.232.129:8080/live/albatv/shqiptv/387.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film NJE HD
+http://195.154.232.129:8080/live/albatv/shqiptv/379.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Komedi
+http://195.154.232.129:8080/live/albatv/shqiptv/384.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Hits
+http://195.154.232.129:8080/live/albatv/shqiptv/382.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Dy HD
+http://195.154.232.129:8080/live/albatv/shqiptv/380.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Drame
+http://195.154.232.129:8080/live/albatv/shqiptv/386.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Autor
+http://195.154.232.129:8080/live/albatv/shqiptv/385.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Film Aksion
+http://195.154.232.129:8080/live/albatv/shqiptv/383.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Family HD
+http://195.154.232.129:8080/live/albatv/shqiptv/378.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Explorer Shkence
+http://195.154.232.129:8080/live/albatv/shqiptv/366.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Explorer Natyra
+http://195.154.232.129:8080/live/albatv/shqiptv/367.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Explorer Histori
+http://195.154.232.129:8080/live/albatv/shqiptv/368.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Euro Film
+http://195.154.232.129:8080/live/albatv/shqiptv/381.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: CUFO
+http://195.154.232.129:8080/live/albatv/shqiptv/357.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Bang Bang
+http://195.154.232.129:8080/live/albatv/shqiptv/356.ts
+#EXTVLCOPT:http-user-agent=albatv
+#EXTINF:-1,AL: Alsat M
+http://195.154.232.129:8080/live/albatv/shqiptv/351.ts
+
