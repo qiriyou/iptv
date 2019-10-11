@@ -370,43 +370,42 @@ http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/690.ts|user-agent=163.172
 #EXTINF:-1,SHQIPTV Hindi HD
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/683.ts|user-agent=163.172.35.210
 
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,ShqipTV Film HD
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/685.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1,ShqipTv Fantasy HD
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/689.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,ShqipTv Aksion
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/688.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,EST: Vizion Plus
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/670.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,EST: Top Channel
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/669.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,OPOJA TV
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/77.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,syri tv
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/82.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,Jug tv
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/80.ts|user-agent=163.172.35.210
 #EXTVLCOPT:http-user-agent=163.172.35.210
 #EXTINF:-1,Dasma TV
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/817.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,ZjarrTV
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/813.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,TemaTV
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/812.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,RTVZiK
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/815.ts|user-agent=163.172.35.210
-#EXTVLCOPT:http-user-agent=163.172.35.210
+
 #EXTINF:-1,RTK 4
 http://163.172.211.229:8000/live/8zuMQcuCO5/q4D5CR90uM/799.ts|user-agent=163.172.35.210
 #EXTVLCOPT:http-user-agent=163.172.35.210
