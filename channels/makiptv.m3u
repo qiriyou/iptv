@@ -1,333 +1,89 @@
-#EXTINF:-1 tvg-id=""  tvg-logo="https://goo.gl/sCeehf" group-title="INFORMACOES",==MAKEDONIJA==
-#EXTINF:-1 tvg-id="MRT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: MRT 1" tvg-logo="http://nextgen-iptv.com/logo/MRT_1_new_logo.png" group-title="Macedonia",Mrt 1 Hd Makedonija Tv 
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
-#EXTINF:-1 tvg-id="Sitel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Sitel" tvg-logo="http://nextgen-iptv.com/logo/200px-Logo_of_Sitel.svg.png" group-title="Macedonia",Sitel Hd Makedonija Tv 
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
-#EXTINF:-1 tvg-id="ALFATV" tvg-name="Alfa TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/alfa_tv.png" group-title="Makedonija",Alfa Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
-#EXTINF:-1 tvg-id="Nova" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Nova" tvg-logo="https://pbs.twimg.com/profile_images/694527623792349185/DpsLfJU9_400x400.png"group-title="MAKEDONIJA",Nova Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Nova_MK)/index.m3u8
-#EXTINF:-1 tvg-id="Kanal5" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Kanal 5" tvg-logo="http://nextgen-iptv.com/logo/kanal5-logo.png" group-title="Macedonia",Kanal 5 Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_MK)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="?????" tvg-logo="http://ohridskoleto.com.mk/wp-content/uploads/2017/04/telma.png" group-title="MAQEDONI",Telma Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
-#EXTINF:-1 tvg-id="1TVmk" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="1TVmk" tvg-logo="https://i.imgur.com/foIanG6.png" group-title="Macedonia",1 Hd Makedonija Tv
-http://vod-c55.interspace.org:80/receiver/152327157439_p4/playlist.m3u8
-#EXTINF:-1 tvg-id="Folk" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Folk" tvg-logo="https://4.bp.blogspot.com/-Qf3XHQRxox8/WomY065dPxI/AAAAAAAAAFw/CVOo4d2igg8AQs-d4T_rL8rJoiWl6qWpQCLcBGAs/s1600/DA.jpg" group-title="MAKEDONIJA",Sky Folk Hd Music Makedonija Tv
-http://www.skyfolk.mk/live.m3u8
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="MACEDONIA",Folk Hd Makedonija Tv
-http://51.254.45.61:8080/hls/folkmk2.m3u8
-#EXTINF:-1,Starfolkmusic Makedonija Tv
-https://live.muzickatv.mk/hls/Starmusic.m3u8
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="Macedonia",Makedonska Hd Music Makedonija Tv
-http://137.74.114.60:8080/hls/makedonska.m3u8
-#EXTINF:-1 tvg-id="Stop TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Stop TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/stop_tv_250x250.png"group-title="EX-YU GLAZBA",Stop Music Hd Makedonija Tv
-http://stoptv-live.morescreens.com/musictv/chunklist.m3u8
-#EXTINF:-1 tvg-name="Balkan Music" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/balkan_music.png" group-title="Ex-Yu Glazba",Balkan Music Makedonija Tv
-http://balkanmusictv.ddns.net/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="TvMarajoara.igor"  tvg-logo="http://goo.gl/uBbWDt?" group-title="TV ABERTA SD",Prva Skopska Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
-#EXTINF:-1 tvg-id="TV+_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="TV+ MK" tvg-logo="http://www.tvplus.bg/img/site/logo.png" group-title="MAKEDONSKI",Plus Hd Makedonija Tv
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YuVp5w9swnI/Ve1_NZe7StI/AAAAAAAAAMw/-LxxTHguJg8/s1600/h1.jpg" group-title="MACEDONIA",Hugo 1 Hd Makedonija Tv
-http://prva-iptv.hugo.mk:1935/live/hd/stream/1.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hugo 1 TV" tvg-logo="http://titaniptv.com/epg/logo/Hugo%20TV.png" group-title="Makedonija",Hugo 2 Hd Music Makedonija Tv
-http://prva-iptv.hugo.mk:1935/live/hd/stream/2.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hugo 3 TV" tvg-logo="http://titaniptv.com/epg/logo/Hugo%20TV.png" group-title="Makedonija",Hugo 3 Hd Music Makedonija Tv
-http://prva-iptv.hugo.mk:1935/live/hd/stream/3.ts
-#EXTINF:-1 tvg-id="24 Vesti" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="24 Vesti" tvg-logo="http://frocus.net/images/logotv/original/24_vesti_mk.jpg" group-title="International",24 Vesti Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(24_Vesti)/index.m3u8
-#EXTINF: -1 tvg-name="Nasha" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nasha.png" group-title="Makedonija",Naša Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MRT Sobraniski Kanal" tvg-logo="http://www.predavatel.com/mk/tv/makedonska-televizija/mktv3.png" group-title="MAQEDONI",Mrt 3 Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
-#EXTINF:-1 tvg-id="Kanal5plus" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Kanal 5+" tvg-logo="http://nextgen-iptv.com/logo/kanal5-plus-logo.png" group-title="Macedonia",Kanal 5 Plus Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Kanal_5_Plus_MK)/index.m3u8
-#EXTINF:-1 tvg-id="MRT2" tvg-name="MRT 2" tvg-logo="http://titaniptv.com/epg/logo/MRT%202.png" group-title="Makedonija",Mrt 2 Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:-1 tvg-id="ALSAT-M" tvg-name="Alsat M" tvg-logo="http://titaniptv.com/epg/logo/Alsat%20M.png" group-title="Makedonija",Alsat M Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
-#EXTINF:-1 tvg-id="RTV21al" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTV 21" tvg-logo="http://nextgen-iptv.com/logo/rtv%2021.png" group-title="Makedonija",21 Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-#EXTINF:-1 tvg-id="Shenja" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Shenja" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/Shenja_logo_5ac42b082bf00.png"group-title="MAKEDONIJA",Shenja Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
-#EXTINF:-1 tvg-id="Sutel" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Sutel" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/mk-tv-sute.jpg"group-title="MAKEDONIJA",Sutel Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ERA TV" tvg-logo="http://diasporatv.com/uploads/dtv-channel-tvera.png" group-title="MAQEDONI",Era Hd Makedonija Tv
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 2 GOSTIVAR" tvg-logo="https://thumb.ibb.co/eadipQ/TV_2_GOSTIVAR.png" group-title="MAQEDONI",Gostivar 2 Makedonija Tv
-http://178.132.6.97:8080/tv2gostivar/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV KOHA" tvg-logo="https://cdn6.aptoide.com/imgs/4/e/4/4e476bb1969bd3cf0675dd52261cc7be_icon.png" group-title="MAQEDONI",Koha Makedonija Tv
-http://178.132.6.97:8080/TVKohaTetove/index.m3u8
-#EXTINF:-1,tv tetova
-https://shqip.stream/hls/Tetova.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== HRVATSKA =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="HRVATSKA / CROATIA",===== HRVATSKA =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
 
-
-
-
-#EXTINF:-1,Gradsko Kamera 1
-http://streaming1.neotel.net.mk:8080/hls/gradsko_1.m3u8
-#EXTINF:-1,Miladinovci Kamera 2
-http://streaming1.neotel.net.mk:8080/hls/miladinovci_1.m3u8
-#EXTINF:-1,Romanovce Kamera 3
-http://streaming1.neotel.net.mk:8080/hls/romanovce_4.m3u8
-#EXTINF:-1,Petrovec Kamera
-http://streaming1.neotel.net.mk:8080/hls/petrovec_1.m3u8
-#EXTINF:-1,Gostivar Kamera 5
-http://streaming1.neotel.net.mk:8080/hls/gostivar_1.m3u8
-#EXTINF:-1,Devebair Kamera 6
-http://streaming1.neotel.net.mk:8080/hls/deve_bair.m3u8
-#EXTINF:-1,Glumovo Kamera 7
-http://streaming1.neotel.net.mk:8080/hls/glumovo_1.m3u8
-#EXTINF:-1,Zelino Kamera 8
-http://streaming1.neotel.net.mk:8080/hls/zelino_1.m3u8
-#EXTINF:-1,Tetovo Kamera 9
-http://streaming1.neotel.net.mk:8080/hls/tetovo_1.m3u8
-
-#EXTINF:
-#EXTINF:-1 tvg-id="MRT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: MRT 1" tvg-logo="http://nextgen-iptv.com/logo/MRT_1_new_logo.png" group-title="Macedonia",Mrt 1 Hd Makedonija Tv
-#http://178.132.6.97:8080/MRT11/tracks-v1a1/index.m3u8
-http://89.212.51.85:8443/udp/239.13.2.237:5000
-#EXTINF:-1 tvg-id="Sitel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Sitel" tvg-logo="http://nextgen-iptv.com/logo/200px-Logo_of_Sitel.svg.png" group-title="Macedonia",Sitel Hd Makedonija Tv 
-http://89.212.51.85:8443/udp/239.13.2.243:5000 
-http://82.214.119.228:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="ALFATV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Alfa TV" tvg-logo="http://tvprofil.net/img/kanali-logo/alfatvlogo.png" group-title="Macedonia",Alfa Skopje Makedonija Tv 
-http://89.212.51.85:8443/udp/239.13.2.233:5000
-#EXTINF:-1 tvg-id="167" tvg-name="Mk: KANAL 5" tvg-logo="/noicon.png" group-title="International",Mk: KANAL 5 - Mk: KANAL 5
-#http://37.187.158.217:8081/kanal5/kanal5/playlist.m3u8
-http://89.212.51.85:8443/udp/239.13.2.235:5000
-#EXTINF:-1,Telma HD
-http://89.212.51.85:8443/udp/239.13.2.242:5000 
-http://82.214.119.228:8000/play/a02v/index.m3u8
-#EXTINF:-1,24 vesti
-http://89.205.127.251:1935/live/11/playlist.m3u8
-#EXTINF:0,Nasa tv 
-http://89.212.51.85:8443/udp/239.13.2.240:5000
-#EXTINF:0,MRT Sobrani 
-http://89.212.51.85:8443/udp/239.13.2.239:5000
-#EXTINF:0,Kanal 5 Plus 
-http://89.212.51.85:8443/udp/239.13.2.236:5000 
-#EXTINF:-1 tvg-id="Folk" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Folk" tvg-logo="https://4.bp.blogspot.com/-Qf3XHQRxox8/WomY065dPxI/AAAAAAAAAFw/CVOo4d2igg8AQs-d4T_rL8rJoiWl6qWpQCLcBGAs/s1600/DA.jpg" group-title="MAKEDONIJA",Sky Folk Hd Music Makedonija Tv
-#http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TV+_MK" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="TV+ MK" tvg-logo="" group-title="Makedonski",Plus Makedonija Tv
-http://178.132.6.97:8080/PLUSTV/tracks-v1a1/index.m3u8
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1 tvg-id="Sitel3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="MK: Sitel 3" tvg-logo="http://mvljnski.home.xs4all.nl/images/sitel3.jpg" group-title="Macedonia",Sitel 3 Hd Makedonija Tv
-http://89.212.51.85:8443/udp/239.13.2.241:5000
-#EXTINF:0,MRT 2 
-http://89.212.51.85:8443/udp/239.13.2.238:5000 
-#EXTINF:0,Alsat Macedonia 
-http://89.212.51.85:8443/udp/239.13.2.234:5000 
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="Macedonia",Folk Club Music Hd Tv
-http://vtv.selfip.net:8080/live/folkclubmk/folkclubmk/1961.ts
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="Macedonia",In Hd Music Makedonija Tv
-http://vtv.selfip.net:8080/live/vaneintv/vaneintv/278.ts
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="MACEDONIA",Makedonsko Sonce Hd Makedonija Tv
-http://link.softiptv.com:2500/live/ZFPrf5gDtm/SJXFyYT8o4/6418.ts
-#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_sonce.jpg" group-title="Macedonia",Orbis Hd Makedonija Tv
-http://62.162.179.187:8080
-#EXTINF:=====Muzika=====
-#EXTINF:0 tvg-logo="http://logo.exyu.xyz/tv_s1.png" tvg-id="TV S1" tvg-name="TV S1" group-title="Regionalni kanali",Sarajevo 1 Music Bosna Tv
-http://91.148.117.134:1935/radios/radiosweb.stream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DM SAT" tvg-logo="http://img01.deviantart.net/d129/i/2011/024/e/1/dm_sat_by_cavalieredellacita-d37yc3j.png" group-title="▆ ▇MUZICKI▇ ▆",Dm Sat Music Srbija Tv
-http://178.132.6.97:8080/DMSAT1/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: KCN 2" tvg-logo="http://boomtv.club/logo/kcn2.png" group-title="Srpski",Kcn 2 Music Srbija Tv
-http://212.200.102.3:5000/rtp/239.0.0.2:5000
-#EXTINF:-1 tvg-ID="KCN Svet +" tvg-name="Ex-Yu: KCN 3" tvg-logo="http://boomtv.club/logo/kcn3.png" group-title="Srpski",Kcn 3 Music Srbija Tv
-http://212.200.102.3:5000/rtp/239.0.0.3:5000
-#EXTINF:-1 tvg-ID="Grand Narodna TV" tvg-name="Grand Narodna TV" tvg-logo="https://pbs.twimg.com/profile_images/641182312206594048/dE-O-ye4.png" group-title="EX-YU",Grand Srbija Tv
-http://tv.trexiptv.com:8000/erol1/erol1/15733
-#EXTINF:-1 tvg-name="Grand 2" tvg-logo="https://telemach.si/Picture/11169/jpeg/grand_2_tv.jpg" group-title="EX-YU",Grand 2 Music Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/749.ts
-#EXTINF:-1 tvg-ID="BNMusic" tvg-name="BN Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/BN_Music_logo.png" group-title="EX-YU",Bn Music Bosna Tv
-http://89.212.51.85:8443/udp/239.12.2.151:5000
-#EXTINF:-1 tvg-ID="Bravo Music" tvg-name="Ex-Yu: Bravo Music" tvg-logo="http://boomtv.club/logo/pinkbravomusic.png" group-title="Pinkovi",Bravo Music Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/428.ts
-#EXTINF:-1 tvg-logo="http://pink-rs.com/media/image/portal-media-f80dcccb-f663-eec4-5adc-dfffcedd44ba/720" group-title="EX-YU",City Play Music Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/576.ts
-#EXTINF:-1 tvg-id="" tvg-name="IDJ TV HD  " tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1385/idjtv_k.png" group-title=" ",I Dj Music Srbija Tv  
-
-#EXTINF:-1 tvg-id="HayatFolk" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat Folk" tvg-logo="http://nextgen-iptv.com/logo/HayatFolk_BiH.png" group-title="Music",Hayat Folk Bosna Tv
-http://89.212.51.85:8443/udp/239.13.2.200:5000 
-#EXTINF:-1 tvg-id="TOP Sound BH" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TOP Sound BH" tvg-logo="http://nextgen-iptv.com/logo/logo-topsound.png" group-title="Movies",Top Sound Music Srbija Tv
-http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
-#EXTINF:-1 tvg-id="TVDuga" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Duga TV" tvg-logo="http://nextgen-iptv.com/logo/rtv-duga-logo.png" group-title="Music",Duga Music Srbija Tv
-http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="OTVValentino" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Valentino TV" tvg-logo="http://nextgen-iptv.com/logo/OTVValentino_BiH.png" group-title="Srbija",Valentino Music Srbija Tv
-http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="JEKA" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="JEKA" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1490/thumb_Jeka-logo01.jpg"group-title="EX-YU GLAZBA",Jeka Music  Srbija Tv
-http://mts-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HIFI_logo.svg/1200px-HIFI_logo.svg.png",Hi Fi Music Srbija Tv
-http://mts-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sehara HD ex-Yu" tvg-logo="http://195.154.221.171/picons/tvseharahdexyu.png" group-title="ex-Yu",Sehara Music Bosna Tv
-http://ip2.xxlservices.com:8081/seharatv/mpegts/mpeg.2ts
-#EXTINF:-1 tvg-id="YU Planet" tvg-link="http://epg.iptvhr.net/"tvg-name="YU Planet" tvg-logo="http://www.planet-radio.at/wp-content/uploads/2017/04/novi-logo.png"group-title="SRBIJA",Yu Planet Music Srbija Tv
-http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-#EXTINF:-1 tvg-id="MOJE BUGOJNO" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="MOJE BUGOJNO" tvg-logo="https://telemach.ba/oec/images/tv_channels/04a0f07e63afe3f7e59092014bc20852.png" group-title="BIH",Moje Bugojno Bosna Tv
-http://178.132.6.97:8080/MojeBugojno1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV 101 Prijedor" tvg-link="http://epg.iptvhr.net/"tvg-name="NTV 101 Prijedor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/NTV_101_BiH_Logo.png"group-title="BIH",Ntv 101 Prijedor Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/653.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV  " tvg-logo="http://195.154.221.171/picons/sevdahtvexyu.png" group-title=",Sevdah Music Bosna Tv
-http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
-#EXTINF:-1,Jedinstvo Music Bosna Tv
-http://178.132.6.97:8080/JedinstvoTV1/playlist.m3u8
-#EXTINF: 0 tvg-name="GLas Drine" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/glas_drine.jpg" group-title="Ex-Yu Glazba", GLas Drine
-rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
-#EXTINF:-1 tvg-id="HayatMusic" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat Music" tvg-logo="http://nextgen-iptv.com/logo/Hayat_BiH.png" group-title="Music",Hayat Music Bosna Tv
-http://tv.trexiptv.com:8000/erol1/erol1/15729
-#EXTINF:-1 tvg-id="CMC" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="CMC" tvg-logo="http://nextgen-iptv.com/logo/cmc.png" group-title="Music",Cmc Music Hrvatska Tv
-http://89.212.51.85:8443/udp/239.12.2.154:5000 
-#EXTINF:-1 tvg-name="PINK FOLK 1" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2017/12/pinkfolk1.png?ssl=1&w=450",Pink Folk 1 Srbija Tv
-http://89.212.51.85:8443/udp/239.17.2.247:5000
-#EXTINF:-1 tvg-name="PINK FOLK 2" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2017/12/pinkfolk2.png?ssl=1&w=450",Pink Folk 2 Srbija Tv
-http://tv.trexiptv.com:8000/erol1/erol1/15762
-#EXTINF:-1 tvg-name="PINK MUSIC" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2017/12/pinkmusic.png?ssl=1&w=450",Pink Music 1 Srbija Tv
-http://89.212.51.85:8443/udp/239.11.2.107:5000
-#EXTINF:-1 tvg-name="PINK MUSIC" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2017/12/pinkmusic.png?ssl=1&w=450",Pink Music 2 Srbija Tv
-
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Sky - Folk" tvg-logo="http://a2-iptv.com/iptv/balkan_sky/folk.png" group-title="Balkan Sky",Balkan Sky Folk Srbija Tv
-
-#EXTINF:-1 tvg-id="JugotonTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Jugoton TV" tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png" group-title="Music",Jugoton Music Hrvatska Tv
-http://89.212.51.85:8443/udp/239.13.2.201:5000 
-#EXTINF:-1 tvg-name="NTV JATA" tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvjata.png?ssl=1&w=450",Jata Music Bosna Tv
-http://109.175.31.2:8525
-#EXTINF:-1,Narodna Hrvatska Tv
-http://89.212.51.85:8443/udp/239.13.2.227:5000
-#EXTINF:-1 tvg-id="IzvornaTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Izvorna TV" tvg-logo="http://nextgen-iptv.com/logo/Izvorna%20TV.png" group-title="Srbija",Izvorna Music Bosna Tv
-http://31.47.0.195/IzvornaTV
-#EXTINF:-1 tvg-name="MELOS" tvg-logo="http://rem.rs/uploads/attachment/pruzalac/1009/melos_1.jpg",Melos Music Srbija Tv
-
-#EXTINF:0 tvg-logo="http://logo.exyu.xyz/dstv.png" tvg-id="DSTV" tvg-name="DSTV" group-title="Muzicki kanali",Ds Music Bugarija Tv
-rtmp://46.249.95.140:80/live/livestream live=1
-#EXTINF:-1 tvg-name="Balkanika" tvg-logo="http://www.balkanika.tv/uf/logo_Balkanika.jpg" group-title="EX-YU",Balkanika Music Bugarija Tv
-http://89.212.51.85:8443/udp/239.12.2.153:5000
-#EXTINF:-1 tvg-id="PlanetaHD" tvg-name="PlanetaHD" tvg-logo="http://logos.kodibg.org/dirbg/242.png" group-title="?????????",Planeta Hd Music Bugarija Tv
-http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF: -1 tvg-name="Roma Music" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/roma_music.png" group-title="Ex-Yu Glazba",Roma Music Bugarija Tv
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/?heVoiceTV-logo.png" group-title="BULGARIA",The Voice Music Bugarija Tv
-https://bss.neterra.tv/rtplive/thevoice_live.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/LVNHOF" group-title="Canais Internacionais",City Music Tv
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:-1 tvg-id="BGMusicChannel" tvg-name="BGMusicChannel" tvg-logo="http://logos.kodibg.org/potv/167.png" group-title="?????????",Magic Music Bugarija Tv
-https://bss.neterra.tv/magictv/magictv_live.stream/playlist.m3u8
------ Srbija ------
-#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_SAT_logo.png",Rts Svet Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rtshd
-#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png" group-title=",Srbija 1 Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
-#EXTINF:-1 tvg-id="RTS2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/logo/RTS2_SRB.png" group-title="Srbija",Srbija 2 Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2 
-#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/800px-RTS_3_logo.svg.png" group-title=",Srbija 3 Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1 tvg-logo="http://nicke85.000webhostapp.com/n85_pic_list/RTSZivot_n85.png",Rts Zivot Srbija Tv
-
-#EXTINF:-1 tvg-id="RTS Drama" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="RTS Drama" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_Drama_logo.png"group-title="SRBIJA",Rts Drama Srbija Tv
-
-#EXTINF:-1 tvg-id="RTS Kolo" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="RTS Kolo" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_Kolo_logo.jpg"group-title="SRBIJA",Rts Kolo Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3325.ts
-#EXTINF:-1 tvg-logo="http://nicke85.000webhostapp.com/n85_pic_list/RTSTrezor_n85.png",Rts Trezor Srbija Tv
-
-#EXTINF:-1 tvg-id="RTS Muzika" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="RTS Muzika" tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_Muzika_logo.png"group-title="SRBIJA",Rts Muzika Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/870.ts
-#EXTINF:-1 tvg-logo="http://nicke85.000webhostapp.com/n85_pic_list/RTSPoletarac_n85.png",Rts Poletarac Srbija Tv
-https://rts-live.morescreens.com/RTS_1_008/playlist.m3u8?video_id=16883&authority_instance_id=spectar-prd-rts&token=369a90799318417fa7bcff5059a3150cb50fd87b&amp
-#EXTINF:-1 tvg-ID="RTV 1" tvg-name="Ex-Yu: RTV 1" tvg-logo="http://boomtv.club/logo/rtv1.png" group-title="Srpski",Vojvodina 1 Srbija Tv
-mmsh://212.200.255.151/rtv1?MSWMExt=.asf
-#EXTINF:-1 tvg-ID="RTV 2" tvg-name="Ex-Yu: RTV 2" tvg-logo="http://boomtv.club/logo/rtv2.png" group-title="Srpski",Vojvodina 2 Srbija Tv
-mmsh://212.200.255.151/rtv2?MSWMExt=.asf
-#EXTINF:-1 tvg-id="PRVASrpskaTelevizija" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Prva" tvg-logo="http://nextgen-iptv.com/logo/PrvaTV_SRB.png" group-title="Srbija",Prva Srpska Tv
-http://46.40.5.99:8000/prva_tv_high
-#EXTINF:-1 tvg-id="Prva Max" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Prva Max" tvg-logo="http://tvprofil.net/img/kanali-logo/prva-max_logo.jpg" group-title="Srbija",Prva Max Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/746.ts
-#EXTINF:-1 tvg-ID="Prva World" tvg-name="Prva World" tvg-logo="http://prvaworld.prva.rs/img/logo.png" group-title="EX-YU",Prva World Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1194.ts
-#EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/406.ts
-#EXTINF:-1 tvg-ID="StudioB" tvg-name="Studio B" tvg-logo="https://ocdn.eu/pulscms-transforms/1/fabktkpTURBXy83MGZiMDAyYzMyZWFkMTAwNGY2NTYyZTY1NDgzZmU0MS5qcGeSlQLNAxQAwsOVAs0B1gDCww" group-title="EX-YU", Studio B Srbija Tv
-http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="Happy TV" tvg-name="Ex-Yu: Happy" tvg-logo="http://boomtv.club/logo/happy.png" group-title="Srpski",Happy Srbija Tv
-http://89.212.51.85:8443/udp/239.13.2.247:5000
-#EXTINF:-1 tvg-ID="O2" tvg-name="O2TV" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/e/ec/O2.TV_logo.png" group-title="EX-YU",O2 Srbija Tv
-http://89.212.51.85:8443/udp/239.13.2.245:5000 
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Telegraf TV" tvg-logo="http://boomtv.club/logo/telegraf.png" group-title="Srpski",Telegraf Srbija Tv
-http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac" tvg-logo="http://titaniptv.com/epg/logo/TV%20Leskovac.png" group-title="Srbija",Leskovac Srbija Tv
-http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1 tvg-id="Biser TV" tvg-link="http://epg.iptvhr.net/"tvg-name="Biser TV" tvg-logo="https://yt3.ggpht.com/-OLPflOB4PHw/AAAAAAAAAAI/AAAAAAAAAAA/cucvP0xPa0I/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg"group-title="SRBIJA",Biser Srbija Tv
-http://185.17.188.18:9090
-#EXTINF:-1 tvg-logo="https://www.potpisujem.org/srb/sponzorstva/novosadska-tv-logo.png",Nis Srbija Tv
-mms://176.106.121.32:8090
-#EXTINF:-1 tvg-id="Mlava TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Mlava TV" tvg-logo="http://nextgen-iptv.com/logo/Mlava.png" group-title=",Mlava Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/2226.ts
-http://109.72.63.194:5900
-#EXTINF:-1 tvg-id="Sandzak TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Sandzak TV" tvg-logo="http://nextgen-iptv.com/logo/sandzak-tv-logo.jpg" group-title=",Sandzak Srbija Tv
-http://77.46.147.94:9250/
-#EXTINF: -1 tvg-id="NOVIPAZAR" tvg-name="Novi Pazar" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/novi_pazar.png" group-title="Srbija",Novi Pazar Srbija Tv
-http://178.132.6.97/a1rtvnovipazar1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Belle Amie TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Belle Amie TV" tvg-logo="http://nextgen-iptv.com/logo/tv-belle-amie-logo.png" group-title=",Belle Amie Srbija Tv
-rtmp://92.60.234.98/live/myStream
-#EXTINF:-1 tvg-id="KCN 1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="KCN 1" tvg-logo="http://nextgen-iptv.com/logo/kcn1.png" group-title="Srbija",Kcn 1 Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/402.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: Srpska Naucna Tv" tvg-logo="http://boomtv.club/logo/srpskanaucnatelevizija.png" group-title="Srpski",Srpska Naucna Srbija Tv
-http://edge-fr-02.maksnet.tv:1935/sntv/sntvlive/chunklist_w306291222.m3u8
-#EXTINF:-1 tvg-id="Puls" tvg-link="http://epg.iptvhr.net/" tvg-name="Puls" tvg-logo="https://seeklogo.com/images/T/tv-puls-logo-568817DCF8-seeklogo.com.png"group-title="SRBIJA",Puls Srbija Tv
-http://stream.rtvpuls.com/broadcasting
-#EXTINF: -1 tvg-name="PLUS" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/plus.png" group-title="Srbija",Plus Srbija Tv
-http://82.214.88.251/hls/krusevac.m3u8
-#EXTINF:-1 tvg-name="Naša Vremeplov" tvg-logo="http://www.rem.rs/uploads/attachment/pruzalac/1092/thumb_na_a_vremeplov.png" group-title="EX-YU",Naša Music Srbija Tv 
-http://176.67.211.6:15000/udp/239.1.1.196:22196
-#EXTINF: -1 tvg-id="HRAM" tvg-name="Hram" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/hram.png" group-title="Srbija",Hram Srbija Tv
-http://178.253.194.75:1935/live/hram.stream/.m3u8
-#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/tv-as-logo.jpg",As Sabac Srbija Tv
-
-#EXTINF:20 audio-track="rs" group-title="EXYU" tvg-name="Novosadska" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-logo="http://www.navidiku.rs/tv-uzivo/slike/tv/televizija1.jpg",Novosadska
-mms://176.106.121.32:8090
-#EXTINF: 0 tvg-name="Jefimija" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/jefimija.png" group-title="Srbija",Jefimija Srbija Tv
-rtmp://212.200.108.253/live/jefimija.flv
-#EXTINF: -1 tvg-name="Nova RS" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/nova_rs.png" group-title="Srbija",Nova Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/409.ts
-#EXTINF:-1 tvg-id="Posavina TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Posavina TV" tvg-logo="http://nextgen-iptv.com/logo/Posavina-TV-HR_o.jpg" group-title=",Pomoravlje Srbija Tv
-http://212.200.102.3:5000/udp/239.6.0.10:5000
-#EXTINF:-1 tvg-id="Teslavizija " tvg-link="http://epg.iptvhr.net/"tvg-name="Teslavizija " tvg-logo="http://teslavision.tv/wp-content/uploads/2015/03/teslavision.tv-logo2.png"group-title="SRBIJA",Teslavizija Srbija Tv
-http://192.99.6.113:1935/liveTarget/TeslaVision.stream/chunklist_w1459988322.m3u8
-#EXTINF: -1 tvg-name="Pirot Tv" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/pirot_tv.png" group-title="Srbija",Pirot Srbija Tv
-http://vps.oneit.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="ITV 1 UK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ITV 1 UK" tvg-logo="http://ruddstudio.com/app/uploads/2015/09/ITV-rebrand-Rudd-Studio-01-1170x658.jpg" group-title="UK",Istok 1 Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/636.ts
-#EXTINF: -1 tvg-name="TV Istok 2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/tv-istok-2.jpg" group-title="Srbija",Istok 2 Music Srbija Tv
-http://212.200.29.38:8081/
-#EXTINF:-1,Kim Srbija Tv
-http://37.26.71.125:19200
-#EXTINF:0,Bor Srbija Tv
-http://stream-06.dc3.dailymotion.com/dm/3/x46p655/live-2.m3u8
-#EXTINF:-1,J4T4 Music Tv
-http://109.175.31.2:8525
-#EXTINF:-1 tvg-id="" tvg-name="Palma Plus  " tvg-logo="" group-title=",Palma Plus Srbija Tv 
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/869.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV Kladovo" tvg-logo="http://www.hotelkladovo.rs/images/TV%20Kladovo%20logo.png" group-title="â–† â–‡ SRBIJA  â–‡ â–†",Kladovo Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/726.ts
-#EXTINF:-1,TV Sezam
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/556.ts
-#EXTINF:-1,4 S Srbija Tv
-
-#EXTINF:-1,Nasa Party Srbija Tv
-
-#EXTINF:-1 tvg-id="PARACIN TV" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="PARACIN TV" tvg-logo="http://asrbija.com/Image/01709/1x500x500/RTV-Kanal-M.jpg"group-title="SRBIJA",Paracin Srbija Tv
-http://176.67.210.1:8888/
-#EXTINF:-1 tvg-id="289" tvg-name="City TV" tvg-logo="/noicon.png" group-title="Informativni",City Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1017.ts
-#EXTINF:-1 tvg-id="RTV KRUSEVAC" tvg-link="http://epg.iptvhr.net/"tvg-name="RTV KRUSEVAC" tvg-logo="http://www.priv.rs/upload/images/logo_rtv_krusevac_20150713_132219.jpg"group-title="SRBIJA",Krusevac Srbija Tv
-
-#EXTINF:-1 tvg-id="TOP Kanal" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TOP Kanal" tvg-logo="http://tvprofil.net/img/kanali-logo/top_kanal_logo.png" group-title="Srbija",Top Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3398.ts
-#EXTINF:-1 tvg-id="ATV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="ATV" tvg-logo="" group-title="Domaci",Atv Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/598.ts
-#EXTINF:-1,Zdrava Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3406.ts
-#EXTINF:-1,RTV HIT
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/748.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV VRANJE" tvg-logo="https://www.juznevesti.com/uploads/assets/2010/10/09/2549/800x600_tv-vranje.jpg" group-title="INTERNACIONAL",TV VRANJE
+#EXTINF:-1,HRT 1
+http://v2pro.online:8000/pljakic/pljakic/2317
+#EXTINF:-1,HRT 1 FHD
+http://v2pro.online:8000/pljakic/pljakic/21308
+#EXTINF:-1,HRT 2
+http://v2pro.online:8000/pljakic/pljakic/2316
+#EXTINF:-1,HRT 2 FHD
+http://v2pro.online:8000/pljakic/pljakic/21309
+#EXTINF:-1,HRT 3
+http://v2pro.online:8000/pljakic/pljakic/2315
+#EXTINF:-1,HRT 3 FHD
+http://v2pro.online:8000/pljakic/pljakic/21310
+#EXTINF:-1,HRT 4
+http://v2pro.online:8000/pljakic/pljakic/2314
+#EXTINF:-1,HRT 4 FHD
+http://v2pro.online:8000/pljakic/pljakic/21311
+#EXTINF:-1,HRT int
+http://v2pro.online:8000/pljakic/pljakic/5343
+#EXTINF:-1,RTL HR
+http://v2pro.online:8000/pljakic/pljakic/2310
+#EXTINF:-1,RTL 2
+http://v2pro.online:8000/pljakic/pljakic/2309
+#EXTINF:-1,RTL LIVING
+http://v2pro.online:8000/pljakic/pljakic/2307
+#EXTINF:-1,RTL CRIME
+http://v2pro.online:8000/pljakic/pljakic/2306
+#EXTINF:-1,RTL PASSION HR
+http://v2pro.online:8000/pljakic/pljakic/2305
+#EXTINF:-1,NOVA TV
+http://v2pro.online:8000/pljakic/pljakic/2313
+#EXTINF:-1,NOVA HD
+http://v2pro.online:8000/pljakic/pljakic/5469
+#EXTINF:-1,Nova TV FHD
+http://v2pro.online:8000/pljakic/pljakic/21262
+#EXTINF:-1,DOMA TV
+http://v2pro.online:8000/pljakic/pljakic/2311
+#EXTINF:-1,DOMA TV HD
+http://v2pro.online:8000/pljakic/pljakic/5384
+#EXTINF:-1,Z1
+http://v2pro.online:8000/pljakic/pljakic/4351
+#EXTINF:-1,LAUDATO TV
+http://v2pro.online:8000/pljakic/pljakic/4356
+#EXTINF:-1,HR: TV BANOVINA
+http://v2pro.online:8000/pljakic/pljakic/3185
+#EXTINF:-1,HR: VINKOVACKA TV
+http://v2pro.online:8000/pljakic/pljakic/3186
+#EXTINF:-1,HR: OSIJECKA TV
+http://v2pro.online:8000/pljakic/pljakic/3188
+#EXTINF:-1,Narodna TV
+http://v2pro.online:8000/pljakic/pljakic/21260
+#EXTINF:-1,HR: SLAVONSKA TV
+http://v2pro.online:8000/pljakic/pljakic/3187
+#EXTINF:-1,Jabuka TV
+http://v2pro.online:8000/pljakic/pljakic/16680
+#EXTINF:-1,Mreza Split
+http://v2pro.online:8000/pljakic/pljakic/16672
+#EXTINF:-1,Mreza Zagreb
+http://v2pro.online:8000/pljakic/pljakic/16673
+#EXTINF:-1,Poljoprivredna TV
+http://v2pro.online:8000/pljakic/pljakic/16675
+#EXTINF:-1,Srce TV
+http://v2pro.online:8000/pljakic/pljakic/16676
+#EXTINF:-1,TV Dubrovnik
+http://v2pro.online:8000/pljakic/pljakic/16669
+#EXTINF:-1,TV ISTRA
+http://v2pro.online:8000/pljakic/pljakic/16681
+#EXTINF:-1,TV Jadran
+http://v2pro.online:8000/pljakic/pljakic/16671
+#EXTINF:-1,Libertas TV
+http://v2pro.online:8000/pljakic/pljakic/16668
+#EXTINF:-1,TV Sibenik
+http://v2pro.online:8000/pljakic/pljakic/16670
+#EXTINF:-1,Tv4r Karlovac
+http://v2pro.online:8000/pljakic/pljakic/16679
+#EXTINF:-1,VTV Televizija
+http://v2pro.online:8000/pljakic/pljakic/16677
+#EXTINF:-1,DMC
+http://v2pro.online:8000/pljakic/pljakic/16666
+#EXTINF:-1,SB TV
+http://v2pro.online:8000/pljakic/pljakic/16678
+#EXTINF:-1,CMC
+http://v2pro.online:8000/pljakic/pljakic/2090
 
 
 
@@ -340,451 +96,506 @@ http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/748.ts
 
 
 
-#EXTINF:=====Srbija=====
-#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_SAT_logo.png",Rts Svet Tv
-http://176.67.211.6:15000/udp/239.1.1.214:22214
-#EXTINF:-1 tvg-logo="http://tvprofil.net/img/kanali-logo/RTS_SAT_logo.png",Rts Hd Tv
-http://176.67.211.6:15000/udp/239.1.1.4:22004
-#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png" group-title=",Srbija 1 Tv
-http://176.67.211.6:15000/udp/239.1.1.1:22001
-#EXTINF:-1 tvg-id="RTS2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/logo/RTS2_SRB.png" group-title="Srbija",Srbija 2 Tv
-http://176.67.211.6:15000/udp/239.1.1.2:22002
-#EXTINF:-1 tvg-ID="RTS 3" tvg-name="RTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/RTS_3_logo.svg/800px-RTS_3_logo.svg.png" group-title=",Srbija 3 Tv
-http://176.67.211.6:15000/udp/239.1.1.3:22003
-#EXTINF:-1 tvg-logo="https://www.potpisujem.org/srb/sponzorstva/novosadska-tv-logo.png",Nis Srbija Tv
-http://176.67.211.6:15000/udp/239.1.1.10:22010
-#EXTINF:-1 tvg-id="RTV KRUSEVAC" tvg-link="http://epg.iptvhr.net/"tvg-name="RTV KRUSEVAC" tvg-logo="http://www.priv.rs/upload/images/logo_rtv_krusevac_20150713_132219.jpg"group-title="SRBIJA",Krusevac Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.9:22309
-#EXTINF:-1,Bk Srbija Tv
-http://176.67.211.6:15000/udp/239.1.1.34:22034
-#EXTINF:-1,Kcn Jagodina Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.1:22301
-#EXTINF:-1,Kanal M Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.2:22302
-#EXTINF:-1,Kragujevac Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.3:22303
-#EXTINF:-1,Jasenica Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.5:22305
-#EXTINF:-1,Sunce Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.6:22306
-#EXTINF:-1,Plus Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.8:22308
-#EXTINF:-1,Kraljevo Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.10:22310
-#EXTINF:-1,Most Net Srbija Tv
-http://176.67.211.6:15000/udp/239.1.3.11:22311
-#EXTINF:-1,N1 Srbija Tv
-http://176.67.211.6:15000/udp/239.1.1.11:22011
-#EXTINF:-1,Vranje Srbija Tv
-http://176.67.211.6:15000/udp/239.1.1.40:22040
-#EXTINF:-1,T1 Srbija Tv
-http://176.67.211.6:15000/udp/239.1.1.45:22045
-#EXTINF:------Hrvatska-----
-http://video.bossna-caffe.com:80/live?channelId=28&uid=35387&deviceUser=mersad&devicePass=mersad
-#EXTINF:-1 tvg-id="HTV1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 1" tvg-logo="http://nextgen-iptv.com/logo/HRT1_HR.png" group-title="Ex-YU",Hrvatska 1 Tv
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-id="HTV2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 2" tvg-logo="http://nextgen-iptv.com/logo/HRT2_HR.png" group-title="Ex-YU",Hrvatska 2 Tv
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:-1 tvg-id="HTV3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 3" tvg-logo="http://nextgen-iptv.com/logo/HRT3_HR.png" group-title="Ex-YU",Hrvatska 3 Tv
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:-1 tvg-id="HTV4" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 4" tvg-logo="http://nextgen-iptv.com/logo/HRT4_HR.png" group-title="Ex-YU",Hrvatska 4 Tv
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:-1 tvg-id="193" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HRT 5" tvg-logo="http://phazer.info/img/kanali/htv5.jpg" group-title="Informativni",Hrvatska 5 Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/3417.ts
-#EXTINF:-1 tvg-id="NB Comedy Channel" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="NB Comedy Channel" tvg-logo="https://pbs.twimg.com/profile_images/848073611651022849/1iVBmJoe_400x400.jpg" group-title="HRVATSKA",NB Comedy ChannelHrvatska Tv
-http://195.29.70.82/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 tvg-id="NOVATV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Nova TV" tvg-logo="http://nextgen-iptv.com/logo/NovaTV_HR.png" group-title="Ex-YU",Nova Hrvatska Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
-#EXTINF:-1 tvg-id="NOVA WORLD" tvg-link="" tvg-name="NOVA WORLD" tvg-logo="" group-title="Max tv",Nova World Hrvatska Tv
-http://circusmaximus.biz:80/live?channelId=1165&deviceMac=00:1A:79:41:78:20&uid=23385
-#EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.rtlgroup.com/files/jpg1/RTL_Televizija_Logo.jpg" group-title="HRVATSKA",Rtl 1 Hrvatska Tv
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1 tvg-name="RTL 2" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/rtl-22/271293-2-cro-HR/RTL-2.png" group-title="HRVATSKA",Rtl 2 Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14445 
-#EXTINF:-1 tvg-id="RTLCrime" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL Crime" tvg-logo="http://nextgen-iptv.com/logo/RTLCrime_HR.png" group-title="Ex-YU",Rtl Crime Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14442
-#EXTINF:-1 tvg-id="RTLLiving" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL Living" tvg-logo="http://nextgen-iptv.com/logo/RTLLiving_HR.png" group-title="Ex-YU",Rtl Living Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14443
-#EXTINF:-1 tvg-id="RTLPassion" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTL Passion" tvg-logo="http://nextgen-iptv.com/logo/RTLPassion_HR.png" group-title="Ex-YU",Rtl Passion Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14441
-#EXTINF:-1 tvg-id="DOMATV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Doma TV" tvg-logo="http://nextgen-iptv.com/logo/DomaTV_HR.png" group-title="Ex-YU",Doma Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14450
-#EXTINF:-1 tvg-id="Jabuka TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Jabuka TV" tvg-logo="http://phazer.info/img/kanali/jabukatv.jpg" group-title="",Jabuka Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14437
-http://stream-14.dc3.dailymotion.com/49/dm/3/x654gen/live-2.m3u8
-#EXTINF:-1 tvg-id="RTBTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Banovina TV" tvg-logo="http://nextgen-iptv.com/logo/RTVBanovina_HR.png" group-title="HRVATSKI PROGRAMI",Banovina Hrvatska Tv
-rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:-1 tvg-id="Trend TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Trend TV" tvg-logo="https://i.imgur.com/rtAznnQ.jpg" group-title="CROATIA",Trend Hrvatska Tv
-rtmp://185.62.75.22:1935/trend/myStream
-#EXTINF:-1 tvg-id="Sbtv.hr" tvg-name="CR: SB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/200px-SBTV_Logo.svg.png" group-title="CROATIAN -//- SLOVENIJA",Sb Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14429
-#EXTINF:-1 tvg-id="Z1.hr" tvg-name="CR: Z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="CROATIAN -//- SLOVENIJA",Zagreb 1 Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14438
-#EXTINF:-1 tvg-id="ZdravaTV.si" tvg-name="CR: ZDRAVA TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Zdrava_TV-7.jpg/revision/latest?cb=20111025170057" group-title="CROATIAN -//- SLOVENIJA",Zdrava Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14426
-#EXTINF:-1 tvg-id="Dmc.hr" tvg-name="CR: DMC" tvg-logo="http://img.phone.baidu.com/public/uploads/store_4/3/4/3/3438b989a4cf189429f54643f6466024_200x200.png" group-title="CROATIAN -//- SLOVENIJA",Dmc Music Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14422
-#EXTINF:-1 tvg-id="CMC.rs" tvg-name="CR: CMC" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092014/cmc.png?itok=VSIHvntK" group-title="CROATIAN -//- SLOVENIJA",Cmc Music Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14423
-#EXTINF:-1 tvg-id="Jugoton.hr" tvg-name="CR: JUGOTON TV" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092014/jugoton_tv.png?itok=AjozX5r6" group-title="CROATIAN -//- SLOVENIJA",Jugoton Music Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14420 
-#EXTINF:-1 tvg-id="OsjeckaTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Osjecka TV" tvg-logo="http://nextgen-iptv.com/logo/OsjeckaTV_HR.png" group-title="Ex-YU",Osjecka Hrvatska Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/722.ts
-#EXTINF:-1 tvg-id="SlavonskaTv.hr" tvg-name="CR: SLAVONSKA TV" tvg-logo="https://img.endole.co.uk/?t=e72754f0431279b57d0cebaaffe782d2&l=" group-title="CROATIAN -//- SLOVENIJA",Slavonska Hrvatska Tv
-http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="CR: KANAL RI" tvg-logo="https://www.gmkfreelogos.com/logos/K/img/Kanal_D.gif" group-title="CROATIAN -//- SLOVENIJA",Kanal Ri Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14436
-#EXTINF:-1 tvg-id="LaUne.be" tvg-name="CR: LAUDATO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b1/LaudatoTV.png/250px-LaudatoTV.png" group-title="CROATIAN -//- SLOVENIJA",Laudato Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14425
-#EXTINF:-1 tvg-id="" tvg-name="CR: SRCE TV" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/srce.png" group-title="CROATIAN -//- SLOVENIJA",CR: SRCE TV
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14427
-#EXTINF:-1 tvg-id="" tvg-name="CR: TV ISTRA" tvg-logo="http://tvistra.hr/wp-content/uploads/2018/08/logo21.jpg" group-title="CROATIAN -//- SLOVENIJA",CR: TV ISTRA
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14435
-#EXTINF:-1 tvg-id="VinkovackaTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Vinkovacka TV" tvg-logo="http://nextgen-iptv.com/logo/VinkovackaTV_HR.png" group-title="Ex-YU",Vinkovacka Hrvatska Tv
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14431
-#EXTINF:-1 tvg-id="" tvg-name="CR: VTV TELEVIZIJA" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0018/7801/brand.gif" group-title="CROATIAN -//- SLOVENIJA",CR: VTV TELEVIZIJA
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14434
-#EXTINF:-1 tvg-id="" tvg-name="CR: N1" tvg-logo="https://pbs.twimg.com/profile_images/984755560028495873/GevCcVB2_200x200.jpg" group-title="CROATIAN -//- SLOVENIJA",CR: N1
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/1443
-#EXTINF:-1 tvg-id="NarodnaTv.hr" tvg-name="CR: NARODNA TV" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAyq5NTIjeU8veAesXh-y9b8lNjHLLJrISGAw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="CROATIAN -//- SLOVENIJA",CR: NARODNA TV
-http://qqtv.nl:80/wDamMY8yqr/4t8BMaU287/14421
-#EXTINF:-1 tvg-id="KlasikTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Klasik TV" tvg-logo="http://nextgen-iptv.com/logo/KlasikTV_HR.png" group-title="Movies",Klasik Hrvatska Tv
 
-#EXTINF:-1 tvg-id="KinoTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Kino TV" tvg-logo="http://film-mag.net/wp/wp-content/uploads/2013/03/discovery_kino_tv2.jpg" group-title="Movies",Kino Hrvatska Tv
 
-#EXTINF:0 tvg-id="Pickbox TV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Pickbox TV" tvg-logo="http://phazer.info/img/kanali/pickbox-tv.jpg",Pickbox Hrvatska Tv
 
-#EXTINF:-1,Radio Student Hrvatska Tv
-rtmpt://tv2.carnet.hr:80/student/one
-#EXTINF:-1,Zagreb Live Kamera
-http://cdn-03.whatsupcams.com/hls/hr_zagreb1.m3u8
-#EXTINF:-1 tvg-logo="http://makarska-post.com/wp-content/uploads/2014/07/LOGO-ZA-SLANJE-TZM1.jpg",Makarska live Kamera
-http://146.185.16.10:1935/makarska/makarska.stream/playlist.m3u8
-#EXTINF:---------Bosna-------
-#EXTINF:-1,Banja Luka Kamera Live
-http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="BN" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="BN" tvg-logo="http://nextgen-iptv.com/logo/BN_BiH.png" group-title=",Bn Bosna Tv
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
-#EXTINF:-1 tvg-id="RTRS" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTRS" tvg-logo="http://nextgen-iptv.com/logo/RTRS_BiH.png" group-title="Ex-YU",Srpska 1 Bosna Tv
-http://178.132.6.97:8080/RTRS1/playlist.m3u8
-https://parh.rtrs.tv/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="RTRS PLUS" tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2017/12/rtrsplus.png?ssl=1&w=450",Srpska Plus Bosna Tv
-http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
-#EXTINF:-1 tvg-id="OBN" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="OBN" tvg-logo="http://nextgen-iptv.com/logo/OBN_BiH.png" group-title="Bosna",Obn Bosna Tv
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=obn 
-#EXTINF:-1 tvg-id="TvSarajevo" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TV Sarajevo" tvg-logo="http://nextgen-iptv.com/logo/tv_sarajevo.png" group-title=",Sarajevo Bosna Tv
-http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/451.ts
-#EXTINF:-1 tvg-id="BHT1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="BHT 1" tvg-logo="http://nextgen-iptv.com/logo/BHT1_BiH.png" group-title="Bosna",Bht 1 Bosna Tv
-http://178.132.6.97/BHT1SD1/index.m3u8 
-#EXTINF:-1 tvg-id="TV1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TV 1" tvg-logo="http://nextgen-iptv.com/logo/TV1_BiH.png" group-title="Bosna",Tv 1 Bosna Tv
-http://89.212.51.85:8443/udp/239.13.2.223:5000
-#EXTINF:-1 tvg-id="FTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Federalna TV" tvg-logo="http://nextgen-iptv.com/logo/FederalnaTV_BiH.png" group-title="Bosna",Federalna Bosna Tv
-http://178.132.6.97:8080/FTV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV K3" tvg-link="http://guide.nextgen-iptv.com/guid.xml" tvg-name="TV K3" tvg-logo="http://tvk3.info/wp-content/uploads/gabfire_thumbs/k3_logo-359y88aasshkditw6dbqio.jpg" group-title="Bosna",K3 Bosna Tv
-http://178.132.6.97:8080/k3tv1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="RTV BUGOJNO" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/bugojno.png?ssl=1&w=450",Bugojno Bosna Tv
-http://178.132.6.97:8080/TVBugojno1/playlist.m3u8
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/709.ts
-#EXTINF:-1 tvg-id="MOJE BUGOJNO" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="MOJE BUGOJNO" tvg-logo="https://telemach.ba/oec/images/tv_channels/04a0f07e63afe3f7e59092014bc20852.png" group-title="BIH",Moje Bugojno Bosna Tv
-http://178.132.6.97:8080/MojeBugojno1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV 101 Prijedor" tvg-link="http://epg.iptvhr.net/"tvg-name="NTV 101 Prijedor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/NTV_101_BiH_Logo.png"group-title="BIH",Ntv 101 Prijedor Bosna Tv
 
-#EXTINF:-1 tvg-name="RTV VISOKO" tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/04/rtv-visoko.png?ssl=1&w=450",Visoko Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1019.ts
-#EXTINF:-1 tvg-id="RTVZE" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTV Zenica" tvg-logo="http://nextgen-iptv.com/logo/RTV_Zenica.png" group-title=",Zenica Bosna Tv
-http://178.132.6.97:8080/RTVZenica1/index.m3u8
-#EXTINF:-1 tvg-id="FaceTV" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Face TV" tvg-logo="http://nextgen-iptv.com/logo/FaceTV_BiH.png" group-title="Bosna",Face Bosna Tv
-http://178.132.6.97:8080/FACETV1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVUSK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTV USK" tvg-logo="http://nextgen-iptv.com/logo/usk-logo.png" group-title="Bosna",Usk Bosna Tv
-http://178.132.6.97:80/RTV:USK1/playlist.m3u8
-#EXTINF: -1 tvg-id="KANAL6" tvg-name="Kanal 6" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/kanal_6.png" group-title="Bosna i Hercegovina",6 Bosna Tv
-http://178.132.6.97:8080/Kanal6BiH1/playlist.m3u8
-#EXTINF:-1 tvg-name="SMART TV" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/smarttv1.png?ssl=1&w=450",Smart Tesanj Bosna Tv
-http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Hema Tv" tvg-link="http://epg.iptvhr.net/"tvg-name="Hema Tv" tvg-logo="http://hematv.ba/wp-content/uploads/HEMA-LOGO-1-300x97.png" group-title="BIH",Hema Bosna Tv
-http://77.238.209.50:8080/hema1
-#EXTINF:-1 tvg-id="TV Mir" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="TV Mir" tvg-logo="http://i.imgur.com/V2MUEQd.png" group-title="Ex-YU",Mir Bosna Tv
-http://rtvpuls.itprishtina.com:8005/tvmir-eset/index.m3u8
-#EXTINF:-1 tvg-name="OSM TV" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/osmtelevizija.png?ssl=1&w=450",Osm Pale Bosna Tv
-http://178.132.6.97:8080/RS:OSMPale1/index.m3u8
-#EXTINF:-1 tvg-name="RTV MOSTAR" tvg-logo="https://crossfitrtm.com/wp-content/uploads/RTM-logo-wit-shadow.png",Mostar Bosna Tv
+#EXTINF:-1 tvg-ID="" tvg-name="===== BOSNA =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="BOSNA I HERCEGOVINA",===== BOSNA =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
 
-#EXTINF: -1 tvg-name="SaharTVBosnian" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/sahar-ir.png" group-title="Bosna i Hercegovina",Sahar Bosna Tv
 
-#EXTINF: -1 tvg-id="SEVDAHTV" tvg-name="Sevdah TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sevdah_tv.png" group-title="Ex-Yu Glazba",Sevdah Bosna Tv
-http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7 TUZLA" tvg-link="http://epg.iptvhr.net/"tvg-name="TV7 TUZLA" tvg-logo="http://rtv7.ba/wp-content/uploads/2015/05/RTV7_logo_retina_2015.jpg"group-title="BIH",7 Tuzla Bosna Tv
-http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="RTV 7" tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/01/rtv7tuzla.png?ssl=1&w=450",Kanal 7 Bosna Tv
 
-#EXTINF:-1 tvg-id="TV TK" tvg-link="http://epg.iptvhr.net/"tvg-name="TV TK" tvg-logo="http://tvprofil.net/img/kanali-logo/rtv-tk-logo.png"group-title="BIH",Tuzlanski Kanton Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/442.ts
-#EXTINF:-1 tvg-id="Vikom" tvg-link="http://epg.iptvhr.net/"tvg-name="Vikom" tvg-logo="http://tvprofil.net/img/kanali-logo/vikom_tv_ba.png" group-title="BIH",Vikom Bosna Tv
-http://91.191.42.74:8080/
-http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraBalkans" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Al Jazeera Balkans" tvg-logo="http://nextgen-iptv.com/logo/AlJazeeraBalkans_BA.png" group-title="Ex-YU",Al Jazeera Bosna Tv
-http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="RTV SLON" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/tvslon.png?ssl=1&w=450",Slon Bosna Tv
-http://31.47.0.130:8082
-#EXTINF:-1 tvg-name="TV AMNA" tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/01/amno-tv.png?ssl=1&w=450",Amna Tesanj Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/4294.ts
-#EXTINF:-1 tvg-name="RTV CAZIN" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/01/osmtelevizija.png?ssl=1&w=450",Primera Music Bosna Tv
-http://178.132.6.97:8080/RTVCAZIN1/playlist.m3u8
-#EXTINF:-1 tvg-id="NB" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="NB" tvg-logo="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/news-bar-tv/288028-2-cro-HR/News-Bar-TV.png" group-title="BIH",Nb Bosna Tv
-http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8
-#EXTINF:-1 tvg-name="KANAL 5 BIH" tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/01/kanal5bih.png?ssl=1&w=450",5 Hd Bosna Tv
 
-#EXTINF:-1 tvg-name="QURAN HADAYAH (BIH)" tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/quranbih.png?ssl=1&w=450",Iml Bosna Tv
 
-#EXTINF:-1 tvg-id="TVAlfaSarajevo" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Alfa TV Sarajevo" tvg-logo="http://nextgen-iptv.com/logo/tvalfa_logo.png" group-title="Bosna",Alfa Bosna Tv
-http://89.212.51.85:8443/udp/239.13.2.212:5000
-#EXTINF:-1 tvg-id="ATV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="Bosna",Alternativna Bosna Tv
 
-#EXTINF:-1 tvg-id="Hayat" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat TV" tvg-logo="http://nextgen-iptv.com/logo/Hayat_BiH.png" group-title="Bosna",Hayat Bosna Tv
-http://89.212.51.85:8443/udp/239.13.2.218:5000 
-#EXTINF:-1 tvg-id="HayatPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Hayat Plus" tvg-logo="http://nextgen-iptv.com/logo/HayatPLUS_BiH.png" group-title="Bosna",Hayat Plus Bosna Tv
-http://89.212.51.85:8443/udp/239.12.2.186:5000 
-#EXTINF:-1 tvg-id="N1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="N1" tvg-logo="http://nextgen-iptv.com/logo/N1_HR.png" group-title="Bosna",N1 Bosna Tv
-http://89.212.51.85:8443/udp/239.11.2.139:5000
-#EXTINF:-1 tvg-id="RTV KISS" tvg-link="" tvg-name="RTV KISS" tvg-logo="" group-title="Domaci",Kiss Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/749.ts
-#EXTINF:-1 tvg-id="PRVA HERCEGOVACKA - BONUS KANAL" tvg-link="" tvg-name="PRVA HERCEGOVACKA - BONUS KANAL" tvg-logo="" group-title="General",Prva Hercegovacka Bosna Tv
 
-#EXTINF:0,Elta TV 
-http://89.212.51.85:8443/udp/239.13.2.216:5000 
-#EXTINF:0,Elta 2 
-http://89.212.51.85:8443/udp/239.13.2.213:5000 
-#EXTINF:-1,NTV IC Kakanj
-http://89.212.51.85:8443/udp/239.13.2.220:5000 
-#EXTINF:-1,Nova Bosna Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7082.ts
-#EXTINF:-1,Posavina Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/401.ts
-#EXTINF:-1,RTV Branicevo
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/7108.ts
-#EXTINF:-1,Gorazde Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/6822.ts
-#EXTINF:-1,Vogošca Tv
-http://178.132.6.97:8080/TVVogosca1/playlist.m3u8
-#EXTINF:-1,CARSIJA
-http://stream.radiocarsija.com:19406/;
-#EXTINF:-1,BN RADIO
-http://stream.rtvbn.com:8522/;
-#EXTINF:-1,BOSNA EXSPRESS
-http://expres-bosna.no-ip.biz:1936/;stream.mp3&error=ok
-#EXTINF:-1,RADIO BOMBONICA
-http://4stream.pl:18716/;stream.mp3
-#EXTINF:-1,RADIO ORASJE
-http://188.40.62.20:8024/;stream/1
-#EXTINF:-1,DRUKCIJI RADIO
-http://185.99.0.240:9998/;*.mp3
-#EXTINF:-1,NOVI RADIO BIHAC
-http://carsija.topstream.net:19406/;stream.mp3;?
-#EXTINF:-1,PAN RADIO
-http://77.74.231.21:8028/;stream/1
-#EXTINF:-1,KOPRIVLJANSKI RADIO
-http://cast2.name.ba:8101/;
-#EXTINF:-1,LJUBIC RADIO
-http://91.191.19.205:8000/;?
-#EXTINF:-1,RADIO RTV DOBOJ
-http://163.172.213.155:9972/;
-#EXTINF:-1,NOVI RADIO BIHAC
-http://carsija.topstream.net:19406/;stream.mp3;?
-#EXTINF:-1,BALKAN TOP RADIO
-http://balkan.dj.topstream.net:8070/;*.mp3
-#EXTINF:-1,BIG FOLK RADIO
-http://big-folk.bigportal.ba:8100/folk
-#EXTINF:-1,5 Sevdah radio
-http://195.222.59.150:8010/;z
-#EXTINF:-------Crna Gora-------
-#EXTINF:-1 tvg-id="45" tvg-name="RTV CG" tvg-logo="http://i.imgur.com/6FYxgKE.png" group-title="Domaci",Crna Gora Sat Tv
-rtmp://rtcg2.videostreaming.rs/rtcg/rtcg.2.stream
-#EXTINF:-1,Rt 1 Crna Gora Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/747.ts
-#EXTINF:-1 tvg-id="66" tvg-name="RTCG 1" tvg-logo="/noicon.png" group-title="Informativni",Rt 2 Crna Gora Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1006.ts
-#EXTINF:-1 tvg-ID="777 TV" tvg-name="Ex-Yu: TV 777" tvg-logo="http://boomtv.club/logo/777.png" group-title="Crna Gora",Kanal 777 Crna Gora Tv
-http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://katoona.com/iimg/MONTELUXTV.gif",MonteLux
-http://178.132.6.97:80/MonteLuxTV1/index.m3u8
-#EXTINF:-1,A 1 Crna Gora Tv
-http://89.212.51.85:8443/udp/239.13.2.244:5000 
-#EXTINF:-1,Srpska Crna Gora Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/517.ts
-#EXTINF:-1 tvg-id="TV Vijesti" tvg-link="" tvg-name="TV Vijesti" tvg-logo="http://www.rolinhumesvcf.com/wp-content/uploads/2015/05/tvvijesti.jpg" group-title="Srbija",Vijesti Crna Gora Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/606.ts
-#EXTINF:-1,Zivinice Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/685.ts
-#EXTINF:-1,Prva Crnogorska Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/1195.ts
-#EXTINF:-1 tvg-ID="Ultra" tvg-name="Ex-Yu: Ultra TV" tvg-logo="http://boomtv.club/logo/ultra.png" group-title="Deciji",Ultra Tv
-rtmp://109.206.96.209:1935/ultra_tv_247
-#EXTINF:-1,Mini Ultra Tv
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1163.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-#EXTINF:0,Nickelodeon
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1165.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-#EXTINF:-1,Minimax Tv
-http://babisito.janokoro.org:25041/live/bestiptv/kingiptv/1164.m3u8|User-Agent=Online TV Android Clients&amp;mode=36&quo
-#EXTINF:-1 tvg-id="SLO_1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="SLO 1" tvg-logo="http://vimg.siol.tv/sioltv/logo2/150x80/slo1.png" group-title="Slovenia",Slovenija 1 Tv
-http://circusmaximus.biz:80/live?channelId=536&deviceMac=00:1A:79:41:78:20&uid=23385
-#EXTINF:-1 tvg-id="SLO_2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="SLO 2" tvg-logo="http://vimg.siol.tv/sioltv/logo2/150x80/slo2.png" group-title="Slovenia",Slovenija 2 Tv
-http://circusmaximus.biz:80/live?channelId=537&deviceMac=00:1A:79:41:78:20&uid=23385
-#EXTINF:-1 tvg-ID=""  tvg-link="http://guide.nextgen-iptv.com/guide.xml" SLO TV 3" tvg-name="(SLO)SLO TV 3" tvg-logo="http://phazer.info/img/kanali/slo3.jpg" group-title="Slovenia", Slovenija 3 Tv
-rtmp://109.206.96.209:1935/tvslovenija3_tv_38
-#EXTINF: -1 tvg-name="Golica TV" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/golica_tv.jpg" group-title="Slovenija",Golica Slovenija Tv
-http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="POP TV SLO" tvg-link="" tvg-name="POP TV SLO" tvg-logo="" group-title="Domaci",POP TV SLO - POP TV SLO
-http://circusmaximus.biz:80/live?channelId=605&deviceMac=00:1A:79:41:78:20&uid=23385
-#EXTINF:
-#EXTINF:-1,Pink Radio Srbija
-http://pink.exyuserver.com/;
-#EXTINF:-1 tvg-id="Pink" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Pink" tvg-logo="http://tvprofil.net/img/kanali-logo/PINK-logo.jpg" group-title="Pink",Pink 1 Srbija Tv
-http://46.40.5.99:8000/pink_high
-#EXTINF:====Film====
-#EXTINF:-1 tvg-id="HBO HR" tvg-link="http://epg.iptvhr.net/"tvg-name="HBO HR" tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2017/08/HBO-1.jpg" group-title="Movies & series",Hbo 1 Srbija Tv
-http://87.246.0.155:5286/tv_HBO
-#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="http://epg.serbianforum.org/logo_znaci_2/HBO%202.png" group-title="FILM",Hbo 2 SrbijaTv
-http://87.246.0.155:5286/tv_HBO_2
-#EXTINF:-1 tvg-id="HBO3" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="HBO 3" tvg-logo="http://nextgen-iptv.com/logo/hbo3.png" group-title="Filmski",Hbo 3 Srbija Tv
-http://87.246.0.155:5286/tv_HBO_3
-#EXTINF:====Sport====
-#EXTINF:-1 tvg-id="EUROSPORT" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Eurosport 1" tvg-logo="http://nextgen-iptv.com/logo/Eurosport_SRB.png" group-title="Sport",Eurosport 1 Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/820.ts
-#EXTINF:-1 tvg-id="EUROSPORT2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Eurosport 2" tvg-logo="http://nextgen-iptv.com/logo/Eurosport2_SRB.png" group-title="Sport",Eurosport 2 Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/753.ts
-#EXTINF:-1 tvg-id="ARENA1" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Arena Sport 1" tvg-logo="http://www.tvarenasport.hr/images/logo-arenaA1-big.png" group-title="SPORT",Arena Sport 1 SRB
-http://livebar.pw/lba/123/g7/arena1rs.m3u8
-#EXTINF:-1 tvg-id="ARENA2" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Arena Sport 2" tvg-logo="http://www.tvarenasport.hr/images/logo-arenaA2-big.png" group-title="SPORT",Arena Sport 2 SRB
-http://livebar.pw/lba/123/g10/arena2sport.m3u8
-#EXTINF:-1 tvg-id="ARENA3" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Arena Sport 3" tvg-logo="http://www.tvarenasport.hr/images/logo-arenaA3-big.png" group-title="SPORT",Arena Sport 3 SRB  
-http://livebar.pw/lba/123/g6/sportarena3rs.m3u8
-#EXTINF:-1 tvg-id="ARENA4" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Arena Sport 4" tvg-logo="http://www.tvarenasport.hr/images/logo-arenaA4-big.png" group-title="SPORT",Arena Sport 4 SRB  
-http://livebar.pw/lba/123/g3/arenaserbia4.m3u8
-#EXTINF:-1 tvg-id="ARENA5" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Arena Sport 5" tvg-logo="http://tvprofil.net/img/kanali-logo/arenasport_5_logo.png" group-title="SPORT",Arena Sport 5 SRB
-http://livebar.pw/lba/123/g7/ar5sport.m3u8
-#EXTINF:-1 tvg-id="Arena Sport 6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Arena Sport 6" tvg-logo="" group-title="Sport",Arena Sport 6 Srbija Tv
+#EXTINF:-1,BHT 1
+http://v2pro.online:8000/pljakic/pljakic/2295
+#EXTINF:-1,FEDERALNA TV
+http://v2pro.online:8000/pljakic/pljakic/2293
+#EXTINF:-1,HAYAT TV
+http://v2pro.online:8000/pljakic/pljakic/2291
+#EXTINF:-1,HAYAT PLUS
+http://v2pro.online:8000/pljakic/pljakic/2290
+#EXTINF:-1,NOVA BH HD
+http://v2pro.online:8000/pljakic/pljakic/17997
+#EXTINF:-1,NOVA M
+http://v2pro.online:8000/pljakic/pljakic/17023
+#EXTINF:-1,BN TV
+http://v2pro.online:8000/pljakic/pljakic/2277
+#EXTINF:-1,OBN
+http://v2pro.online:8000/pljakic/pljakic/2289
+#EXTINF:-1,ATV BH
+http://v2pro.online:8000/pljakic/pljakic/2280
+#EXTINF:-1,RTRS
+http://v2pro.online:8000/pljakic/pljakic/2287
+#EXTINF:-1,RTRS PLUS
+http://v2pro.online:8000/pljakic/pljakic/3645
+#EXTINF:-1,FACE TV
+http://v2pro.online:8000/pljakic/pljakic/2283
+#EXTINF:-1,FACE TV HD*
+http://v2pro.online:8000/pljakic/pljakic/3946
+#EXTINF:-1,TV 1
+http://v2pro.online:8000/pljakic/pljakic/2270
+#EXTINF:-1,TV SARAJEVO HD
+http://v2pro.online:8000/pljakic/pljakic/18020
+#EXTINF:-1,CITY TV
+http://v2pro.online:8000/pljakic/pljakic/22258
+#EXTINF:-1,AL JAZZERA
+http://v2pro.online:8000/pljakic/pljakic/2284
+#EXTINF:-1,A1 ISLAM HD
+http://v2pro.online:8000/pljakic/pljakic/18617
+#EXTINF:-1,TV 5 ISLAM
+http://v2pro.online:8000/pljakic/pljakic/4365
+#EXTINF:-1,MEKA TV
+http://v2pro.online:8000/pljakic/pljakic/18328
+#EXTINF:-1,TV IGMAN
+http://v2pro.online:8000/pljakic/pljakic/6734
+#EXTINF:-1,MIRTV HD
+http://v2pro.online:8000/pljakic/pljakic/7082
+#EXTINF:-1,RTV ZENICA
+http://v2pro.online:8000/pljakic/pljakic/18252
+#EXTINF:-1,Kanal 6 HD
+http://v2pro.online:8000/pljakic/pljakic/21259
+#EXTINF:-1,GLAS DRINE
+http://v2pro.online:8000/pljakic/pljakic/2267
+#EXTINF:-1,POSAVINA TV
+http://v2pro.online:8000/pljakic/pljakic/2285
+#EXTINF:-1,BP HD TV
+http://v2pro.online:8000/pljakic/pljakic/22223
+#EXTINF:-1,K3 Prnjavor
+http://v2pro.online:8000/pljakic/pljakic/21898
+#EXTINF:-1,RTV Visoko
+http://v2pro.online:8000/pljakic/pljakic/21261
+#EXTINF:-1,TV 101  HD
+http://v2pro.online:8000/pljakic/pljakic/21899
+#EXTINF:-1,OTV VALENTINO
+http://v2pro.online:8000/pljakic/pljakic/5101
+#EXTINF:-1,TV SLON EXTRA
+http://v2pro.online:8000/pljakic/pljakic/4311
+#EXTINF:-1,RTV USK
+http://v2pro.online:8000/pljakic/pljakic/4317
+#EXTINF:-1,HB TV
+http://v2pro.online:8000/pljakic/pljakic/4310
+#EXTINF:-1,RTV TK
+http://v2pro.online:8000/pljakic/pljakic/1372
 
-#EXTINF:-1 tvg-id="243" tvg-name="Sport Klub HD" tvg-logo="/noicon.png" group-title="Sportski",Sportklub Hd Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/504.ts
-#EXTINF:-1 tvg-id="SPORTKLUB1" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="SportKlub 1" tvg-logo="http://www.mntvlive.com/wp-content/uploads/2016/05/Sport-Klub-1-300x199.png" group-title="SPORT",SportKlub 1 Hd Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/501.ts
-#EXTINF:-1 tvg-id="SPORTKLUB2" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="SportKlub 2" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk2.png" group-title="SPORT",SportKlub 2 Hd Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/502.ts
-#EXTINF:-1 tvg-id="SPORTKLUB3" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="SportKlub 3" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sk3.png" group-title="SPORT",SportKlub 3 Hd Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/503.ts
-#EXTINF:-1 tvg-id="SPORTKLUB4" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Sport Klub 4" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sportklub_4.png" group-title="SPORT",SportKlub 4 Hd Srbija Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/801.ts
-#EXTINF:-1 tvg-id="SPORTKLUB5" tvg-link="http://epg.phoenixrebornbuild.com.hr/"tvg-name="Sport Klub 5" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/sportklub_5.png" group-title="SPORT",SportKlub 5 Hd Srbija Tv
 
-#EXTINF:-1 tvg-id="SportKlub6" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/JJaWEDw.jpg" group-title="Sport",Sport Klub 6 Hd Srbija Tv
 
-#EXTINF:-1 tvg-ID="" tvg-name="Ex-Yu: TV Partizan" tvg-logo="http://boomtv.club/logo/tvpartizan.png" group-title="Sportski",Partizan Hd Srbija Tv
-http://212.200.102.3:5000/udp/239.99.99.99:23999
-#EXTINF:-1 tvg-id="SOS.hr" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="SOS" tvg-logo="http://nextgen-iptv.com/logo/SOSKanal_SRB.png" group-title=,Sos Kanal Srbija Tv
 
-#EXTINF:-1 tvg-id="HNTV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="HNTV" tvg-logo="https://yt3.ggpht.com/-9d3odfEzQFw/AAAAAAAAAAI/AAAAAAAAAAA/NqIxPY_x9dk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Sport",Hn Sport Hrvatska Tv
 
-#EXTINF:-1 tvg-id="SPORTSKA_TV" tvg-link="http://epg.hitrow.info/guide.xmltv" tvg-name="SPORTSKA TV" tvg-logo="" group-title="Domaci",Sportska Hrvatska Tv
-http://195.154.207.143:89/live/prviP0rtbaSOnaUtakmica/lmgqTnYgKl/702.ts
-#EXTINF: -1 tvg-name="Sportska Televizija BG" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/kfb917mn/sportska_televizija_bg.png" group-title="Sport",Sportal Bugarija Tv
-#EXTINF:-1,Sportal TV BG
-http://e7-tc.cdn.bg/sportal/fls//sportal_hd/playlist.m3u8?at=99c1f1c2e27af17c27ccea69a86c07f7
-#EXTINF:0,
-#EXTINF:0,Balkanika.bg,balkanika TV,
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:0,FANTV.bg,fan tv,
-rtsp://stream.teracomm.bg/fen
-#EXTINF:0,Planeta Music Tv
-rtsp://stream.teracomm.bg/planeta
-#EXTINF:-1,FAN TV
-http://145.255.202.20:5050/udp/239.100.102.32:8888
-#EXTINF:-1,DM Sat
-http://145.255.202.20:5050/udp/239.100.102.34:8888
-#EXTINF:-1,Planeta TV
-http://145.255.202.20:5050/udp/239.100.102.1:8888
-#EXTINF:-1,Planeta HD
-http://145.255.202.20:5050/udp/239.100.102.88:8888
-#EXTINF:-1,Fen Folk TV
-http://145.255.202.20:5050/udp/239.100.102.139:8888
-#EXTINF:-1,BALKANIKA"
-http://93.155.251.94:18062
-#EXTINF:
-#EXTINF:-1 tvg-id="CMC"
-https://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTINF:-1 tvg-id="DM SAT"
-https://cdn.iptv.amis.net/LIVE/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-#EXTM3U 
-#EXTINF:-1,RTV Novi Pazar 
-http://79.101.46.26:8000/play/a01g/index.m3u8 
-#EXTINF:-1,STUDIO B 
-http://79.101.46.26:8000/play/a02e/index.m3u8 
-#EXTINF:-1,Pink Folk 
-http://79.101.46.26:8000/play/a00l/index.m3u8 
-#EXTINF:-1,SK 1 HD 
-http://79.101.46.26:8000/play/a018/index.m3u8 
-#EXTINF:-1,RTS 2 
-http://79.101.46.26:8000/play/a026/index.m3u8 
-#EXTINF:-1,Pink Folk 2 
-http://79.101.46.26:8000/play/a035/index.m3u8
-#EXTINF:-1,PRVA PLUS 
-http://79.101.46.26:8000/play/a022/index.m3u8 
-#EXTINF:-1,Bravo Music 
-http://79.101.46.26:8000/play/a009/index.m3u8 
-#EXTINF:-1,Pink Folk 2 
-http://79.101.46.26:8000/play/a00o/index.m3u8 
-#EXTINF:-1,Pink Folk 
-http://79.101.46.26:8000/play/a032/index.m3u8 
-#EXTINF:-1,SK 2 HD 
-#EXTINF:-1,ArenaSport2 
-http://79.101.46.26:8000/play/a029/index.m3u8 
-#EXTINF:-1,FOX 
-http://79.101.46.26:8000/play/a01u/index.m3u8 
-#EXTINF:-1,PINK 
-http://79.101.46.26:8000/play/a02a/index.m3u8 
-#EXTINF:-1,Fox Life (srb)[S1] 
-http://79.101.46.26:8000/play/a020/index.m3u8 
-#EXTINF:-1,TV K::CN Raska 
-http://79.101.46.26:8000/play/a00f/index.m3u8 
-#EXTINF:-1,Pink Music 
-http://79.101.46.26:8000/play/a007/index.m3u8
-#EXTINF:-1,RTS HD 
-http://79.101.46.26:8000/play/a01s/index.m3u8 
-#EXTINF:-1,SK 3 HD 
-http://79.101.46.26:8000/play/a02b/index.m3u8 
-#EXTINF:-1,BN Music HD 
-http://79.101.46.26:8000/play/a008/index.m3u8 
-#EXTINF:-1,ArenaSport1 
-http://79.101.46.26:8000/play/a028/index.m3u8 
-##EXTINF:-1,ArenaSport3 
-http://79.101.46.26:8000/play/a01t/index.m3u8 
-#EXTINF:-1,RTS 1 
-http://79.101.46.26:8000/play/a025/index.m3u8 
-#EXTINF:-1,BRAZZERS TV Europe 
-http://79.101.46.26:8000/play/a01b/index.m3u8 
-#EXTINF:-1,O2.TV 
-http://79.101.46.26:8000/play/a01e/index.m3u8 
-#EXTINF:-1,PRVA 
-http://79.101.46.26:8000/play/a01h/index.m3u8 
-#EXTINF:-1,RTS 3 
-http://79.101.46.26:8000/play/a027/index.m3u8 
-#EXTINF:-1,HAPPY https://htru.ru 
-http://79.101.46.26:8000/play/a01f/index.m3u8 
-#EXTINF:-1,RTV Montenegro 
-http://79.101.46.26:8000/play/a02q/index.m3u8 
-#EXTINF:-1,SINEMANIA 
-http://79.101.46.26:8000/play/a02d/index.m3u8 
-#EXTINF:-1,ArenaSport4 
-http://79.101.46.26:8000/play/a02c/index.m3u8 
-#EXTINF:-1,Al Jazeera Balkans HD 
-http://79.101.46.26:8000/play/a02r/index.m3u8 
-#EXTINF:-1,arte HD 
-http://79.101.46.26:8000/play/a01a/index.m3u8 
-#EXTINF:-1,SK 2 HD 
-http://79.101.46.26:8000/play/a019/index.m3u8 
-#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png" group-title=",Srbija 1 Tv
-http://46.40.5.99:8000/rts_1_high
-#EXTINF:-1 tvg-id="RTS2" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 2" tvg-logo="http://nextgen-iptv.com/logo/RTS2_SRB.png" group-title="Srbija",Srbija 2 Tv
-http://46.40.5.99:8000/rts_2_high
-#EXTINF:0,Most
-http://176.67.210.1:8888/
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== SRBIJA =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="SRBIJA / SRBIJA",===== SRBIJA =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
+
+
+
+
+
+#EXTINF:-1,RTS 1 FHD
+http://v2pro.online:8000/pljakic/pljakic/2251
+#EXTINF:-1,RTS 1
+http://v2pro.online:8000/pljakic/pljakic/17982
+#EXTINF:-1,RTS 2
+http://v2pro.online:8000/pljakic/pljakic/2249
+#EXTINF:-1,RTS 3
+http://v2pro.online:8000/pljakic/pljakic/2248
+#EXTINF:-1,RTS SVET
+http://v2pro.online:8000/pljakic/pljakic/2247
+#EXTINF:-1,RTS ZIVOT
+http://v2pro.online:8000/pljakic/pljakic/20641
+#EXTINF:-1,RTS TREZOR
+http://v2pro.online:8000/pljakic/pljakic/16683
+#EXTINF:-1,RTS KOLO
+http://v2pro.online:8000/pljakic/pljakic/20642
+#EXTINF:-1,RTS MUZIKA
+http://v2pro.online:8000/pljakic/pljakic/19018
+#EXTINF:-1,RTS DRAMA
+http://v2pro.online:8000/pljakic/pljakic/4383
+#EXTINF:-1,Nova S
+http://v2pro.online:8000/pljakic/pljakic/4844
+#EXTINF:-1,PINK 1
+http://v2pro.online:8000/pljakic/pljakic/2185
+#EXTINF:-1,PRVA
+http://v2pro.online:8000/pljakic/pljakic/2246
+#EXTINF:-1,PrvaCG/test
+http://v2pro.online:8000/pljakic/pljakic/21265
+#EXTINF:-1,PRVA KICK
+http://v2pro.online:8000/pljakic/pljakic/5874
+#EXTINF:-1,PRVA PLUS
+http://v2pro.online:8000/pljakic/pljakic/2244
+#EXTINF:-1,PRVA WORLD
+http://v2pro.online:8000/pljakic/pljakic/2245
+#EXTINF:-1,PRVA MAX
+http://v2pro.online:8000/pljakic/pljakic/2232
+#EXTINF:-1,O2 TV
+http://v2pro.online:8000/pljakic/pljakic/2243
+#EXTINF:-1,HAPPY TV
+http://v2pro.online:8000/pljakic/pljakic/2241
+#EXTINF:-1,Parovi Live 24H
+http://v2pro.online:8000/pljakic/pljakic/22268
+#EXTINF:-1,STUDIO B
+http://v2pro.online:8000/pljakic/pljakic/20732
+#EXTINF:-1,SOS KANAL
+http://v2pro.online:8000/pljakic/pljakic/3571
+#EXTINF:-1,SAT TV
+http://v2pro.online:8000/pljakic/pljakic/22194
+#EXTINF:-1,TV MLAVA
+http://v2pro.online:8000/pljakic/pljakic/7655
+#EXTINF:-1,Tv ISTOK
+http://v2pro.online:8000/pljakic/pljakic/3580
+#EXTINF:-1,TV BELLE AMIE
+http://v2pro.online:8000/pljakic/pljakic/16645
+#EXTINF:-1,RTV VOJVODINA 1
+http://v2pro.online:8000/pljakic/pljakic/2230
+#EXTINF:-1,RTV VOJVODINA 2
+http://v2pro.online:8000/pljakic/pljakic/2229
+#EXTINF:-1,SANDzAK TV
+http://v2pro.online:8000/pljakic/pljakic/13646
+#EXTINF:-1,RTV NOVI PAZAR
+http://v2pro.online:8000/pljakic/pljakic/2231
+#EXTINF:-1,RTCG 1
+http://v2pro.online:8000/pljakic/pljakic/5104
+#EXTINF:-1,RTCG Sat
+http://v2pro.online:8000/pljakic/pljakic/2219
+#EXTINF:-1,RTCG 2
+http://v2pro.online:8000/pljakic/pljakic/2220
+#EXTINF:-1,TV VJESTI CRG
+http://v2pro.online:8000/pljakic/pljakic/5105
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== PINK =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="PINK / PINK",===== PINK =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
+
+
+
+
+#EXTINF:-1,PINK MEDIA BH
+http://v2pro.online:8000/pljakic/pljakic/17021
+#EXTINF:-1,PINK M
+http://v2pro.online:8000/pljakic/pljakic/18742
+#EXTINF:-1,PINK WORLD CINEMA
+http://v2pro.online:8000/pljakic/pljakic/20560
+#EXTINF:-1,PINK 2
+http://v2pro.online:8000/pljakic/pljakic/2184
+#EXTINF:-1,PINK 3 INFO
+http://v2pro.online:8000/pljakic/pljakic/2183
+#EXTINF:-1,PINK PLUS
+http://v2pro.online:8000/pljakic/pljakic/2180
+#EXTINF:-1,PINK REALITY
+http://v2pro.online:8000/pljakic/pljakic/2152
+#EXTINF:-1,PINK SHOW
+http://v2pro.online:8000/pljakic/pljakic/2157
+#EXTINF:-1,PINK SOAP
+http://v2pro.online:8000/pljakic/pljakic/2170
+#EXTINF:-1,PINK SERIJE
+http://v2pro.online:8000/pljakic/pljakic/2171
+#EXTINF:-1,PINK ACTION
+http://v2pro.online:8000/pljakic/pljakic/2178
+#EXTINF:-1,PINK FILM
+http://v2pro.online:8000/pljakic/pljakic/2179
+#EXTINF:-1,PINK PREMIUM
+http://v2pro.online:8000/pljakic/pljakic/2177
+#EXTINF:-1,PINK THRILLER
+http://v2pro.online:8000/pljakic/pljakic/2175
+#EXTINF:-1,PINK CRIME-MISTERY
+http://v2pro.online:8000/pljakic/pljakic/2167
+#EXTINF:-1,PINK SCI-FI-FANTASY
+http://v2pro.online:8000/pljakic/pljakic/2168
+#EXTINF:-1,PINK HORROR
+http://v2pro.online:8000/pljakic/pljakic/2176
+#EXTINF:-1,PINK CLASSiC
+http://v2pro.online:8000/pljakic/pljakic/2173
+#EXTINF:-1,PINK COMEDY
+http://v2pro.online:8000/pljakic/pljakic/2169
+#EXTINF:-1,PINK ROMANCE
+http://v2pro.online:8000/pljakic/pljakic/2172
+#EXTINF:-1,PINK WESTERN
+http://v2pro.online:8000/pljakic/pljakic/2174
+#EXTINF:-1,PINK ZABAVA
+http://v2pro.online:8000/pljakic/pljakic/2154
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== Film Max  =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="Film Max  / Film Max ",===== Film Max  =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
+
+
+
+
+
+
+#EXTINF:-1,HBO ADRIA
+http://v2pro.online:8000/pljakic/pljakic/6736
+#EXTINF:-1,HBO 2
+http://v2pro.online:8000/pljakic/pljakic/6737
+#EXTINF:-1,HBO 3
+http://v2pro.online:8000/pljakic/pljakic/6738
+#EXTINF:-1,Hbo Familly - test
+http://v2pro.online:8000/pljakic/pljakic/21177
+#EXTINF:-1,SUPER STAR TV
+http://v2pro.online:8000/pljakic/pljakic/20883
+#EXTINF:-1,STAR  TV SD
+http://v2pro.online:8000/pljakic/pljakic/22195
+#EXTINF:-1,FOX HD
+http://v2pro.online:8000/pljakic/pljakic/18618
+#EXTINF:-1,FOX
+http://v2pro.online:8000/pljakic/pljakic/2934
+#EXTINF:-1,FOX LIFE
+http://v2pro.online:8000/pljakic/pljakic/2933
+#EXTINF:-1,FOX LIVE HD
+http://v2pro.online:8000/pljakic/pljakic/18619
+#EXTINF:-1,FOX MOVIES
+http://v2pro.online:8000/pljakic/pljakic/2932
+#EXTINF:-1,FOX MOVIES HD
+http://v2pro.online:8000/pljakic/pljakic/5901
+#EXTINF:-1,FOX CRIME
+http://v2pro.online:8000/pljakic/pljakic/2931
+#EXTINF:-1,FOX CRIME HD
+http://v2pro.online:8000/pljakic/pljakic/5899
+#EXTINF:-1,CINEMAX 1
+http://v2pro.online:8000/pljakic/pljakic/2937
+#EXTINF:-1,CINEMAX 2
+http://v2pro.online:8000/pljakic/pljakic/2936
+#EXTINF:-1,CINESTAR TV
+http://v2pro.online:8000/pljakic/pljakic/2941
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://v2pro.online:8000/pljakic/pljakic/2940
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://v2pro.online:8000/pljakic/pljakic/2939
+#EXTINF:-1,CINESTAR TV ACTION
+http://v2pro.online:8000/pljakic/pljakic/2938
+#EXTINF:-1,CINESTAR TV FANTASY
+http://v2pro.online:8000/pljakic/pljakic/3969
+#EXTINF:-1,Film Klub
+http://v2pro.online:8000/pljakic/pljakic/22306
+#EXTINF:-1,KINO TV
+http://v2pro.online:8000/pljakic/pljakic/8315
+#EXTINF:-1,AMC
+http://v2pro.online:8000/pljakic/pljakic/7247
+#EXTINF:-1,EPIC DRAMA
+http://v2pro.online:8000/pljakic/pljakic/21805
+#EXTINF:-1,TV 1000
+http://v2pro.online:8000/pljakic/pljakic/2136
+#EXTINF:-1,FILM BOX EXTRA HD
+http://v2pro.online:8000/pljakic/pljakic/3558
+#EXTINF:-1,FILM BOX PLUS
+http://v2pro.online:8000/pljakic/pljakic/3559
+#EXTINF:-1,M1 FILM
+http://v2pro.online:8000/pljakic/pljakic/2991
+#EXTINF:-1,M1 FILM GOLD
+http://v2pro.online:8000/pljakic/pljakic/13638
+#EXTINF:-1,PICKBOX TV /TEST
+http://v2pro.online:8000/pljakic/pljakic/16791
+#EXTINF:-1,AXN HR
+http://v2pro.online:8000/pljakic/pljakic/7275
+#EXTINF:-1,AXN SPIN
+http://v2pro.online:8000/pljakic/pljakic/2135
+#EXTINF:-1,COMEDY CENTRAL
+http://v2pro.online:8000/pljakic/pljakic/3711
+#EXTINF:-1,DIVA
+http://v2pro.online:8000/pljakic/pljakic/3143
+#EXTINF:-1,KLASIK TV
+http://v2pro.online:8000/pljakic/pljakic/2935
+#EXTINF:-1,SCI-FI
+http://v2pro.online:8000/pljakic/pljakic/3560
+#EXTINF:-1,Max Select 01 HD
+http://v2pro.online:8000/pljakic/pljakic/18994
+#EXTINF:-1,Max Select 02 HD
+http://v2pro.online:8000/pljakic/pljakic/18993
+#EXTINF:-1,Max Select 03 HD
+http://v2pro.online:8000/pljakic/pljakic/18992
+#EXTINF:-1,Max Select 04 HD
+http://v2pro.online:8000/pljakic/pljakic/18991
+#EXTINF:-1,Max Select 05 HD
+http://v2pro.online:8000/pljakic/pljakic/18990
+#EXTINF:-1,Max Select 06 HD
+http://v2pro.online:8000/pljakic/pljakic/18989
+#EXTINF:-1,Max Select 07 HD
+http://v2pro.online:8000/pljakic/pljakic/18988
+#EXTINF:-1,Max Select 08 HD
+http://v2pro.online:8000/pljakic/pljakic/18987
+#EXTINF:-1,Max Select 09 HD
+http://v2pro.online:8000/pljakic/pljakic/18986
+#EXTINF:-1,Max Select 10 HD
+http://v2pro.online:8000/pljakic/pljakic/18985
+#EXTINF:-1,Max Select 11 HD
+http://v2pro.online:8000/pljakic/pljakic/18984
+#EXTINF:-1,Max Select 14 HD
+http://v2pro.online:8000/pljakic/pljakic/18981
+#EXTINF:-1,Max Select 15 HD
+http://v2pro.online:8000/pljakic/pljakic/18980
+#EXTINF:-1,Max Select 16 Cartoon
+http://v2pro.online:8000/pljakic/pljakic/18979
+#EXTINF:-1,Max Select 17 HD
+http://v2pro.online:8000/pljakic/pljakic/18978
+#EXTINF:-1,Max Select 18 HD
+http://v2pro.online:8000/pljakic/pljakic/18977
+#EXTINF:-1,Max Select 19 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18976
+#EXTINF:-1,Max Select 20 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18975
+#EXTINF:-1,Max Select 21 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18974
+#EXTINF:-1,Max Select 23 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18972
+#EXTINF:-1,Max Select 24 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18971
+#EXTINF:-1,Max Select 25 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18970
+#EXTINF:-1,Max Select 26 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18969
+#EXTINF:-1,Max Select 27 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18968
+#EXTINF:-1,Max Select 28 Ex-Yu
+http://v2pro.online:8000/pljakic/pljakic/18967
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== SPORT  =====" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="SPORT/ SPORT ",===== SPORT  =====
+http://nicke85.com:8000/live/AtsevdahAtsevdah/SIhEwOcODK/4721.m3u8
+
+
+
+
+
+
+#EXTINF:-1,SPORT KLUB HD
+http://v2pro.online:8000/pljakic/pljakic/7759
+#EXTINF:-1,SPORT KLUB 1 FHD
+http://v2pro.online:8000/pljakic/pljakic/16663
+#EXTINF:-1,SPORT KLUB 2 FHD
+http://v2pro.online:8000/pljakic/pljakic/16792
+#EXTINF:-1,SPORT KLUB 3 FHD
+http://v2pro.online:8000/pljakic/pljakic/16793
+#EXTINF:-1,SPORT KLUB 5
+http://v2pro.online:8000/pljakic/pljakic/7419
+#EXTINF:-1,SPORT KLUB 6
+http://v2pro.online:8000/pljakic/pljakic/18021
+#EXTINF:-1,SPORT KLUB HD HR
+http://v2pro.online:8000/pljakic/pljakic/8795
+#EXTINF:-1,SK 1 HR FHD/TEST/
+http://v2pro.online:8000/pljakic/pljakic/22278
+#EXTINF:-1,SK 2HR FHD/TEST/
+http://v2pro.online:8000/pljakic/pljakic/22279
+#EXTINF:-1,SK 3HR FHD/TEST/
+http://v2pro.online:8000/pljakic/pljakic/22280
+#EXTINF:-1,SPORT KLUB 1 HR
+http://v2pro.online:8000/pljakic/pljakic/3817
+#EXTINF:-1,SPORT KLUB 2 HR
+http://v2pro.online:8000/pljakic/pljakic/2342
+#EXTINF:-1,SPORT KLUB 3 HR
+http://v2pro.online:8000/pljakic/pljakic/2344
+#EXTINF:-1,SPORT KLUB 4 HR
+http://v2pro.online:8000/pljakic/pljakic/5073
+#EXTINF:-1,PLANET SPORT 1
+http://v2pro.online:8000/pljakic/pljakic/15831
+#EXTINF:-1,PLANET SPORT 2
+http://v2pro.online:8000/pljakic/pljakic/16649
+#EXTINF:-1,PLANET SPORT 3
+http://v2pro.online:8000/pljakic/pljakic/16650
+#EXTINF:-1,ARENA SPORT 1 FHD
+http://v2pro.online:8000/pljakic/pljakic/21880
+#EXTINF:-1,ARENA SPORT 2 FHD
+http://v2pro.online:8000/pljakic/pljakic/22284
+#EXTINF:-1,ARENA SPORT 1 BIH
+http://v2pro.online:8000/pljakic/pljakic/4049
+#EXTINF:-1,ARENA SPORT 2 HD
+http://v2pro.online:8000/pljakic/pljakic/4050
+#EXTINF:-1,ARENA SPORT 3 HD
+http://v2pro.online:8000/pljakic/pljakic/4260
+#EXTINF:-1,ARENA SPORT 4 HD
+http://v2pro.online:8000/pljakic/pljakic/4275
+#EXTINF:-1,ARENA SPORT 1 SD
+http://v2pro.online:8000/pljakic/pljakic/3899
+#EXTINF:-1,ARENA SPORT 2 SD
+http://v2pro.online:8000/pljakic/pljakic/3943
+#EXTINF:-1,ARENA SPORT 3 SD
+http://v2pro.online:8000/pljakic/pljakic/3947
+#EXTINF:-1,ARENA SPORT 4 SD
+http://v2pro.online:8000/pljakic/pljakic/3948
+#EXTINF:-1,ARENA SPORT 5 SD
+http://v2pro.online:8000/pljakic/pljakic/21199
+#EXTINF:-1,ARENA SPORT 1 HR FHD
+http://v2pro.online:8000/pljakic/pljakic/13415
+#EXTINF:-1,ARENA SPORT 2 HR FHD
+http://v2pro.online:8000/pljakic/pljakic/13416
+#EXTINF:-1,ARENA SPORT 3 HR FHD
+http://v2pro.online:8000/pljakic/pljakic/13417
+#EXTINF:-1,ARENA SPORT 4 HR FHD
+http://v2pro.online:8000/pljakic/pljakic/13418
+#EXTINF:-1,ARENA SPORT 1 HR
+http://v2pro.online:8000/pljakic/pljakic/2430
+#EXTINF:-1,ARENA SPORT 2 HR
+http://v2pro.online:8000/pljakic/pljakic/2432
+#EXTINF:-1,ARENA SPORT 3 HR
+http://v2pro.online:8000/pljakic/pljakic/2984
+#EXTINF:-1,ARENA SPORT 4 HR
+http://v2pro.online:8000/pljakic/pljakic/2436
+#EXTINF:-1,ARENA SPORT 5 HR
+http://v2pro.online:8000/pljakic/pljakic/2438
+#EXTINF:-1,ARENA SPORT 6 HR
+http://v2pro.online:8000/pljakic/pljakic/4653
+#EXTINF:-1,EUROSPORT 1 HD
+http://v2pro.online:8000/pljakic/pljakic/17523
+#EXTINF:-1,EUROSPORT 1
+http://v2pro.online:8000/pljakic/pljakic/2501
+#EXTINF:-1,EUROSPORT 2 FHD
+http://v2pro.online:8000/pljakic/pljakic/2503
+#EXTINF:-1,SUPER TENNIS HD
+http://v2pro.online:8000/pljakic/pljakic/20545
+#EXTINF:-1,HNTV
+http://v2pro.online:8000/pljakic/pljakic/16570
+#EXTINF:-1,MOJA TV SPORT
+http://v2pro.online:8000/pljakic/pljakic/15680
+#EXTINF:-1,US| WWE NETWORK HD
+http://v2pro.online:8000/pljakic/pljakic/20634
+#EXTINF:-1,FIGHT CHANNEL
+http://v2pro.online:8000/pljakic/pljakic/6739
+#EXTINF:-1,NBA TV .HD
+http://v2pro.online:8000/pljakic/pljakic/2981
+#EXTINF:-1,HR: SPORTSKA TV
+http://v2pro.online:8000/pljakic/pljakic/3685
