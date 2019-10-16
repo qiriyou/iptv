@@ -404,7 +404,7 @@ http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedi
 skip
 
 #EXTINF:0,MTV Adria
-http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:0,MTV hits
@@ -413,14 +413,14 @@ http://95.82.241.148:81//udp/239.255.2.214:1234
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:0,VH1
-http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobi.si/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,VH1 CLASSIC
-http://cdn.iptv.amis.net/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://cmobia.si/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:0,DM SAT
-http://cdn.iptv.amis.net/LIVE/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,SKY FOLK TV MAKEDONIA
 http://skyfolk.mk/live.m3u8
 
@@ -751,13 +751,13 @@ http://cdn.iptv.amis.net/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMe
 http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Minimax
-http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Boomerang
-http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Cartoon Network
-http://cdn.iptv.amis.net/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,BabyTV
 http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -1032,22 +1032,22 @@ http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1,PRO 7
-http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Pro7/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,RTL DE
-http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,RTL 2 DE
-http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTL2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,SAT1 DE
-http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SAT1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,ZDF DE
-http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/ZDF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,VOX DE
-http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/VOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:-1,AUSTRIA 24 720p
@@ -1403,9 +1403,9 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 skip
 
 #EXTINF:-1,Sext o Senso
-http://cdn.iptv.amis.net/ts/SEXT6SENSO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SEXT6SENSO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1,Hustler
-http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1,pasion xxx
 http://37.9.0.201:8888
 #EXTINF:-1,Frenchlover
