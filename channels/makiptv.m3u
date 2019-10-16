@@ -4,19 +4,19 @@
 s1kip
 
 #EXTINF:0,HRT 1 
-http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HRT1/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,HRT 2
-http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HRT2/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HRT3/stream_wifi_840k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,RTL
-http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,RTL 2
-http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,RTL Living
-http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:0,Televizija STV Osijek
@@ -39,43 +39,43 @@ http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,National Geographic (slo)
-http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Nat Geo Wild (slo)
-http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/NatGeoW/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,DISCOVERY (slo)
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Animal Planet (SLO)
-http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Animal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Travel Channel
-http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Travel Channel (slo) 
-http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Travel/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,History Channel
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Viasat History
-http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Viasat History (slo)
-http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/History/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Viasat Explorer
-http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,24Kitchen
-http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CRODOQ/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,tlc
-http://cdn.iptv.amis.net/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/DISCTLC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,tlc 
 http://178.63.91.147:8000/play/a01g
 #EXTINF:0,tlc
@@ -115,22 +115,22 @@ http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 #EXTINF:0,OLYMPIC CHANNEL
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 #EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Sport TV 2 (SLO)
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/S2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,sport 1 (DSF)
-http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/DSF/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,Sport Klub 1 SLO
-http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SK1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,Sport Klub 2 SLO
-http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SK2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,Sport Klub 3 SLO
-http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SK3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:-1,px sport
@@ -392,7 +392,7 @@ http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMed
 http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,TV 1000
-http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,CBS Reality
 http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -413,10 +413,10 @@ http://95.82.241.148:81//udp/239.255.2.214:1234
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:0,VH1
-http://mobi.si/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,VH1 CLASSIC
-http://cmobia.si/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:0,DM SAT
@@ -924,12 +924,12 @@ http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
 http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8?type=live-cupertino
 
 #EXTINF:-1,RAI 1
-http://cdn.iptv.amis.net/ts/RAI1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RAI1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,RAI 1
 http://144.2.100.111:8000/play/a00a
 #EXTINF:-1,RAI 2
-http://cdn.iptv.amis.net/ts/RAI2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RAI2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1,RAI 2
 http://144.2.100.111:8000/play/a00b
 #EXTINF:-1,RAI 3 (vpn italia)
@@ -1021,7 +1021,7 @@ http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 
 
 #EXTINF:-1,ORF1
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:-1,ORF1 (vpn austria)
 http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1,ORF2 (vpn austria)
