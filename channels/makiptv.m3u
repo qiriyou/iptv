@@ -36,7 +36,7 @@ skip
 #EXTINF:0,Nasa TV
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
 #EXTINF:0,National Geographic
-http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,National Geographic (slo)
 http://mobia.si/ts/NatGeo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -109,7 +109,7 @@ skip
 http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
 #EXTINF:0,SPORTSKA TV
-http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,CANAL MOTOR
 http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
 #EXTINF:0,OLYMPIC CHANNEL
@@ -270,53 +270,53 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 skip
 
 #EXTINF:0,SLO 1
-http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Slo1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,SLO 2
-http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Slo2/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,SLO 3
-http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Slo3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,POP TV
-http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/PopTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Planet TV
-http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/PlanetTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Golica
-http://cdn.iptv.amis.net/ts/GOLICA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/GOLICA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,CarliTV
-http://cdn.iptv.amis.net/ts/Carli/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Carli/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,POP Kino
-http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/PopKino/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Brio
-http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Brio/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,TV3 Medias
-http://cdn.iptv.amis.net/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/PinkTV3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,VTV
-http://cdn.iptv.amis.net/LIVE/VTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/VTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Kanal A
-http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/AKanal/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,DIVA
-http://cdn.iptv.amis.net/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Hallmark/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:-1,[COLOR green]--- EXYU ---[/COLOR]
 skip
 
 
 #EXTINF:0,RTS
-http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/RTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Hayat Plus
-http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,b92
 http://185.152.64.13:1935/livelowedge2/_definst_/b92.stream/chunklist_w1951741565.m3u8
@@ -359,46 +359,46 @@ skip
 
 
 #EXTINF:0,Universal Channel
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,DIVA
-http://cdn.iptv.amis.net/ts/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROHALLMARK/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/KlasikTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,FOX
-http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/FOX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,FOX Life
-http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,FOX MOVIES
-http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/FOXMOVIES/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,FOX Crime
-http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,AMC
-http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/MGM/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,HBO
-http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HBO/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,HBO 2
-http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HBOC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,HBO 3
-http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/HBO3/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,TV 1000
 http://mobia.si/ts/TV1000/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROREALITY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,AXN
-http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/AXN/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,[COLOR green]--- GLAZBA ---[/COLOR]
 skip
@@ -436,10 +436,10 @@ rtsp://stream.teracomm.bg/balkanika
 http://cdn.iptv.amis.net/ts/Mezzo/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,CMC
-http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,ICONCERTS
-http://cdn.iptv.amis.net/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 
 #EXTINF:-1,Retro TV
@@ -730,25 +730,25 @@ http://winweb1.novi-net.net:8010/;
 skip
 
 #EXTINF:0,Ginx
-http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/CROGINX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Ginx (slo)
-http://cdn.iptv.amis.net/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
+http://mobia.si/ts/Ginx/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
 
 #EXTINF:0,Disney Channel
-http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/td/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Disney Channel(slo)
-http://cdn.iptv.amis.net/ts/Disney/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/Disney/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Disney XD
-http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Disney XD
-http://cdn.iptv.amis.net/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
+http://mobia.si/ts/Jetix/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia 
  
 #EXTINF:0,POP Oto
-http://cdn.iptv.amis.net/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/PopOto/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
  
 #EXTINF:0,Minimax
 http://mobia.si/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -760,7 +760,7 @@ http://mobia.si/ts/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 http://mobia.si/ts/Cartoon/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,BabyTV
-http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 #EXTINF:0,RTE Jr
 https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 
@@ -781,7 +781,7 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
 
 #EXTINF:0,DaVinci Learning
-http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://mobia.si/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:0,Smile of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
@@ -917,6 +917,12 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1,[COLOR green]--- TALIJANSKI PROGRAMI ---[/COLOR] 
 skip
 
+#EXTINF:-1,ITALIA1 
+http://mobia.si/ts/ITALIA1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+
+#EXTINF:-1,canale 5
+http://mobia.si/ts/CANALE5/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1,canale 5
 http://hlslive.msf.ticdn.it/hls/CH13/live.m3u8?type=live-cupertino
