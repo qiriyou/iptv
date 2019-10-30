@@ -16,10 +16,10 @@
 
 
 <item>
-<title>[B][I][COLOR lime]ALBANIA LIVE TV 2[/B][/I][/COLOR]</title>
-<link>http://ignorame<link><thumbnail>http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png</thumbnail>
-<fanart>http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png</fanart>
-<externallink>http://195.154.232.129:8080/get.php?username=albatv&password=shqiptv&type=m3u</externallink>
+<title>[B][I][COLOR lime]EX-YU LIVE TV 2[/B][/I][/COLOR]</title>
+<link>http://ignorame<link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjf3zsRNl-xyT0E2Yy_S--zoYXcD0D4J8FgyhT-eX6-JpMXIXI</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjf3zsRNl-xyT0E2Yy_S--zoYXcD0D4J8FgyhT-eX6-JpMXIXI</fanart>
+<externallink>http://kodibalkan.com:80/MenuExyu/TvMenu/exyu.xml</externallink>
 </item>
 
 
