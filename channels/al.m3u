@@ -233,3 +233,232 @@ http://195.154.232.129:8080/live/albatv/shqiptv/356.ts
 #EXTINF:-1,AL: Alsat M
 http://195.154.232.129:8080/live/albatv/shqiptv/351.ts
 
+
+Krijuar nga nexho65:iptv falas group
+#EXTM3U
+#EXTINF:0,RTK 1    TOKSOR
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:0,RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,Rtv1
+http://79.106.102.68/hls/rtvnje.m3u8
+#EXTINF:0,RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:0,RTSH 1 HD
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0,RTSH 1 HD
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_shqip_ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_muzike_ott_p3/playlist.m3u8
+#EXTINF:0,SDI Service
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:0,RTVZiK
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w1533628021.m3u8
+#EXTINF:0,ALTVUSA
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0,APOLLON
+https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil%3ASMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8
+#EXTINF:0,ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:0,News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,KOHA
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:0,OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0,Euro AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0,TV DIELLI
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:0,Tv2 Gostivar
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:0,ALB UK HD
+rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
+#EXTINF:0,PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0,PENDIMI
+http://rtvpendimi.com:8081/hls/RTVPendimi.m3u8
+#EXTINF:0,Tring Planet
+http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw%20
+#EXTINF:0,Tring Comedy
+http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw%20
+#EXTINF:0,Albania Tv Chicago HD
+rtmp://rtmp.tvmak.com/usa/tvmak.com
+#EXTINF:0,AlbSwiss Tv HD
+rtmp://62.210.188.65:1935/albswiss/stream
+#EXTINF:0, Istogu Channel HD
+http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-id="" tvg-name="Tv Syri Blue HD" tvg-logo="http://syri.tv/wp-content/uploads/2017/12/logo.png" group-title="Shqip" - Syri Blue HD
+rtmp://live.syri.tv:8001/input/bluehd
+#EXTINF:0, tvg-id="" tvg-name="Zjarr HD" tvg-logo="http://bashk.tv/storage/uploads/images/channel_logos/ZjarrTv_logo_5a03b6c622c08.png" group-title="LABEL" - Zjarr HD
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-name="IN TV HD" tvg-logo="http://www.intv.al/app/assets/img/logo.png" group-title="Shqip" - IN TV HD
+http://80.90.86.195:1935/live/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-name="Tv 7 Albania" tvg-logo="http://tv7.al/wp-content/uploads/2018/02/Logo-83Heigh.png" group-title="Shqip" - Tv 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8
+#EXTINF:0, tvg-id="" tvg-name="Rtv 21 MIX" tvg-logo="http://www.shqiptv.org/ikona/21mix.png" group-title="Shqip" - Rtv 21 MIX
+http://84.22.49.130:8088/21mix
+#EXTINF:0, tvg-id="" tvg-name="Rtv 21 Junior" tvg-logo="http://www.shqiptv.org/ikona/21junior.png" group-title="Shqip" - Rtv 21 Junior
+http://163.172.211.229:8000/live/sula/sula123/41.ts
+#EXTINF:0, tvg-id="" tvg-name="Channel One" tvg-logo="http://www.channel-one.al/wp-content/themes/dw-focus/assets/img/logo.png" group-title="Shqip" - Channel One
+http://145.239.2.153:8081/channelone/channelone/playlist.m3u8
+#EXTINF:0, Alb Music HD
+rtmp://albmusic.dyndns.tv:1935/albuk/albmus.stream
+#EXTINF:0,TCL
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0,TRAVEL
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:0,PLANET GREEN
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:0,ID HD
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0,SC
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0,SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:0,D HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:0,klan ks
+http://5.135.92.133:52841/out/u/400_2.m3u8
+#EXTINF:0,ktv
+http://5.135.92.133:52841/out/u/38_2.m3u8
+#EXTINF:0,Albanian TV of America
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:0,News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,Report-TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,Jolly
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8
+#EXTINF:0,Smile
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8
+#EXTINF:0,7 News
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:0,Tring Planet
+http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:0,Tring Comedy
+http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:0,Tring Life
+http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:0,Tring Shqip
+http://stream.shqiptv.com:7080/TRINGSHQIP-8762-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:0,Smile
+http://stream.shqiptv.com:7080/TRINGSMILE-8772-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+#EXTINF:0,Jolly
+http://stream.shqiptv.com:7080/JOLLY-8774-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:0,3 Plus
+https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQ
+#EXTINF:0,Alsat M Tv Mk
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:0,21 Tv Mk
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+#EXTINF:0,Shenja Tv
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+#EXTINF:0,Era Tv Mk
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+#EXTINF:0,TV Boin
+http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0, tvg-id="" tvg-name="Dasma TV" tvg-logo="http://dasmatv.com/web/file/2014/11/logo-300x83.png" group-title="Shqip" - Dasma Tv HD
+#EXTINF:0, Istogu Channel HD
+http://artiiptv.dyndns.tv:8090/ISTOGUCHANNEL/tracks-v1a1/mono.m3u8
+#EXTINF:0, tvg-id="" tvg-name="Tv Syri" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/Logo_FB.jpg" group-title="Shqip" - Tv Syri
+rtmp://37.26.69.49/live/syri
+#EXTINF:0,Tv Klan
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.15.3.71:8081/live/KLANTV/playlist.m3u8
+#EXTINF:0,Vizion plus
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8
+#EXTINF:0,klan plus
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8
+#EXTINF:0,shqip tv aksion
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/SHQIPTVAKSION/playlist.m3u8
+#EXTINF:0,Shqip tv  western
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/SHQIPTVWESTERN/playlist.m3u8
+#EXTINF:0,Shqip tv  Horor
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/SHQIPTVHOROR/playlist.m3u8
+#EXTINF:0,SHQIP TV KOMEDY
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/SHQIPTVKOMEDI/playlist.m3u8
+#EXTINF:0,FILM AKSION
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/FILMAKSION/playlist.m3u8
+#EXTINF:0,TRING AKSION
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://51.159.3.14:8081/live/TRINGAKSION/playlist.m3u8
+#EXTINF:0,X PREMIUM 1HD
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8
+#EXTINF:0,X PREMIUM 2 HD
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8
+#EXTINF:0,X PREMIUM 3 HD 
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8
+#EXTINF:0,X PREMIUM 4HD
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8
+#EXTINF:0,X AKSION
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8
+#EXTINF:0,X KOMEDY
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XKOMEDYHDL/playlist.m3u8
+#EXTINF:0,X THRILER
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XTHRILERHD/playlist.m3u8
+#EXTINF:0,X WESTERN
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8
+#EXTINF:0,ART KINO 1
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/ARTKINO1/playlist.m3u8
+#EXTINF:0,ART KINO 2
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/ARTKINO2/playlist.m3u8
+#EXTINF:0,ART KINO 3
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/ARTKINO3/playlist.m3u8
+#EXTINF:0,X SHKENCE
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XSHKENCAHD/playlist.m3u8
+#EXTINF:0,X NATYRA
+#EXTVLCOPT:http-user-agent=2139jkjks
+http://163.172.26.137:8081/live/XNATYRAHD/playlist.m3u8
+#EXTINF:0,Rtv1
+http://79.106.102.68/hls/rtvnje.m3u8
+#EXTINF:0,Dasma TV 
+http://91.187.117.230:8080
+#EXTINF:0,Elrodi
+http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
+https://stream.shqiptv.com/tst/MKTV2-8728-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQgg
