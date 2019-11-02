@@ -1,1215 +1,1603 @@
+
 #EXTM3U
-#EXTINF:-1,-----FRANCE-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135912
-#EXTINF:-1,FR: TF1 4K
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208895
-#EXTINF:-1,FR: TF1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1158
-#EXTINF:-1,FR: TF1+1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208894
-#EXTINF:-1,FR: TF1 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29961
-#EXTINF:-1,FR: FRANCE 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1941
-#EXTINF:-1,FR: FRANCE 2 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29960
-#EXTINF:-1,FR: FRANCE 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1942
-#EXTINF:-1,FR: FRANCE 3 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/50900
-#EXTINF:-1,FR: FRANCE 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/343
-#EXTINF:-1,FR: FRANCE 4 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/50901
-#EXTINF:-1,FR: FRANCE 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1943
-#EXTINF:-1,FR: FRANCE 5 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29959
-#EXTINF:-1,FR: FRANCE O  HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197278
-#EXTINF:-1,FR: FRANCE O SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1944
-#EXTINF:-1,FR: ARTE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1496
-#EXTINF:-1,FR: ARTE HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134232
-#EXTINF:-1,FR: M6 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1159
-#EXTINF:-1,FR: M6 HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29962
-#EXTINF:-1,FR: TMC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1946
-#EXTINF:-1,FR: TMC HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29955
-#EXTINF:-1,FR: TMC+1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/137937
-#EXTINF:-1,FR: TF1 SERIES FILMS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/359
-#EXTINF:-1,FR: TF1 SERIES FILMS HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29957
-#EXTINF:-1,FR: C8 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1931
-#EXTINF:-1,FR: C8 HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134234
-#EXTINF:-1,FR: 6TER HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/366
-#EXTINF:-1,FR: 6TER HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29954
-#EXTINF:-1,FR: W9 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1947
-#EXTINF:-1,FR: TFX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1949
-#EXTINF:-1,FR: TFX 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29956
-#EXTINF:-1,FR: CSTAR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1950
-#EXTINF:-1,FR: CSTAR HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134233
-#EXTINF:-1,FR: 13EME RUE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1236
-#EXTINF:-1,FR: SYFY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1238
-#EXTINF:-1,FR: TEVA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2545
-#EXTINF:-1,FR: TV BREIZH HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3805
-#EXTINF:-1,FR: COMEDIE+
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3813
-#EXTINF:-1,FR: SERIE CLUB
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3803
-#EXTINF:-1,FR: PARIS PREMIERE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2546
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3807
-#EXTINF:-1,FR: COMEDY CENTRAL  HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/165280
-#EXTINF:-1,FR: E!
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3999
-#EXTINF:-1,FR: ACTION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2541
-#EXTINF:-1,FR: CHERIE 25 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1951
-#EXTINF:-1,FR: CHERIE 25 HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134235
-#EXTINF:-1,FR: RMC STORY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1948
-#EXTINF:-1,FR: RMC STORY HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134236
-#EXTINF:-1,FR: NRJ 12 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1497
-#EXTINF:-1,FR: NRJ 12 HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29953
-#EXTINF:-1,FR: RTL 9 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2542
-#EXTINF:-1,FR: BET
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8652
-#EXTINF:-1,FR: TV 5 MONDE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8559
-#EXTINF:-1,FR: ALSACE 20
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73491
-#EXTINF:-1,FR: VOSGES TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73807
-#EXTINF:-1,FR: ABXPLORE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205450
-#EXTINF:-1,FR: AB1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/7443
-#EXTINF:-1,FR: AB 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197281
-#EXTINF:-1,FR: A+
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/123034
-#EXTINF:-1,FR: ALTICE STUDIO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/128406
-#EXTINF:-1,FR: Warner tv
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/130875
-#EXTINF:-1,FR: CLIQUE TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198419
-#EXTINF:-1,-----FR ENFANT-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135914
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1891
-#EXTINF:-1,FR: DISNEY CHANNEL 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1952
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1954
-#EXTINF:-1,FR: DISNEY XD HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1953
-#EXTINF:-1,FR: TELETOON+ HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1501
-#EXTINF:-1,FR: TELETOON +1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/6035
-#EXTINF:-1,FR: NICKELODEON HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3809
-#EXTINF:-1,FR: NICKELODEON +1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161753
-#EXTINF:-1,FR: NICKELODEON JUNIOR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3808
-#EXTINF:-1,FR: CARTOON NETWORK HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1502
-#EXTINF:-1,FR: BOOMERANG HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1500
-#EXTINF:-1,FR: TIJI FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197279
-#EXTINF:-1,FR: TIJI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3823
-#EXTINF:-1,FR: CANAL J
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3828
-#EXTINF:-1,FR: MANGAS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/329
-#EXTINF:-1,FR: PIWI + FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197280
-#EXTINF:-1,FR: PIWI+
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3824
-#EXTINF:-1,FR: GULLI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/347
-#EXTINF:-1,FR: J-ONE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94561
-#EXTINF:-1,FR: TOONAMI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94560
-#EXTINF:-1,FR: BOING HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8562
-#EXTINF:-1,FR: GAME ONE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3812
-#EXTINF:-1,FR: GAME ONE+1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134346
-#EXTINF:-1,-----FR DOCUMENTAIRE-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135915
-#EXTINF:-1,FR: PLANETE+ HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1890
-#EXTINF:-1,FR: PLANETE+ AE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1445
-#EXTINF:-1,FR: PLANETE+ CI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1235
-#EXTINF:-1,FR: NATIONAL GEO HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1893
-#EXTINF:-1,FR: NAT GEO WILD FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187801
-#EXTINF:-1,FR: NATIONAL GEO WILD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2548
-#EXTINF:-1,FR: DISCOVERY FAMILY FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187810
-#EXTINF:-1,FR: DISCOVERY FRANCE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2547
-#EXTINF:-1,FR: DISCOVERY SCIENCE FRANCE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1233
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94564
-#EXTINF:-1,FR: USHUAIA HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187790
-#EXTINF:-1,FR: USHUAIA TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2549
-#EXTINF:-1,FR: RMC DECOUVERTE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1486
-#EXTINF:-1,FR: RMC DECOUVERTE HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134237
-#EXTINF:-1,FR: TOUTE L HISTOIRE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2550
-#EXTINF:-1,FR: CHASSE ET PECHE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/337
-#EXTINF:-1,FR: ANIMAUX
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/334
-#EXTINF:-1,FR: SCIENCE ET VIE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/335
-#EXTINF:-1,FR: HISTOIRE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1484
-#EXTINF:-1,FR: SEASONS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3804
-#EXTINF:-1,FR: CRIME DISTRICT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94538
-#EXTINF:-1,FR: VOYAGE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3821
-#EXTINF:-1,FR: TREK
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3822
-#EXTINF:-1,FR: MY CUISINE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/123067
-#EXTINF:-1,FR: Lucky Jack
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187836
-#EXTINF:-1,FR: Museum Channel HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208280
-#EXTINF:-1,FR: NON STOP PEOPLE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/134345
-#EXTINF:-1,FR: IDF1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212535
-#EXTINF:-1,-----FR FULL HD-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/144997
-#EXTINF:-1,FR: CANAL+  HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187547
-#EXTINF:-1,FR: CANAL+  CINEMA HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187544
-#EXTINF:-1,FR: CANAL+  DECALE HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187545
-#EXTINF:-1,FR: CANAL+  FAMILY HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187546
-#EXTINF:-1,FR: CANAL+  SERIES FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/145002
-#EXTINF:-1,FR: CANAL+  SERIES HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187548
-#EXTINF:-1,FR: CINE EMOTION FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/145000
-#EXTINF:-1,FR: CINE FAMIZ FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/144999
-#EXTINF:-1,FR: CINE FRISSON FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/144998
-#EXTINF:-1,FR: CINE PREMIER FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/145001
-#EXTINF:-1,-----FR CINEMA-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135913
-#EXTINF:-1,FR: CANAL+ HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/364
-#EXTINF:-1,FR: CANAL+  CINEMA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/355
-#EXTINF:-1,FR: CANAL+  FAMILY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/357
-#EXTINF:-1,FR: CANAL+  DECALE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/365
-#EXTINF:-1,FR: CANAL+ SERIES HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1444
-#EXTINF:-1,FR: OCS City
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3970
-#EXTINF:-1,FR: OCS GEANTS HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187800
-#EXTINF:-1,FR: OCS GEANTS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3825
-#EXTINF:-1,FR: OCS Max HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3971
-#EXTINF:-1,FR: Ocs Choc HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3969
-#EXTINF:-1,FR: CINE+ FRISSON HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/524
-#EXTINF:-1,FR: CINE+ FAMIZ HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/523
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1480
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1474
-#EXTINF:-1,FR: CINE PREMIER HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1473
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196205
-#EXTINF:-1,FR: CANAL HOLLYWOOD HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/211455
-#EXTINF:-1,FR: TCM CINEMA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2544
-#EXTINF:-1,FR: POLAR+
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/130874
-#EXTINF:-1,FR: CINE+ CLUB HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8560
-#EXTINF:-1,-----FR MUSIQUE NEWS-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135916
-#EXTINF:-1,FR: M6 MUSIC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/13880
-#EXTINF:-1,FR: MCM
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/13903
-#EXTINF:-1,FR: TRACE URBAN
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3810
-#EXTINF:-1,FR: MTV FRANCE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/6038
-#EXTINF:-1,FR: MTV DANCE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3811
-#EXTINF:-1,FR: NRJ HITS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29906
-#EXTINF:-1,FR: MCM TOP HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136164
-#EXTINF:-1,FR: Brava HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/65177
-#EXTINF:-1,FR: MEZZO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94549
-#EXTINF:-1,FR: NOLYWOOD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94565
-#EXTINF:-1,FR: MTV HITS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/172043
-#EXTINF:-1,FR: TRACE URBAN
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/13215
-#EXTINF:-1,FR: TRACE AFRICA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94574
-#EXTINF:-1,FR: TRACE TROPICAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94569
-#EXTINF:-1,FR: TRACE GOSPEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94573
-#EXTINF:-1,FR: TRACE MZIKI
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94572
-#EXTINF:-1,FR: TRACE NAIJA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94571
-#EXTINF:-1,FR: TRACE SPORT AND STAR
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94568
-#EXTINF:-1,FR: TRACE TOCA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/94570
-#EXTINF:-1,FR: TRACE KITOKO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187965
-#EXTINF:-1,FR: PICKLE TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129172
-#EXTINF:-1,FR: DJAZZ TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212532
-#EXTINF:-1,FR: OKLM TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212533
-#EXTINF:-1,FR: Pitchoun TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212534
-#EXTINF:-1,FR: EURONEWS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/13239
-#EXTINF:-1,FR: FRANCE 24
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/789
-#EXTINF:-1,FR: CNEWS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1956
-#EXTINF:-1,FR: CNEWS HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187827
-#EXTINF:-1,FR: BFM TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1958
-#EXTINF:-1,FR: BFM TV HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187826
-#EXTINF:-1,FR: LCP HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1957
-#EXTINF:-1,FR: LCI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/5564
-#EXTINF:-1,FR: BFM BUSINESS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73486
-#EXTINF:-1,FR: FRANCE INFO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73487
-#EXTINF:-1,FR: I24 NEWS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73490
-#EXTINF:-1,FR: MDL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194893
-#EXTINF:-1,FR: RT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194892
-#EXTINF:-1,FR: TEBESUD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194890
-#EXTINF:-1,FR: KTO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1207
-#EXTINF:-1,-----FR SPORT-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135906
-#EXTINF:-1,FR: BEIN SPORT 1 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187813
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/361
-#EXTINF:-1,FR: BEIN SPORT 2 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187812
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/362
-#EXTINF:-1,FR: BEIN SPORT  3 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187811
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/363
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187747
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8565
-#EXTINF:-1,FR: BEIN SPORTS MAX FHD 5 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187746
-#EXTINF:-1,FR: BEIN SPORT MAX HD 5
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8566
-#EXTINF:-1,FR: BEIN SPORTS MAX FHD 6 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187745
-#EXTINF:-1,FR: BEIN SPORT MAX HD 6
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8567
-#EXTINF:-1,FR: BEIN SPORT MAX HD 7
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73482
-#EXTINF:-1,FR: BEIN SPORT MAX HD 8
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73483
-#EXTINF:-1,FR: BEIN SPORT MAX HD 9
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/73484
-#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10 (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187741
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/7175
-#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187799
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/7176
-#EXTINF:-1,FR: RMC SPORT  2  HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/174965
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/7434
-#EXTINF:-1,FR: RMC SPORT 3 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/176079
-#EXTINF:-1,FR: RMC SPORT 4
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/137934
-#EXTINF:-1,FR: RMC SPORT  4 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/176136
-#EXTINF:-1,FR: RMC SPORT 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209453
-#EXTINF:-1,FR: RMC ACCESS 1 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161708
-#EXTINF:-1,FR: RMC ACCESS  2 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161707
-#EXTINF:-1,FR: RMC ACCESS 3 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161706
-#EXTINF:-1,FR: RMC SPORT LIVE 6
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187797
-#EXTINF:-1,FR: RMC SPORT LIVE 7
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187796
-#EXTINF:-1,FR: RMC SPORT LIVE 8
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187795
-#EXTINF:-1,FR: RMC SPORT LIVE 9
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187794
-#EXTINF:-1,FR: CANAL+  SPORT HD 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187549
-#EXTINF:-1,FR: CANAL+  SPORT HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/356
-#EXTINF:-1,FR: Foot +
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3981
-#EXTINF:-1,FR: OL TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/202593
-#EXTINF:-1,FR: RMC SPORT NEWS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/171465
-#EXTINF:-1,FR: BFM SPORT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/88284
-#EXTINF:-1,FR: EUROSPORT FRANCE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1892
-#EXTINF:-1,FR: EUROSPORT 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3827
-#EXTINF:-1,FR: L EQUIPE 21 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1488
-#EXTINF:-1,FR: EQUIDIA LIVE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1491
-#EXTINF:-1,FR: GOLF+  HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187808
-#EXTINF:-1,FR: GOLF CHANNEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8653
-#EXTINF:-1,FR: Man's.UP
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208281
-#EXTINF:-1,FR: MusculationTV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208279
-#EXTINF:-1,FR: AB MOTEURS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3829
-#EXTINF:-1,FR: VICELAND
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/145644
-#EXTINF:-1,FR: ELEVEN SPORT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/177799
-#EXTINF:-1,FR: ELEVEN SPORT 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/177824
-#EXTINF:-1,FR: ELEVEN SPORT 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/177858
-#EXTINF:-1,FR: MULTISPORTS 1 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187807
-#EXTINF:-1,FR: MULTISPORTS 2 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187806
-#EXTINF:-1,FR: MULTISPORTS 3 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187805
-#EXTINF:-1,FR: MULTISPORTS 4 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187804
-#EXTINF:-1,FR: MULTISPORTS 5 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187803
-#EXTINF:-1,FR: MULTISPORTS 6 FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187802
-#EXTINF:-1,FR: AUTOMOTO LA CHAINE HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188511
-#EXTINF:-1,FR: GULLI HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187828
-#EXTINF:-1,FR: LCP HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187829
-#EXTINF:-1,FR: TRACE TROPICAL HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187791
-#EXTINF:-1,FR: WARNER TV FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188532
-#EXTINF:-1,FR: CHASSE ET PÊCHE HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188518
-#EXTINF:-1,FR: CINE+ CLUB HD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188535
-#EXTINF:-1,FR: CSTAR HITS FRANCE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188521
-#EXTINF:-1,FR: EQUIDIA FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188530
-#EXTINF:-1,FR: EXTREME SPORTS FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188528
-#EXTINF:-1,FR: FOOT  24/24 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188522
-#EXTINF:-1,FR: MELODY FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188526
-#EXTINF:-1,FR: PLANETE  A&E HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188538
-#EXTINF:-1,FR: TOUTE L'HISTOIRE FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188525
-#EXTINF:-1,FR: VICELAND HD (SL)
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/188513
-#EXTINF:-1,FR: RMC SPORT UHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198241
-#EXTINF:-1,FR: DISCOVERY FRANCE FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199984
-#EXTINF:-1,FR: DISCOVERY SCIENCE FRANCE FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199985
-#EXTINF:-1,FR: DISNEY CINEMA FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199987
-#EXTINF:-1,FR: PARAMOUNT CHANNEL FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199988
-#EXTINF:-1,FR: PARAMOUNT DECALE FHD 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199989
-#EXTINF:-1,FR: PARAMOUNT DECALE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199990
-#EXTINF:-1,FR: SL CINEMA 2019 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198913
-#EXTINF:-1,FR: SL CINEMA 1 2019 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/199459
-#EXTINF:-1,FR: SL CINEMA 2 2019 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/200745
-#EXTINF:-1,FR: SL CINEMA ACTION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169318
-#EXTINF:-1,FR: SL CINEMA ACTION 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169336
-#EXTINF:-1,FR: SL CINEMA ACTION 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/211958
-#EXTINF:-1,FR: SL CINEMA PREMIUM HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169320
-#EXTINF:-1,FR: SL CINEMA PREMIUM HORREUR 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187678
-#EXTINF:-1,FR: SL CINEMA GOLD HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169319
-#EXTINF:-1,FR: SL CINEMA COMEDY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169321
-#EXTINF:-1,FR: SL CINEMA COMEDY 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212616
-#EXTINF:-1,FR: SL CINEMA DRAME 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169335
-#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212571
-#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212570
-#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212572
-#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212610
-#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212593
-#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212615
-#EXTINF:-1,FR: CINE OFFICE 7 Walt Disney HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212617
-#EXTINF:-1,FR: CINE OFFICE 8 Policier HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212625
-#EXTINF:-1,FR: CINE OFFICE 9 Epouvante-horreur HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212765
-#EXTINF:-1,FR: OCS Go Cinema 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129204
-#EXTINF:-1,FR: OCS Go Cinema 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129203
-#EXTINF:-1,FR: OCS Go Cinema 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129201
-#EXTINF:-1,FR: Orange Cinema 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129199
-#EXTINF:-1,FR: Orange Cinema 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129198
-#EXTINF:-1,FR: Orange Cinema 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129197
-#EXTINF:-1,FR: Orange Cinema 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129196
-#EXTINF:-1,FR: Orange Cinema 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129195
-#EXTINF:-1,FR: Orange Cinema Action HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129194
-#EXTINF:-1,FR: Orange Cinema Aventure HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129193
-#EXTINF:-1,FR: Orange Cinema HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129192
-#EXTINF:-1,FR: Orange Comment C'Est Fait HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129190
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3830
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3831
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3832
-#EXTINF:-1,FR: A LA CARTE 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208912
-#EXTINF:-1,FR: A LA CARTE 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3973
-#EXTINF:-1,FR: A LA CARTE 6 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3974
-#EXTINF:-1,FR: A LA CARTE 7 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3975
-#EXTINF:-1,FR: A LA CARTE 8 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/150671
-#EXTINF:-1,FR: A LA CARTE 9 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/150672
-#EXTINF:-1,FR: A LA CARTE 10 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/150673
-#EXTINF:-1,FR: CANALPLAY 1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2126
-#EXTINF:-1,FR: CANALPLAY 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2127
-#EXTINF:-1,FR: CANALPLAY 3
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2128
-#EXTINF:-1,FR: CANALPLAY 4
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2129
-#EXTINF:-1,FR: CANALPLAY 5
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2130
-#EXTINF:-1,-----PORTUGAL-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135944
-#EXTINF:-1,PT: RTP 1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2211
-#EXTINF:-1,PT: RTP 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/162611
-#EXTINF:-1,PT: RTP 1 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205663
-#EXTINF:-1,PT: RTP 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2212
-#EXTINF:-1,PT: RTP 2 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205664
-#EXTINF:-1,PT: RTP 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/162612
-#EXTINF:-1,PT: SIC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2216
-#EXTINF:-1,PT: SIC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169304
-#EXTINF:-1,PT: SIC 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205665
-#EXTINF:-1,PT: TVI
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2220
-#EXTINF:-1,PT: TVI HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169303
-#EXTINF:-1,PT: TVI 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209530
-#EXTINF:-1,PT: TVI 24
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2221
-#EXTINF:-1,PT: TVI FICÇAO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136631
-#EXTINF:-1,PT: RTP 3
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136263
-#EXTINF:-1,PT: RTP3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196604
-#EXTINF:-1,PT: RTP ACORES
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2213
-#EXTINF:-1,PT: SIC RADICAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136264
-#EXTINF:-1,PT: RTP AFRICA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136684
-#EXTINF:-1,PT: RTP MADEIRA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2215
-#EXTINF:-1,PT: RTP MEMORIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2214
-#EXTINF:-1,PT: SIC CARAS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136630
-#EXTINF:-1,PT: SIC MULHER
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2218
-#EXTINF:-1,PT: SICMULHER HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196605
-#EXTINF:-1,PT: SIC NOTICIAS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2219
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196692
-#EXTINF:-1,PT: CMTV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2204
-#EXTINF:-1,PT: CMTV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132907
-#EXTINF:-1,PT: ZAP VIVA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198367
-#EXTINF:-1,PT: TVI REALITY
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136659
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 1 PT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/178148
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 2 PT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/178147
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 3 PT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/178146
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 4 PT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/178145
-#EXTINF:-1,PT: TVI Reality Mosaico PT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/178144
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2203
-#EXTINF:-1,PT: CANÇAO NOVA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/165587
-#EXTINF:-1,PT: CANAL Q
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132901
-#EXTINF:-1,PT: CBS REALITY
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132903
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132910
-#EXTINF:-1,PT: FASHION TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136676
-#EXTINF:-1,PT: FOX NEWS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132917
-#EXTINF:-1,PT: GLOBO PORTUGAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132897
-#EXTINF:-1,PT: GLOBO PORTUGAL HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196609
-#EXTINF:-1,PT: TV GLOBO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2209
-#EXTINF:-1,PT: TV RECORD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2225
-#EXTINF:-1,PT: RECORD NEWS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212611
-#EXTINF:-1,PT: TV  FATIMA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/165588
-#EXTINF:-1,----- PT CINEMA/SERIES -----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/139976
-#EXTINF:-1,PT: TVC 1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194449
-#EXTINF:-1,PT: TVC 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2234
-#EXTINF:-1,PT: TVC 1 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/207333
-#EXTINF:-1,PT: TVC 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194450
-#EXTINF:-1,PT: TVC 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2235
-#EXTINF:-1,PT: TVC 2 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/207334
-#EXTINF:-1,PT: TVC 3
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194460
-#EXTINF:-1,PT: TVC 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2236
-#EXTINF:-1,PT: TVC 3 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/207342
-#EXTINF:-1,PT: TVC 4
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194461
-#EXTINF:-1,PT: TVC 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2237
-#EXTINF:-1,PT: TVC 4 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/207343
-#EXTINF:-1,PT: NOS STUDIO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/202823
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198788
-#EXTINF:-1,PT: NOS STUDIOS 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205662
-#EXTINF:-1,PT: AXN
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136668
-#EXTINF:-1,PT: AXN HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2233
-#EXTINF:-1,PT: AXN 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205656
-#EXTINF:-1,PT: AXN WHITE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/167482
-#EXTINF:-1,PT: AXN WHITE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132925
-#EXTINF:-1,PT: AXN WHITE 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205658
-#EXTINF:-1,PT: AXN BLACK
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/167481
-#EXTINF:-1,PT: AXN BLACK HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132924
-#EXTINF:-1,PT: AXN BLACK 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205657
-#EXTINF:-1,PT: AMC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132923
-#EXTINF:-1,PT: AMC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169311
-#EXTINF:-1,PT: AMC 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209534
-#EXTINF:-1,PT: HOLLYWOOD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132921
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132922
-#EXTINF:-1,PT: SYFY
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169312
-#EXTINF:-1,PT: SYFY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2243
-#EXTINF:-1,PT:  TV SERIES
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136266
-#EXTINF:-1,PT:  TV SERIES HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/169310
-#EXTINF:-1,PT: TV SERIES 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209535
-#EXTINF:-1,PT: FOX
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/198366
-#EXTINF:-1,PT: FOX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2206
-#EXTINF:-1,PT: FOX 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205661
-#EXTINF:-1,PT: FOX COMEDY
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2208
-#EXTINF:-1,PT: FOX COMEDY HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132912
-#EXTINF:-1,PT: FOX CRIME
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132913
-#EXTINF:-1,PT: FOX CRIME HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132914
-#EXTINF:-1,PT: FOX CRIME 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209536
-#EXTINF:-1,PT: FOX LIFE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/167480
-#EXTINF:-1,PT: FOX LIFE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132915
-#EXTINF:-1,PT: FOX MOVIES
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2207
-#EXTINF:-1,PT: FOX MOVIES HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132916
-#EXTINF:-1,PT: CINEMUNDO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132905
-#EXTINF:-1,PT: CINEMUNDO HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196608
-#EXTINF:-1,PT: SUNDANCE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132891
-#EXTINF:-1,----- PT DESPORTO -----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/139977
-#EXTINF:-1,PT: CANAL 11
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/203036
-#EXTINF:-1,PT: CANAL 11 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/203037
-#EXTINF:-1,PT: CANAL 11 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205660
-#EXTINF:-1,PT: SPORT TV +
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161969
-#EXTINF:-1,PT: SPORT TV + HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136265
-#EXTINF:-1,PT: SPORT TV 1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161955
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1455
-#EXTINF:-1,PT: SPORT TV 1 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205666
-#EXTINF:-1,PT: SPORT TV 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161957
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1456
-#EXTINF:-1,PT: SPORT TV 2 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205667
-#EXTINF:-1,PT: SPORT TV 3
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161966
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1457
-#EXTINF:-1,PT: SPORT TV 3 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205668
-#EXTINF:-1,PT: SPORT TV 4
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161967
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1458
-#EXTINF:-1,PT: SPORT TV 4 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/209531
-#EXTINF:-1,PT: SPORT TV 5
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161968
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/1459
-#EXTINF:-1,PT: SPORT TV NBA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/183821
-#EXTINF:-1,PT: CHELSEA TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132904
-#EXTINF:-1,PT: BTV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161970
-#EXTINF:-1,PT: BTV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2229
-#EXTINF:-1,PT: BTV 1080P
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205659
-#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164977
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/158069
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/158902
-#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164978
-#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164979
-#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164980
-#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164981
-#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164982
-#EXTINF:-1,PT: ELEVENSPORT 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/159765
-#EXTINF:-1,PT: ELEVENSPORT 4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/159766
-#EXTINF:-1,PT: ELEVENSPORT 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/159767
-#EXTINF:-1,PT: ELEVENSPORT 6 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/159768
-#EXTINF:-1,PT: EUROSPORT 1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136682
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2231
-#EXTINF:-1,PT: EUROSPORT 2
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132911
-#EXTINF:-1,PT: FIGHT NETWORH HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136665
-#EXTINF:-1,PT: KOMBAT SPORT
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132886
-#EXTINF:-1,PT: A BOLA TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136661
-#EXTINF:-1,PT: NBA TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132918
-#EXTINF:-1,PT: PORTO CANAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2210
-#EXTINF:-1,PT: REAL MADRID TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136663
-#EXTINF:-1,PT: CAÇA E PESCA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132898
-#EXTINF:-1,PT: CAÇAVISION
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132899
-#EXTINF:-1,PT: SPORTING TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2232
-#EXTINF:-1,PT: SPORTING TV 1080
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/161971
-#EXTINF:-1,PT: TOROS TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136662
-#EXTINF:-1,PT: PFC INTERNACIONAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136666
-#EXTINF:-1,----- PT MUSICA-INFORMACAO -----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/139980
-#EXTINF:-1,PT: MCM POP
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132890
-#EXTINF:-1,PT: MTV PORTUGAL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136673
-#EXTINF:-1,PT: MEZZO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136675
-#EXTINF:-1,PT: ICONCERTS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132884
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136674
-#EXTINF:-1,PT: VH1
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136670
-#EXTINF:-1,----- PT CRIANCAS -----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/139978
-#EXTINF:-1,PT: CANAL PANDA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2222
-#EXTINF:-1,PT: BIGGS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/180946
-#EXTINF:-1,PT: NICKELODEON
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136669
-#EXTINF:-1,PT: NICK JR.
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/181786
-#EXTINF:-1,PT: SIC K
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2217
-#EXTINF:-1,PT: BABY TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136667
-#EXTINF:-1,PT: CARTOON NETWORK
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132902
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2223
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2224
-#EXTINF:-1,PT: BLOOMBERG
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136683
-#EXTINF:-1,PT: JIM JAM
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132885
-#EXTINF:-1,----- PT DOCUMENTARIAS -----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/139979
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132920
-#EXTINF:-1,PT: NAT GEO WILD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2228
-#EXTINF:-1,PT: MOTORVISION
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132896
-#EXTINF:-1,PT: FOOD NETWORK
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/181785
-#EXTINF:-1,PT: LOCALVISAO TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132888
-#EXTINF:-1,PT: LUXE TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132892
-#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136671
-#EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136677
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2226
-#EXTINF:-1,PT: DISCOVERY CHANNEL HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196607
-#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132908
-#EXTINF:-1,PT: FINE LIVING NETWORK HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136679
-#EXTINF:-1,PT: TRACE URBAN
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136672
-#EXTINF:-1,PT: CRIME + INVESTIGATION TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136629
-#EXTINF:-1,PT: HISTORIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2227
-#EXTINF:-1,PT: ODISSEIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136678
-#EXTINF:-1,PT: BLAZE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/158901
-#EXTINF:-1,PT: BLAZE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196603
-#EXTINF:-1,PT: FUEL TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136664
-#EXTINF:-1,PT: TLC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/136681
-#EXTINF:-1,PT: ODISSEIA HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196606
-#EXTINF:-1,PT: DOG TV HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132909
-#EXTINF:-1,PT: NAT GEO WILD HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132919
-#EXTINF:-1,SA: 13:00 | Roma vs Napoli
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/211967
-#EXTINF:-1,SA: 18:00 | Bologna vs Inter
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212927
-#EXTINF:-1,SA: 20:45 | Torino vs Juventus
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/211966
-#EXTINF:-1,SA: 20:45 | Milan vs Lazio
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212928
-#EXTINF:-1,-----ITALIA-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135931
-#EXTINF:-1,IT: MEDIASET ITALIA DUE
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/657
-#EXTINF:-1,IT: SUPER
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3635
-#EXTINF:-1,IT: TV2000
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/203050
-#EXTINF:-1,IT: SARDEGNA UNO
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/205764
-#EXTINF:-1,IT: BOING HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/670
-#EXTINF:-1,IT: SPORTITALIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/2584
-#EXTINF:-1,IT: TOP CALCIO 24
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208472
-#EXTINF:-1,IT: RADIO ITALIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/174633
-#EXTINF:-1,IT: MTV MUSIC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/174648
-#EXTINF:-1,IT: RADIO ZETA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/187908
-#EXTINF:-1,IT: Paramount Channel
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194445
-#EXTINF:-1,IT: Spike
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194442
-#EXTINF:-1,IT: Food Network
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194447
-#EXTINF:-1,IT: Fox Animation HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194444
-#EXTINF:-1,IT: Case Design Stili
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/194446
-#EXTINF:-1,SKY-IT: PREMIUM STORIE FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/208473
-#EXTINF:-1,IT: MEDIASET FOCUS
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196809
-#EXTINF:-1,IT: QVC
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196810
-#EXTINF:-1,IT: PADRE PIO TV
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/196811
-#EXTINF:-1,IT: RAI 3 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197757
-#EXTINF:-1,IT: RAI 4 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/197758
-#EXTINF:-1,-----GERMANY-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135924
-#EXTINF:-1,DE: Das Erste HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3463
-#EXTINF:-1,DE: ZDF HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135824
-#EXTINF:-1,DE: ZDF Info HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3487
-#EXTINF:-1,DE: ZDF Neo HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3489
-#EXTINF:-1,DE: RTL HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3424
-#EXTINF:-1,DE: RTL 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3425
-#EXTINF:-1,DE: RTL Crime HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/172482
-#EXTINF:-1,DE: RTL PASSION HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/164963
-#EXTINF:-1,DE: RTL Living HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3483
-#EXTINF:-1,DE: RTL NITRO HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3482
-#EXTINF:-1,DE: RTL PLUS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8193
-#EXTINF:-1,DE: VOX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3361
-#EXTINF:-1,DE: PRO 7 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3427
-#EXTINF:-1,DE: PRO 7 Fun HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/30053
-#EXTINF:-1,DE: Pro 7 MAXX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3426
-#EXTINF:-1,DE: Kabel Eins HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3471
-#EXTINF:-1,DE: Kabel Eins Classics HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29036
-#EXTINF:-1,DE: Arte HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3458
-#EXTINF:-1,DE: SIXX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173743
-#EXTINF:-1,DE: SERVUS HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132729
-#EXTINF:-1,DE: FOX HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3887
-#EXTINF:-1,DE: SAT 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/176190
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/30356
-#EXTINF:-1,DE: ZEE ONE HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/8493
-#EXTINF:-1,DE: Tele 5 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29037
-#EXTINF:-1,DE: 3sat HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3456
-#EXTINF:-1,DE: HR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/172480
-#EXTINF:-1,DE: MDR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173733
-#EXTINF:-1,DE: NDR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3429
-#EXTINF:-1,DE: SWR BW HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3421
-#EXTINF:-1,DE: WDR HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173748
-#EXTINF:-1,DE: SRF 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173744
-#EXTINF:-1,DE: SRF 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173745
-#EXTINF:-1,DE: RTL Television
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135822
-#EXTINF:-1,DE: Das Erste FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132828
-#EXTINF:-1,DE: ZDF FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132827
-#EXTINF:-1,DE: RTL FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132818
-#EXTINF:-1,DE: RTL 2 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132817
-#EXTINF:-1,DE: SAT 1 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132821
-#EXTINF:-1,DE: VOX FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132823
-#EXTINF:-1,DE: RTL Nitro FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3423
-#EXTINF:-1,DE: RTL Crime FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173741
-#EXTINF:-1,DE: RTL PASSION FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173742
-#EXTINF:-1,DE: Pro7 FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132820
-#EXTINF:-1,DE: Pro 7 MAXX FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132819
-#EXTINF:-1,DE: Kabel Eins FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132822
-#EXTINF:-1,DE: MDR FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/30051
-#EXTINF:-1,DE: NDR FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173737
-#EXTINF:-1,DE: WDR FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3486
-#EXTINF:-1,DE: 3sat FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173451
-#EXTINF:-1,DE: Arte FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132826
-#EXTINF:-1,DE: FOX FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173730
-#EXTINF:-1,DE: SIXX FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29035
-#EXTINF:-1,DE: ARD 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/195545
-#EXTINF:-1,DE: ZEE ONE FHD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/173751
-#EXTINF:-1,AT: Austria 24 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/210687
-#EXTINF:-1,AT: ATV HD AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29993
-#EXTINF:-1,AT: ATV 2 AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29994
-#EXTINF:-1,AT: PULS4 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/123006
-#EXTINF:-1,AT: ORF 1 HD AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29995
-#EXTINF:-1,AT: ORF 2 HD AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/29996
-#EXTINF:-1,AT: ORF 3 HD AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/129284
-#EXTINF:-1,AT: FS1 AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/210688
-#EXTINF:-1,AT: SIXX AUSTRIA
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/210689
-#EXTINF:-1,AT: Sky Sport Austria 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212526
-#EXTINF:-1,AT: Sky Sport Austria 2 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212527
-#EXTINF:-1,AT: Sky Sport Austria 3 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/212528
-#EXTINF:-1,-----DE KINO-----
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/135925
-#EXTINF:-1,DE: Sky 1 HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/30041
-#EXTINF:-1,DE: Sky Cinema HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/3404
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://ip.sltv.be:8000/ardjanbali18/EvyROgMyWE/132725
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ TONTON<*>911 ☆▆ ▅ ▄ ▂ ▁
+http//
+
+
+#EXTINF:-1,Albania/911™ Film Thriller
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1300
+#EXTINF:-1,Albania/911™ Film NJE HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1296
+#EXTINF:-1,Albania/911™ Film Komedi
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1299
+#EXTINF:-1,Albania/911™ Film Hits
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1301
+#EXTINF:-1,Albania/911™ Film Gold
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1304
+#EXTINF:-1,Albania/911™ Film DY HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1297
+#EXTINF:-1,Albania/911™ Film Drame
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1302
+#EXTINF:-1,Albania/911™ Film Autor
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1303
+#EXTINF:-1,Albania/911™ Film Aksion
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1298
+#EXTINF:-1,Albania/911™ Klan HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1323
+#EXTINF:-1,Albania/911™ Klan Kosova
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1524
+#EXTINF:-1,Albania/911™ RTV 21
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2479
+#EXTINF:-1,Albania/911™ KTV HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2478
+#EXTINF:-1,Albania/911™ RTK 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1522
+#EXTINF:-1,Albania/911™ RTK 1 FHD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4121
+#EXTINF:-1,Albania/911™ RTSH 1 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4132
+#EXTINF:-1,Albania/911™ RTSH 2 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4131
+#EXTINF:-1,Albania/911™ RTSH 24
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4126
+#EXTINF:-1,Albania/911™ RTSH 3 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4130
+#EXTINF:-1,Albania/911™ RTSH Femije
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4122
+#EXTINF:-1,Albania/911™ RTSH FILM
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4125
+#EXTINF:-1,Albania/911™ RTSH Kuvend
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4127
+#EXTINF:-1,Albania/911™ RTSH Muzike
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4128
+#EXTINF:-1,Albania/911™ RTSH SHQIP
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4124
+#EXTINF:-1,Albania/911™ Vizion Plus
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1525
+#EXTINF:-1,Albania/911™ Stinet
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1523
+#EXTINF:-1,Albania/911™ Junior TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1305
+#EXTINF:-1,Albania/911™ Jolly HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1319
+#EXTINF:-1,Albania/911™ Cufo
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1322
+#EXTINF:-1,Albania/911™ T HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1320
+#EXTINF:-1,Albania/911™ Plus HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1318
+#EXTINF:-1,Albania/911™ Top Channel HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1317
+#EXTINF:-1,Albania/911™ Alsat-M HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1321
+#EXTINF:-1,Albania/911™ Tip TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1306
+#EXTINF:-1,Albania/911™ Explorer Shkence
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1526
+#EXTINF:-1,Albania/911™ Explorer Natyra
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1527
+#EXTINF:-1,Albania/911™ Explorer History
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1528
+#EXTINF:-1,Albania/911™ Tring World
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1309
+#EXTINF:-1,Albania/911™ Tring Tring
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1307
+#EXTINF:-1,Albania/911™ Tring Super
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1310
+#EXTINF:-1,Albania/911™ Tring Shqip
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1314
+#EXTINF:-1,Albania/911™ Tring Planet
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1308
+#EXTINF:-1,Albania/911™ Tring Max
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1311
+#EXTINF:-1,Albania/911™ Tring Life
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1316
+#EXTINF:-1,Albania/911™ Tring Fantasy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1312
+#EXTINF:-1,Albania/911™ Tring Comedy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1313
+#EXTINF:-1,Albania/911™ Tring 3 PLus
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1315
+#EXTINF:-1,Albania/911™ LIVING HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4116
+#EXTINF:-1,Albania/911™ MUSE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4114
+#EXTINF:-1,Albania/911™ SMILE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4113
+#EXTINF:-1,Albania/911™ TEMA TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4117
+#EXTINF:-1,Albania/911™ Top News
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2421
+#EXTINF:-1,Albania/911™ Ora News
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2424
+#EXTINF:-1,Albania/911™ News 24
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2423
+#EXTINF:-1,Albania/911™ ABC News
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/2422
+#EXTINF:-1,Seychelles/911™ C More First
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20910
+#EXTINF:-1,Seychelles/911™ C MORE HITS
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20909
+#EXTINF:-1,Seychelles/911™ C More Series
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20908
+#EXTINF:-1,Seychelles/911™ C More Star
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20911
+#EXTINF:-1,Seychelles/911™ CANAL 9 DK
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20865
+#EXTINF:-1,Seychelles/911™ Disney Channel DK
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20871
+#EXTINF:-1,Seychelles/911™ Disney Channel SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20905
+#EXTINF:-1,Seychelles/911™ Disney XD DK
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20885
+#EXTINF:-1,Seychelles/911™ DK4
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20899
+#EXTINF:-1,Seychelles/911™ DR K
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20863
+#EXTINF:-1,Seychelles/911™ DR Ramasjang
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20900
+#EXTINF:-1,Seychelles/911™ DR ULTRA
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20864
+#EXTINF:-1,Seychelles/911™ DR1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/4084
+#EXTINF:-1,Seychelles/911™ DR2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20907
+#EXTINF:-1,Seychelles/911™ KANAL 11
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20870
+#EXTINF:-1,Seychelles/911™ KANAL 4
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20866
+#EXTINF:-1,Seychelles/911™ KANAL 5
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20867
+#EXTINF:-1,Seychelles/911™ KANAL 9 SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20868
+#EXTINF:-1,Seychelles/911™ KANAL5 SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20877
+#EXTINF:-1,Seychelles/911™ NAT GEO WILD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20861
+#EXTINF:-1,Seychelles/911™ NATIONAL GEOGRAPHIC
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20862
+#EXTINF:-1,Seychelles/911™ NRK 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20904
+#EXTINF:-1,Seychelles/911™ NRK 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20903
+#EXTINF:-1,Seychelles/911™ NRK 3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20875
+#EXTINF:-1,Seychelles/911™ SVT 24 B
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20874
+#EXTINF:-1,Seychelles/911™ SVT1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20902
+#EXTINF:-1,Seychelles/911™ SVT2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20901
+#EXTINF:-1,Seychelles/911™ TV10
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20886
+#EXTINF:-1,Seychelles/911™ TV12
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20869
+#EXTINF:-1,Seychelles/911™ TV2 Charlie
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20887
+#EXTINF:-1,Seychelles/911™ TV2 Lorry
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20888
+#EXTINF:-1,Seychelles/911™ TV2 News
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20889
+#EXTINF:-1,Seychelles/911™ TV2 Nyhetskanalen
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20906
+#EXTINF:-1,Seychelles/911™ TV2 Zebra
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20873
+#EXTINF:-1,Seychelles/911™ TV2 Zulu
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20872
+#EXTINF:-1,Seychelles/911™ TV3 Danmark
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20890
+#EXTINF:-1,Seychelles/911™ TV3 Puls
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20891
+#EXTINF:-1,Seychelles/911™ TV3 SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20892
+#EXTINF:-1,Seychelles/911™ TV4
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20893
+#EXTINF:-1,Seychelles/911™ TV4 Fakta
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20894
+#EXTINF:-1,Seychelles/911™ TV4 Film
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20895
+#EXTINF:-1,Seychelles/911™ TV4 Gold
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20896
+#EXTINF:-1,Seychelles/911™ TV4 Komedi
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20897
+#EXTINF:-1,Seychelles/911™ TV6 SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20878
+#EXTINF:-1,Seychelles/911™ TV8 SE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20876
+#EXTINF:-1,Seychelles/911™ Viasat 4 Norway
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20898
+#EXTINF:-1,Seychelles/911™ Viasat Action
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20881
+#EXTINF:-1,Seychelles/911™ Viasat Comedy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20880
+#EXTINF:-1,Seychelles/911™ Viasat Family
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20879
+#EXTINF:-1,Seychelles/911™ Viasat Hits
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20882
+#EXTINF:-1,Seychelles/911™ Viasat Premiere
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20884
+#EXTINF:-1,Seychelles/911™ Viasat Series
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/20883
+#EXTINF:-1,Macedonia/911™ MRT 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3696
+#EXTINF:-1,Macedonia/911™ MRT 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3695
+#EXTINF:-1,Macedonia/911™ HBO
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13417
+#EXTINF:-1,Macedonia/911™ HBO2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13416
+#EXTINF:-1,Macedonia/911™ HBO3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13415
+#EXTINF:-1,Macedonia/911™ M1 Film
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13414
+#EXTINF:-1,Macedonia/911™ M2 Film
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13413
+#EXTINF:-1,Macedonia/911™ FOX
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13412
+#EXTINF:-1,Macedonia/911™ FOX Crime
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13409
+#EXTINF:-1,Macedonia/911™ FOX Life
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13410
+#EXTINF:-1,Macedonia/911™ FOX Movies
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13411
+#EXTINF:-1,Macedonia/911™ National Geographic
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13406
+#EXTINF:-1,Macedonia/911™ Discovery
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13408
+#EXTINF:-1,Macedonia/911™ TV 1000
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13404
+#EXTINF:-1,Macedonia/911™ Viasat Nature
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13407
+#EXTINF:-1,Macedonia/911™ MTM Skopje
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13403
+#EXTINF:-1,Macedonia/911™ Nova12 Gevgelija
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13401
+#EXTINF:-1,Macedonia/911™ TV 21 Skopje
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13399
+#EXTINF:-1,Macedonia/911™ TV 24
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13400
+#EXTINF:-1,Macedonia/911™ Vizija Prilep
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13402
+#EXTINF:-1,Macedonia/911™ Alfa TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3694
+#EXTINF:-1,Macedonia/911™ Telma TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3693
+#EXTINF:-1,Macedonia/911™ 24 VESTI
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3962
+#EXTINF:-1,Macedonia/911™ Balkanika Music
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3960
+#EXTINF:-1,Macedonia/911™ ERA TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3956
+#EXTINF:-1,Macedonia/911™ FOLK
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3959
+#EXTINF:-1,Macedonia/911™ Kanal8 Kocani
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/13405
+#EXTINF:-1,Macedonia/911™ KANAL 5 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3964
+#EXTINF:-1,Macedonia/911™ SITEL
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3965
+#EXTINF:-1,Macedonia/911™ SITEL 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3969
+#EXTINF:-1,Macedonia/911™ TV NOVA
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3963
+#EXTINF:-1,Macedonia/911™ TV Plus
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3961
+#EXTINF:-1,Macedonia/911™ TV SONCE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3958
+#EXTINF:-1,Slovenia/911™ SLO-TV1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6463
+#EXTINF:-1,Slovenia/911™ SLO-TV2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6462
+#EXTINF:-1,Slovenia/911™ SLO-TV3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6461
+#EXTINF:-1,Croatia/911™ 24 Kitchen
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6440
+#EXTINF:-1,Croatia/911™ BBC EARTH
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11642
+#EXTINF:-1,Croatia/911™ AXN
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6443
+#EXTINF:-1,Croatia/911™ Baby TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6429
+#EXTINF:-1,Croatia/911™ Boomerang TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6444
+#EXTINF:-1,Croatia/911™ Cartoon Network
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6422
+#EXTINF:-1,Croatia/911™ Cinestar TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6438
+#EXTINF:-1,Croatia/911™ Cinestar Premiere 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11647
+#EXTINF:-1,Croatia/911™ Cinestar Premiere 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11646
+#EXTINF:-1,Croatia/911™ CineStar Action and Thriller
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11644
+#EXTINF:-1,Croatia/911™ Cinestar Fantasy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11645
+#EXTINF:-1,Croatia/911™ CMC TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6458
+#EXTINF:-1,Croatia/911™ CNN
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6446
+#EXTINF:-1,Croatia/911™ Disney
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6428
+#EXTINF:-1,Croatia/911™ Djazz TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6425
+#EXTINF:-1,Croatia/911™ Doma TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6445
+#EXTINF:-1,Croatia/911™ FOX Movies
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11648
+#EXTINF:-1,Croatia/911™ Fox
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6447
+#EXTINF:-1,Croatia/911™ FOX Crime
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6448
+#EXTINF:-1,Croatia/911™ FOX Life
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6439
+#EXTINF:-1,Croatia/911™ CBS Reality
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8123
+#EXTINF:-1,Croatia/911™ Cinemax HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11583
+#EXTINF:-1,Croatia/911™ Cinemax 2 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11582
+#EXTINF:-1,Croatia/911™ HBO HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11585
+#EXTINF:-1,Croatia/911™ HBO 2 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11584
+#EXTINF:-1,Croatia/911™ HBO 3 HD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11586
+#EXTINF:-1,Croatia/911™ E!
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8122
+#EXTINF:-1,Croatia/911™ History Channel
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6452
+#EXTINF:-1,Croatia/911™ History 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6437
+#EXTINF:-1,Croatia/911™ Viasat Explore
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8119
+#EXTINF:-1,Croatia/911™ Viasat History
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8118
+#EXTINF:-1,Croatia/911™ Viasat TV 1000
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11649
+#EXTINF:-1,Croatia/911™ HNTV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6442
+#EXTINF:-1,Croatia/911™ HRT-TV1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6468
+#EXTINF:-1,Croatia/911™ HRT-TV2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6467
+#EXTINF:-1,Croatia/911™ HRT-TV3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6466
+#EXTINF:-1,Croatia/911™ HRT-TV4
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6465
+#EXTINF:-1,Croatia/911™ HRT-TV5
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6464
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1352
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1353
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1354
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT4
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1355
+#EXTINF:-1,Croatia/911™ Jugoton TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6435
+#EXTINF:-1,Croatia/911™ Kino TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8121
+#EXTINF:-1,Croatia/911™ Klasik TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6431
+#EXTINF:-1,Croatia/911™ Lov i ribolov
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6432
+#EXTINF:-1,Croatia/911™ M1 Gold
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11650
+#EXTINF:-1,Croatia/911™ Mini TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6449
+#EXTINF:-1,Croatia/911™ MTV Dance
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6441
+#EXTINF:-1,Croatia/911™ MTV Hits
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6434
+#EXTINF:-1,Croatia/911™ z1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6459
+#EXTINF:-1,Croatia/911™ Nat Geo Channel
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6457
+#EXTINF:-1,Croatia/911™ Nat Geo Wild
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6436
+#EXTINF:-1,Croatia/911™ NickJr
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11643
+#EXTINF:-1,Croatia/911™ Nickelodeon
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6453
+#EXTINF:-1,Croatia/911™ Nova TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6451
+#EXTINF:-1,Croatia/911™ Nova24 TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6421
+#EXTINF:-1,Croatia/911™ Pickbox TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6424
+#EXTINF:-1,Croatia/911™ Posavina TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6460
+#EXTINF:-1,Croatia/911™ RTL
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6427
+#EXTINF:-1,Croatia/911™ RTL Crime
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6454
+#EXTINF:-1,Croatia/911™ RTL Kockica
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6455
+#EXTINF:-1,Croatia/911™ RTL Living
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6456
+#EXTINF:-1,Croatia/911™ RTL Passion
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/11641
+#EXTINF:-1,Croatia/911™ RTL2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6426
+#EXTINF:-1,Croatia/911™ Vavoom
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6423
+#EXTINF:-1,Croatia/911™ VH1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/8120
+#EXTINF:-1,Croatia/911™ VH1 Classic
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6430
+#EXTINF:-1,Croatia/911™ Woman
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/6450
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1345
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1344
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink 3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1571
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Action
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1343
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK BH
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1342
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Classic
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1570
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Comedy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1341
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Crime & Mistery
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1340
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Extra
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1339
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Film
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1338
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Folk 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1337
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Hits
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1569
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Horor
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1335
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Kids
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1334
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Kuvar
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1568
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink M
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1567
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Music
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1566
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Pedia
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1565
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Plus
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1333
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Premium
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1348
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Reality
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1332
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Romance
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1331
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink SCI-FI and Fantasy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1336
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Serije
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1564
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Soap
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1347
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Thriler
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1330
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK World
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1328
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink World Cinema
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1563
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Zabava
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1327
+#EXTINF:-1,Russia*RS*/911™ PINK & ROLL
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19485
+#EXTINF:-1,Russia*RS*/911™ PINK 3 INFO
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19497
+#EXTINF:-1,Russia*RS*/911™ PINK ACTION
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19492
+#EXTINF:-1,Russia*RS*/911™ PINK BH
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19491
+#EXTINF:-1,Russia*RS*/911™ PINK CLASSIC
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19515
+#EXTINF:-1,Russia*RS*/911™ PINK COMEDY
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19506
+#EXTINF:-1,Russia*RS*/911™ PINK CONCERT
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19490
+#EXTINF:-1,Russia*RS*/911™ PINK CRIME
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19489
+#EXTINF:-1,Russia*RS*/911™ PINK EXTRA
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19496
+#EXTINF:-1,Russia*RS*/911™ PINK FAMILY
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19500
+#EXTINF:-1,Russia*RS*/911™ PINK FANTASY
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19493
+#EXTINF:-1,Russia*RS*/911™ PINK FASHION
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19484
+#EXTINF:-1,Russia*RS*/911™ PINK FILM
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19487
+#EXTINF:-1,Russia*RS*/911™ PINK FOLK
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19483
+#EXTINF:-1,Russia*RS*/911™ PINK FOLK 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19482
+#EXTINF:-1,Russia*RS*/911™ PINK HITS 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19498
+#EXTINF:-1,Russia*RS*/911™ PINK HITS 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19499
+#EXTINF:-1,Russia*RS*/911™ PINK HORROR
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19508
+#EXTINF:-1,Russia*RS*/911™ PINK KUVAR
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19480
+#EXTINF:-1,Russia*RS*/911™ PINK M
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19501
+#EXTINF:-1,Russia*RS*/911™ PINK MOVIES
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19507
+#EXTINF:-1,Russia*RS*/911™ PINK MUSIC
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19478
+#EXTINF:-1,Russia*RS*/911™ PINK MUSIC 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19481
+#EXTINF:-1,Russia*RS*/911™ PINK PEDIA
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19513
+#EXTINF:-1,Russia*RS*/911™ PINK PLUS
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19488
+#EXTINF:-1,Russia*RS*/911™ PINK PREMIUM
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19514
+#EXTINF:-1,Russia*RS*/911™ PINK REALITY
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19502
+#EXTINF:-1,Russia*RS*/911™ PINK ROMANCE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19505
+#EXTINF:-1,Russia*RS*/911™ PINK SERIJE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19504
+#EXTINF:-1,Russia*RS*/911™ PINK SHOW
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19494
+#EXTINF:-1,Russia*RS*/911™ PINK SOAP
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19495
+#EXTINF:-1,Russia*RS*/911™ PINK STYLE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19509
+#EXTINF:-1,Russia*RS*/911™ PINK SUPER KIDS
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19510
+#EXTINF:-1,Russia*RS*/911™ PINK THRILLER
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19486
+#EXTINF:-1,Russia*RS*/911™ PINK TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19511
+#EXTINF:-1,Russia*RS*/911™ PINK WESTERN
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19512
+#EXTINF:-1,Russia*RS*/911™ PINK WORLD
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19479
+#EXTINF:-1,Russia*RS*/911™ PINK WORLD CINEMA
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/19503
+#EXTINF:-1,Ex-Yugoslavia/911™ CINESTAR TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3967
+#EXTINF:-1,Ex-Yugoslavia/911™ CINESTAR TV ACTION
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3966
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinestar Premiere 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1356
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinestar Premiere 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1357
+#EXTINF:-1,Russia*RS*/911™ CineStar TV
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21743
+#EXTINF:-1,Russia*RS*/911™ CineStar TV Action
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21744
+#EXTINF:-1,Russia*RS*/911™ CineStar TV Fantasy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21742
+#EXTINF:-1,Ex-Yugoslavia/911™ RTS 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1572
+#EXTINF:-1,Ex-Yugoslavia/911™ RTS 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1573
+#EXTINF:-1,Russia*RS*/911™ RTS 3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21753
+#EXTINF:-1,Russia*RS*/911™ RTS Drama
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21752
+#EXTINF:-1,Russia*RS*/911™ RTS Kolo
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21751
+#EXTINF:-1,Russia*RS*/911™ RTS Muzika
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21748
+#EXTINF:-1,Russia*RS*/911™ RTS Trezor
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21750
+#EXTINF:-1,Russia*RS*/911™ RTS Zivot
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21749
+#EXTINF:-1,Russia*RS*/911™ RTV 1
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21746
+#EXTINF:-1,Russia*RS*/911™ RTV 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21747
+#EXTINF:-1,Russia*RS*/911™ RTV Novi Pazar
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/21745
+#EXTINF:-1,Ex-Yugoslavia/911™ HBO Comedy
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1581
+#EXTINF:-1,Ex-Yugoslavia/911™ HBO Adria
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1580
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinemax 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1575
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinemax
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1574
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/3968
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX MOVIES
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1358
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX CRIME
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1360
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX LIFE
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1359
+#EXTINF:-1,Ex-Yugoslavia/911™ TLC
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1576
+#EXTINF:-1,Ex-Yugoslavia/911™ National Geographic
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1363
+#EXTINF:-1,Ex-Yugoslavia/911™ HISTORY CHANNEL
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1361
+#EXTINF:-1,Ex-Yugoslavia/911™ ANIMAL PLANET
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1362
+#EXTINF:-1,Ex-Yugoslavia/911™ Discovery Channel
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1578
+#EXTINF:-1,Ex-Yugoslavia/911™ CRIME & INVESTIGATION
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1579
+#EXTINF:-1,Ex-Yugoslavia/911™ E!
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1577
+#EXTINF:-1,Ex-Yugoslavia/911™ KCN 2
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1350
+#EXTINF:-1,Ex-Yugoslavia/911™ KCN 3
+http://fast.iptv.dog:80/tFYXpTo8F9/USg2tfYYrN/1351
+
+#EXTINF:-1,Albania/911™ Film Thriller
+http://fast.iptv.cab:80/bade/bade/1300
+#EXTINF:-1,Albania/911™ Film NJE HD
+http://fast.iptv.cab:80/bade/bade/1296
+#EXTINF:-1,Albania/911™ Film Komedi
+http://fast.iptv.cab:80/bade/bade/1299
+#EXTINF:-1,Albania/911™ Film Hits
+http://fast.iptv.cab:80/bade/bade/1301
+#EXTINF:-1,Albania/911™ Film Gold
+http://fast.iptv.cab:80/bade/bade/1304
+#EXTINF:-1,Albania/911™ Film DY HD
+http://fast.iptv.cab:80/bade/bade/1297
+#EXTINF:-1,Albania/911™ Film Drame
+http://fast.iptv.cab:80/bade/bade/1302
+#EXTINF:-1,Albania/911™ Film Autor
+http://fast.iptv.cab:80/bade/bade/1303
+#EXTINF:-1,Albania/911™ Film Aksion
+http://fast.iptv.cab:80/bade/bade/1298
+#EXTINF:-1,Albania/911™ Klan HD
+http://fast.iptv.cab:80/bade/bade/1323
+#EXTINF:-1,Albania/911™ Klan Kosova
+http://fast.iptv.cab:80/bade/bade/1524
+#EXTINF:-1,Albania/911™ RTV 21
+http://fast.iptv.cab:80/bade/bade/2479
+#EXTINF:-1,Albania/911™ KTV HD
+http://fast.iptv.cab:80/bade/bade/2478
+#EXTINF:-1,Albania/911™ RTK 1
+http://fast.iptv.cab:80/bade/bade/1522
+#EXTINF:-1,Albania/911™ RTK 1 FHD
+http://fast.iptv.cab:80/bade/bade/4121
+#EXTINF:-1,Albania/911™ RTSH 1 HD
+http://fast.iptv.cab:80/bade/bade/4132
+#EXTINF:-1,Albania/911™ RTSH 2 HD
+http://fast.iptv.cab:80/bade/bade/4131
+#EXTINF:-1,Albania/911™ RTSH 24
+http://fast.iptv.cab:80/bade/bade/4126
+#EXTINF:-1,Albania/911™ RTSH 3 HD
+http://fast.iptv.cab:80/bade/bade/4130
+#EXTINF:-1,Albania/911™ RTSH Femije
+http://fast.iptv.cab:80/bade/bade/4122
+#EXTINF:-1,Albania/911™ RTSH FILM
+http://fast.iptv.cab:80/bade/bade/4125
+#EXTINF:-1,Albania/911™ RTSH Kuvend
+http://fast.iptv.cab:80/bade/bade/4127
+#EXTINF:-1,Albania/911™ RTSH Muzike
+http://fast.iptv.cab:80/bade/bade/4128
+#EXTINF:-1,Albania/911™ RTSH SHQIP
+http://fast.iptv.cab:80/bade/bade/4124
+#EXTINF:-1,Albania/911™ Vizion Plus
+http://fast.iptv.cab:80/bade/bade/1525
+#EXTINF:-1,Albania/911™ Stinet
+http://fast.iptv.cab:80/bade/bade/1523
+#EXTINF:-1,Albania/911™ Junior TV
+http://fast.iptv.cab:80/bade/bade/1305
+#EXTINF:-1,Albania/911™ Jolly HD
+http://fast.iptv.cab:80/bade/bade/1319
+#EXTINF:-1,Albania/911™ Cufo
+http://fast.iptv.cab:80/bade/bade/1322
+#EXTINF:-1,Albania/911™ T HD
+http://fast.iptv.cab:80/bade/bade/1320
+#EXTINF:-1,Albania/911™ Plus HD
+http://fast.iptv.cab:80/bade/bade/1318
+#EXTINF:-1,Albania/911™ Top Channel HD
+http://fast.iptv.cab:80/bade/bade/1317
+#EXTINF:-1,Albania/911™ Alsat-M HD
+http://fast.iptv.cab:80/bade/bade/1321
+#EXTINF:-1,Albania/911™ Tip TV
+http://fast.iptv.cab:80/bade/bade/1306
+#EXTINF:-1,Albania/911™ Explorer Shkence
+http://fast.iptv.cab:80/bade/bade/1526
+#EXTINF:-1,Albania/911™ Explorer Natyra
+http://fast.iptv.cab:80/bade/bade/1527
+#EXTINF:-1,Albania/911™ Explorer History
+http://fast.iptv.cab:80/bade/bade/1528
+#EXTINF:-1,Albania/911™ Tring World
+http://fast.iptv.cab:80/bade/bade/1309
+#EXTINF:-1,Albania/911™ Tring Tring
+http://fast.iptv.cab:80/bade/bade/1307
+#EXTINF:-1,Albania/911™ Tring Super
+http://fast.iptv.cab:80/bade/bade/1310
+#EXTINF:-1,Albania/911™ Tring Shqip
+http://fast.iptv.cab:80/bade/bade/1314
+#EXTINF:-1,Albania/911™ Tring Planet
+http://fast.iptv.cab:80/bade/bade/1308
+#EXTINF:-1,Albania/911™ Tring Max
+http://fast.iptv.cab:80/bade/bade/1311
+#EXTINF:-1,Albania/911™ Tring Life
+http://fast.iptv.cab:80/bade/bade/1316
+#EXTINF:-1,Albania/911™ Tring Fantasy
+http://fast.iptv.cab:80/bade/bade/1312
+#EXTINF:-1,Albania/911™ Tring Comedy
+http://fast.iptv.cab:80/bade/bade/1313
+#EXTINF:-1,Albania/911™ Tring 3 PLus
+http://fast.iptv.cab:80/bade/bade/1315
+#EXTINF:-1,Albania/911™ LIVING HD
+http://fast.iptv.cab:80/bade/bade/4116
+#EXTINF:-1,Albania/911™ MUSE
+http://fast.iptv.cab:80/bade/bade/4114
+#EXTINF:-1,Albania/911™ SMILE
+http://fast.iptv.cab:80/bade/bade/4113
+#EXTINF:-1,Albania/911™ TEMA TV
+http://fast.iptv.cab:80/bade/bade/4117
+#EXTINF:-1,Albania/911™ Top News
+http://fast.iptv.cab:80/bade/bade/2421
+#EXTINF:-1,Albania/911™ Ora News
+http://fast.iptv.cab:80/bade/bade/2424
+#EXTINF:-1,Albania/911™ News 24
+http://fast.iptv.cab:80/bade/bade/2423
+#EXTINF:-1,Albania/911™ ABC News
+http://fast.iptv.cab:80/bade/bade/2422
+#EXTINF:-1,Seychelles/911™ C More First
+http://fast.iptv.cab:80/bade/bade/20910
+#EXTINF:-1,Seychelles/911™ C MORE HITS
+http://fast.iptv.cab:80/bade/bade/20909
+#EXTINF:-1,Seychelles/911™ C More Series
+http://fast.iptv.cab:80/bade/bade/20908
+#EXTINF:-1,Seychelles/911™ C More Star
+http://fast.iptv.cab:80/bade/bade/20911
+#EXTINF:-1,Seychelles/911™ CANAL 9 DK
+http://fast.iptv.cab:80/bade/bade/20865
+#EXTINF:-1,Seychelles/911™ Disney Channel DK
+http://fast.iptv.cab:80/bade/bade/20871
+#EXTINF:-1,Seychelles/911™ Disney Channel SE
+http://fast.iptv.cab:80/bade/bade/20905
+#EXTINF:-1,Seychelles/911™ Disney XD DK
+http://fast.iptv.cab:80/bade/bade/20885
+#EXTINF:-1,Seychelles/911™ DK4
+http://fast.iptv.cab:80/bade/bade/20899
+#EXTINF:-1,Seychelles/911™ DR K
+http://fast.iptv.cab:80/bade/bade/20863
+#EXTINF:-1,Seychelles/911™ DR Ramasjang
+http://fast.iptv.cab:80/bade/bade/20900
+#EXTINF:-1,Seychelles/911™ DR ULTRA
+http://fast.iptv.cab:80/bade/bade/20864
+#EXTINF:-1,Seychelles/911™ DR1
+http://fast.iptv.cab:80/bade/bade/4084
+#EXTINF:-1,Seychelles/911™ DR2
+http://fast.iptv.cab:80/bade/bade/20907
+#EXTINF:-1,Seychelles/911™ KANAL 11
+http://fast.iptv.cab:80/bade/bade/20870
+#EXTINF:-1,Seychelles/911™ KANAL 4
+http://fast.iptv.cab:80/bade/bade/20866
+#EXTINF:-1,Seychelles/911™ KANAL 5
+http://fast.iptv.cab:80/bade/bade/20867
+#EXTINF:-1,Seychelles/911™ KANAL 9 SE
+http://fast.iptv.cab:80/bade/bade/20868
+#EXTINF:-1,Seychelles/911™ KANAL5 SE
+http://fast.iptv.cab:80/bade/bade/20877
+#EXTINF:-1,Seychelles/911™ NAT GEO WILD
+http://fast.iptv.cab:80/bade/bade/20861
+#EXTINF:-1,Seychelles/911™ NATIONAL GEOGRAPHIC
+http://fast.iptv.cab:80/bade/bade/20862
+#EXTINF:-1,Seychelles/911™ NRK 1
+http://fast.iptv.cab:80/bade/bade/20904
+#EXTINF:-1,Seychelles/911™ NRK 2
+http://fast.iptv.cab:80/bade/bade/20903
+#EXTINF:-1,Seychelles/911™ NRK 3
+http://fast.iptv.cab:80/bade/bade/20875
+#EXTINF:-1,Seychelles/911™ SVT 24 B
+http://fast.iptv.cab:80/bade/bade/20874
+#EXTINF:-1,Seychelles/911™ SVT1
+http://fast.iptv.cab:80/bade/bade/20902
+#EXTINF:-1,Seychelles/911™ SVT2
+http://fast.iptv.cab:80/bade/bade/20901
+#EXTINF:-1,Seychelles/911™ TV10
+http://fast.iptv.cab:80/bade/bade/20886
+#EXTINF:-1,Seychelles/911™ TV12
+http://fast.iptv.cab:80/bade/bade/20869
+#EXTINF:-1,Seychelles/911™ TV2 Charlie
+http://fast.iptv.cab:80/bade/bade/20887
+#EXTINF:-1,Seychelles/911™ TV2 Lorry
+http://fast.iptv.cab:80/bade/bade/20888
+#EXTINF:-1,Seychelles/911™ TV2 News
+http://fast.iptv.cab:80/bade/bade/20889
+#EXTINF:-1,Seychelles/911™ TV2 Nyhetskanalen
+http://fast.iptv.cab:80/bade/bade/20906
+#EXTINF:-1,Seychelles/911™ TV2 Zebra
+http://fast.iptv.cab:80/bade/bade/20873
+#EXTINF:-1,Seychelles/911™ TV2 Zulu
+http://fast.iptv.cab:80/bade/bade/20872
+#EXTINF:-1,Seychelles/911™ TV3 Danmark
+http://fast.iptv.cab:80/bade/bade/20890
+#EXTINF:-1,Seychelles/911™ TV3 Puls
+http://fast.iptv.cab:80/bade/bade/20891
+#EXTINF:-1,Seychelles/911™ TV3 SE
+http://fast.iptv.cab:80/bade/bade/20892
+#EXTINF:-1,Seychelles/911™ TV4
+http://fast.iptv.cab:80/bade/bade/20893
+#EXTINF:-1,Seychelles/911™ TV4 Fakta
+http://fast.iptv.cab:80/bade/bade/20894
+#EXTINF:-1,Seychelles/911™ TV4 Film
+http://fast.iptv.cab:80/bade/bade/20895
+#EXTINF:-1,Seychelles/911™ TV4 Gold
+http://fast.iptv.cab:80/bade/bade/20896
+#EXTINF:-1,Seychelles/911™ TV4 Komedi
+http://fast.iptv.cab:80/bade/bade/20897
+#EXTINF:-1,Seychelles/911™ TV6 SE
+http://fast.iptv.cab:80/bade/bade/20878
+#EXTINF:-1,Seychelles/911™ TV8 SE
+http://fast.iptv.cab:80/bade/bade/20876
+#EXTINF:-1,Seychelles/911™ Viasat 4 Norway
+http://fast.iptv.cab:80/bade/bade/20898
+#EXTINF:-1,Seychelles/911™ Viasat Action
+http://fast.iptv.cab:80/bade/bade/20881
+#EXTINF:-1,Seychelles/911™ Viasat Comedy
+http://fast.iptv.cab:80/bade/bade/20880
+#EXTINF:-1,Seychelles/911™ Viasat Family
+http://fast.iptv.cab:80/bade/bade/20879
+#EXTINF:-1,Seychelles/911™ Viasat Hits
+http://fast.iptv.cab:80/bade/bade/20882
+#EXTINF:-1,Seychelles/911™ Viasat Premiere
+http://fast.iptv.cab:80/bade/bade/20884
+#EXTINF:-1,Seychelles/911™ Viasat Series
+http://fast.iptv.cab:80/bade/bade/20883
+#EXTINF:-1,Macedonia/911™ MRT 1
+http://fast.iptv.cab:80/bade/bade/3696
+#EXTINF:-1,Macedonia/911™ MRT 2
+http://fast.iptv.cab:80/bade/bade/3695
+#EXTINF:-1,Macedonia/911™ HBO
+http://fast.iptv.cab:80/bade/bade/13417
+#EXTINF:-1,Macedonia/911™ HBO2
+http://fast.iptv.cab:80/bade/bade/13416
+#EXTINF:-1,Macedonia/911™ HBO3
+http://fast.iptv.cab:80/bade/bade/13415
+#EXTINF:-1,Macedonia/911™ M1 Film
+http://fast.iptv.cab:80/bade/bade/13414
+#EXTINF:-1,Macedonia/911™ M2 Film
+http://fast.iptv.cab:80/bade/bade/13413
+#EXTINF:-1,Macedonia/911™ FOX
+http://fast.iptv.cab:80/bade/bade/13412
+#EXTINF:-1,Macedonia/911™ FOX Crime
+http://fast.iptv.cab:80/bade/bade/13409
+#EXTINF:-1,Macedonia/911™ FOX Life
+http://fast.iptv.cab:80/bade/bade/13410
+#EXTINF:-1,Macedonia/911™ FOX Movies
+http://fast.iptv.cab:80/bade/bade/13411
+#EXTINF:-1,Macedonia/911™ National Geographic
+http://fast.iptv.cab:80/bade/bade/13406
+#EXTINF:-1,Macedonia/911™ Discovery
+http://fast.iptv.cab:80/bade/bade/13408
+#EXTINF:-1,Macedonia/911™ TV 1000
+http://fast.iptv.cab:80/bade/bade/13404
+#EXTINF:-1,Macedonia/911™ Viasat Nature
+http://fast.iptv.cab:80/bade/bade/13407
+#EXTINF:-1,Macedonia/911™ MTM Skopje
+http://fast.iptv.cab:80/bade/bade/13403
+#EXTINF:-1,Macedonia/911™ Nova12 Gevgelija
+http://fast.iptv.cab:80/bade/bade/13401
+#EXTINF:-1,Macedonia/911™ TV 21 Skopje
+http://fast.iptv.cab:80/bade/bade/13399
+#EXTINF:-1,Macedonia/911™ TV 24
+http://fast.iptv.cab:80/bade/bade/13400
+#EXTINF:-1,Macedonia/911™ Vizija Prilep
+http://fast.iptv.cab:80/bade/bade/13402
+#EXTINF:-1,Macedonia/911™ Alfa TV
+http://fast.iptv.cab:80/bade/bade/3694
+#EXTINF:-1,Macedonia/911™ Telma TV
+http://fast.iptv.cab:80/bade/bade/3693
+#EXTINF:-1,Macedonia/911™ 24 VESTI
+http://fast.iptv.cab:80/bade/bade/3962
+#EXTINF:-1,Macedonia/911™ Balkanika Music
+http://fast.iptv.cab:80/bade/bade/3960
+#EXTINF:-1,Macedonia/911™ ERA TV
+http://fast.iptv.cab:80/bade/bade/3956
+#EXTINF:-1,Macedonia/911™ FOLK
+http://fast.iptv.cab:80/bade/bade/3959
+#EXTINF:-1,Macedonia/911™ Kanal8 Kocani
+http://fast.iptv.cab:80/bade/bade/13405
+#EXTINF:-1,Macedonia/911™ KANAL 5 HD
+http://fast.iptv.cab:80/bade/bade/3964
+#EXTINF:-1,Macedonia/911™ SITEL
+http://fast.iptv.cab:80/bade/bade/3965
+#EXTINF:-1,Macedonia/911™ SITEL 2
+http://fast.iptv.cab:80/bade/bade/3969
+#EXTINF:-1,Macedonia/911™ TV NOVA
+http://fast.iptv.cab:80/bade/bade/3963
+#EXTINF:-1,Macedonia/911™ TV Plus
+http://fast.iptv.cab:80/bade/bade/3961
+#EXTINF:-1,Macedonia/911™ TV SONCE
+http://fast.iptv.cab:80/bade/bade/3958
+#EXTINF:-1,Slovenia/911™ SLO-TV1
+http://fast.iptv.cab:80/bade/bade/6463
+#EXTINF:-1,Slovenia/911™ SLO-TV2
+http://fast.iptv.cab:80/bade/bade/6462
+#EXTINF:-1,Slovenia/911™ SLO-TV3
+http://fast.iptv.cab:80/bade/bade/6461
+#EXTINF:-1,Croatia/911™ 24 Kitchen
+http://fast.iptv.cab:80/bade/bade/6440
+#EXTINF:-1,Croatia/911™ BBC EARTH
+http://fast.iptv.cab:80/bade/bade/11642
+#EXTINF:-1,Croatia/911™ AXN
+http://fast.iptv.cab:80/bade/bade/6443
+#EXTINF:-1,Croatia/911™ Baby TV
+http://fast.iptv.cab:80/bade/bade/6429
+#EXTINF:-1,Croatia/911™ Boomerang TV
+http://fast.iptv.cab:80/bade/bade/6444
+#EXTINF:-1,Croatia/911™ Cartoon Network
+http://fast.iptv.cab:80/bade/bade/6422
+#EXTINF:-1,Croatia/911™ Cinestar TV
+http://fast.iptv.cab:80/bade/bade/6438
+#EXTINF:-1,Croatia/911™ Cinestar Premiere 1
+http://fast.iptv.cab:80/bade/bade/11647
+#EXTINF:-1,Croatia/911™ Cinestar Premiere 2
+http://fast.iptv.cab:80/bade/bade/11646
+#EXTINF:-1,Croatia/911™ CineStar Action and Thriller
+http://fast.iptv.cab:80/bade/bade/11644
+#EXTINF:-1,Croatia/911™ Cinestar Fantasy
+http://fast.iptv.cab:80/bade/bade/11645
+#EXTINF:-1,Croatia/911™ CMC TV
+http://fast.iptv.cab:80/bade/bade/6458
+#EXTINF:-1,Croatia/911™ CNN
+http://fast.iptv.cab:80/bade/bade/6446
+#EXTINF:-1,Croatia/911™ Disney
+http://fast.iptv.cab:80/bade/bade/6428
+#EXTINF:-1,Croatia/911™ Djazz TV
+http://fast.iptv.cab:80/bade/bade/6425
+#EXTINF:-1,Croatia/911™ Doma TV
+http://fast.iptv.cab:80/bade/bade/6445
+#EXTINF:-1,Croatia/911™ FOX Movies
+http://fast.iptv.cab:80/bade/bade/11648
+#EXTINF:-1,Croatia/911™ Fox
+http://fast.iptv.cab:80/bade/bade/6447
+#EXTINF:-1,Croatia/911™ FOX Crime
+http://fast.iptv.cab:80/bade/bade/6448
+#EXTINF:-1,Croatia/911™ FOX Life
+http://fast.iptv.cab:80/bade/bade/6439
+#EXTINF:-1,Croatia/911™ CBS Reality
+http://fast.iptv.cab:80/bade/bade/8123
+#EXTINF:-1,Croatia/911™ Cinemax HD
+http://fast.iptv.cab:80/bade/bade/11583
+#EXTINF:-1,Croatia/911™ Cinemax 2 HD
+http://fast.iptv.cab:80/bade/bade/11582
+#EXTINF:-1,Croatia/911™ HBO HD
+http://fast.iptv.cab:80/bade/bade/11585
+#EXTINF:-1,Croatia/911™ HBO 2 HD
+http://fast.iptv.cab:80/bade/bade/11584
+#EXTINF:-1,Croatia/911™ HBO 3 HD
+http://fast.iptv.cab:80/bade/bade/11586
+#EXTINF:-1,Croatia/911™ E!
+http://fast.iptv.cab:80/bade/bade/8122
+#EXTINF:-1,Croatia/911™ History Channel
+http://fast.iptv.cab:80/bade/bade/6452
+#EXTINF:-1,Croatia/911™ History 2
+http://fast.iptv.cab:80/bade/bade/6437
+#EXTINF:-1,Croatia/911™ Viasat Explore
+http://fast.iptv.cab:80/bade/bade/8119
+#EXTINF:-1,Croatia/911™ Viasat History
+http://fast.iptv.cab:80/bade/bade/8118
+#EXTINF:-1,Croatia/911™ Viasat TV 1000
+http://fast.iptv.cab:80/bade/bade/11649
+#EXTINF:-1,Croatia/911™ HNTV
+http://fast.iptv.cab:80/bade/bade/6442
+#EXTINF:-1,Croatia/911™ HRT-TV1
+http://fast.iptv.cab:80/bade/bade/6468
+#EXTINF:-1,Croatia/911™ HRT-TV2
+http://fast.iptv.cab:80/bade/bade/6467
+#EXTINF:-1,Croatia/911™ HRT-TV3
+http://fast.iptv.cab:80/bade/bade/6466
+#EXTINF:-1,Croatia/911™ HRT-TV4
+http://fast.iptv.cab:80/bade/bade/6465
+#EXTINF:-1,Croatia/911™ HRT-TV5
+http://fast.iptv.cab:80/bade/bade/6464
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT1
+http://fast.iptv.cab:80/bade/bade/1352
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT2
+http://fast.iptv.cab:80/bade/bade/1353
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT3
+http://fast.iptv.cab:80/bade/bade/1354
+#EXTINF:-1,Ex-Yugoslavia/911™ HRT4
+http://fast.iptv.cab:80/bade/bade/1355
+#EXTINF:-1,Croatia/911™ Jugoton TV
+http://fast.iptv.cab:80/bade/bade/6435
+#EXTINF:-1,Croatia/911™ Kino TV
+http://fast.iptv.cab:80/bade/bade/8121
+#EXTINF:-1,Croatia/911™ Klasik TV
+http://fast.iptv.cab:80/bade/bade/6431
+#EXTINF:-1,Croatia/911™ Lov i ribolov
+http://fast.iptv.cab:80/bade/bade/6432
+#EXTINF:-1,Croatia/911™ M1 Gold
+http://fast.iptv.cab:80/bade/bade/11650
+#EXTINF:-1,Croatia/911™ Mini TV
+http://fast.iptv.cab:80/bade/bade/6449
+#EXTINF:-1,Croatia/911™ MTV Dance
+http://fast.iptv.cab:80/bade/bade/6441
+#EXTINF:-1,Croatia/911™ MTV Hits
+http://fast.iptv.cab:80/bade/bade/6434
+#EXTINF:-1,Croatia/911™ z1
+http://fast.iptv.cab:80/bade/bade/6459
+#EXTINF:-1,Croatia/911™ Nat Geo Channel
+http://fast.iptv.cab:80/bade/bade/6457
+#EXTINF:-1,Croatia/911™ Nat Geo Wild
+http://fast.iptv.cab:80/bade/bade/6436
+#EXTINF:-1,Croatia/911™ NickJr
+http://fast.iptv.cab:80/bade/bade/11643
+#EXTINF:-1,Croatia/911™ Nickelodeon
+http://fast.iptv.cab:80/bade/bade/6453
+#EXTINF:-1,Croatia/911™ Nova TV
+http://fast.iptv.cab:80/bade/bade/6451
+#EXTINF:-1,Croatia/911™ Nova24 TV
+http://fast.iptv.cab:80/bade/bade/6421
+#EXTINF:-1,Croatia/911™ Pickbox TV
+http://fast.iptv.cab:80/bade/bade/6424
+#EXTINF:-1,Croatia/911™ Posavina TV
+http://fast.iptv.cab:80/bade/bade/6460
+#EXTINF:-1,Croatia/911™ RTL
+http://fast.iptv.cab:80/bade/bade/6427
+#EXTINF:-1,Croatia/911™ RTL Crime
+http://fast.iptv.cab:80/bade/bade/6454
+#EXTINF:-1,Croatia/911™ RTL Kockica
+http://fast.iptv.cab:80/bade/bade/6455
+#EXTINF:-1,Croatia/911™ RTL Living
+http://fast.iptv.cab:80/bade/bade/6456
+#EXTINF:-1,Croatia/911™ RTL Passion
+http://fast.iptv.cab:80/bade/bade/11641
+#EXTINF:-1,Croatia/911™ RTL2
+http://fast.iptv.cab:80/bade/bade/6426
+#EXTINF:-1,Croatia/911™ Vavoom
+http://fast.iptv.cab:80/bade/bade/6423
+#EXTINF:-1,Croatia/911™ VH1
+http://fast.iptv.cab:80/bade/bade/8120
+#EXTINF:-1,Croatia/911™ VH1 Classic
+http://fast.iptv.cab:80/bade/bade/6430
+#EXTINF:-1,Croatia/911™ Woman
+http://fast.iptv.cab:80/bade/bade/6450
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK 1
+http://fast.iptv.cab:80/bade/bade/1345
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK 2
+http://fast.iptv.cab:80/bade/bade/1344
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink 3
+http://fast.iptv.cab:80/bade/bade/1571
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Action
+http://fast.iptv.cab:80/bade/bade/1343
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK BH
+http://fast.iptv.cab:80/bade/bade/1342
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Classic
+http://fast.iptv.cab:80/bade/bade/1570
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Comedy
+http://fast.iptv.cab:80/bade/bade/1341
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Crime & Mistery
+http://fast.iptv.cab:80/bade/bade/1340
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Extra
+http://fast.iptv.cab:80/bade/bade/1339
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Film
+http://fast.iptv.cab:80/bade/bade/1338
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Folk 1
+http://fast.iptv.cab:80/bade/bade/1337
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Hits
+http://fast.iptv.cab:80/bade/bade/1569
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Horor
+http://fast.iptv.cab:80/bade/bade/1335
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Kids
+http://fast.iptv.cab:80/bade/bade/1334
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Kuvar
+http://fast.iptv.cab:80/bade/bade/1568
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink M
+http://fast.iptv.cab:80/bade/bade/1567
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Music
+http://fast.iptv.cab:80/bade/bade/1566
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Pedia
+http://fast.iptv.cab:80/bade/bade/1565
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Plus
+http://fast.iptv.cab:80/bade/bade/1333
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Premium
+http://fast.iptv.cab:80/bade/bade/1348
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Reality
+http://fast.iptv.cab:80/bade/bade/1332
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Romance
+http://fast.iptv.cab:80/bade/bade/1331
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink SCI-FI and Fantasy
+http://fast.iptv.cab:80/bade/bade/1336
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink Serije
+http://fast.iptv.cab:80/bade/bade/1564
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Soap
+http://fast.iptv.cab:80/bade/bade/1347
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Thriler
+http://fast.iptv.cab:80/bade/bade/1330
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK World
+http://fast.iptv.cab:80/bade/bade/1328
+#EXTINF:-1,Ex-Yugoslavia/911™ Pink World Cinema
+http://fast.iptv.cab:80/bade/bade/1563
+#EXTINF:-1,Ex-Yugoslavia/911™ PINK Zabava
+http://fast.iptv.cab:80/bade/bade/1327
+#EXTINF:-1,Russia/911™ PINK & ROLL
+http://fast.iptv.cab:80/bade/bade/19485
+#EXTINF:-1,Russia/911™ PINK 3 INFO
+http://fast.iptv.cab:80/bade/bade/19497
+#EXTINF:-1,Russia/911™ PINK ACTION
+http://fast.iptv.cab:80/bade/bade/19492
+#EXTINF:-1,Russia/911™ PINK BH
+http://fast.iptv.cab:80/bade/bade/19491
+#EXTINF:-1,Russia/911™ PINK CLASSIC
+http://fast.iptv.cab:80/bade/bade/19515
+#EXTINF:-1,Russia/911™ PINK COMEDY
+http://fast.iptv.cab:80/bade/bade/19506
+#EXTINF:-1,Russia/911™ PINK CONCERT
+http://fast.iptv.cab:80/bade/bade/19490
+#EXTINF:-1,Russia/911™ PINK CRIME
+http://fast.iptv.cab:80/bade/bade/19489
+#EXTINF:-1,Russia/911™ PINK EXTRA
+http://fast.iptv.cab:80/bade/bade/19496
+#EXTINF:-1,Russia/911™ PINK FAMILY
+http://fast.iptv.cab:80/bade/bade/19500
+#EXTINF:-1,Russia/911™ PINK FANTASY
+http://fast.iptv.cab:80/bade/bade/19493
+#EXTINF:-1,Russia/911™ PINK FASHION
+http://fast.iptv.cab:80/bade/bade/19484
+#EXTINF:-1,Russia/911™ PINK FILM
+http://fast.iptv.cab:80/bade/bade/19487
+#EXTINF:-1,Russia/911™ PINK FOLK
+http://fast.iptv.cab:80/bade/bade/19483
+#EXTINF:-1,Russia/911™ PINK FOLK 2
+http://fast.iptv.cab:80/bade/bade/19482
+#EXTINF:-1,Russia/911™ PINK HITS 1
+http://fast.iptv.cab:80/bade/bade/19498
+#EXTINF:-1,Russia/911™ PINK HITS 2
+http://fast.iptv.cab:80/bade/bade/19499
+#EXTINF:-1,Russia/911™ PINK HORROR
+http://fast.iptv.cab:80/bade/bade/19508
+#EXTINF:-1,Russia/911™ PINK KUVAR
+http://fast.iptv.cab:80/bade/bade/19480
+#EXTINF:-1,Russia/911™ PINK M
+http://fast.iptv.cab:80/bade/bade/19501
+#EXTINF:-1,Russia/911™ PINK MOVIES
+http://fast.iptv.cab:80/bade/bade/19507
+#EXTINF:-1,Russia/911™ PINK MUSIC
+http://fast.iptv.cab:80/bade/bade/19478
+#EXTINF:-1,Russia/911™ PINK MUSIC 2
+http://fast.iptv.cab:80/bade/bade/19481
+#EXTINF:-1,Russia/911™ PINK PEDIA
+http://fast.iptv.cab:80/bade/bade/19513
+#EXTINF:-1,Russia/911™ PINK PLUS
+http://fast.iptv.cab:80/bade/bade/19488
+#EXTINF:-1,Russia/911™ PINK PREMIUM
+http://fast.iptv.cab:80/bade/bade/19514
+#EXTINF:-1,Russia/911™ PINK REALITY
+http://fast.iptv.cab:80/bade/bade/19502
+#EXTINF:-1,Russia/911™ PINK ROMANCE
+http://fast.iptv.cab:80/bade/bade/19505
+#EXTINF:-1,Russia/911™ PINK SERIJE
+http://fast.iptv.cab:80/bade/bade/19504
+#EXTINF:-1,Russia/911™ PINK SHOW
+http://fast.iptv.cab:80/bade/bade/19494
+#EXTINF:-1,Russia/911™ PINK SOAP
+http://fast.iptv.cab:80/bade/bade/19495
+#EXTINF:-1,Russia/911™ PINK STYLE
+http://fast.iptv.cab:80/bade/bade/19509
+#EXTINF:-1,Russia/911™ PINK SUPER KIDS
+http://fast.iptv.cab:80/bade/bade/19510
+#EXTINF:-1,Russia/911™ PINK THRILLER
+http://fast.iptv.cab:80/bade/bade/19486
+#EXTINF:-1,Russia/911™ PINK TV
+http://fast.iptv.cab:80/bade/bade/19511
+#EXTINF:-1,Russia/911™ PINK WESTERN
+http://fast.iptv.cab:80/bade/bade/19512
+#EXTINF:-1,Russia/911™ PINK WORLD
+http://fast.iptv.cab:80/bade/bade/19479
+#EXTINF:-1,Russia/911™ PINK WORLD CINEMA
+http://fast.iptv.cab:80/bade/bade/19503
+#EXTINF:-1,Ex-Yugoslavia/911™ CINESTAR TV
+http://fast.iptv.cab:80/bade/bade/3967
+#EXTINF:-1,Ex-Yugoslavia/911™ CINESTAR TV ACTION
+http://fast.iptv.cab:80/bade/bade/3966
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinestar Premiere 1
+http://fast.iptv.cab:80/bade/bade/1356
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinestar Premiere 2
+http://fast.iptv.cab:80/bade/bade/1357
+#EXTINF:-1,Russia/911™ CineStar TV
+http://fast.iptv.cab:80/bade/bade/21743
+#EXTINF:-1,Russia/911™ CineStar TV Action
+http://fast.iptv.cab:80/bade/bade/21744
+#EXTINF:-1,Russia/911™ CineStar TV Fantasy
+http://fast.iptv.cab:80/bade/bade/21742
+#EXTINF:-1,Ex-Yugoslavia/911™ RTS 1
+http://fast.iptv.cab:80/bade/bade/1572
+#EXTINF:-1,Ex-Yugoslavia/911™ RTS 2
+http://fast.iptv.cab:80/bade/bade/1573
+#EXTINF:-1,Russia/911™ RTS 3
+http://fast.iptv.cab:80/bade/bade/21753
+#EXTINF:-1,Russia/911™ RTS Drama
+http://fast.iptv.cab:80/bade/bade/21752
+#EXTINF:-1,Russia/911™ RTS Kolo
+http://fast.iptv.cab:80/bade/bade/21751
+#EXTINF:-1,Russia/911™ RTS Muzika
+http://fast.iptv.cab:80/bade/bade/21748
+#EXTINF:-1,Russia/911™ RTS Trezor
+http://fast.iptv.cab:80/bade/bade/21750
+#EXTINF:-1,Russia/911™ RTS Zivot
+http://fast.iptv.cab:80/bade/bade/21749
+#EXTINF:-1,Russia/911™ RTV 1
+http://fast.iptv.cab:80/bade/bade/21746
+#EXTINF:-1,Russia/911™ RTV 2
+http://fast.iptv.cab:80/bade/bade/21747
+#EXTINF:-1,Russia/911™ RTV Novi Pazar
+http://fast.iptv.cab:80/bade/bade/21745
+#EXTINF:-1,Ex-Yugoslavia/911™ HBO Comedy
+http://fast.iptv.cab:80/bade/bade/1581
+#EXTINF:-1,Ex-Yugoslavia/911™ HBO Adria
+http://fast.iptv.cab:80/bade/bade/1580
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinemax 2
+http://fast.iptv.cab:80/bade/bade/1575
+#EXTINF:-1,Ex-Yugoslavia/911™ Cinemax
+http://fast.iptv.cab:80/bade/bade/1574
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX
+http://fast.iptv.cab:80/bade/bade/3968
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX MOVIES
+http://fast.iptv.cab:80/bade/bade/1358
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX CRIME
+http://fast.iptv.cab:80/bade/bade/1360
+#EXTINF:-1,Ex-Yugoslavia/911™ FOX LIFE
+http://fast.iptv.cab:80/bade/bade/1359
+#EXTINF:-1,Ex-Yugoslavia/911™ TLC
+http://fast.iptv.cab:80/bade/bade/1576
+#EXTINF:-1,Ex-Yugoslavia/911™ National Geographic
+http://fast.iptv.cab:80/bade/bade/1363
+#EXTINF:-1,Ex-Yugoslavia/911™ HISTORY CHANNEL
+http://fast.iptv.cab:80/bade/bade/1361
+#EXTINF:-1,Ex-Yugoslavia/911™ ANIMAL PLANET
+http://fast.iptv.cab:80/bade/bade/1362
+#EXTINF:-1,Ex-Yugoslavia/911™ Discovery Channel
+http://fast.iptv.cab:80/bade/bade/1578
+#EXTINF:-1,Ex-Yugoslavia/911™ CRIME & INVESTIGATION
+http://fast.iptv.cab:80/bade/bade/1579
+#EXTINF:-1,Ex-Yugoslavia/911™ E!
+http://fast.iptv.cab:80/bade/bade/1577
+#EXTINF:-1,Ex-Yugoslavia/911™ KCN 2
+http://fast.iptv.cab:80/bade/bade/1350
+#EXTINF:-1,Ex-Yugoslavia/911™ KCN 3
+http://fast.iptv.cab:80/bade/bade/1351
+
+
+
+
+
+#EXTINF:-1,Albania/911™ Film Thriller
+http://fast.iptv.cab:80/sonoiki/sonoiki/1300
+#EXTINF:-1,Albania/911™ Film NJE HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1296
+#EXTINF:-1,Albania/911™ Film Komedi
+http://fast.iptv.cab:80/sonoiki/sonoiki/1299
+#EXTINF:-1,Albania/911™ Film Hits
+http://fast.iptv.cab:80/sonoiki/sonoiki/1301
+#EXTINF:-1,Albania/911™ Film Gold
+http://fast.iptv.cab:80/sonoiki/sonoiki/1304
+#EXTINF:-1,Albania/911™ Film DY HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1297
+#EXTINF:-1,Albania/911™ Film Drame
+http://fast.iptv.cab:80/sonoiki/sonoiki/1302
+#EXTINF:-1,Albania/911™ Film Autor
+http://fast.iptv.cab:80/sonoiki/sonoiki/1303
+#EXTINF:-1,Albania/911™ Film Aksion
+http://fast.iptv.cab:80/sonoiki/sonoiki/1298
+#EXTINF:-1,Albania/911™ Klan HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1323
+#EXTINF:-1,Albania/911™ Klan Kosova
+http://fast.iptv.cab:80/sonoiki/sonoiki/1524
+#EXTINF:-1,Albania/911™ RTV 21
+http://fast.iptv.cab:80/sonoiki/sonoiki/2479
+#EXTINF:-1,Albania/911™ KTV HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/2478
+#EXTINF:-1,Albania/911™ RTK 1
+http://fast.iptv.cab:80/sonoiki/sonoiki/1522
+#EXTINF:-1,Albania/911™ RTK 1 FHD
+http://fast.iptv.cab:80/sonoiki/sonoiki/4121
+#EXTINF:-1,Albania/911™ RTSH 1 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/4132
+#EXTINF:-1,Albania/911™ RTSH 2 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/4131
+#EXTINF:-1,Albania/911™ RTSH 24
+http://fast.iptv.cab:80/sonoiki/sonoiki/4126
+#EXTINF:-1,Albania/911™ RTSH 3 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/4130
+#EXTINF:-1,Albania/911™ RTSH Femije
+http://fast.iptv.cab:80/sonoiki/sonoiki/4122
+#EXTINF:-1,Albania/911™ RTSH FILM
+http://fast.iptv.cab:80/sonoiki/sonoiki/4125
+#EXTINF:-1,Albania/911™ RTSH Kuvend
+http://fast.iptv.cab:80/sonoiki/sonoiki/4127
+#EXTINF:-1,Albania/911™ RTSH Muzike
+http://fast.iptv.cab:80/sonoiki/sonoiki/4128
+#EXTINF:-1,Albania/911™ RTSH SHQIP
+http://fast.iptv.cab:80/sonoiki/sonoiki/4124
+#EXTINF:-1,Albania/911™ Vizion Plus
+http://fast.iptv.cab:80/sonoiki/sonoiki/1525
+#EXTINF:-1,Albania/911™ Stinet
+http://fast.iptv.cab:80/sonoiki/sonoiki/1523
+#EXTINF:-1,Albania/911™ Junior TV
+http://fast.iptv.cab:80/sonoiki/sonoiki/1305
+#EXTINF:-1,Albania/911™ Jolly HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1319
+#EXTINF:-1,Albania/911™ Cufo
+http://fast.iptv.cab:80/sonoiki/sonoiki/1322
+#EXTINF:-1,Albania/911™ T HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1320
+#EXTINF:-1,Albania/911™ Plus HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1318
+#EXTINF:-1,Albania/911™ Top Channel HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1317
+#EXTINF:-1,Albania/911™ Alsat-M HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1321
+#EXTINF:-1,Albania/911™ Tip TV
+http://fast.iptv.cab:80/sonoiki/sonoiki/1306
+#EXTINF:-1,Albania/911™ Explorer Shkence
+http://fast.iptv.cab:80/sonoiki/sonoiki/1526
+#EXTINF:-1,Albania/911™ Explorer Natyra
+http://fast.iptv.cab:80/sonoiki/sonoiki/1527
+#EXTINF:-1,Albania/911™ Explorer History
+http://fast.iptv.cab:80/sonoiki/sonoiki/1528
+#EXTINF:-1,Albania/911™ Tring World
+http://fast.iptv.cab:80/sonoiki/sonoiki/1309
+#EXTINF:-1,Albania/911™ Tring Tring
+http://fast.iptv.cab:80/sonoiki/sonoiki/1307
+#EXTINF:-1,Albania/911™ Tring Super
+http://fast.iptv.cab:80/sonoiki/sonoiki/1310
+#EXTINF:-1,Albania/911™ Tring Shqip
+http://fast.iptv.cab:80/sonoiki/sonoiki/1314
+#EXTINF:-1,Albania/911™ Tring Planet
+http://fast.iptv.cab:80/sonoiki/sonoiki/1308
+#EXTINF:-1,Albania/911™ Tring Max
+http://fast.iptv.cab:80/sonoiki/sonoiki/1311
+#EXTINF:-1,Albania/911™ Tring Life
+http://fast.iptv.cab:80/sonoiki/sonoiki/1316
+#EXTINF:-1,Albania/911™ Tring Fantasy
+http://fast.iptv.cab:80/sonoiki/sonoiki/1312
+#EXTINF:-1,Albania/911™ Tring Comedy
+http://fast.iptv.cab:80/sonoiki/sonoiki/1313
+#EXTINF:-1,Albania/911™ Tring 3 PLus
+http://fast.iptv.cab:80/sonoiki/sonoiki/1315
+#EXTINF:-1,Albania/911™ LIVING HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/4116
+#EXTINF:-1,Albania/911™ MUSE
+http://fast.iptv.cab:80/sonoiki/sonoiki/4114
+#EXTINF:-1,Albania/911™ SMILE
+http://fast.iptv.cab:80/sonoiki/sonoiki/4113
+#EXTINF:-1,Albania/911™ TEMA TV
+http://fast.iptv.cab:80/sonoiki/sonoiki/4117
+#EXTINF:-1,Albania/911™ Top News
+http://fast.iptv.cab:80/sonoiki/sonoiki/2421
+#EXTINF:-1,Albania/911™ Ora News
+http://fast.iptv.cab:80/sonoiki/sonoiki/2424
+#EXTINF:-1,Albania/911™ News 24
+http://fast.iptv.cab:80/sonoiki/sonoiki/2423
+#EXTINF:-1,Albania/911™ ABC News
+http://fast.iptv.cab:80/sonoiki/sonoiki/2422
+#EXTINF:-1,Romania/911™ TVR 1
+http://fast.iptv.cab:80/sonoiki/sonoiki/1390
+#EXTINF:-1,Romania/911™ TVR 2
+http://fast.iptv.cab:80/sonoiki/sonoiki/1391
+#EXTINF:-1,Romania/911™ TVR 3
+http://fast.iptv.cab:80/sonoiki/sonoiki/1392
+#EXTINF:-1,Romania/911™ TV1000
+http://fast.iptv.cab:80/sonoiki/sonoiki/1393
+#EXTINF:-1,Romania/911™ Antena 1 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/2287
+#EXTINF:-1,Romania/911™ Antena 3 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/1396
+#EXTINF:-1,Romania/911™ Antena Stars HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/2300
+#EXTINF:-1,Romania/911™ Happy Channel
+http://fast.iptv.cab:80/sonoiki/sonoiki/2288
+#EXTINF:-1,Romania/911™ Megamax
+http://fast.iptv.cab:80/sonoiki/sonoiki/1408
+#EXTINF:-1,Romania/911™ PRO TV
+http://fast.iptv.cab:80/sonoiki/sonoiki/1407
+#EXTINF:-1,Romania/911™ Pro 2 HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21804
+#EXTINF:-1,Romania/911™ PRO-X HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21803
+#EXTINF:-1,Romania/911™ Pro Gold
+http://fast.iptv.cab:80/sonoiki/sonoiki/21802
+#EXTINF:-1,Romania/911™ Pro Cinema
+http://fast.iptv.cab:80/sonoiki/sonoiki/2296
+#EXTINF:-1,Romania/911™ HBO
+http://fast.iptv.cab:80/sonoiki/sonoiki/2291
+#EXTINF:-1,Romania/911™ HBO 2
+http://fast.iptv.cab:80/sonoiki/sonoiki/2292
+#EXTINF:-1,Romania/911™ HBO 3
+http://fast.iptv.cab:80/sonoiki/sonoiki/2293
+#EXTINF:-1,Romania/911™ TNT
+http://fast.iptv.cab:80/sonoiki/sonoiki/2294
+#EXTINF:-1,Romania/911™ Kanal D HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/2286
+#EXTINF:-1,Romania/911™ Cinemax 2
+http://fast.iptv.cab:80/sonoiki/sonoiki/2290
+#EXTINF:-1,Romania/911™ Cinemax
+http://fast.iptv.cab:80/sonoiki/sonoiki/2289
+#EXTINF:-1,Romania/911™ Bollywood HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21799
+#EXTINF:-1,Romania/911™ Epic Drama HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21801
+#EXTINF:-1,Romania/911™ FightBox HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21806
+#EXTINF:-1,Romania/911™ FilmBox Extra HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21805
+#EXTINF:-1,Romania/911™ Digi World
+http://fast.iptv.cab:80/sonoiki/sonoiki/1387
+#EXTINF:-1,Romania/911™ Digi Life
+http://fast.iptv.cab:80/sonoiki/sonoiki/1388
+#EXTINF:-1,Romania/911™ Digi Animal World
+http://fast.iptv.cab:80/sonoiki/sonoiki/1389
+#EXTINF:-1,Romania/911™ Digi 24
+http://fast.iptv.cab:80/sonoiki/sonoiki/1386
+#EXTINF:-1,Romania/911™ BBC Earth HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21796
+#EXTINF:-1,Romania/911™ AXN
+http://fast.iptv.cab:80/sonoiki/sonoiki/1394
+#EXTINF:-1,Romania/911™ Axn White
+http://fast.iptv.cab:80/sonoiki/sonoiki/1395
+#EXTINF:-1,Romania/911™ AXN Black
+http://fast.iptv.cab:80/sonoiki/sonoiki/21787
+#EXTINF:-1,Romania/911™ AXN Spin
+http://fast.iptv.cab:80/sonoiki/sonoiki/21786
+#EXTINF:-1,Romania/911™ National Geographic
+http://fast.iptv.cab:80/sonoiki/sonoiki/1402
+#EXTINF:-1,Romania/911™ Nat Geo Wild
+http://fast.iptv.cab:80/sonoiki/sonoiki/1403
+#EXTINF:-1,Romania/911™ Animal Planet HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21791
+#EXTINF:-1,Romania/911™ Discovery RO
+http://fast.iptv.cab:80/sonoiki/sonoiki/21798
+#EXTINF:-1,Romania/911™ Discovery Science HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21792
+#EXTINF:-1,Romania/911™ Discovery Showcase HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21793
+#EXTINF:-1,Romania/911™ Discovery Turbo Xtra HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21789
+#EXTINF:-1,Romania/911™ Investigation Discovery HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21794
+#EXTINF:-1,Romania/911™ DTX HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21788
+#EXTINF:-1,Romania/911™ History Channel
+http://fast.iptv.cab:80/sonoiki/sonoiki/1406
+#EXTINF:-1,Romania/911™ AMC
+http://fast.iptv.cab:80/sonoiki/sonoiki/21783
+#EXTINF:-1,Romania/911™ Comedy Central
+http://fast.iptv.cab:80/sonoiki/sonoiki/21782
+#EXTINF:-1,Romania/911™ E! Entertainment HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21797
+#EXTINF:-1,Romania/911™ Fine Living HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21795
+#EXTINF:-1,Romania/911™ Sundance HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21800
+#EXTINF:-1,Romania/911™ TLC RO
+http://fast.iptv.cab:80/sonoiki/sonoiki/21785
+#EXTINF:-1,Romania/911™ Travel Channel HD
+http://fast.iptv.cab:80/sonoiki/sonoiki/21790
+#EXTINF:-1,Romania/911™ Nickelodeon
+http://fast.iptv.cab:80/sonoiki/sonoiki/1401
+#EXTINF:-1,Romania/911™ Disney Channel
+http://fast.iptv.cab:80/sonoiki/sonoiki/21784
+#EXTINF:-1,Romania/911™ Disney Junior
+http://fast.iptv.cab:80/sonoiki/sonoiki/1404
+#EXTINF:-1,Romania/911™ Boomerang
+http://fast.iptv.cab:80/sonoiki/sonoiki/2295
+#EXTINF:-1,Romania/911™ Viasat History
+http://fast.iptv.cab:80/sonoiki/sonoiki/1405
+#EXTINF:-1,Romania/911™ Viasat Nature
+http://fast.iptv.cab:80/sonoiki/sonoiki/1398
+#EXTINF:-1,Romania/911™ Viasat Explorer
+http://fast.iptv.cab:80/sonoiki/sonoiki/1399
+#EXTINF:-1,Romania/911™ 1 Music Channel
+http://fast.iptv.cab:80/sonoiki/sonoiki/2298
+#EXTINF:-1,Seychelles/911™ C More First
+http://fast.iptv.cab:80/sonoiki/sonoiki/20910
+#EXTINF:-1,Seychelles/911™ C MORE HITS
+http://fast.iptv.cab:80/sonoiki/sonoiki/20909
+#EXTINF:-1,Seychelles/911™ C More Series
+http://fast.iptv.cab:80/sonoiki/sonoiki/20908
+#EXTINF:-1,Seychelles/911™ C More Star
+http://fast.iptv.cab:80/sonoiki/sonoiki/20911
+#EXTINF:-1,Seychelles/911™ CANAL 9 DK
+http://fast.iptv.cab:80/sonoiki/sonoiki/20865
+#EXTINF:-1,Seychelles/911™ Disney Channel DK
+http://fast.iptv.cab:80/sonoiki/sonoiki/20871
+#EXTINF:-1,Seychelles/911™ Disney Channel SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20905
+#EXTINF:-1,Seychelles/911™ Disney XD DK
+http://fast.iptv.cab:80/sonoiki/sonoiki/20885
+#EXTINF:-1,Seychelles/911™ DK4
+http://fast.iptv.cab:80/sonoiki/sonoiki/20899
+#EXTINF:-1,Seychelles/911™ DR K
+http://fast.iptv.cab:80/sonoiki/sonoiki/20863
+#EXTINF:-1,Seychelles/911™ DR Ramasjang
+http://fast.iptv.cab:80/sonoiki/sonoiki/20900
+#EXTINF:-1,Seychelles/911™ DR ULTRA
+http://fast.iptv.cab:80/sonoiki/sonoiki/20864
+#EXTINF:-1,Seychelles/911™ DR1
+http://fast.iptv.cab:80/sonoiki/sonoiki/4084
+#EXTINF:-1,Seychelles/911™ DR2
+http://fast.iptv.cab:80/sonoiki/sonoiki/20907
+#EXTINF:-1,Seychelles/911™ KANAL 11
+http://fast.iptv.cab:80/sonoiki/sonoiki/20870
+#EXTINF:-1,Seychelles/911™ KANAL 4
+http://fast.iptv.cab:80/sonoiki/sonoiki/20866
+#EXTINF:-1,Seychelles/911™ KANAL 5
+http://fast.iptv.cab:80/sonoiki/sonoiki/20867
+#EXTINF:-1,Seychelles/911™ KANAL 9 SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20868
+#EXTINF:-1,Seychelles/911™ KANAL5 SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20877
+#EXTINF:-1,Seychelles/911™ NAT GEO WILD
+http://fast.iptv.cab:80/sonoiki/sonoiki/20861
+#EXTINF:-1,Seychelles/911™ NATIONAL GEOGRAPHIC
+http://fast.iptv.cab:80/sonoiki/sonoiki/20862
+#EXTINF:-1,Seychelles/911™ NRK 1
+http://fast.iptv.cab:80/sonoiki/sonoiki/20904
+#EXTINF:-1,Seychelles/911™ NRK 2
+http://fast.iptv.cab:80/sonoiki/sonoiki/20903
+#EXTINF:-1,Seychelles/911™ NRK 3
+http://fast.iptv.cab:80/sonoiki/sonoiki/20875
+#EXTINF:-1,Seychelles/911™ SVT 24 B
+http://fast.iptv.cab:80/sonoiki/sonoiki/20874
+#EXTINF:-1,Seychelles/911™ SVT1
+http://fast.iptv.cab:80/sonoiki/sonoiki/20902
+#EXTINF:-1,Seychelles/911™ SVT2
+http://fast.iptv.cab:80/sonoiki/sonoiki/20901
+#EXTINF:-1,Seychelles/911™ TV10
+http://fast.iptv.cab:80/sonoiki/sonoiki/20886
+#EXTINF:-1,Seychelles/911™ TV12
+http://fast.iptv.cab:80/sonoiki/sonoiki/20869
+#EXTINF:-1,Seychelles/911™ TV2 Charlie
+http://fast.iptv.cab:80/sonoiki/sonoiki/20887
+#EXTINF:-1,Seychelles/911™ TV2 Lorry
+http://fast.iptv.cab:80/sonoiki/sonoiki/20888
+#EXTINF:-1,Seychelles/911™ TV2 News
+http://fast.iptv.cab:80/sonoiki/sonoiki/20889
+#EXTINF:-1,Seychelles/911™ TV2 Nyhetskanalen
+http://fast.iptv.cab:80/sonoiki/sonoiki/20906
+#EXTINF:-1,Seychelles/911™ TV2 Zebra
+http://fast.iptv.cab:80/sonoiki/sonoiki/20873
+#EXTINF:-1,Seychelles/911™ TV2 Zulu
+http://fast.iptv.cab:80/sonoiki/sonoiki/20872
+#EXTINF:-1,Seychelles/911™ TV3 Danmark
+http://fast.iptv.cab:80/sonoiki/sonoiki/20890
+#EXTINF:-1,Seychelles/911™ TV3 Puls
+http://fast.iptv.cab:80/sonoiki/sonoiki/20891
+#EXTINF:-1,Seychelles/911™ TV3 SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20892
+#EXTINF:-1,Seychelles/911™ TV4
+http://fast.iptv.cab:80/sonoiki/sonoiki/20893
+#EXTINF:-1,Seychelles/911™ TV4 Fakta
+http://fast.iptv.cab:80/sonoiki/sonoiki/20894
+#EXTINF:-1,Seychelles/911™ TV4 Film
+http://fast.iptv.cab:80/sonoiki/sonoiki/20895
+#EXTINF:-1,Seychelles/911™ TV4 Gold
+http://fast.iptv.cab:80/sonoiki/sonoiki/20896
+#EXTINF:-1,Seychelles/911™ TV4 Komedi
+http://fast.iptv.cab:80/sonoiki/sonoiki/20897
+#EXTINF:-1,Seychelles/911™ TV6 SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20878
+#EXTINF:-1,Seychelles/911™ TV8 SE
+http://fast.iptv.cab:80/sonoiki/sonoiki/20876
+#EXTINF:-1,Seychelles/911™ Viasat 4 Norway
+http://fast.iptv.cab:80/sonoiki/sonoiki/20898
+#EXTINF:-1,Seychelles/911™ Viasat Action
+http://fast.iptv.cab:80/sonoiki/sonoiki/20881
+#EXTINF:-1,Seychelles/911™ Viasat Comedy
+http://fast.iptv.cab:80/sonoiki/sonoiki/20880
+#EXTINF:-1,Seychelles/911™ Viasat Family
+http://fast.iptv.cab:80/sonoiki/sonoiki/20879
+#EXTINF:-1,Seychelles/911™ Viasat Hits
+http://fast.iptv.cab:80/sonoiki/sonoiki/20882
+#EXTINF:-1,Seychelles/911™ Viasat Premiere
+http://fast.iptv.cab:80/sonoiki/sonoiki/20884
+#EXTINF:-1,Seychelles/911™ Viasat Series
+http://fast.iptv.cab:80/sonoiki/sonoiki/20883
+
+
+
