@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=TqrReklameEke
+#EXTINF:-1,FILM NJE HD
+http://163.172.35.210:8000/live/Landi/App/139.ts
+#EXTVLCOPT:http-user-agent=TqrReklameEke
+#EXTINF:-1,FILM DY HD
+http://163.172.35.210:8000/live/Landi/App/140.ts
+#EXTVLCOPT:http-user-agent=TqrReklameEke
+#EXTINF:-1,FILM KOMEDI
+http://163.172.35.210:8000/live/Landi/App/138.ts
+#EXTVLCOPT:http-user-agent=TqrReklameEke
+#EXTINF:-1,FILM HITS
+http://163.172.35.210:8000/live/Landi/App/161.ts
+#EXTVLCOPT:http-user-agent=TqrReklameEke
+#EXTINF:-1,FILM DRAME
+http://163.172.35.210:8000/live/Landi/App/141.ts
