@@ -1,39 +1,263 @@
-#EXTINF:-1, MTV
-http://193.201.98.123:8000/play/a01a
-#EXTINF:-1, MTV Dance
-http://193.201.98.123:8000/play/a01b
-#EXTINF:-1, MTV Hits
-http://193.201.98.123:8000/play/a01c
-#EXTINF:-1, MTV Rocks
-http://193.201.98.123:8000/play/a01d
-http://193.201.98.123:8000/play/a02f
-#EXTINF:-1,VH1 Classic
-http://193.201.98.123:8000/play/a01h
-#EXTINF:-1,VH1 European
-http://193.201.98.123:8000/play/a01i
-#EXTINF:-1 tvg-id="236" tvg-name="*********        MUZICKI KANALI        *********" tvg-logo="/noicon.png" group-title="Music",*********        MUZICKI KANALI        ********* - *********        MUZICKI KANALI        *********
-http://dynds.iptvposokuca.info:80/live?channelId=236&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="176" tvg-name="CMC" tvg-logo="http://www.scena.ba/Images/News/727/CMC-TV.jpg" group-title="Music",CMC - CMC
-http://maksitv.iptvposokuca.info:80/live?channelId=176&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="36" tvg-name="DM SAT" tvg-logo="http://img01.deviantart.net/d129/i/2011/024/e/1/dm_sat_by_cavalieredellacita-d37yc3j.png" group-title="Music",DM SAT - DM SAT
-http://dynds.iptvposokuca.info:80/live?channelId=36&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="191" tvg-name="BN Music" tvg-logo="https://yt3.ggpht.com/-ReRaLIl5Wl4/AAAAAAAAAAI/AAAAAAAAAAA/G-9Yard4VFA/s900-c-k-no/photo.jpg" group-title="Music",BN Music - BN Music
-http://maksitv.iptvposokuca.info:80/live?channelId=191&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="130" tvg-name="Grand Televizija" tvg-logo="http://static.mondo.rs/Picture/342185/jpeg/grand.jpg" group-title="Music",Grand Televizija - Grand Televizija
-http://maksitv.iptvposokuca.info:80/live?channelId=130&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="190" tvg-name="Hayat Folk" tvg-logo="http://teve.ba/img/articles/7436.jpg" group-title="Music",Hayat Folk - Hayat Folk
-http://dynds.iptvposokuca.info:80/live?channelId=190&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="79" tvg-name="Pink Folk" tvg-logo="http://original.livestream.com/filestore/branding/pinkfolkmusic/2010/10/29/644B6B4B-17DF-C4C2-E995-F4FD6C361CCB.jpg" group-title="Music",Pink Folk - Pink Folk
-http://dynds.iptvposokuca.info:80/live?channelId=79&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="173" tvg-name="Izvorna TV" tvg-logo="http://www.izvornatv.com/cimage/box/image-102.png" group-title="Music",Izvorna TV - Izvorna TV
-http://maksitv.iptvposokuca.info:80/live?channelId=173&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="200" tvg-name="MTV Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/4/4e/Mtv_adria_logo.jpg" group-title="Music",MTV Adria - MTV Adria
-http://maksitv.iptvposokuca.info:80/live?channelId=200&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="242" tvg-name="MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/937527078093811712/f81yQzER.jpg" group-title="Music",MTV Hits - MTV Hits
-http://dynds.iptvposokuca.info:80/live?channelId=242&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="240" tvg-name="MTV Dance" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoSt7EjJMPjA4B3UZnzPgJy-B0Hg2bAeCM8CeECDaiqTZRHgj" group-title="Music",MTV Dance - MTV Dance
-http://tvmaksi.iptvposokuca.info:80/live?channelId=240&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="241" tvg-name="MTV Classic" tvg-logo="http://i.imgur.com/OrmCwrI.png" group-title="Music",MTV Classic - MTV Classic
-http://maksitv.iptvposokuca.info:80/live?channelId=241&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
-#EXTINF:-1 tvg-id="201" tvg-name="VH1" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-vh1.png" group-title="Music",VH1 - VH1
-http://dynds.iptvposokuca.info:80/live?channelId=201&uid=81&deviceUser=mirkohrrazmena&devicePass=proba
+#EXTM3U
+
+#EXTINF:-1 tvg-name="AZURIRANO"  tvg-logo="http://shaku8.biz/agif/xxx/012.gif",[B][I][COLOR lightgreen]====*AZURIRANO 30.09.2019.*====[/B][/COLOR][/I]
+http://
+
+
+#EXTINF:-1 tvg-name="MUZIKA"  tvg-logo="https://www.muzika.hr/logo/web%20logo%20set/Muzika_hr_logo_mobile_544x180.jpg",[B][I][COLOR mediumslateblue]MUZIKA[/B][/COLOR][/I]
+http://163.172.15.177:80/live/sUPPERchannel2/index.m3u8
+
+EXTINF:-1 tvg-name="NARODNA TV"  tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/02/narodnitv.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]NARODNA TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/866&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="NARODNA TV"  tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/02/narodnitv.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]NARODNA TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://televizija.club:25461/R0focFQ5Pc/mmoRjBRcgw/377&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="DMC TV"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/04/dmc-televizijahr.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]DMC TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1062&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="DIJASPORA"  tvg-logo="https://scontent.fzag2-1.fna.fbcdn.net/v/t1.0-9/10406721_376974995800361_816414832008865157_n.jpg?_nc_cat=111&_nc_ht=scontent.fzag2-1.fna&oh=fac493e918dbe390b0e996f1d7d6b4cb&oe=5D4183B2",[B][I][COLOR mediumslateblue]DIJASPORA TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://itlabnet.ddns.net:80/MojWeb/616zj6h16/749&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="CMC"  tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png",[B][I][COLOR mediumslateblue]CMC[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/772&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="CMC"  tvg-logo="http://tvprofil.net/img/kanali-logo/CMC_TV_logo.png",[B][I][COLOR mediumslateblue]CMC[/B][/COLOR][/I]
+https://tv.si/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1 tvg-name="VL"  tvg-logo="http://i.bosity.com/wt/127000001/14008891/image_24059.jpg",[B][I][COLOR mediumslateblue]VL[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.2.84:22284
+
+#EXTINF:-1 tvg-name="JUGOTON TV"  tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png",[B][I][COLOR mediumslateblue]JUGOTON TV[/B][/COLOR][/I]
+https://tv.si/ts/JUGOTONTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1 tvg-name="JUGOTON TV"  tvg-logo="http://nextgen-iptv.com/logo/jugoton-tv-logo.png",[B][I][COLOR mediumslateblue]JUGOTON TV[/B][/COLOR][/I]
+http://80.80.58.167:8070/hls/jugoton.m3u8
+
+#EXTINF:-1 tvg-name="BANOVINA TV"  tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/02/banovina.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]BANOVINA TV[/B][/COLOR][/I]
+http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
+rtmp://video.radio-banovina.hr/live/myStream
+
+#EXTINF:-1 tvg-name="DM SAT"  tvg-logo="http://nextgen-iptv.com/logo/DMSat_SRB.png",[B][I][COLOR mediumslateblue]DM SAT[/B][/COLOR][/I]
+https://tv.si/ts/DMSAT/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1 tvg-name="DM SAT**link 2"  tvg-logo="http://nextgen-iptv.com/logo/DMSat_SRB.png",[B][I][COLOR blue]DM SAT[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.200:22200
+
+EXTINF:-1 tvg-name="GRAND TV"  tvg-logo="https://telemach.ba/oec/images/tv_channels/8df5645ddf82751a7e550124b7c63f35.png",[B][I][COLOR mediumslateblue]GRAND TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1034&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="GRAND 2"  tvg-logo="https://telemach.ba/oec/images/tv_channels/0df713820704ffeecc55dd0f5c654ed8.png",[B][I][COLOR mediumslateblue]GRAND 2[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1199&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name"IDJ TV"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2017/11/idjtv.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]IDJ TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1361&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="BOSNA TV"  tvg-logo="https://steemitimages.com/DQmQzceUCUMD9MLi52932UKU7YwbTW9RTycm2dZ1SsMCH8E/btv0000.jpg",[B][I][COLOR mediumslateblue]BOSNA TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://mag.kosovatv1.de:1557/naser/naser1234/2794&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="TOP SOUND"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/02/top-sound.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]TOP SOUND[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/2057&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="TOP SOUND**link 2"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/02/top-sound.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]TOP SOUND[/B][/COLOR][/I]
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OTV VALENTINO"  tvg-logo="http://epg.serbianforum.org/logo_znaci/OTV%20Valentino.png",[B][I][COLOR mediumslateblue]OTV VALENTINO[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.3.27:22327
+
+EXTINF:-1 tvg-name="OTV VALENTINO**link 2"  tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/otv_valentino.png",[B][I][COLOR mediumslateblue]OTV VALENTINO[/B][/COLOR][/I]
+http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
+
+EXTINF:-1 tvg-name="OTV VALENTINO ETNO"  tvg-logo="http://zipzap.ba/wp-content/uploads/2014/12/otv_valentino.png",[B][I][COLOR mediumslateblue]OTV VALENTINO ETNO[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="SEVDAH TV"  tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/03/SEVDAH-U-BOJI-PNG-1.png?x60267",[B][I][COLOR mediumslateblue]SEVDAH TV[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.2.53:22253
+
+EXTINF:-1 tvg-name="SEVDAH TV**link 2"  tvg-logo="https://cdn-005.mobile2morrow.com/wp-content/uploads/2017/03/SEVDAH-U-BOJI-PNG-1.png?x60267",[B][I][COLOR mediumslateblue]SEVDAH TV[/B][/COLOR][/I] [COLOR pink]**link 2[/COLOR]
+http://178.132.6.97:8080/FR:SEVDAHTV1/playlist.m3u8
+
+EXTINF:-1 tvg-name="HIT Brcko"  tvg-logo="http://www.otisak.ba/wp-content/uploads/2018/09/rtv-hit-logo-1.png",[B][I][COLOR mediumslateblue]HIT Brcko[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://mag.kosovatv1.de:1557/naser/naser1234/22180&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="HIT Brcko"  tvg-logo="http://www.otisak.ba/wp-content/uploads/2018/09/rtv-hit-logo-1.png",[B][I][COLOR mediumslateblue]HIT Brcko[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1229&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="HIT Brcko"  tvg-logo="http://www.otisak.ba/wp-content/uploads/2018/09/rtv-hit-logo-1.png",[B][I][COLOR mediumslateblue]HIT Brcko[/B][/COLOR][/I]
+http://s30.videosat.biz:80/live.ts?channelId=669&deviceUser=zeljko1&devicePass=zeljko2&uid=3153|User-Agent="AppleCoreMedia
+
+EXTINF:-1 tvg-name="K::CN 1"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn1.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 1[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1031&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="K::CN 1**link 2"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn1.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 1[/B][/COLOR][/I]
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+
+EXTINF:-1 tvg-name="K::CN 2"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn2.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 2[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1032&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="K::CN 2**link 2"  tvg-logo="https://i1.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn2.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 2[/B][/COLOR][/I]
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+
+EXTINF:-1 tvg-name="K::CN 3"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn3.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 3[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1033&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="K::CN 3**link 2"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/kcn3.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]K::CN 3[/B][/COLOR][/I]
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+
+EXTINF:-1 tvg-name="HAYAT FOLK"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_Hayat_Folk_TV.png",[B][I][COLOR mediumslateblue]HAYAT FOLK[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1589&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="HAYAT FOLK"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Logo_of_Hayat_Folk_TV.png",[B][I][COLOR mediumslateblue]HAYAT FOLK[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.47:22047
+
+EXTINF:-1 tvg-name="HAYAT MUSIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Logo_of_Hayat_Music_TV.png",[B][I][COLOR mediumslateblue]HAYAT MUSIC[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://apzz.xyz:82/marsel_lukich/HELje3Ggi9/1235&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="HAYAT MUSIC"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Logo_of_Hayat_Music_TV.png",[B][I][COLOR mediumslateblue]HAYAT MUSIC[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.49:22049
+
+#EXTINF:-1 tvg-name="BN MUSIC"  tvg-logo="https://totaltv.tv/oec/images/tv_channels/b675783932e3c4d7d13b0df3b4326faf.png",[B][I][COLOR mediumslateblue]BN MUSIC[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.35:22035
+
+#EXTINF:-1 tvg-name="BALKANIKA HD"  tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/02/balkanika.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]BALKANIKA HD[/B][/COLOR][/I]
+rtsp://stream.teracomm.bg/balkanika
+
+#EXTINF:-1 tvg-name="BALKANIKA HD**link 2"  tvg-logo="https://i0.wp.com/umetnikfotograf.files.wordpress.com/2018/02/balkanika.png?ssl=1&w=450",[B][I][COLOR yellow]BALKANIKA HD[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.199:22199
+
+#EXTINF:-1 tvg-name="ROMA TV"  tvg-logo="http://www.predavatel.com/bg/tv/roma.png",[B][I][COLOR mediumslateblue]ROMA TV[/B][/COLOR][/I]
+http://185.46.161.3/hls/sd.m3u8
+
+EXTINF:-1 tvg-name="ROMA TV**link 2"  tvg-logo="http://www.predavatel.com/bg/tv/roma.png",[B][I][COLOR mediumslateblue]ROMA TV[/B][/COLOR][/I] [COLOR pink]**link 2[/COLOR]
+http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-name="PLANETA TV HD"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/planeta-tv.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]PLANETA TV HD[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.201:22201
+
+EXTINF:-1 tvg-name="TV 101 BIH"  tvg-logo="http://tvprofil.net/img/kanali-logo/ntv101_sanskimost.png",[B][I][COLOR mediumslateblue]TV 101 BIH[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://mag.kosovatv1.de:1557/naser/naser1234/22657&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="SKY FOLK"  tvg-logo="https://yt3.ggpht.com/a-/ACSszfElClfi2FVw__LvRkqZZLElHLoswg_8Hv-88Q=s900-mo-c-c0xffffffff-rj-k-no",[B][I][COLOR mediumslateblue]SKY FOLK[/B][/COLOR][/I]
+http://skyfolk.mk/live.m3u8
+
+EXTINF:-1 tvg-name="SKY FOLK**link 2"  tvg-logo="https://scontent.fzag2-1.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p64x64/16832114_593848840810085_1984604546632685687_n.jpg?_nc_cat=100&efg=eyJpIjoidCJ9&_nc_ht=scontent.fzag2-1.fna&oh=c7df6f8dbc10180b3171cf112585482f&oe=5D599BBB",[B][I][COLOR mediumslateblue]SKY FOLK[/B][/COLOR][/I] [COLOR yellow]**link 2[/COLOR]
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+
+EXTINF:-1 tvg-name="YU PLANET"  tvg-logo="https://i2.wp.com/umetnikfotograf.files.wordpress.com/2018/02/yu-planet-bec.png?ssl=1&w=450",[B][I][COLOR mediumslateblue]YU PLANET[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://178.196.237.240:3000/play/xxYUPlanetxx&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="MOJA&TVOJA HD"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Muzika_CS_logo.png/revision/latest?cb=20100526171841",[B][I][COLOR mediumslateblue]MOJA&TVOJA HD[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://iptv.rent:80/premium.cccam/vgwp3oLAtk/13454&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="TV MELOS"  tvg-logo="https://scontent.fzag2-1.fna.fbcdn.net/v/t1.0-9/15541889_744083492408517_1076810285671427947_n.jpg?_nc_cat=106&_nc_oc=AQnRAl66xMub_RlHcUm_8NEp5q3qzU0L-h8Pky4T9VWDriKlws_eAg0ZAj--2SmgTGE&_nc_ht=scontent.fzag2-1.fna&oh=e329da2b4eaac8ee41894fcad7c81d8f&oe=5E3C3446",[B][I][COLOR mediumslateblue]TV MELOS[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.3.14:22314
+
+#EXTINF:-1 tvg-name="TV BUJANOVAC"  tvg-logo="https://lh3.googleusercontent.com/p3O03cXj9Dn86oXbm770iDjZ0uZXtF5BxlhGGcQzNnhCok3R6TyDkSdynXGZ98Wt2g=w300",[B][I][COLOR mediumslateblue]TV BUJANOVAC[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.3.26:22326
+
+EXTINF:-1 tvg-name="IZVORNA TV"  tvg-logo="https://tvprofil.com/cdn/100x40/4/img/kanali-logo/IzvornaTV_logo.png",[B][I][COLOR mediumslateblue]IZVORNA TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://mag.kosovatv1.de:1557/naser/naser1234/2860&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+           **************************************************************************
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/musicworldstores.com/wp-content/uploads/2017/05/MWColored300dpi.png?w=1080&ssl=1",[B][I][COLOR lightcoral]===========STRANA MUZIKA=========[/B][/COLOR][/I]
+http://
+
+#EXTINF:-1 tvg-name="CMUSIC TV"  tvg-logo="https://2.bp.blogspot.com/-FxS0qycJ6co/WX86K4gjUMI/AAAAAAAAD70/Y7oY_ln0e4csuthmgACuXFTikjyvMJDCwCLcBGAs/s1600/cmusiclogo.png",[B][I][COLOR mediumslateblue]CMUSIC TV[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.2.45:22245
+
+#EXTINF:-1 tvg-name="FEN TV"  tvg-logo="http://tv-novini.com/upload/articles/LOGO_FEN_TV_COLOR_SPACE.png",[B][I][COLOR mediumslateblue]FEN TV[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.197:22197
+
+#EXTINF:-1 tvg-name="CLUBLAND TV"  tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/715DBIwvnUL.png",[B][I][COLOR mediumslateblue]CLUBLAND TV[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.77:22077
+
+#EXTINF:-1 tvg-name="THE VOICE"  tvg-logo="https://yt3.ggpht.com/-PmyWDaafCcs/AAAAAAAAAAI/AAAAAAAAAAA/Nj6cf50wkRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[B][I][COLOR mediumslateblue]THE VOICE[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.1.76:22076
+
+#EXTINF:-1 tvg-name="MTV SLO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/150px-MTV_Logo_2010.svg.png",[B][I][COLOR mediumslateblue]MTV SLO[/B][/COLOR][/I]
+https://tv.si/ts/MTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+EXTINF:-1 tvg-name="MTV HR"  tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/4/4e/Mtv_adria_logo.jpg/120px-Mtv_adria_logo.jpg",[B][I][COLOR mediumslateblue]MTV HR=uključi titl=[/B][/COLOR][/I]
+http://93.138.78.83:4001/play/a00i/index.m3u8?fbclid=IwAR2D-olSMERA0nTANSXASj8uzF4yNRfMW_fQKwQyCr_deBfcg-ActB0GAOA
+
+#EXTINF:-1 tvg-name="MTV"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/MTV_%28Misc%29.png/revision/latest?cb=20171230233254",[B][I][COLOR mediumslateblue]MTV[/B][/COLOR][/I]
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+EXTINF:-1 tvg-name="MTV LIVE"  tvg-logo="http://i68.tinypic.com/hte5jn.png",[B][I][COLOR mediumslateblue]MTV LIVE[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://185.180.12.37:80/QStalker/X7EzfYifRp/168&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+#EXTINF:-1 tvg-name="MTV HITS"  tvg-logo="http://www.live-arena.ru/logos/MTVHits-tvadvertisinglogo.jpg",[B][I][COLOR mediumslateblue]MTV HITS[/B][/COLOR][/I]
+https://tv.si/ts/MTVHITS/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-0 tvg-name="MTV DANCE"  tvg-logo="http://i64.tinypic.com/29lfm9e.png",[B][I][COLOR mediumslateblue]MTV DANCE[/B][/COLOR][/I]
+https://tv.si/ts/MTVDANCE/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-0 tvg-name="MTV ROCKS"  tvg-logo="http://i68.tinypic.com/6qksnn.png",[B][I][COLOR mediumslateblue]MTV ROCKS[/B][/COLOR][/I]
+http://176.67.211.5:6010/udp/239.1.1.125:22125
+
+EXTINF:-0 tvg-name="MTV BASE"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest/scale-to-width-down/504?cb=20111124002006",[B][I][COLOR mediumslateblue]MTV BASE[/B][/COLOR][/I]
+http://62.210.93.43:80/live?channelId=102&deviceMac=00:1a:79:be:2f:3f
+
+EXTINF:-0 tvg-name="MTV BASE**link 2"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Mtv_base_2011.png/revision/latest/scale-to-width-down/504?cb=20111124002006",[B][I][COLOR mediumslateblue]MTV BASE[/B][/COLOR][/I] [COLOR pink]**link 2[/COLOR]
+plugin://plugin.video.f4mTester/?url=http://185.180.12.37:80/QStalker/X7EzfYifRp/170&amp;streamtype=TSDOWNLOADER&amp;name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="HIT TV"  tvg-logo="http://www.hitfm.es/files/HITtv.jpg",[B][I][COLOR mediumslateblue]HIT TV[/B][/COLOR][/I]
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3
+
+#EXTINF:-1 tvg-name="VH 1"  tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/f/f1/VH1.svg/1280px-VH1.svg.png",[B][I][COLOR mediumslateblue]VH 1[/B][/COLOR][/I]
+https://tv.si/ts/VH1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+EXTINF:-1 tvg-name="VH 1"  tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/f/f1/VH1.svg/1280px-VH1.svg.png",[B][I][COLOR mediumslateblue]VH 1[/B][/COLOR][/I]
+http://93.138.78.83:4001/play/a00j/index.m3u8?fbclid=IwAR2D-olSMERA0nTANSXASj8uzF4yNRfMW_fQKwQyCr_deBfcg-ActB0GAOA
+
+#EXTINF:-1 tvg-name="VH1 CLASIC"  tvg-logo="https://seeklogo.com/images/V/vh1-classic-logo-4B212D3683-seeklogo.com.png",[B][I][COLOR mediumslateblue]VH1 CLASIC[/B][/COLOR][/I]
+https://tv.si/ts/VH1CLA/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+EXTINF:-1 tvg-name="VH1 MEGAHITS"  tvg-logo="http://masterip.tv/images/VH1_MegaHits.png",[B][I][COLOR mediumslateblue]VH1 MEGAHITS[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="NRJ HITS"  tvg-logo="http://www.telepro.be/images/bibli/nrj-hits-tv.jpg",[B][I][COLOR mediumslateblue]NRJ HITS[/B][/COLOR][/I]
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+
+#EXTINF:-1 tvg-name="KRONEHIT TV HD"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41%2BfuV%2BGGuL._SY355_.png",[B][I][COLOR mediumslateblue]KRONEHIT TV HD[/B][/COLOR][/I]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+EXTINF:-1 tvg-name="XITE BASE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",[B][I][COLOR mediumslateblue]XITE BASE[/B][/COLOR][/I]
+http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+
+EXTINF:-1 tvg-name="XITE POP"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png",[B][I][COLOR mediumslateblue]XITE POP[/B][/COLOR][/I]
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+EXTINF:-1 tvg-name="CMC USA"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmctv.png",[B][I][COLOR mediumslateblue]CMC USA[/B][/COLOR][/I]
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-name="COMPANY TV"  tvg-logo="http://www.areacompanyonline.com/cradio/logo.png",[B][I][COLOR mediumslateblue]COMPANY TV[/B][/COLOR][/I]
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+
+#EXTINF:-1 tvg-name="RETRO TV"  tvg-logo="https://banner2.kisspng.com/20180326/wke/kisspng-1970s-1960s-1950s-1980s-retro-style-retro-5ab8c1e4cb2f86.7295608815220577008323.jpg",[B][I][COLOR mediumslateblue]RETRO[/B][/COLOR][/I]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+EXTINF:-1 tvg-name="FRESH MUSIC"  tvg-logo="https://www.freshmusic.com/sites/default/themes/freshmusic/logo.png",[B][I][COLOR mediumslateblue]FRESH MUSIC[/B][/COLOR][/I]
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+
+EXTINF:-1 tvg-name="KISS TV"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5f/KISS_VT.png/revision/latest?cb=20180922231842",[B][I][COLOR mediumslateblue]KISS TV[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?url=http://&amp;streamtype=TSDOWNLOADER&name=[COLOR yellow]ZADAR BUILD TIM HR*ADRIANA TV[/COLOR]
+
+EXTINF:-1 tvg-name="PREMIERA MUSIC"  tvg-logo="http://iptvbalkan.mk/wp-content/uploads/2018/10/PRIMERA-HD-LATINO.gif",[B][I][COLOR mediumslateblue]PREMIERA MUSIC[/B][/COLOR][/I]
+http://178.132.6.97:8080/PrimeraMusic1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ICONCERTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/2/2e/20110225084500!I_concerts_logo.png",[B][I][COLOR mediumslateblue]ICONCERTS[/B][/COLOR][/I]
+http://176.67.223.7:8000/udp/239.1.2.51:22251
+
+#EXTINF:-1 tvg-name="MOOZ DANCE"  tvg-logo="https://mooz.tv/site/img/2012/Paste_2012/Mooz-Dance-oua-620x348.png",[B][I][COLOR mediumslateblue]MOOZ DANCE[/B][/COLOR][/I]
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/77.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
+
+#EXTINF:-1 tvg-name="MOOZ HITS"  tvg-logo="https://mooz.tv/site/img/2012/Vara_2012/Mooz-Hits-Sunflower.png",[B][I][COLOR mediumslateblue]MOOZ HITS[/B][/COLOR][/I]
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/77.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
+
+#EXTINF:-1 tvg-name="MOOZ HD"  tvg-logo="https://mooz.tv/site/img/2012/Vara_2012/Mooz-HD-Sunflower.png",[B][I][COLOR mediumslateblue]MOOZ HD[/B][/COLOR][/I]
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/77.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+
+
