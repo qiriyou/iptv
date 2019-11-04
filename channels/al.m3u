@@ -463,3 +463,53 @@ http://91.187.117.230:8080
 http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
 #EXTINF:0,mktv2
 https://stream.shqiptv.com/tst/MKTV2-8728-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQgg
+
+
+#EXTM3U Albdroid TV
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,tomi and jerry
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/66.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,mr bean njeri
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/67.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,ZERI TV
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/47.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,TV DUKAGJIN
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/45.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,T 7
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/44.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,S SPORT 4
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/40.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,S SPORT 3
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/39.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,S SPORT 2
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/38.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,S SPORT 1
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/37.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,FILM SHQIP
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/42.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,KLAN KOSOVA
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/25.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,VIZION PLUS
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/14.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,TOP CHANNEL
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/12.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,KLAN TV
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/11.ts
+#EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
+#EXTINF:-1,KLAN PLUS
+http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/13.ts
+
+
