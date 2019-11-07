@@ -29,3 +29,58 @@ http://best-str.xtim.tv:8080/stream?stream=orig&channel=animalplanet
 http://194.54.183.122:8000/play/a01h
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Animal%20Planet.png",[COLOR gold]Doku.>[/COLOR]HistoryChannel
 http://89.111.194.194:8080/HistoryChannel/mpegts
+#EXTM3U
+#EXTINF:-1,https://flylinks.net,Animal Planet HD
+http://62.122.178.41:2304/play/034
+#EXTINF:-1,https://flylinks.net,Bollywood HD
+http://62.122.178.41:2304/play/139
+#EXTINF:-1,https://flylinks.net,Bolt
+http://62.122.178.41:2304/play/a003
+#EXTINF:-1,https://flylinks.net,BridgeTV Русский Хит
+http://62.122.178.41:2304/play/a00a
+#EXTINF:-1,https://flylinks.net,Cartoon Network
+http://62.122.178.41:2304/play/098
+#EXTINF:-1,https://flylinks.net,Discovery HD
+http://62.122.178.41:2304/play/036
+#EXTINF:-1,https://flylinks.net,Eurosport 1 HD
+http://62.122.178.41:2304/play/037
+#EXTINF:-1,https://flylinks.net,Eurosport 2 HD
+http://62.122.178.41:2304/play/038
+#EXTINF:-1,https://flylinks.net,FOX HD
+http://62.122.178.41:2304/play/101
+#EXTINF:-1,https://flylinks.net,Fox Life
+http://62.122.178.41:2304/play/a006
+#EXTINF:-1,https://flylinks.net,HD Life
+http://62.122.178.41:2304/play/040
+#EXTINF:-1,https://flylinks.net,History HD
+http://62.122.178.41:2304/play/041
+#EXTINF:-1,https://flylinks.net,Hollywood
+http://62.122.178.41:2304/play/a009
+#EXTINF:-1,https://flylinks.net,Megahit HD
+http://62.122.178.41:2304/play/megahithd
+#EXTINF:-1,https://flylinks.net,Mezzo Live HD
+http://62.122.178.41:2304/play/043
+#EXTINF:-1,https://flylinks.net,АВТО 24
+http://62.122.178.41:2304/play/063
+#EXTINF:-1,https://flylinks.net,Армения ТВ
+http://62.122.178.41:2304/play/065
+#EXTINF:-1,https://flylinks.net,Индийское кино
+http://62.122.178.41:2304/play/004
+#EXTINF:-1,https://flylinks.net,Мультимания
+http://62.122.178.41:2304/play/a002
+#EXTINF:-1,https://flylinks.net,Мультимузыка
+http://62.122.178.41:2304/play/a004
+#EXTINF:-1,https://flylinks.net,НСТ
+http://62.122.178.41:2304/play/015
+#EXTINF:-1,https://flylinks.net,Наука 2.0
+http://62.122.178.41:2304/play/082
+#EXTINF:-1,https://flylinks.net,Русский роман
+http://62.122.178.41:2304/play/091
+#EXTINF:-1,https://flylinks.net,ТНВ
+http://62.122.178.41:2304/play/025
+#EXTINF:-1,https://flylinks.net,ТНТ HD
+http://62.122.178.41:2304/play/a005
+#EXTINF:-1,https://flylinks.net,ТНТ4
+http://62.122.178.41:2304/play/026
+#EXTINF:-1,https://flylinks.net,Тлум HD
+http://62.122.178.41:2304/play/a001
