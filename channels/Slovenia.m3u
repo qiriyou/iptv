@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:600 group-title="Nacionalni Slo" tvg-id="1000259" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/SLO_1_HD.png",SLO 1 HD
+http://192.168.1.1:7777/udp/239.10.14.56:5000
+#EXTINF:601 group-title="Nacionalni Slo" tvg-id="1000260" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/SLO_2_HD.png",SLO 2 HD
+http://192.168.1.1:7777/udp/239.10.14.57:5000
+#EXTINF:646 group-title="Zabavni" tvg-id="1000370" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Kanal_A_HD.png",Kanal A HD
+http://192.168.1.1:7777/udp/239.19.14.234:5000
+#EXTINF:646 group-title="Zabavni" tvg-id="1000371" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/POP_TV_HD.png",POP TV HD
+http://192.168.1.1:7777/udp/239.19.14.233:5000
+#EXTINF:647 group-title="Zabavni" tvg-id="1000368" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/POP_Brio_HD.png",POP Brio HD
+http://192.168.1.1:7777/udp/239.19.14.235:5000
+#EXTINF:656 group-title="Lokalni Slo" tvg-id="1000407" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Sponka_Gold.png",Sponka Gold TV HD
+http://192.168.1.1:7777/udp/239.14.2.49:5000
+#EXTINF:15 group-title="Nacionalni tuji" tvg-id="105" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/HRT_1.png",HRT 1
+http://192.168.1.1:7777/udp/239.11.2.95:5000
+#EXTINF:16 group-title="Nacionalni tuji" tvg-id="106" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/HRT_2.png",HRT 2
+http://192.168.1.1:7777/udp/239.11.2.96:5000
+#EXTINF:17 group-title="Zabavni" tvg-id="1000314" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/RTL_TV.png",RTL TV
+http://192.168.1.1:7777/udp/239.14.2.1:5000
+#EXTINF:18 group-title="Zabavni" tvg-id="1000322" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/RTL_2_HR.png",RTL 2 Hrvaška
+http://192.168.1.1:7777/udp/239.14.2.2:5000
+#EXTINF:19 group-title="Zabavni" tvg-id="1000323" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/RTL_Living.png",RTL Living
+http://192.168.1.1:7777/udp/239.14.2.0:5000
+#EXTINF:20 group-title="Zabavni" tvg-id="NOVA TV" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Nova_TV.png",Nova TV
+http://192.168.1.1:7777/udp/239.14.2.14:5000
+#EXTINF:25 group-title="Informativni" tvg-id="1000180" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Al_Jazeera_Balk.png",Al Jazeera Balk
+http://192.168.1.1:7777/udp/239.13.2.214:5000
+#EXTINF:611 group-title="Filmski" tvg-id="1000308" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/FOX_HD.png",FOX HD
+http://192.168.1.1:7777/udp/239.19.14.222:5000
+#EXTINF:613 group-title="Filmski" tvg-id="1000310" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/FOX_Crime_HD.png",FOX Crime HD
+http://192.168.1.1:7777/udp/239.19.14.224:5000
+#EXTINF:615 group-title="Filmski" tvg-id="1000309" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/FOX_Life_HD.png",FOX Life HD
+http://192.168.1.1:7777/udp/239.19.14.223:5000
+#EXTINF:612 group-title="Filmski" tvg-id="1000311" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/FOX_Movies_HD.png",FOX Movies HD
+http://192.168.1.1:7777/udp/239.19.14.225:5000
+#EXTINF:648 group-title="Filmski" tvg-id="1000366" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/POP_Kino_HD.png",POP Kino HD
+http://192.168.1.1:7777/udp/239.19.14.236:5000
+#EXTINF:653 group-title="Filmski" tvg-id="1000429" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/CineStar_TV_Premiere_1_HD.png",CineStar TV Premiere 1 HD
+http://192.168.1.1:7777/udp/239.19.14.245:5000
+#EXTINF:654 group-title="Filmski" tvg-id="1000430" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/CineStar_TV_Premiere_2_HD.png",CineStar TV Premiere 2 HD
+http://192.168.1.1:7777/udp/239.19.14.246:5000
+#EXTINF:27 group-title="Filmski" tvg-id="1000427" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/CineStar_Action_Thriller.png",CineStar TV Action & Thriller
+http://192.168.1.1:7777/udp/239.19.2.242:5000
+#EXTINF:35 group-title="Filmski" tvg-id="1000085" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/CineStar_TV.png",CineStar TV
+http://192.168.1.1:7777/udp/239.11.2.142:5000
+#EXTINF:31 group-title="Filmski" tvg-id="1000015" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/HBO.png",HBO
+http://192.168.1.1:7777/udp/239.16.2.252:5000
+#EXTINF:32 group-title="Filmski" tvg-id="1000016" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/HBO_2.png",HBO 2
+http://192.168.1.1:7777/udp/239.16.2.253:5000
+#EXTINF:33 group-title="Filmski" tvg-id="1000435" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/HBO_3.png",HBO 3
+http://192.168.1.1:7777/udp/239.16.2.251:5000
+#EXTINF:33 group-title="Filmski" tvg-id="1000131" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Cinemax.png",Cinemax
+http://192.168.1.1:7777/udp/239.16.2.254:5000
+#EXTINF:34 group-title="Filmski" tvg-id="1000132" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Cinemax_2.png",Cinemax 2
+http://192.168.1.1:7777/udp/239.16.2.255:5000
+#EXTINF:36 group-title="Filmski" tvg-id="1000010" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/TV1000.png",TV1000
+http://192.168.1.1:7777/udp/239.11.2.126:5000
+#EXTINF:38 group-title="Filmski" tvg-id="1000154" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Klasik_TV.png",Klasik TV
+http://192.168.1.1:7777/udp/239.12.2.146:5000
+#EXTINF:39 group-title="Filmski" tvg-id="1000096" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Film.png",Pink Film
+http://192.168.1.1:7777/udp/239.17.2.248:5000
+#EXTINF:40 group-title="Filmski" tvg-id="1000350" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Movies.png",Pink Movies
+http://192.168.1.1:7777/udp/239.17.2.76:5000
+#EXTINF:45 group-title="Filmski" tvg-id="2000000040" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Universal_Channel.png",Universal Channel
+http://192.168.1.1:7777/udp/239.11.2.125:5000
+#EXTINF:606 group-title="Dokumentarni" tvg-id="2000000054" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Discovery_Channel_HD.png",Discovery Showcase HD
+http://192.168.1.1:7777/udp/239.19.14.229:5000
+#EXTINF:607 group-title="Dokumentarni" tvg-id="1000291" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Animal_Planet_HD.png",Animal Planet HD
+http://192.168.1.1:7777/udp/239.19.14.231:5000
+#EXTINF:608 group-title="Dokumentarni" tvg-id="1000049" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/National_Geographic_HD.png",National Geographic HD
+http://192.168.1.1:7777/udp/239.19.14.213:5000
+#EXTINF:609 group-title="Dokumentarni" tvg-id="1000167" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/National_Geographic_Wild_HD.png",National Geographic Wild HD
+http://192.168.1.1:7777/udp/239.19.14.214:5000
+#EXTINF:610 group-title="Dokumentarni" tvg-id="1000048" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/History_Channel_HD.png",History Channel HD
+http://192.168.1.1:7777/udp/239.19.14.215:5000
+#EXTINF:616 group-title="Dokumentarni" tvg-id="1000168" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Travel_Channel_HD.png",Travel Channel HD
+http://192.168.1.1:7777/udp/239.19.14.216:5000
+#EXTINF:-1 group-title="Dokumentarni" tvg-id="Outdoor Channel" tvg-name="Outdoor Channel" tvg-logo="Outdoor_Channel.png",Outdoor Channel HD
+http://192.168.1.1:7777/udp/239.19.14.210:5000
+#EXTINF:61 group-title="Dokumentarni" tvg-id="42" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/National_Geographic.png",National Geographic
+http://192.168.1.1:7777/udp/239.11.2.104:5000
+#EXTINF:63 group-title="Dokumentarni" tvg-id="26" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Discovery_Channel.png",Discovery Channel
+http://192.168.1.1:7777/udp/239.11.2.81:5000
+#EXTINF:64 group-title="Dokumentarni" tvg-id="28" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Discovery_Science.png",Discovery Science
+http://192.168.1.1:7777/udp/239.12.2.141:5000
+#EXTINF:65 group-title="Dokumentarni" tvg-id="27" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Discovery_World.png",Discovery World
+http://192.168.1.1:7777/udp/239.12.2.148:5000
+#EXTINF:66 group-title="Dokumentarni" tvg-id="1000250" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Discovery_ID.png",Discovery ID
+http://192.168.1.1:7777/udp/239.12.2.145:5000
+#EXTINF:67 group-title="Dokumentarni" tvg-id="1000153" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Crime_&_Investigation.png",Crime & Investigation
+http://192.168.1.1:7777/udp/239.12.2.173:5000
+#EXTINF:69 group-title="Dokumentarni" tvg-id="1000046" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Viasat_History.png",Viasat History
+http://192.168.1.1:7777/udp/239.12.2.160:5000
+#EXTINF:70 group-title="Dokumentarni" tvg-id="1000081" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Viasat_Nature.png",Viasat Nature
+http://192.168.1.1:7777/udp/239.12.2.169:5000
+#EXTINF:71 group-title="Dokumentarni" tvg-id="1000045" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Viasat_Explorer.png",Viasat Explorer
+http://192.168.1.1:7777/udp/239.12.2.156:5000
+#EXTINF:72 group-title="Dokumentarni" tvg-id="44" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/CBS_Reality.png",CBS Reality
+http://192.168.1.1:7777/udp/239.11.2.129:5000
+#EXTINF:74 group-title="Dokumentarni" tvg-id="1000292" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/TLC.png",TLC
+http://192.168.1.1:7777/udp/239.12.2.163:5000
+#EXTINF:77 group-title="Dokumentarni" tvg-id="1000055" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Da_Vinci_Learning.png",Da Vinci Learning
+http://192.168.1.1:7777/udp/239.11.2.80:5000
+#EXTINF:79 group-title="Dokumentarni" tvg-id="1000245" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Lov_i_ribolov.png",Lov i ribolov
+http://192.168.1.1:7777/udp/239.11.2.92:5000
+#EXTINF:132 group-title="Dokumentarni" tvg-id="1000393" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Planet_Earth.png",Planet Earth HD
+http://192.168.1.1:7777/udp/239.14.14.63:5000
+#EXTINF:605 group-title="Zabavni" tvg-id="1000307" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/24Kitchen_Adria_HD.png",24Kitchen Adria HD
+http://192.168.1.1:7777/udp/239.19.14.221:5000
+#EXTINF:634 group-title="Otroški" tvg-id="1000301" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Nickelodeon_HD.png",Nickelodeon HD
+http://192.168.1.1:7777/udp/239.19.14.211:5000
+#EXTINF:300 group-title="Zabavni" tvg-id="1000346" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_2.png",Pink 2
+http://192.168.1.1:7777/udp/239.17.2.79:5000
+#EXTINF:301 group-title="Zabavni" tvg-id="1000095" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Extra.png",Pink Extra
+http://192.168.1.1:7777/udp/239.17.2.249:5000
+#EXTINF:302 group-title="Zabavni" tvg-id="1000348" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Family.png",Pink Family
+http://192.168.1.1:7777/udp/239.17.2.78:5000
+#EXTINF:303 group-title="Zabavni" tvg-id="107" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Plus.png",Pink Plus
+http://192.168.1.1:7777/udp/239.17.2.246:5000
+#EXTINF:304 group-title="Zabavni" tvg-id="1000351" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Reality.png",Pink Reality
+http://192.168.1.1:7777/udp/239.17.2.70:5000
+#EXTINF:305 group-title="Zabavni" tvg-id="1000353" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_Zabava.png",Pink Zabava
+http://192.168.1.1:7777/udp/239.17.2.72:5000
+#EXTINF:306 group-title="Informativni" tvg-id="pinkworld" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Pink_World.png",Pink World
+http://192.168.1.1:7777/udp/239.17.2.71:5000
+#EXTINF:900 group-title="Za odrasle" tvg-id="1000293" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Balkan_Erotic.png",Balkan Erotic
+http://192.168.1.1:7777/udp/239.18.2.232:5000
+#EXTINF:903 group-title="Za odrasle" tvg-id="1000304" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Daring_TV.png",Private TV
+http://192.168.1.1:7777/udp/239.18.2.239:5000
+#EXTINF:905 group-title="Za odrasle" tvg-id="1000306" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Hustler_TV.png",Hustler TV
+http://192.168.1.1:7777/udp/239.18.2.240:5000
+#EXTINF:906 group-title="Za odrasle" tvg-id="1000228" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Net_XXL.png",Net XXL
+http://192.168.1.1:7777/udp/239.18.2.237:5000
+#EXTINF:907 group-title="Za odrasle" tvg-id="1000294" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Play_House.png",Play House
+http://192.168.1.1:7777/udp/239.18.2.235:5000
+#EXTINF:908 group-title="Za odrasle" tvg-id="1000303" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Hot_Pleasure.png",Hot Pleasure
+http://192.168.1.1:7777/udp/239.18.2.238:5000
+#EXTINF:909 group-title="Za odrasle" tvg-id="1000020" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/SCT.png",Exotica TV
+http://192.168.1.1:7777/udp/239.18.2.234:5000
+#EXTINF:910 group-title="Za odrasle" tvg-id="1000018" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Hustler_TV_HD.png",Hustler TV HD
+http://192.168.1.1:7777/udp/239.18.14.241:5000
+#EXTINF:920 group-title="Za odrasle" tvg-id="1000342" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Super_One.png",SuperOne HD
+http://192.168.1.1:7777/udp/239.18.1.242:5000
+#EXTINF:923 group-title="Za odrasle" tvg-id="1000408" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Sexation_TV.png",Sexation TV HD
+http://192.168.1.1:7777/udp/239.12.14.62:5000
+#EXTINF:941 group-title="Za odrasle" tvg-id="1000449" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Taboo.png",Taboo HD
+http://192.168.1.1:7777/udp/239.15.14.197:5000
+#EXTINF:926 group-title="Za odrasle" tvg-id="1000446" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Bangerz.png",Bangerz HD
+http://192.168.1.1:7777/udp/239.15.14.192:5000
+#EXTINF:935 group-title="Za odrasle" tvg-id="1000447" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Lesbian_Affair.png",Lesbian Affair HD
+http://192.168.1.1:7777/udp/239.15.14.193:5000
+#EXTINF:929 group-title="Za odrasle" tvg-id="1000450" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Emanuelle.png",Emanuelle HD
+http://192.168.1.1:7777/udp/239.15.14.198:5000
+#EXTINF:938 group-title="Za odrasle" tvg-id="1000450" tvg-logo="http://appinstaller.kralj.info/iptvplayer/logo/small/Oldtimer.png",Oldtimer HD
+http://192.168.1.1:7777/udp/239.15.14.199:5000
