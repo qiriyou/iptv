@@ -523,230 +523,156 @@ http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/13.ts
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="ab",
-3 Plus
+#EXTINF:-1, 3 plus
+
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/333387319?ticket=F5961928A997EDD80FE2C7590601CAC2CFC665B9&profile=pass
-#EXTINF:-1 tvg-id="a4bce5098edf5a0ee8bdda36014ffbde",
-7 News
+#EXTINF:-1, 7 News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/166050980?ticket=AB8E33B8D6C424A2E3412394F6FED1340262F785&profile=pass
-#EXTINF:-1 tvg-id="aeb20d133f833f38ac550175025d4fe6",
-ABC News
+#EXTINF:-1, ABC News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/319664814?ticket=D5AC097EF33A28F5528EFACE0CF6B66A2047F351&profile=pass
-#EXTINF:-1 tvg-id="7e9d5ed8776c68414ed9429fb0d58d27",
-Aksion
+#EXTINF:-1, Aksion
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1482595710?ticket=6AFEC9A1B6F412E0E83089742F101EC6A534A2FA&profile=pass
-#EXTINF:-1 tvg-id="f19249ca6712ad0bc34f8cf6b86753b0",
-Alsat-M HD
+#EXTINF:-1, Alsat-M HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1246335729?ticket=5B20411E0272649E59ADD3F97838740EEDCB08C0&profile=pass
-#EXTINF:-1 tvg-id="e41c64929f68c184ae58dbdad2b75420",
-Arta-HD
+#EXTINF:-1, Arta-HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/308550884?ticket=0AA5429C081194A1E4427856536CF96A06EDC491&profile=pass
-#EXTINF:-1 tvg-id="c8d84af6f984cee6add2f3a6a54ca216",
-Bang Bang
+#EXTINF:-1, Bang Bang
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1984616648?ticket=88C74C0D16673E9F2A591A6226E9B255DB09A4D0&profile=pass
-#EXTINF:-1 tvg-id="99063a5c17c3060c17b302aad6876489",
-Cufo-TV
+#EXTINF:-1, Cufo-TV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1547306649?ticket=3C61666DEA6FE166D5A0219B040390AACD51FA0F&profile=pass
-#EXTINF:-1 tvg-id="5f2c47e265da38caaccc96e53034dd41",
-EXPLORER Natyra
+#EXTINF:-1, EXPLORER Natyra
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1648831583?ticket=24DB2D5F49487439EF9148E7BE4C2D500913928E&profile=pass
-#EXTINF:-1 tvg-id="a5c74dff374befef42e3c75fa5de3da9",
-EXPLORER Shkence
+#EXTINF:-1, EXPLORER Shkence
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2135803813?ticket=7B9502D5F56CBCB91B8CDA84BB20ACB3E67A4934&profile=pass
-#EXTINF:-1 tvg-id="73ab2fb702158ea0a2481f2c92b79b35",
-Film Aksion
+#EXTINF:-1, Film Aksion
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/925870963?ticket=6080209D0ACAB18E8793B3426E2850C71E942182&profile=pass
-#EXTINF:-1 tvg-id="7e5973efd4690e50266a65e17579d472",
-Film Autor
+#EXTINF:-1, Film Autor
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1869830526?ticket=46AC523659B8E2F79C1785EF1F03514F1FCFA91F&profile=pass
-#EXTINF:-1 tvg-id="7e5ef4ade1d96a77d6afba8f5ff5d32b",
-Film Dy HD
+#EXTINF:-1, Film Dy HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/770989694?ticket=92CDAA26B55B508793188454E490783B1E7100E2&profile=pass
-#EXTINF:-1 tvg-id="460db75b2802bd9d2acd70c237185857",
-Film Hits
+#EXTINF:-1, Film Hits
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1538723142?ticket=7BECD57AA76695961222D3FCA9FBEF9D8002C917&profile=pass
-#EXTINF:-1 tvg-id="f506d59afa1aefdee8419c9d07f5a028",
-Film Komedi
+#EXTINF:-1, Film Komedi
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/450168565?ticket=9A14B44F8A705E523555F0FB07407A6566502498&profile=pass
-#EXTINF:-1 tvg-id="dc5035028c16a0b6e2de801d4f75b59a",
-Film Nje HD
+#EXTINF:-1, Film Nje HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/37048540?ticket=81A5A869B79E15FB0A739AC57713AB855AED9E17&profile=pass
-#EXTINF:-1 tvg-id="2939d431ada770d4c02556c9aca0f53b",
-first Channel
+#EXTINF:-1, first Channel
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/835991849?ticket=661F403F82F5C691F9E25AF5F7628B82102EED5F&profile=pass
-#EXTINF:-1 tvg-id="86c0b85900d9572e71386cc1eca15212",
-Klan KS HD
+#EXTINF:-1, Klan KS HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1505280134?ticket=E4BA2035DDC42B8122CB687CADA35B553AEB8437&profile=pass
-#EXTINF:-1 tvg-id="14afcd0d87e93e9abc5d08bead117e54",
-Klan TV
+#EXTINF:-1, Klan TV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/231583508?ticket=E2B6540A55997F0A9FC9A845BBEA427A8B49D856&profile=pass
-#EXTINF:-1 tvg-id="cbfb971396877551dcec0c57286979d4",
-Klan TV HD
+#EXTINF:-1, Klan TV HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/328727499?ticket=82990C5361F0E04C86BB06B4C3B0EBBCBEBC8ABD&profile=pass
-#EXTINF:-1 tvg-id="c81bf8d84f4c221d9426a28df82d52e0",
-KTV
+#EXTINF:-1, KTV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1492655048?ticket=4763EFDF118521276F20FD2C0188896BD626A782&profile=pass
-#EXTINF:-1 tvg-id="85552f20b4e1fef0219fcaa7c3da7d37",
-Kujtesa Sport 1
+#EXTINF:-1, Kujtesa Sport 1
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/539972997?ticket=51983BE7A3B099B54486F36A6DE18A4F049A3B5A&profile=pass
-#EXTINF:-1 tvg-id="893f4de07b41f8748e2df24dabab2166",
-Kujtesa Sport 2
+#EXTINF:-1, Kujtesa Sport 2
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1615675273?ticket=D992CB6D703D17C30A7F821CF17BE7750D8C09DA&profile=pass
-#EXTINF:-1 tvg-id="7002dbac0e3a8fa69e3ac1c011eb234c",
-Living
+#EXTINF:-1, Living
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/752550512?ticket=24214675903D63B84C9EA66CA90583DDA8E29847&profile=pass
-#EXTINF:-1 tvg-id="9833659ff2b372ed13b2d45dc6c817d4",
-Living HD
+#EXTINF:-1, Living HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/526726040?ticket=203A48449EF20C941F340B4CEA64609BA794F864&profile=pass
-#EXTINF:-1 tvg-id="49a4bda7c1e8eefa0bafc96ed2eb82db",
-MKTV2
+#EXTINF:-1, MKTV2
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/666739785?ticket=8924368500077F5666F9A7BF679370B277E99606&profile=pass
-#EXTINF:-1 tvg-id="d9ceb557076f6c543077d56f24d67a5f",
-News 24
+#EXTINF:-1, News 24
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1471532761?ticket=FC7D9C065E1EF1D1D68D4217A45EB1259E95EE50&profile=pass
-#EXTINF:-1 tvg-id="fa3686bca5852f92388ba2e26defa333",
-Ora News 
+#EXTINF:-1,Ora News 
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1015428858?ticket=88957697345D718346B7EB99D8AEFA9756F4D013&profile=pass
-#EXTINF:-1 tvg-id="7160175ffc9f14f2027cbd8068495b94",
-ritaTV
+#EXTINF:-1, ritaTV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1595367537?ticket=2846A5DB7E02953FBFB6AA6A510046DA8A45D092&profile=pass
-#EXTINF:-1 tvg-id="39886006f7926dd894814a516035d7e8",
-Rrokum TV
+#EXTINF:-1, Rrokum TV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/106989625?ticket=286D76DF9E4984132C99CCE08F5D6BDD2A5E8A13&profile=pass
-#EXTINF:-1 tvg-id="3bcd66a48356b2c121a81cfb41e54f9d",
-RTK 1
+#EXTINF:-1,RTK 1
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/610716987?ticket=4C62807E373101E992064D9A6C4CA8C58FC2C811&profile=pass
-#EXTINF:-1 tvg-id="dabca7e369b683ca16f188735591145e",
-RTSH1
+#EXTINF:-1, RTSH1
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1671937242?ticket=7BC419BFC362674C307FB0D238A3E751DC5EC9F1&profile=pass
-#EXTINF:-1 tvg-id="7148ac36bd0b035a5c496e2ad0cc9fdf",
-RTV 21
+#EXTINF:-1, RTV 21
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/917260401?ticket=23ACD53D780168951523F4162060321574A1C491&profile=pass
-#EXTINF:-1 tvg-id="dd77212e0c566a1a03a88b95e7ae39d1",
-RTV 21 MK
+#EXTINF:-1, RTV 21 MK
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/773945309?ticket=35ECA83BDC84B1C97B645C07E8F59C91107A8B20&profile=pass
-#EXTINF:-1 tvg-id="3253d053f25cc4f47fc4711280fdf6fe",
-RTV21 Popullore
+#EXTINF:-1, RTV21 Popullore
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1406161714?ticket=F83D10D824739454982B1314ACAC994B9596D92F&profile=pass
-#EXTINF:-1 tvg-id="821bd5b0312eaf603a72ec3ea9e43866",
-Sport Plus 1
+#EXTINF:-11Sport Plus 1
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/819272578?ticket=A2778527263E658325155693C04E8CF4897DB3F6&profile=pass
-#EXTINF:-1 tvg-id="8dc609700b5fb3c2cdcde9b291e18635",
-Sport Plus 2
+#EXTINF:-1, Sport Plus 2
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1879688845?ticket=80B8FA2247BA85E2849278F811F737F3948ED633&profile=pass
-#EXTINF:-1 tvg-id="9ff422b2beb610080716a16c140016fc",
-Sport Plus 3
+#EXTINF:-1, Sport Plus 3
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/841151647?ticket=7DAF5909317686CCB6508DB7052AF38750C9CACC&profile=pass
-#EXTINF:-1 tvg-id="b922c87af77829171456d9155feeb9ac",
-Sport Plus 4
+#EXTINF:-1, Sport Plus 4
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2059936441?ticket=161136B802BEE74C6EB1A1C035DB20C780BD7C83&profile=pass
-#EXTINF:-1 tvg-id="2d728db84fcdd72caa94877965932976",
-Super Sport 2
+#EXTINF:-1, Super Sport 2
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/948793901?ticket=BDE48018D71B8062B0F56D6C3843C5E3A603836F&profile=pass
-#EXTINF:-1 tvg-id="0b2ff9fe507b2b88828ecc4cc211a0e3",
-Super Sport 2 HD
+#EXTINF:-1, Super Sport 2 HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2130259723?ticket=8B191B17C4D1C969BC5F5D802429B1606D5D890B&profile=pass
-#EXTINF:-1 tvg-id="e11d155b20bf29f0cdd9dcf821c7129b",
-Super Sport 3
+#EXTINF:-1, Super Sport 3
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1528110561?ticket=80FBAF3650C551E6FCF28E35714BB644F5CE2EE2&profile=pass
-#EXTINF:-1 tvg-id="9e1b7fdbc821a51c68168055a0a23878",
-Super Sport 3 HD
+#EXTINF:-1, Super Sport 3 HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1535056798?ticket=2812BE9EF787A2983887E8E9C337E4729AB01EE2&profile=pass
-#EXTINF:-1 tvg-id="a24819cdaef68dbdc39022797a1d4f7e",
-Super Sport 4
+#EXTINF:-1,Super Sport 4
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1293502626?ticket=0033B793617AF3E2CF0D2C32B5FF8A3D10BA2AB1&profile=pass
-#EXTINF:-1 tvg-id="15793cd222ab033722df943556e3e661",
-Super Sport 4 HD
+#EXTINF:-1, Super Sport 4 HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1379694869?ticket=8302CE20DF30C302EBB68818946B25310E81C403&profile=pass
-#EXTINF:-1 tvg-id="bd90e6986d32cbbbd1ae514973178f01",
-Super Sport 5
+#EXTINF:-1, Super Sport 5
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/417763517?ticket=7F3BF21923A5F5373B12B697A41ECF68AD0029D5&profile=pass
-#EXTINF:-1 tvg-id="4cb13298ea028e3c93c4e3867c171fb8",
-Super Sport News
+#EXTINF:-1, Super Sport News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/405975372?ticket=F2BDD66A89C8E565635380CBCECEC3DCCB94AA6E&profile=pass
-#EXTINF:-1 tvg-id="fcd1607de59201265bd941efbe5d9f88",
-Syri Vision
+#EXTINF:-1, Syri Vision
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2103497212?ticket=163C8FA06EF36FD430773A72C2D7AD35013799F4&profile=pass
-#EXTINF:-1 tvg-id="e930c0d8041196755a5987b9cc02780c",
-T HD
+#EXTINF:-1, T HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1488990441?ticket=36AE051987C330D2392F9A64558F169F2FBB86D3&profile=pass
-#EXTINF:-1 tvg-id="69eb9d01f3ecc6b0c328bc4c6c1c074e",
-TEST TRT Turk (new)
+#EXTINF:-1, TEST TRT Turk (new)
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/27126633?ticket=490F6B78C03D047B0A0D9A6CE1FC70DC957E452B&profile=pass
-#EXTINF:-1 tvg-id="506feaffa206a68a0cea5fd221c714c4",
-TEST TRT1 (new)
+#EXTINF:-1, TEST TRT1 (new)
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2146070352?ticket=E42495BC5C2C73F53017DCBD85B0A5BDC553EA2D&profile=pass
-#EXTINF:-1 tvg-id="b45a6e2c3e6929b039d2fdfc441fef6c",
-Tip TV
+#EXTINF:-1, Tip TV
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/745429684?ticket=C7E024D59E06B323B1B7DB70CC0101648D3933AF&profile=pass
-#EXTINF:-1 tvg-id="cb02bb9a870b4e1cc7c158e4366523dd",
-Top Channel
+#EXTINF:-1, Top Channel
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/448463563?ticket=95CB831CAC75781DCF7F2EFBE58F509B444C31AB&profile=pass
-#EXTINF:-1 tvg-id="ceedd64875aa4669beddf166e3fedd8d",
-Top Channel HD
+#EXTINF:-1, Top Channel HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1222045134?ticket=09D4026934CF4C7F5AF4229DF25179B703019A71&profile=pass
-#EXTINF:-1 tvg-id="6b070ecacba830993a1ec16fe1d17b2a",
-Top News
+#EXTINF:-1, Top News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1242433387?ticket=AAA3515334BB68E3872B72F082809F3BFB3388F7&profile=pass
-#EXTINF:-1 tvg-id="9f5014fe6ae9fc017bf05db83183c6c1",
-Tring Action
+#EXTINF:-1, Tring Action
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2115260575?ticket=90416242654B3C87E18247DBD071F02BF65300B8&profile=pass
-#EXTINF:-1 tvg-id="546dd68d10c91a2b4633ca2d0e629b53",
-Tring Comedy
+#EXTINF:-1, Tring Comedy
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/232156500?ticket=2C4C922F0438C512004358A29DB28CECC11831AE&profile=pass
-#EXTINF:-1 tvg-id="3f1bc0217b0b898e245e52fb2b53f259",
-Tring Fantasy
+#EXTINF:-1, Tring Fantasy
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/566238015?ticket=385A7797F2C5D6C7C58EFD78101B8660C88444E4&profile=pass
-#EXTINF:-1 tvg-id="93330f28a60700d6a96bd6f990bd92fb",
-Tring History
+#EXTINF:-1, Tring History
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/672084883?ticket=AF1F0F055E689ECBB761D82D4A65867E1B4EE4F0&profile=pass
-#EXTINF:-1 tvg-id="35f735e027f014c566d68487a13c8efe",
-Tring International
+#EXTINF:-1, Tring International
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1614149429?ticket=F1450AB80A24E4DE8D367CD0D928F7F95CC64D16&profile=pass
-#EXTINF:-1 tvg-id="7d7420cb4e20332748c83fcfdcde7eb9",
-Tring Life
+#EXTINF:-1, Tring Life
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1260418173?ticket=EE98E489F4FD7A2F0D78363B01091D5A4DB781D4&profile=pass
-#EXTINF:-1 tvg-id="9102029de1078aef1564fdaff4b37b0f",
-Tring Planet
+#EXTINF:-1, Tring Planet
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/486670993?ticket=521B14DACBCF0CE4F9B5528BDC823FEFD8D31E33&profile=pass
-#EXTINF:-1 tvg-id="b62e22c43ec59cf5218e6f3cd9e2f72d",
-Tring Shqip
+#EXTINF:-1, Tring Shqip
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1143090870?ticket=39B7AAEF20E636D038B0BB5105400B4D8CF0C74B&profile=pass
-#EXTINF:-1 tvg-id="b87aa1c06c4121ac5187dd9379b8fee9",
-Tring Sport 1
+#EXTINF:-1, Tring Sport 1
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1084324536?ticket=E3AA9B62826346FB32C83B7025F4483EE2DB71E5&profile=pass
-#EXTINF:-1 tvg-id="f84562c568320a70b4e15294073a7ba5",
-Tring Sport 1 HD
+#EXTINF:-1, Tring Sport 1 HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1164068344?ticket=0479A15EF779C35B766BDA36CD824B3CD55485ED&profile=pass
-#EXTINF:-1 tvg-id="1f7f31e523167a3baa3bdbcacd95d447",
-Tring Sport 2
+#EXTINF:-1, Tring Sport 2
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1697742623?ticket=E70119B9100984AABAB8B48E149E5B658922C286&profile=pass
-#EXTINF:-1 tvg-id="ae70684629ad6b7525a66e0cca8385e2",
-Tring Sport 2 HD
+#EXTINF:-1, Tring Sport 2 HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1181249710?ticket=D55983794A90BA207534292E8EFEDB2A470E09ED&profile=pass
-#EXTINF:-1 tvg-id="80cfd07b4b92399f4ce5d75410db3d56",
-Tring Sport 3
+#EXTINF:-1, Tring Sport 3
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/2077282176?ticket=AD2550455DD7C37873A08243404D099ECA5D392C&profile=pass
-#EXTINF:-1 tvg-id="a8c364d8f1cdacb900c80325302abdda",
-Tring Sport 4
+#EXTINF:-1, Tring Sport 4
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1482998696?ticket=626366AFC99A19B302BA8CEEA5040FB5CB3644D1&profile=pass
-#EXTINF:-1 tvg-id="d11f4c8fae5b425a6ab108748d0a6c9a",
-Tring Sport News
+#EXTINF:-1, Tring Sport News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/256647121?ticket=59D441043543F21DA8D340EF1D7FCC58881E40B5&profile=pass
-#EXTINF:-1 tvg-id="3e01dad6ea294006472f213361fd3577",
-Tring Super
+#EXTINF:-1, Tring Super
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1457127742?ticket=FB22EBD4C08F3405A7AE88615BEF44CFC9205137&profile=pass
-#EXTINF:-1 tvg-id="4f5b279c2fafbd5afa970c6ce7c3595d",
-Tring Tring
+#EXTINF:-1,Tring Tring
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/472341327?ticket=2F8C21D55A6E0D5F338743BE2E9B1CDE2ACA32B5&profile=pass
-#EXTINF:-1 tvg-id="11fe2d726fcfcd89adee47509828880e",
-Tring World
+#EXTINF:-1, Tring World
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1915616785?ticket=7668D39A87D9AEACF16C619A1135BC8E803F2941&profile=pass
-#EXTINF:-1 tvg-id="0ef9d462c76a3e60cb737e7a3f59eda4",
-Vizion Plus
+#EXTINF:-1, Vizion Plus
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/1658124558?ticket=DC96DF6436098B3BC91CD325314FED18468DF0E1&profile=pass
-#EXTINF:-1 tvg-id="2069a331b27951785e38ac19e2956494",
-Vizion Plus HD
+#EXTINF:-1, Vizion Plus HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/832792864?ticket=B5A305C6D7DAC87B47DBD71975316C48FEE924B5&profile=pass
 
 #EXTM3U
