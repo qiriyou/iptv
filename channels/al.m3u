@@ -523,7 +523,7 @@ http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/13.ts
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="3716df13e0c79761fb863a658d6d082f",
+#EXTINF:-1 tvg-id="ab",
 3 Plus
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/333387319?ticket=F5961928A997EDD80FE2C7590601CAC2CFC665B9&profile=pass
 #EXTINF:-1 tvg-id="a4bce5098edf5a0ee8bdda36014ffbde",
