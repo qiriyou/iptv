@@ -748,3 +748,166 @@ http://iptvshqiplive.diskstation.org:9981/stream/channelid/1658124558?ticket=DC9
 #EXTINF:-1 tvg-id="2069a331b27951785e38ac19e2956494",
 Vizion Plus HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/832792864?ticket=B5A305C6D7DAC87B47DBD71975316C48FEE924B5&profile=pass
+
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,KINO 4
+http://163.172.35.210:8000/live/New/Tvfalas/294.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X HACKER
+http://163.172.35.210:8000/live/New/Tvfalas/293.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,ALB FILM 2
+http://163.172.35.210:8000/live/New/Tvfalas/271.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,ALB FILM 1
+http://163.172.35.210:8000/live/New/Tvfalas/270.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Bugs
+http://163.172.35.210:8000/live/New/Tvfalas/292.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Mr Bean Film
+http://163.172.35.210:8000/live/New/Tvfalas/291.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X THRILLER
+http://163.172.35.210:8000/live/New/Tvfalas/281.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X DRAMA
+http://163.172.35.210:8000/live/New/Tvfalas/280.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X DARK
+http://163.172.35.210:8000/live/New/Tvfalas/279.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X COMEDY
+http://163.172.35.210:8000/live/New/Tvfalas/282.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X ACTION
+http://163.172.35.210:8000/live/New/Tvfalas/278.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,rz 5
+http://163.172.35.210:8000/live/New/Tvfalas/253.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Tomi dhe xherri
+http://163.172.35.210:8000/live/New/Tvfalas/165.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,RZ 2
+http://163.172.35.210:8000/live/New/Tvfalas/250.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,rz 6
+http://163.172.35.210:8000/live/New/Tvfalas/254.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,RZ 3
+http://163.172.35.210:8000/live/New/Tvfalas/251.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,RZ 1
+http://163.172.35.210:8000/live/New/Tvfalas/249.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,RZ 4
+http://163.172.35.210:8000/live/New/Tvfalas/252.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Bang bang
+http://163.172.35.210:8000/live/New/Tvfalas/242.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,The Lion king
+http://163.172.35.210:8000/movie/New/Tvfalas/234.mp4
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM THRILLER
+http://163.172.35.210:8000/live/New/Tvfalas/201.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM AUTOR
+http://163.172.35.210:8000/live/New/Tvfalas/202.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM HITS
+http://163.172.35.210:8000/live/New/Tvfalas/161.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,T HD
+http://163.172.35.210:8000/live/New/Tvfalas/142.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SOFIa
+http://163.172.35.210:8000/live/New/Tvfalas/139.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM KOMEDI
+http://163.172.35.210:8000/live/New/Tvfalas/138.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM DRAME
+http://163.172.35.210:8000/live/New/Tvfalas/141.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM AKSION
+http://163.172.35.210:8000/live/New/Tvfalas/137.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FILM DY HD
+http://163.172.35.210:8000/live/New/Tvfalas/140.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,mr bean kukulla
+http://163.172.35.210:8000/live/New/Tvfalas/126.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SHQIPMIMI
+http://163.172.35.210:8000/live/New/Tvfalas/127.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,VIZION PLUS
+http://163.172.35.210:8000/live/New/Tvfalas/117.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,KLAN PLUS
+http://163.172.35.210:8000/live/New/Tvfalas/118.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,TOP CHANNEL
+http://163.172.35.210:8000/live/New/Tvfalas/116.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,klan HD
+http://163.172.35.210:8000/live/New/Tvfalas/115.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,KINO 3
+http://163.172.35.210:8000/live/New/Tvfalas/110.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SHQIP dark
+http://163.172.35.210:8000/live/New/Tvfalas/106.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,KINO 1
+http://163.172.35.210:8000/live/New/Tvfalas/107.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SHQIP HINDI
+http://163.172.35.210:8000/live/New/Tvfalas/111.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,FOX X DRAME
+http://163.172.35.210:8000/live/New/Tvfalas/108.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Tv shqip
+http://163.172.35.210:8000/live/New/Tvfalas/109.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SHQIP CINEMA
+http://163.172.35.210:8000/live/New/Tvfalas/112.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,SHQIP AKSION
+http://163.172.35.210:8000/live/New/Tvfalas/105.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,CUFO TV
+http://163.172.35.210:8000/live/New/Tvfalas/100.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,X SHKENCE
+http://163.172.35.210:8000/live/New/Tvfalas/95.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,JUNIOR TV
+http://163.172.35.210:8000/live/New/Tvfalas/94.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Super SPORT 5 HD
+http://163.172.35.210:8000/live/New/Tvfalas/46.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Super SPORT 4 HD
+http://163.172.35.210:8000/live/New/Tvfalas/47.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Super SPORT 3 HD
+http://163.172.35.210:8000/live/New/Tvfalas/48.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Super SPORT 2 HD
+http://163.172.35.210:8000/live/New/Tvfalas/49.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,Super SPORT 1
+http://163.172.35.210:8000/live/New/Tvfalas/50.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,ALSAT M
+http://163.172.35.210:8000/live/New/Tvfalas/74.ts
+#EXTVLCOPT:http-user-agent=Android 8.0.0
+#EXTINF:-1,ks kids
+http://163.172.35.210:8000/live/New/Tvfalas/76.ts
+
