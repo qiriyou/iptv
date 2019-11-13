@@ -837,3 +837,980 @@ http://163.172.35.210:8000/live/New/Tvfalas/74.ts
 #EXTINF:-1,ks kids
 http://163.172.35.210:8000/live/New/Tvfalas/76.ts
 
+#EXTM3U
+#EXTINF:-1,AL: RTK 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1304
+#EXTINF:-1,AL: RTK 1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26390
+#EXTINF:-1,AL: RTK 2
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1043
+#EXTINF:-1,AL: RTK 3 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1044
+#EXTINF:-1,AL: RTK 4 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1045
+#EXTINF:-1,AL: RTV 21 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1052
+#EXTINF:-1,AL: RTV 21 Toksor
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26391
+#EXTINF:-1,AL: KTV Toksor
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26392
+#EXTINF:-1,AL: KTV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/979
+#EXTINF:-1,AL: Klan Kosova
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26393
+#EXTINF:-1,AL: Klan Kosova HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1307
+#EXTINF:-1,AL: T7 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26417
+#EXTINF:-1,AL: TV Dukagjini
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1873
+#EXTINF:-1,AL: ALSAT M  HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2330
+#EXTINF:-1,AL: Top Channel
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26396
+#EXTINF:-1,AL: TOP Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1310
+#EXTINF:-1,AL: Klan HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26394
+#EXTINF:-1,AL: KLAN HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/976
+#EXTINF:-1,Al: Vizion Plus HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26418
+#EXTINF:-1,AL: KLAN PLUS HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1475
+#EXTINF:-1,AL: Vizion Plus HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1192
+#EXTINF:-1,AL: TV Dukagjini HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26419
+#EXTINF:-1,AL: Klan +
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26395
+#EXTINF:-1,AL: Alsat M
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26397
+#EXTINF:-1,Al: Alsat M (backup)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26416
+#EXTINF:-1,AL: Rrokum tv FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1041
+#EXTINF:-1,AL: MALISHEVA TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26915
+#EXTINF:-1,AL: Besa TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/890
+#EXTINF:-1,AL: First TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/944
+#EXTINF:-1,AL: TV Koha
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1182
+#EXTINF:-1,AL: Zjarr TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1203
+#EXTINF:-1,AL: RTV 21 Maqedonia
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1312
+#EXTINF:-1,AL: Dasma TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1324
+#EXTINF:-1,AL: TV Syri Vision
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1325
+#EXTINF:-1,AL: TV Mitrovica
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1326
+#EXTINF:-1,AL: TV Shenja.
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2545
+#EXTINF:-1,AL: GlobiTV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2601
+#EXTINF:-1,AL: TV Shenja
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2681
+#EXTINF:-1,AL: RTSH 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3451
+#EXTINF:-1,AL: Alpo Tv Gjirokastër
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3470
+#EXTINF:-1,AL: Star+ Shkodra
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3852
+#EXTINF:-1,AL: MRT2
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4701
+#EXTINF:-1,AL: Uskana Tv
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6037
+#EXTINF:-1,AL: TV Dielli HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6262
+#EXTINF:-1,AL: Tema TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/7280
+#EXTINF:-1,AL: AdriaNet (Durres)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/8250
+#EXTINF:-1,AL: TV 1 Channel Shkodër FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/8882
+#EXTINF:-1,AL: RTSH SAT HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25327
+#EXTINF:-1,AL: RTSH 2
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10912
+#EXTINF:-1,AL: RTSH 3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11182
+#EXTINF:-1,AL: RTSH 24 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10975
+#EXTINF:-1,AL: RTSH SHQIP
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9535
+#EXTINF:-1,AL: RTSH PLUS
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14989
+#EXTINF:-1,AL: RTSH FILM
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10809
+#EXTINF:-1,AL: RTSH KORÇA
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11183
+#EXTINF:-1,AL: RTSH GJIROKASTRA
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/12076
+#EXTINF:-1,AL: RTSH MUZIKE
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/12483
+#EXTINF:-1,AL: RTSH KUVEND
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9308
+#EXTINF:-1,AL: RTV 21 NewsBIZ HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11294
+#EXTINF:-1,AL: TVCH FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11346
+#EXTINF:-1,AL: TV OPINION
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/12084
+#EXTINF:-1,AL: T7 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13940
+#EXTINF:-1,AL: Klan Plus
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14589
+#EXTINF:-1,AL: Boin TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/15408
+#EXTINF:-1,AL: Tv Boin
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/19234
+#EXTINF:-1,AL: Bang Bang
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/876
+#EXTINF:-1,AL: ÇUFO
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/916
+#EXTINF:-1,AL: Junior TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/958
+#EXTINF:-1,AL: TringTring
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4260
+#EXTINF:-1,AL: KS BABY HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/19720
+#EXTINF:-1,AL: Tip TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1160
+#EXTINF:-1,AL: Tring Tring
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1175
+#EXTINF:-1,AL: RTV 21 Junior
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1313
+#EXTINF:-1,AL: Cufo HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2467
+#EXTINF:-1,AL: Sofia HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2487
+#EXTINF:-1,AL: Baby Tv
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3401
+#EXTINF:-1,AL: Dream Works
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4077
+#EXTINF:-1,AL: Kids
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4259
+#EXTINF:-1,AL: Duck TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6069
+#EXTINF:-1,AL: Sole TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3289
+#EXTINF:-1,AL: KS BABY FIRST
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/7694
+#EXTINF:-1,AL: Jim Jam
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10075
+#EXTINF:-1,AL: KS KIDS
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3449
+#EXTINF:-1,AL: GJOLLI FËMIJËT
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26962
+#EXTINF:-1,AL: Luna TV (meso shqip)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14648
+#EXTINF:-1,AL: RTSH FEMIJE
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/15385
+#EXTINF:-1,AL: Euro Film
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/918
+#EXTINF:-1,AL: Film Aksion
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/929
+#EXTINF:-1,AL: Film Autor
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/930
+#EXTINF:-1,AL: Film Dramë
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/931
+#EXTINF:-1,AL: Film Dy HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/932
+#EXTINF:-1,AL: Film Hits
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/937
+#EXTINF:-1,AL: Film Komedi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/938
+#EXTINF:-1,AL: Film NJË HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/939
+#EXTINF:-1,AL: Film Thriller
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/941
+#EXTINF:-1,AL: T HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1157
+#EXTINF:-1,AL: Tring Summertime
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1163
+#EXTINF:-1,AL: Tring Fantasy
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1164
+#EXTINF:-1,AL: Tring Life
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1165
+#EXTINF:-1,AL: Tring Action
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1166
+#EXTINF:-1,AL: Tring Shqip
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1168
+#EXTINF:-1,AL: Tring Super HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1174
+#EXTINF:-1,AL: Jolly HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6095
+#EXTINF:-1,AL: KS SERIAL
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9754
+#EXTINF:-1,AL: KS FAMILY
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26918
+#EXTINF:-1,AL: Komedi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1879
+#EXTINF:-1,AL: Dramë
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2098
+#EXTINF:-1,AL: Max
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2099
+#EXTINF:-1,AL: ALB UK
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2470
+#EXTINF:-1,AL: Alb Thriller
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2475
+#EXTINF:-1,AL: ALB UK HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2573
+#EXTINF:-1,AL: Alb Hindi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2575
+#EXTINF:-1,AL: Alb Western
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2577
+#EXTINF:-1,AL: Family HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2580
+#EXTINF:-1,AL:ShqipTv Fantasy HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2594
+#EXTINF:-1,AL: SHQIP TV Hindi HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2595
+#EXTINF:-1,AL: Aksion
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2609
+#EXTINF:-1,AL: 7 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6074
+#EXTINF:-1,AL: Sky Shqip
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2623
+#EXTINF:-1,AL: Digi Gold 1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2626
+#EXTINF:-1,AL: Digi Gold 2
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2627
+#EXTINF:-1,AL: Digi Gold 3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2634
+#EXTINF:-1,AL: Digi Gold 4
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2635
+#EXTINF:-1,AL: KS PREMIER 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/16966
+#EXTINF:-1,AL: ShqipTv Komedi HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2727
+#EXTINF:-1,AL: KS Filma24 Familjar
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26919
+#EXTINF:-1,AL: KS Filma24 Premiere
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26920
+#EXTINF:-1,AL: KS Filma24 Oscars
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26921
+#EXTINF:-1,AL: KS Filma24 Aksion
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26922
+#EXTINF:-1,AL: KS Filma24 Komedi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26923
+#EXTINF:-1,AL: KS Filma24 Drame
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26924
+#EXTINF:-1,AL: KS Filma24 Romance
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26926
+#EXTINF:-1,AL: KS Filma24 Aventure
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26925
+#EXTINF:-1,AL: KS Filma24 Biografi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26927
+#EXTINF:-1,AL: KS Filma24 Krim
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26928
+#EXTINF:-1,AL: KS Filma24 Triller
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26929
+#EXTINF:-1,AL: KS Filma24 Mister
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26930
+#EXTINF:-1,AL: KS Filma24 Horror
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26931
+#EXTINF:-1,AL: KS Filma24 SCI-Fi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26932
+#EXTINF:-1,AL: KS Filma24 Western
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26933
+#EXTINF:-1,AL: KS Filma24 Animacion
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26934
+#EXTINF:-1,AL: KS Filma24 Hindi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26935
+#EXTINF:-1,AL: KS Filma24 Aziatika
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26936
+#EXTINF:-1,AL: Rajna M
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6329
+#EXTINF:-1,AL: ALB UK 2 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9309
+#EXTINF:-1,AL: Filmi Umeri r.a
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/12535
+#EXTINF:-1,AL: ALBUK HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13878
+#EXTINF:-1,AL: Tring Comedy
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25472
+#EXTINF:-1,AL: TDC
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25570
+#EXTINF:-1,AL: ABC News
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/843
+#EXTINF:-1,AL: Kanali 7 News
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/961
+#EXTINF:-1,AL: ORA News HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1001
+#EXTINF:-1,AL: Arta News HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1178
+#EXTINF:-1,AL: Report TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1461
+#EXTINF:-1,AL: News 24  HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3452
+#EXTINF:-1,AL: Top News HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4673
+#EXTINF:-1,AL: Scan TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/5822
+#EXTINF:-1,AL: Fax News
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9533
+#EXTINF:-1,AL: My Music
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2471
+#EXTINF:-1,AL: IN TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2592
+#EXTINF:-1,AL: BBF Music
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/880
+#EXTINF:-1,AL: ISP MUSIX
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26917
+#EXTINF:-1,AL: ISP SHAHIRAT
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26916
+#EXTINF:-1,AL: RTV 21 Popullore
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/825
+#EXTINF:-1,AL: Folk +
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/945
+#EXTINF:-1,AL: RTV Sharri
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1055
+#EXTINF:-1,AL: TV Diaspora
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1179
+#EXTINF:-1,AL: TV Opoja
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1185
+#EXTINF:-1,AL: ZICO TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1202
+#EXTINF:-1,AL: Supersonic TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1302
+#EXTINF:-1,AL: TV Chicago Albania
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1315
+#EXTINF:-1,AL: Music TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1318
+#EXTINF:-1,AL: TV Tetova
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1575
+#EXTINF:-1,AL: AMOL TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2478
+#EXTINF:-1,AL: Turbo Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2479
+#EXTINF:-1,AL: MTV Kosova
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2544
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2568
+#EXTINF:-1,AL: Elrodi TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2615
+#EXTINF:-1,AL: BB11 Muzik HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2622
+#EXTINF:-1,AL: Top Estrada TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2653
+#EXTINF:-1,AL: ÇAMËRIA TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3426
+#EXTINF:-1,AL: Syri Blue FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4659
+#EXTINF:-1,AL: ALB Swisse HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4663
+#EXTINF:-1,AL: Camel TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4677
+#EXTINF:-1,AL: Blue Sky TV (Shkoder)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/7832
+#EXTINF:-1,AL: Fashion TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3847
+#EXTINF:-1,AL: Rtv Zeri Danimarke
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/8281
+#EXTINF:-1,AL: Djing Hits
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13551
+#EXTINF:-1,AL: Club TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20163
+#EXTINF:-1,AL: Shota TV 4K UHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22474
+#EXTINF:-1,AL: Spin TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22745
+#EXTINF:-1,AL: RTV Fontana
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22990
+#EXTINF:-1,AL: KS MUSIC 4K
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26060
+#EXTINF:-1,AL: Tring 3+
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/827
+#EXTINF:-1,AL: Stinet
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/940
+#EXTINF:-1,AL: Living HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/983
+#EXTINF:-1,AL: Tring Smile
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1124
+#EXTINF:-1,AL: Muse
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2488
+#EXTINF:-1,AL: Novela
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3846
+#EXTINF:-1,AL: FOX Life
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3849
+#EXTINF:-1,AL: 24 Kitchen
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3851
+#EXTINF:-1,AL: FOX Crime
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3893
+#EXTINF:-1,AL: FOX
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4116
+#EXTINF:-1,AL: Food Network
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11440
+#EXTINF:-1,AL: FOX Movies
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11512
+#EXTINF:-1,AL: Comedy Central Extra
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20912
+#EXTINF:-1,AL: Explorer Histori
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/922
+#EXTINF:-1,AL: Explorer Natyra
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/923
+#EXTINF:-1,AL: Explorer Shkence
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/924
+#EXTINF:-1,AL: Tring Planet
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1167
+#EXTINF:-1,AL: Tring World
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1176
+#EXTINF:-1,AL: Tring History
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1316
+#EXTINF:-1,AL: Histori
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2100
+#EXTINF:-1,AL: Shkence
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2579
+#EXTINF:-1,AL: National Geographic
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3850
+#EXTINF:-1,AL: Travel Channel
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3872
+#EXTINF:-1,AL: Gjurmë Shqipëtare TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/7837
+#EXTINF:-1,AL: NatGeo WILD HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10070
+#EXTINF:-1,AL: Animal Planet HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10916
+#EXTINF:-1,AL: Planet
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11853
+#EXTINF:-1,AL: KS Film Islam HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25586
+#EXTINF:-1,AL: Peace TV Shqip HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1003
+#EXTINF:-1,AL: RTV Islam
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1054
+#EXTINF:-1,AL: RTV Pendimi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13302
+#EXTINF:-1,AL: KURAN HIDAYAH
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25125
+#EXTINF:-1,AL: GJOLLI MUZIKE
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26938
+#EXTINF:-1,AL: GJOLLI ISLAM
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26948
+#EXTINF:-1,AL: KS ISLAM TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6333
+#EXTINF:-1,AL: Peace tv (English)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2543
+#EXTINF:-1,AL: KS HITS HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9936
+#EXTINF:-1,AL: KS PREMIERE 2 GISHT MJALTE 4K
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25403
+#EXTINF:-1,DE: Das Erste SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/917
+#EXTINF:-1,DE: Kabel 1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/959
+#EXTINF:-1,DE: ORF 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1002
+#EXTINF:-1,DE: RTL II
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1047
+#EXTINF:-1,DE: RTL HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1048
+#EXTINF:-1,DE: Sat 1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1056
+#EXTINF:-1,DE: Sky Atlantic
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1062
+#EXTINF:-1,DE: Sky Cinema Comedy FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1081
+#EXTINF:-1,DE: Disney Cinemagic
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1082
+#EXTINF:-1,DE: COMEDY CENTRAL
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1084
+#EXTINF:-1,DE: Sky Krimi
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1086
+#EXTINF:-1,DE: Nickelodeon
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1087
+#EXTINF:-1,DE: Animal Planet
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1088
+#EXTINF:-1,DE: National Geographic
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1089
+#EXTINF:-1,DE: Kinowelt TV F
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1094
+#EXTINF:-1,DE: VOX
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1193
+#EXTINF:-1,DE: SIXX HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1436
+#EXTINF:-1,DE: ZDF FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1504
+#EXTINF:-1,DE: ZDF Info SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1506
+#EXTINF:-1,DE: Super RTL HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1514
+#EXTINF:-1,DE: TNT Serie HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1515
+#EXTINF:-1,DE: Sky Cinema HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1517
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1522
+#EXTINF:-1,DE: Nick Jr
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1528
+#EXTINF:-1,DE: ORF 2 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1531
+#EXTINF:-1,DE: NDR HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1532
+#EXTINF:-1,DE: AXN HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1535
+#EXTINF:-1,DE: Pro 7
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1540
+#EXTINF:-1,DE: Sky Cinema Emotion FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1554
+#EXTINF:-1,DE: Sky DMAX
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1579
+#EXTINF:-1,DE: Sixx
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1581
+#EXTINF:-1,DE: TNT Film HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1584
+#EXTINF:-1,DE: Kabel 1  HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1731
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1758
+#EXTINF:-1,DE: Romance TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1763
+#EXTINF:-1,DE: KIKA HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1765
+#EXTINF:-1,DE: Disney XD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1779
+#EXTINF:-1,DE: History Channel
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1844
+#EXTINF:-1,DE: 3Sat HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1849
+#EXTINF:-1,DE: NITRO
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1850
+#EXTINF:-1,DE: ORF 3 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1852
+#EXTINF:-1,DE: Arte
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1857
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1917
+#EXTINF:-1,DE: FOX
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2539
+#EXTINF:-1,DE: Disney Channel
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2584
+#EXTINF:-1,DE: Heimat Kanal HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2585
+#EXTINF:-1,DE: Sky Cinema WESTERN
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2586
+#EXTINF:-1,DE: TNT Comedy HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2587
+#EXTINF:-1,DE: Boomerang
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2588
+#EXTINF:-1,DE: Junior HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2589
+#EXTINF:-1,DE: Nickelodeon Schweiz HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2590
+#EXTINF:-1,DE: Disney Junior
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/2621
+#EXTINF:-1,DE: Sony HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3374
+#EXTINF:-1,DE: RTL Living HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3375
+#EXTINF:-1,DE: Sat 1 Gold
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3376
+#EXTINF:-1,DE: Pro7 Fun HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3377
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3378
+#EXTINF:-1,DE: Tele 5 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3379
+#EXTINF:-1,DE: Zee one HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3380
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3383
+#EXTINF:-1,DE: 13th Street HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3384
+#EXTINF:-1,DE: SYFY
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3385
+#EXTINF:-1,DE: Universal Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3386
+#EXTINF:-1,DE: Nat Geo Wild
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3387
+#EXTINF:-1,DE: E! HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3389
+#EXTINF:-1,DE: RTL Passion
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3392
+#EXTINF:-1,DE: RTL Crime
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3393
+#EXTINF:-1,DE: Discovery Channel
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3394
+#EXTINF:-1,DE: Cartoon Network
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3395
+#EXTINF:-1,DE: Anixe HD Series
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/3396
+#EXTINF:-1,DE: WELT HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/4925
+#EXTINF:-1,DE: Kabel 1 Doku
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/5831
+#EXTINF:-1,DE: MTV Germany HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6288
+#EXTINF:-1,DE: Film Club 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6570
+#EXTINF:-1,DE: Film Club 2 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6571
+#EXTINF:-1,DE: Film Club 3 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6572
+#EXTINF:-1,DE: Film Club 4 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6573
+#EXTINF:-1,DE: Film Club 5 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6574
+#EXTINF:-1,DE: Sky 1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/7331
+#EXTINF:-1,DE: WDR HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/8961
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/8962
+#EXTINF:-1,DE: Jukebox
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9509
+#EXTINF:-1,DE: Sky Arts HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9523
+#EXTINF:-1,De: Spiegel Geschichte HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9524
+#EXTINF:-1,DE: N-TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9528
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9531
+#EXTINF:-1,DE: Anixe SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9721
+#EXTINF:-1,DE: Phoenix HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9723
+#EXTINF:-1,DE: Deluxe Music HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9724
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9726
+#EXTINF:-1,DE: Welt Der Wunder
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9728
+#EXTINF:-1,DE: RTL FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9756
+#EXTINF:-1,DE: RTL II HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9757
+#EXTINF:-1,DE: Sat 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9758
+#EXTINF:-1,DE: 13th Street FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9760
+#EXTINF:-1,DE: Animal Planet HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9762
+#EXTINF:-1,DE: AXN
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9763
+#EXTINF:-1,DE: Das Erste HD D3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9764
+#EXTINF:-1,DE: Discovery Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9765
+#EXTINF:-1,DE: FOX HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9766
+#EXTINF:-1,DE: History Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9767
+#EXTINF:-1,DE: National Geographic HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9769
+#EXTINF:-1,DE: Nat Geo Wild  HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9770
+#EXTINF:-1,DE: Pro 7 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9771
+#EXTINF:-1,DE: Sky 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9774
+#EXTINF:-1,DE: Sky Atlantic HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9775
+#EXTINF:-1,DE: Sky Cinema FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9777
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9778
+#EXTINF:-1,DE: Sky Cinema +24 FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9780
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9781
+#EXTINF:-1,DE: VOX  HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9787
+#EXTINF:-1,DE: N-TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9788
+#EXTINF:-1,DE: WELT
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9789
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9790
+#EXTINF:-1,DE: RTL Plus
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/9918
+#EXTINF:-1,DE: TLC HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10053
+#EXTINF:-1,DE: Sonnenklar TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10094
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10942
+#EXTINF:-1,DE: KroneHit TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10962
+#EXTINF:-1,DE: ATV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11179
+#EXTINF:-1,DE: XITE
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11465
+#EXTINF:-1,DE: GO TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/11833
+#EXTINF:-1,DE: MDR HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13242
+#EXTINF:-1,DE: ZDF info HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13892
+#EXTINF:-1,DE: ZDF HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13893
+#EXTINF:-1,DE: 3Sat SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13894
+#EXTINF:-1,DE: Sky Cinema SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13895
+#EXTINF:-1,DE: Sky Cinema +1 SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13896
+#EXTINF:-1,DE: Sky Cinema +24 SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13897
+#EXTINF:-1,DE: Sky Cinema Hits SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13898
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13905
+#EXTINF:-1,DE: Sky Cinema Family SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13906
+#EXTINF:-1,DE: Sky Cinema Action SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13907
+#EXTINF:-1,DE: Sky Cinema Emotion SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13908
+#EXTINF:-1,DE: Sky Cinema Comedy SD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13909
+#EXTINF:-1,DE: Sky Cinema Comedy HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13910
+#EXTINF:-1,DE: ======== MUSIC ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13911
+#EXTINF:-1,DE: ======== WISSENSCHAFT UND NATUR ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13912
+#EXTINF:-1,DE: ======== SPORT ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13913
+#EXTINF:-1,DE: ======== ENTERTAINMENT ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13914
+#EXTINF:-1,DE: ======== SKY CINEMA FHD (schnelle Geschwindigkeit) ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13915
+#EXTINF:-1,DE: ======== SKY CINEMA HD (normale Geschwindigkeit) ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13916
+#EXTINF:-1,DE: ======== SKY CINEMA SD (langsame Geschwindigkeit) ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13917
+#EXTINF:-1,DE: ======== ALLGEMEINES SD/HD/FHD ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13918
+#EXTINF:-1,DE: ======== FILME ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13919
+#EXTINF:-1,DE: ======== KINDER ========
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13920
+#EXTINF:-1,DE: FC BAYERN TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14348
+#EXTINF:-1,DE: RTL HD (usa time)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14575
+#EXTINF:-1,DE: Toggo Plus
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/14907
+#EXTINF:-1,DE: N24 Doku
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/17122
+#EXTINF:-1,DE: Blizz HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/17124
+#EXTINF:-1,DE: Beatz TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/17126
+#EXTINF:-1,DE: ARD One HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/18809
+#EXTINF:-1,DE: Baby TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/19778
+#EXTINF:-1,DE: BR Süd TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20117
+#EXTINF:-1,DE: SWR TV HD (Baden-Württemberg) d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20118
+#EXTINF:-1,DE: Health TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20186
+#EXTINF:-1,DE: Servus TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20254
+#EXTINF:-1,VIP:DE: DAZN Bar 2 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20256
+#EXTINF:-1,VIP:DE: DAZN Bar 1 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/20257
+#EXTINF:-1,DE: Travel Channel HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22135
+#EXTINF:-1,DE: Puls 4
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22498
+#EXTINF:-1,DE: ATV 2
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22499
+#EXTINF:-1,DE: Nick HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25109
+#EXTINF:-1,DE: MTV HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25110
+#EXTINF:-1,DE: Deluxe Music d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25111
+#EXTINF:-1,DE: Phoenix TV d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25113
+#EXTINF:-1,DE: Welt N24 TV HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25115
+#EXTINF:-1,DE: 3Sat HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25116
+#EXTINF:-1,DE: Arte HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25117
+#EXTINF:-1,DE: >>>>>>>>>>> REGIONAL DEUTSCH <<<<<<<<<<
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/13436
+#EXTINF:-1,DE: RADIO BREMEN d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25118
+#EXTINF:-1,DE: RBB TV HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25119
+#EXTINF:-1,DE: WDR HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25120
+#EXTINF:-1,DE: SWR TV HD (Rheinland-Pfalz) d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25121
+#EXTINF:-1,DE: SR TV mein HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25122
+#EXTINF:-1,DE: ARD ALPHA HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25123
+#EXTINF:-1,DE: ZDFneo HD d3
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25124
+#EXTINF:-1,DE: KORAN HD 114 SURA
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25126
+#EXTINF:-1,DE: TVO Oberfranken
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25127
+#EXTINF:-1,DE: Tele Bielingue CH
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25129
+#EXTINF:-1,DE: SCHWEITZ 5  CH
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25131
+#EXTINF:-1,DE: Schau TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25134
+#EXTINF:-1,DE: M4 MostviertelTV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25136
+#EXTINF:-1,DE: P3TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25137
+#EXTINF:-1,DE: RIC TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25139
+#EXTINF:-1,DE: RNF FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25140
+#EXTINF:-1,DE: OK WETTIN FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25141
+#EXTINF:-1,DE: OK WERNIGERODE FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25142
+#EXTINF:-1,DE: OK STENDAL FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25143
+#EXTINF:-1,DE: OK SALZWEDEL FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25144
+#EXTINF:-1,DE: OK MERSEBURG FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25145
+#EXTINF:-1,DE: OK MAGDEBURG REGGIO TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25146
+#EXTINF:-1,DE: OK DESSAU FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25147
+#EXTINF:-1,DE: TV HALLE HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25148
+#EXTINF:-1,DE: RBW FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25149
+#EXTINF:-1,DE: RAN 1 FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25150
+#EXTINF:-1,DE: PUNKT UM FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25151
+#EXTINF:-1,DE: Kultur MD FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25152
+#EXTINF:-1,DE: Anhalt TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25153
+#EXTINF:-1,DE: ElbeKanal
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25154
+#EXTINF:-1,DE: BLK TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25155
+#EXTINF:-1,DE: RFH FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25156
+#EXTINF:-1,DE: REGIO TV STUTTGARD FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25157
+#EXTINF:-1,DE: REGIO TV SCHWABEN FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25158
+#EXTINF:-1,DE: REGIO TV BODENSEE FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25159
+#EXTINF:-1,DE: QVC HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25160
+#EXTINF:-1,DE: Oberlausitz TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25161
+#EXTINF:-1,DE: Oldenburg Eins HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25163
+#EXTINF:-1,DE: Weinstrasse TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25164
+#EXTINF:-1,DE: Oberpfalz TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25165
+#EXTINF:-1,DE: Die Neue Zeit TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25166
+#EXTINF:-1,DE: naheTV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25167
+#EXTINF:-1,DE: MDF.1 FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25168
+#EXTINF:-1,DE: L-TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25169
+#EXTINF:-1,DE: Kabel Journal TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25170
+#EXTINF:-1,DE: Juwelo TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25171
+#EXTINF:-1,DE: Leipzig TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25172
+#EXTINF:-1,DE: Dresden TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25173
+#EXTINF:-1,DE: Chemnitz TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25174
+#EXTINF:-1,DE: Campus TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25175
+#EXTINF:-1,DE: FRF Friesischer Rundfunk 1 TV
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25178
+#EXTINF:-1,DE: TVM
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25179
+#EXTINF:-1,DE: DRF1
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25180
+#EXTINF:-1,DE: Deutsches Musik TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25181
+#EXTINF:-1,DE: Baden Tv HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25182
+#EXTINF:-1,DE: ARD Tagesschau 24 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25183
+#EXTINF:-1,DE: DW Deutsche Welle
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25184
+#EXTINF:-1,DE: HR TV HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25185
+#EXTINF:-1,DE: Allgau TV FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25186
+#EXTINF:-1,DE: Alex Offener Kanal Berlin FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25187
+#EXTINF:-1,DE: KORAN HEDAYAH
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25408
+#EXTINF:-1,*DE: ===== EAGLE CINEMA FULL HD =====
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22476
+#EXTINF:-1,*DE: Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22477
+#EXTINF:-1,*DE: Eagle Cinema Premiere HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22478
+#EXTINF:-1,*DE: Eagle Cinema Aktion HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22479
+#EXTINF:-1,*DE: Eagle Cinema Komodie HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22480
+#EXTINF:-1,*DE: Eagle Cinema Abenteuer HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22481
+#EXTINF:-1,*DE: Eagle Cinema Animation HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22482
+#EXTINF:-1,*DE: Eagle Cinema Thriller HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22483
+#EXTINF:-1,*DE: Eagle Cinema Romantisch HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22484
+#EXTINF:-1,*DE: Eagle Cinema Horror HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22485
+#EXTINF:-1,*DE: Eagle Cinema Geschichte HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22486
+#EXTINF:-1,*DE: Eagle Cinema Drama HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22487
+#EXTINF:-1,*DE: Eagle Cinema Sci-Fi HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22488
+#EXTINF:-1,*DE: Eagle Cinema Lächeln HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/22648
+#EXTINF:-1,*DE: Eagle Cinema Mythologie HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/23028
+#EXTINF:-1,*DE: Eagle PJ MASKS FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/23094
+#EXTINF:-1,*DE: Eagle Peppa Wutz FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/23095
+#EXTINF:-1,*DE: Eagle Game of Thrones S08
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25371
+#EXTINF:-1,*DE: Eagle Cinema Religion HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/25584
+#EXTINF:-1,*DE: Eagle Entdeckernatur 4K UHD (multilanguage)
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26415
+#EXTINF:-1,*DE: Eagle Cinema 007 HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26420
+#EXTINF:-1,*DE: Eagle Entdeckernatur FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26441
+#EXTINF:-1,DE: Sky Select Vitrine HD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/6151
+#EXTINF:-1,DE: Sky Select 10 FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10737
+#EXTINF:-1,DE: Sky Select 11 FHD
+http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/10742
