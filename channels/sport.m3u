@@ -220,3 +220,344 @@ http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
 #EXTINF:-1,https://flylinks.net,BEINSPORTS 4 HD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
+
+
+
+
+########### SPORTS INDONESIA #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEuOEP.png" group-title="SPORTS", UPDATE HIPTV ON TELEGRAM : t.me/hiptvfree
+http://217.116.9.142:9222/stream
+
+########### SPORTS UK #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZHMb6W.png" group-title="SPORTS", UK| SKY SPORTS MAIN EVENT
+https://sportbar.biz/lba/123/g2/maineventss.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 1
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 6
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 7
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 8
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 9
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 10
+https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 11
+https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1Iq6JH.png" group-title="SPORTS", UK| OLYMPIC 12
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OU9Lp6.png" group-title="SPORTS", UK| BT SPORTS 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQLo8Oa.png" group-title="SPORTS", UK| RACING
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+########### SPORTS SWISS #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kbhgAF.jpg" group-title="SPORTS", SWS| SWISS SPORTS
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1477627972_b1096000.m3u8
+
+########### SPORTS UAE #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfrIYx3.png" group-title="SPORTS", UAE| BEIN SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OYePXKu.png" group-title="SPORTS", UAE| BEIN SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qssU1tn.png" group-title="SPORTS", UAE| BEIN SPORTS 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOeS4hE.png" group-title="SPORTS", UAE| BEIN SPORTS 4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TwB4TSE.png" group-title="SPORTS", UAE| BEIN SPORTS 5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q0z3pTs.png" group-title="SPORTS", UAE| BEIN SPORTS 6
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Egit7W.png" group-title="SPORTS", UAE| BEIN SPORTS 7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOK73fI.png" group-title="SPORTS", UAE| BEIN SPORTS 8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/er21rbn.png" group-title="SPORTS", UAE| BEIN SPORTS 9
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqqfCwP.png" group-title="SPORTS", UAE| BEIN SPORTS 10
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oCCySQU.png" group-title="SPORTS", UAE| BEIN SPORTS 11
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KlwnE1k.png" group-title="SPORTS", UAE| BEIN SPORTS 12
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXpAoYj.png" group-title="SPORTS", UAE| BEIN SPORTS 13
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cr4BmJY.png" group-title="SPORTS", UAE| BEIN SPORTS 14
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHFiLUL.png" group-title="SPORTS", UAE| BEIN SPORTS 15
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiA6SqF.png" group-title="SPORTS", UAE| BEIN SPORTS 16
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fq8iCwi.png" group-title="SPORTS", UAE| BEIN SPORTS 17
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2v2MVh7.gif" group-title="SPORTS", UAE| BEIN SPORTS NBA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5XCVTH.png" group-title="SPORTS", UAE| ABU DHABI SPORTS 1
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4K8fW6M.png" group-title="SPORTS", UAE| ABU DHABI SPORTS 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MrCNHmU.png" group-title="SPORTS", UAE| ABU DHABI SPORTS 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP69dZY.png" group-title="SPORTS", UAE| ABU DHABI SPORTS 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSHpYes.jpg" group-title="SPORTS", UAE| ALKASS ONLINE
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlineZI/master570.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98mkyJq.png" group-title="SPORTS", UAE| ALKASS SPORTS 1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98mkyJq.png" group-title="SPORTS", UAE| ALKASS SPORTS 2
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/master570.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98mkyJq.png" group-title="SPORTS", UAE| ALKASS SPORTS 5
+http://alkasmsl4.akamaized.net:80/hls/live/2003123/five/master270.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7tUXfqn.png" group-title="SPORTS", UAE| DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEdGPBq.png" group-title="SPORTS", UAE| JORDAN SPORTS
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cupgifg.png" group-title="SPORTS", UAE| BAHRAIN SPORTS
+http://185.105.4.106:1935/live/Bahrain Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WfUFlR.png" group-title="SPORTS", UAE| KTV SPORTS
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K2H6sMV.png" group-title="SPORTS", UAE| NILE SPORTS
+http://213.162.202.13:229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8r2Ufc.png" group-title="SPORTS", UAE| OMAN SPORTS
+http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2OQ3wv.png" group-title="SPORTS", UAE| ON SPORTS
+http://149.100.10.162:8011/play/s234
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eKxzdT.png" group-title="SPORTS", UAE| SHARJAH SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+
+########### SPORTS USA #############
+#EXTINF:-1 tvg-logo="https://imgur.com/WiqRYIa" group-title="SPORTS", US| FOX SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfWAJqF.png" group-title="SPORTS", US| MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IvMy1WB.png" group-title="SPORTS", US| ESPN
+http://80.80.160.168:80/live/6/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzjRLrf.png" group-title="SPORTS", US| WWE
+http://88.150.157.158:1935/mc/WWE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6EHoCBs.png" group-title="SPORTS", US| EDGE SPORTS
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nmal8eA.png" group-title="SPORTS", US| FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZZClD3.png" group-title="SPORTS", US| FLOW SPORTS 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8c9YEh.png" group-title="SPORTS", US| RED BULL TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7vekzg.png" group-title="SPORTS", US| SPORTSMAX TV
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kugoq9r.png" group-title="SPORTS", US| STADIUM
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", US| WFS TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIk1V65.jpg" group-title="SPORTS", US| WOSN TV
+http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
+
+########### SPORTS ESPANYOL #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmE198p.png" group-title="SPORTS", ESP| REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ml5En2r.jpg" group-title="SPORTS", ESP| REAL BETIS TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ESP| E SPORTS 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I1i9ZWy.jpg" group-title="SPORTS", ESP| RTV SPORT
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+
+########### SPORTS NETHERLAND #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j92aq3q.png" group-title="SPORTS", NED| ORANGE SPORTS
+http://147.32.95.18:9100/udp/233.10.47.134:1234
+
+########### SPORTS DEUTSCH #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0psKvDM.jpg" group-title="SPORTS", DE| SPORTAL
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
+
+########### SPORTS FRANCE #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", FR| HORIZON SPORTS
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+
+########### SPORTS PORTUGESE #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOo6WaV.png" group-title="SPORTS", PTG| SPORT TV 1
+https://sportbar.biz/lba/123/g6/tv1pt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e96PJty.png" group-title="SPORTS", PTG| SPORT TV 5
+https://sportbar.biz/lba/123/g8/ptsport5.m3u8
+
+########### SPORTS ITALIA #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l60fh9D.png" group-title="SPORTS", ITA| SPORTVL
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+
+########### SPORTS TURKI #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfrIYx3.png" group-title="SPORTS", TRK| BEIN SPORTS 1
+https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SflpgNn.png" group-title="SPORTS", TRK| A SPOR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 tvg-Logo="https://i.imgur.com/t2XmlL0.png" group-title="SPORTS", TRK| NTV SPOR
+http://46.105.233.106:8181/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KlXwCb.png" group-title="SPORTS", TRK| TURKMENISTAN SPORTS
+http://217.174.225.146/hls/ch004_720/index.m3u8
+########### SPORTS EXYU #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| ARENA SPORTS 1
+https://sportbar.biz/lba/123/g6/arena1rs.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| ARENA SPORTS 3
+https://sportbar.biz/lba/123/g1/sportarena3rs.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| ARENA SPORTS 4
+https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| ARENA SPORTS 5
+https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| DIGI SPORTS 1
+http://37.152.135.169:9002/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| DIGI SPORTS 2
+http://37.152.135.169:9002/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", EX| SUPER SPORTS 3
+https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
+
+########### SPORTS RUSIA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч!
+#https://sportbar.biz/lba/123/g2/rusmatchtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч! Cтрана
+https://sportbar.biz/lba/123/g8/mnsport.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч! Арена
+https://sportbar.biz/lba/123/g1/rumatcharena.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч! Футбол 1
+https://sportbar.biz/lba/123/g6/mfootball1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч! Футбол 2
+https://sportbar.biz/lba/123/g2/rumatchf2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Матч! Футбол 3
+https://sportbar.biz/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| QAZ SPORTS
+https://sportbar.biz/lba/123/g4/qazsportkz.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| RTSH 1
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| EUROSPORT 1
+https://sportbar.biz/lba/123/g5/eurosport1rus.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| EUROSPORT 2
+https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| FASTBOX & FUN
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| SETANTA SPORTS 1
+http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| SETANTA QAZAQSTAN
+https://sportbar.biz/lba/123/g5/setqz.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| Астрахань.Ru Sport
+http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RU| КТРК Спорт
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+
+########### SPORTS LATIN #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV
+https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV 2
+https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORT TV 6
+https://213-167-154-115.netvarp.is/beint/sporttv6/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", LTN| SPORTS CENTRS
+http://194.204.46.137/live/eds/SportaCentrs/HLS_encr/index.m3u8
+
+########### SPORTS UNKNOW #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ETC| SPORTSKOOL
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ETC| ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ETC| CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8?GrupoTopIptv
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ETC| IRC SPORTS
+http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ETC| PRO X
+https://vid.hls.protv.ro/proxhdn/proxhd_high/index.m3u8?1
+
+########### SPORTS INDONESIA #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hIAlw2.png" group-title="SPORTS", ID| EGG
+http://210.210.155.35:80/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7EoLno.png" group-title="SPORTS", ID| SUPER SOCCER
+http://210.210.155.35:80/uq2663/h/h20/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4t2v2p.png" group-title="SPORTS", ID| SETANTA SPORTS RUGBY
+http://203.153.218.28:9981/stream/channelid/981299476?ticket=5A263BD55AE2A87BA045431D9F7DA9B5CBF4D2B8&profile=pass
+
+########### SPORTS MALAYSIA #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2R1YCXA.png" group-title="SPORTS", MY| RTM SPORTS
+#http://rtm2mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMKdMJi.png" group-title="SPORTS", MY| ASTRO SUPERSPORTS 1
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1722
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K02lhvq.png" group-title="SPORTS", MY| ASTRO SUPERSPORTS 2
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1721
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3jsv7Iu.png" group-title="SPORTS", MY| ASTRO SUPERSPORTS 3
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gI6Ve20.png" group-title="SPORTS", MY| ASTRO SUPERSPORTS 4
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1719
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v5eATnQ.png" group-title="SPORTS", MY| FOX SPORTS
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1710
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zA9UzHP.png" group-title="SPORTS", MY| FOX SPORTS 2
+#http://mu02.v2iptv.com:8880/ZH12M001019/hh8219w4/1709
+
+
+########### SPORTS MYANMAR #############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FGYGBtP.png" group-title="SPORTS", MYR| SKYNET
+#http://190.2.154.164:80/TV0673
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 1
+#http://190.2.154.164:80/TV0660
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 2
+#http://190.2.154.164:80/TV0661
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 3
+#http://190.2.154.164:80/TV0662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 4
+#http://190.2.154.164:80/TV0663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 5
+#http://190.2.154.164:80/TV0664
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJww8MG.png" group-title="SPORTS", MYR| SKYNET 6
+#http://190.2.154.164:80/TV0665
+
+########### SPORTS KOREA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", KOR| BILLIARDS TV
+http://54.180.143.6:9981/stream/channelid/1177231409
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", KOR| JTBC GOLF
+http://122.129.115.21:1935/edgedol/_definst_/tao129/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", KOR| KBSN SPORTS
+http://122.129.115.21:1935/edgedol/_definst_/tao123/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", KOR| SKY SPORTS
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+
+########### SPORTS MACAU #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", MCU| TDM SPORTS MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+
+########### SPORTS CHINA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CHN| NEWTV SPORTS 1
+http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", CHN| NEWTV SPORTS 2
+http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8
+
+########### SPORTS AUSTRALIA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", AU| FOX SPORTS NEWS
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+########### SPORTS AFRICA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", AFC| STAD'AFRIC
+https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
+
+########### SPORTS INDIA #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", IND| STAR SPORTS 1
+http://144.217.70.223:8080/StarSports_Hd1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", IND| D SPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", IND| DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+########### SPORTS BANGLADESH #############
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", BGL| CHANNEL 9
+http://27.147.156.14:1935/Channel-9/Channel-9.stream/chunks.m3u8
+
+
