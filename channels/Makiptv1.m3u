@@ -362,7 +362,7 @@ http://exchangedomain.ddns.me:25461/CrashIP/f3iu4htuidf/3908
 #EXTINF:-1 group-title="Hrvaški" tvg-id="RTLPassion" tvg-name="RTL Passion" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://tvprofil.net/img/kanali-logo/RTL_Passion_logo.png", [COLOR sandybrown]RTL Passion (HR)[/COLOR]
 http://rocksat.ddns.net:25461/mgjmgvsf/vvgv1mi9s4/26185
 #EXTINF:-1 group-title="Hrvaški" tvg-id="Nova TV" tvg-name="Nova TV" tvg-logo="http://shrani.si/f/2Y/c1/67VAH86/nova-tv.jpg", [COLOR sandybrown]Nova TV (HR)[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=hrt5
+https://tv.si/ts/NOVATV/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
 #EXTINF:-1 group-title="Hrvaški" tvg-id="nova-world" tvg-name="Nova World" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="https://tvprofil.com/img/kanali-logo/Nova_World_logo.png",[COLOR sandybrown]Nova World (HR)[/COLOR]
 http://tv.nova-iptv.com:25461/izYgMJMomH/QbM4NFL0Mf/3688
 #EXTINF:-1 group-title="Hrvaški" tvg-id="DOMATV" tvg-name="Doma TV" tvg-url="http://guide.nextgen-iptv.com/guide.xml" tvg-logo="http://nextgen-iptv.com/logo/DomaTV_HR.png", [COLOR sandybrown]Doma TV[/COLOR]
@@ -375,7 +375,7 @@ rtmp://video.radio-banovina.hr/live/myStream
 
 
 #EXTINF:-1,[COLOR green]===== F I L M O T E K A =====[/COLOR]
-skip
+
 
 #EXTINF:-1 group-title="Filmi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Maratonci_film_DVD_Cover.jpg",Maratonci trce pocasni krug (1982)
 https://www.dailymotion.com/video/x54bmvx
