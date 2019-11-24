@@ -1,0 +1,651 @@
+{
+  "key": "F3VYD1zVsHbms9CEnqoqfvgRPq6GoxEEj8dFr9bAIUAkTRZn8AyOqeB+EmbSdrdE",
+  "balance_gateway": {
+    "enabled": true,
+    "url": "http://live.bgtv.stream/balancer"
+  },
+  "baseUrl": null,
+  "ip_gateway": "http://live.bgtv.stream/ip",
+  "hash_param": "h",
+  "expire_param": "e",
+  "expire_timestamp": "1735689600",
+  "channels": [
+    {
+      "name": "BNT 1",
+      "media_type": "video",
+      "id": "bnt1",
+      "logo_url": "http://live.bgtv.stream/logos/bnt1.png",
+      "uri": "/hls/bnt/index.m3u8"
+    },
+    {
+      "name": "BNT 2",
+      "media_type": "video",
+      "id": "bnt2",
+      "logo_url": "http://live.bgtv.stream/logos/bnt2.png",
+      "uri": "/hls/bnt2/index.m3u8"
+    },
+    {
+      "name": "BNT 3",
+      "media_type": "video",
+      "id": "bnt3",
+      "logo_url": "http://live.bgtv.stream/logos/bnt3.png",
+      "uri": "/hls/bnthd/index.m3u8"
+    },
+    {
+      "name": "BNT 4",
+      "media_type": "video",
+      "id": "bnt4",
+      "logo_url": "http://live.bgtv.stream/logos/bnt4.png",
+      "uri": "/hls/bntworld/index.m3u8"
+    },
+    {
+      "name": "NOVA",
+      "media_type": "video",
+      "id": "novatv",
+      "logo_url": "http://live.bgtv.stream/logos/novatv.png",
+      "uri": "/hls/nova/index.m3u8"
+    },
+    {
+      "name": "NOVA SPORT",
+      "media_type": "video",
+      "id": "novasport",
+      "logo_url": "http://live.bgtv.stream/logos/novasport.png",
+      "uri": "/hls/novasport/index.m3u8"
+    },
+    {
+      "name": "KINO NOVA",
+      "media_type": "video",
+      "id": "kinonova",
+      "logo_url": "http://live.bgtv.stream/logos/kinonova.png",
+      "uri": "/hls/kinonova/index.m3u8"
+    },
+    {
+      "name": "BTV",
+      "media_type": "video",
+      "id": "btv",
+      "logo_url": "http://live.bgtv.stream/logos/btv.png",
+      "uri": "/hls/btv/index.m3u8"
+    },
+    {
+      "name": "BTV ACTION",
+      "media_type": "video",
+      "id": "btvaction",
+      "logo_url": "http://live.bgtv.stream/logos/btvaction.png",
+      "uri": "/hls/btvaction/index.m3u8"
+    },
+    {
+      "name": "BTV CINEMA",
+      "media_type": "video",
+      "id": "btvcinema",
+      "logo_url": "http://live.bgtv.stream/logos/btvcinema.png",
+      "uri": "/hls/btvcinema/index.m3u8"
+    },
+    {
+      "name": "BTV COMEDY",
+      "media_type": "video",
+      "id": "btvcomedy",
+      "logo_url": "http://live.bgtv.stream/logos/btvcomedy.png",
+      "uri": "/hls/btvcomedy/index.m3u8"
+    },
+    {
+      "name": "BTV LADY",
+      "media_type": "video",
+      "id": "btvlady",
+      "logo_url": "http://live.bgtv.stream/logos/btvlady.png",
+      "uri": "/hls/btvlady/index.m3u8"
+    },
+    {
+      "name": "7/8 TV",
+      "media_type": "video",
+      "id": "78tv",
+      "logo_url": "http://live.bgtv.stream/logos/78tv.png",
+      "uri": "/customhls/78tv/playlist.m3u8"
+    },
+    {
+      "name": "DIEMA",
+      "media_type": "video",
+      "id": "diema",
+      "logo_url": "http://live.bgtv.stream/logos/diema.png",
+      "uri": "/hls/diema/index.m3u8"
+    },
+    {
+      "name": "DIEMA FAMILY",
+      "media_type": "video",
+      "id": "diemafamily",
+      "logo_url": "http://live.bgtv.stream/logos/diemafamily.png",
+      "uri": "/hls/diemaf/index.m3u8"
+    },
+    {
+      "name": "DIEMA SPORT",
+      "media_type": "video",
+      "id": "diemasport",
+      "logo_url": "http://live.bgtv.stream/logos/diemasport.png",
+      "uri": "/hls/diemasport/index.m3u8"
+    },
+    {
+      "name": "DIEMA SPORT 2",
+      "media_type": "video",
+      "id": "diemasport2",
+      "logo_url": "http://live.bgtv.stream/logos/diemasport2.png",
+      "uri": "/hls/diemasport2/index.m3u8"
+    },
+    {
+      "name": "MAX SPORT 1",
+      "media_type": "video",
+      "id": "maxsport1",
+      "logo_url": "http://live.bgtv.stream/logos/maxsport1.png",
+      "uri": "/hls/maxsport1/index.m3u8"
+    },
+    {
+      "name": "MAX SPORT 2",
+      "media_type": "video",
+      "id": "maxsport2",
+      "logo_url": "http://live.bgtv.stream/logos/maxsport2.png",
+      "uri": "/hls/maxsport2/index.m3u8"
+    },
+    {
+      "name": "MAX SPORT 3",
+      "media_type": "video",
+      "id": "maxsport3",
+      "logo_url": "http://live.bgtv.stream/logos/maxsport3.png",
+      "uri": "/hls/maxsport3/index.m3u8"
+    },
+    {
+      "name": "MAX SPORT 4",
+      "media_type": "video",
+      "id": "maxsport4",
+      "logo_url": "http://live.bgtv.stream/logos/maxsport4.png",
+      "uri": "/hls/maxsport4/index.m3u8"
+    },
+    {
+      "name": "RING BG",
+      "media_type": "video",
+      "id": "ring",
+      "logo_url": "http://live.bgtv.stream/logos/ring.png",
+      "uri": "/hls/ringbg/index.m3u8"
+    },
+    {
+      "name": "EUROSPORT 1",
+      "media_type": "video",
+      "id": "eurosport",
+      "logo_url": "http://live.bgtv.stream/logos/eurosport1.png",
+      "uri": "/hls/eurosport/index.m3u8"
+    },
+    {
+      "name": "EUROSPORT 2",
+      "media_type": "video",
+      "id": "eurosport2",
+      "logo_url": "http://live.bgtv.stream/logos/eurosport2.png",
+      "uri": "/hls/eurosport2/index.m3u8"
+    },
+    {
+      "name": "HBO",
+      "media_type": "video",
+      "id": "hbo",
+      "logo_url": "http://live.bgtv.stream/logos/hbo.png",
+      "uri": "/hls/hbo/index.m3u8"
+    },
+    {
+      "name": "HBO 2",
+      "media_type": "video",
+      "id": "hbo2",
+      "logo_url": "http://live.bgtv.stream/logos/hbo2.png",
+      "uri": "/hls/hbo2/index.m3u8"
+    },
+    {
+      "name": "HBO 3",
+      "media_type": "video",
+      "id": "hbo3",
+      "logo_url": "http://live.bgtv.stream/logos/hbo3.png",
+      "uri": "/hls/hbo3/index.m3u8"
+    },
+    {
+      "name": "CINEMAX",
+      "media_type": "video",
+      "id": "cinemax",
+      "logo_url": "http://live.bgtv.stream/logos/cinemax.png",
+      "uri": "/hls/cinemax/index.m3u8"
+    },
+    {
+      "name": "CINEMAX 2",
+      "media_type": "video",
+      "id": "cinemax2",
+      "logo_url": "http://live.bgtv.stream/logos/cinemax2.png",
+      "uri": "/hls/cinemax2/index.m3u8"
+    },
+    {
+      "name": "MOVIESTAR",
+      "media_type": "video",
+      "id": "moviestar",
+      "logo_url": "http://live.bgtv.stream/logos/moviestar.png",
+      "uri": "/hls/moviestar/index.m3u8"
+    },
+    {
+      "name": "FOX",
+      "media_type": "video",
+      "id": "fox",
+      "logo_url": "http://live.bgtv.stream/logos/fox.png",
+      "uri": "/hls/fox/index.m3u8"
+    },
+    {
+      "name": "FOX CRIME",
+      "media_type": "video",
+      "id": "foxcrime",
+      "logo_url": "http://live.bgtv.stream/logos/foxcrime.png",
+      "uri": "/hls/foxcrime/index.m3u8"
+    },
+    {
+      "name": "FOX LIFE",
+      "media_type": "video",
+      "id": "foxlife",
+      "logo_url": "http://live.bgtv.stream/logos/foxlife.png",
+      "uri": "/hls/foxlife/index.m3u8"
+    },
+    {
+      "name": "AXN",
+      "media_type": "video",
+      "id": "axn",
+      "logo_url": "http://live.bgtv.stream/logos/axn.png",
+      "uri": "/hls/axn/index.m3u8"
+    },
+    {
+      "name": "AXN WHITE",
+      "media_type": "video",
+      "id": "axnwhite",
+      "logo_url": "http://live.bgtv.stream/logos/axnwhite.png",
+      "uri": "/hls/axnwhite/index.m3u8"
+    },
+    {
+      "name": "AXN BLACK",
+      "media_type": "video",
+      "id": "axnblack",
+      "logo_url": "http://live.bgtv.stream/logos/axnblack.png",
+      "uri": "/hls/axnblack/index.m3u8"
+    },
+    {
+      "name": "NATIONAL GEOGRAPHIC",
+      "media_type": "video",
+      "id": "natgeo",
+      "logo_url": "http://live.bgtv.stream/logos/natgeo.png",
+      "uri": "/hls/ng/index.m3u8"
+    },
+    {
+      "name": "NAT GEO WILD",
+      "media_type": "video",
+      "id": "natgeowild",
+      "logo_url": "http://live.bgtv.stream/logos/natgeowild.png",
+      "uri": "/hls/natgeowild/index.m3u8"
+    },
+    {
+      "name": "VIASAT NATURE",
+      "media_type": "video",
+      "id": "viasatnature",
+      "logo_url": "http://live.bgtv.stream/logos/viasatnature.png",
+      "uri": "/hls/viasat_nature/index.m3u8"
+    },
+    {
+      "name": "VIASAT HISTORY",
+      "media_type": "video",
+      "id": "viasathistory",
+      "logo_url": "http://live.bgtv.stream/logos/viasathistory.png",
+      "uri": "/hls/viasat_history/index.m3u8"
+    },
+    {
+      "name": "VIASAT EXPLORE",
+      "media_type": "video",
+      "id": "viasatexplore",
+      "logo_url": "http://live.bgtv.stream/logos/viasatexplore.png",
+      "uri": "/hls/viasat_explorer/index.m3u8"
+    },
+    {
+      "name": "INVESTIGATION DISCOVERY",
+      "media_type": "video",
+      "id": "id",
+      "logo_url": "http://live.bgtv.stream/logos/investigationdiscovery.png",
+      "uri": "/hls/id/index.m3u8"
+    },
+    {
+      "name": "DISCOVERY CHANNEL",
+      "media_type": "video",
+      "id": "discovery",
+      "logo_url": "http://live.bgtv.stream/logos/discovery.png",
+      "uri": "/hls/discovery/index.m3u8"
+    },
+    {
+      "name": "DISCOVERY SCIENCE",
+      "media_type": "video",
+      "id": "discoveryscience",
+      "logo_url": "http://live.bgtv.stream/logos/discoveryscience.png",
+      "uri": "/hls/discoveryscience/index.m3u8"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "media_type": "video",
+      "id": "animalplanet",
+      "logo_url": "http://live.bgtv.stream/logos/animalplanet.png",
+      "uri": "/hls/animalplanet/index.m3u8"
+    },
+    {
+      "name": "24 KITCHEN",
+      "media_type": "video",
+      "id": "24kitchen",
+      "logo_url": "http://live.bgtv.stream/logos/24kitchen.png",
+      "uri": "/hls/24kitchen/index.m3u8"
+    },
+    {
+      "name": "TLC",
+      "media_type": "video",
+      "id": "tlc",
+      "logo_url": "http://live.bgtv.stream/logos/tlc.png",
+      "uri": "/hls/tlc/index.m3u8"
+    },
+    {
+      "name": "HISTORY TV",
+      "media_type": "video",
+      "id": "history",
+      "logo_url": "http://live.bgtv.stream/logos/history.png",
+      "uri": "/hls/historytv/index.m3u8"
+    },
+    {
+      "name": "TRAVEL CHANNEL",
+      "media_type": "video",
+      "id": "travelchannel",
+      "logo_url": "http://live.bgtv.stream/logos/travelchannel.png",
+      "uri": "/hls/travelbg/index.m3u8"
+    },
+    {
+      "name": "TV 1000",
+      "media_type": "video",
+      "id": "tv1000",
+      "logo_url": "http://live.bgtv.stream/logos/tv1000.png",
+      "uri": "/hls/tv1000/index.m3u8"
+    },
+    {
+      "name": "AMC",
+      "media_type": "video",
+      "id": "amc",
+      "logo_url": "http://live.bgtv.stream/logos/amc.png",
+      "uri": "/hls/amc/index.m3u8"
+    },
+    {
+      "name": "COMEDY CENTRAL",
+      "media_type": "video",
+      "id": "comedycentral",
+      "logo_url": "http://live.bgtv.stream/logos/comedycentral.png",
+      "uri": "/hls/comedyc/index.m3u8"
+    },
+    {
+      "name": "CBS REALITY",
+      "media_type": "video",
+      "id": "cbsreality",
+      "logo_url": "http://live.bgtv.stream/logos/cbsreality.png",
+      "uri": "/hls/cbsreality/index.m3u8"
+    },
+    {
+      "name": "MTV",
+      "media_type": "video",
+      "id": "mtv",
+      "logo_url": "http://live.bgtv.stream/logos/mtv.png",
+      "uri": "/hls/mtv/index.m3u8"
+    },
+    {
+      "name": "MTV HITS",
+      "media_type": "video",
+      "id": "mtvhits",
+      "logo_url": "http://live.bgtv.stream/logos/mtvhits.png",
+      "uri": "/hls/mtvhits/index.m3u8"
+    },
+    {
+      "name": "MTV ROCKS",
+      "media_type": "video",
+      "id": "mtvrocks",
+      "logo_url": "http://live.bgtv.stream/logos/mtvrocks.png",
+      "uri": "/hls/mtvrocks/index.m3u8"
+    },
+    {
+      "name": "VH1",
+      "media_type": "video",
+      "id": "vh1",
+      "logo_url": "http://live.bgtv.stream/logos/vh1.png",
+      "uri": "/hls/vh1/index.m3u8"
+    },
+    {
+      "name": "BG MUSIC CHANNEL",
+      "media_type": "video",
+      "id": "bgmusicchannel",
+      "logo_url": "http://live.bgtv.stream/logos/bgmusicchannel.png",
+      "uri": "/hls/bgmusic/index.m3u8"
+    },
+    {
+      "name": "CITY TV",
+      "media_type": "video",
+      "id": "city",
+      "logo_url": "http://live.bgtv.stream/logos/city.png",
+      "uri": "/hls/citytv/index.m3u8"
+    },
+    {
+      "name": "THE VOICE",
+      "media_type": "video",
+      "id": "thevoicetv",
+      "logo_url": "http://live.bgtv.stream/logos/thevoicetv.png",
+      "uri": "/hls/thevoice/index.m3u8"
+    },
+    {
+      "name": "MAGIC TV",
+      "media_type": "video",
+      "id": "magictv",
+      "logo_url": "http://live.bgtv.stream/logos/magictv.png",
+      "uri": "/hls/magictv/index.m3u8"
+    },
+    {
+      "name": "BOX",
+      "media_type": "video",
+      "id": "boxtv",
+      "logo_url": "http://live.bgtv.stream/logos/boxtv.png",
+      "uri": "/hls/box/index.m3u8"
+    },
+    {
+      "name": "MEZZO",
+      "media_type": "video",
+      "id": "mezzo",
+      "logo_url": "http://live.bgtv.stream/logos/mezzo.png",
+      "uri": "/hls/mezzo/index.m3u8"
+    },
+    {
+      "name": "FEN TV",
+      "media_type": "video",
+      "id": "fentv",
+      "logo_url": "http://live.bgtv.stream/logos/fentv.png",
+      "uri": "/hls/fantv/index.m3u8"
+    },
+    {
+      "name": "FEN FOLK",
+      "media_type": "video",
+      "id": "fenfolk",
+      "logo_url": "http://live.bgtv.stream/logos/fenfolk.png",
+      "uri": "/hls/fenfolk/index.m3u8"
+    },
+    {
+      "name": "PLANETA TV",
+      "media_type": "video",
+      "id": "planetatv",
+      "logo_url": "http://live.bgtv.stream/logos/planetatv.png",
+      "uri": "/hls/planeta/index.m3u8"
+    },
+    {
+      "name": "PLANETA FOLK",
+      "media_type": "video",
+      "id": "planetafolk",
+      "logo_url": "http://live.bgtv.stream/logos/planetafolk.png",
+      "uri": "/hls/planetafolk/index.m3u8"
+    },
+    {
+      "name": "PLANETA HD",
+      "media_type": "video",
+      "id": "planetahd",
+      "logo_url": "http://live.bgtv.stream/logos/planetahd.png",
+      "uri": "/hls/planetahd/index.m3u8"
+    },
+    {
+      "name": "BALKANIKA",
+      "media_type": "video",
+      "id": "balkanika",
+      "logo_url": "http://live.bgtv.stream/logos/balkanika.png",
+      "uri": "/hls/balkanika/index.m3u8"
+    },
+    {
+      "name": "TIANKOV FOLK",
+      "media_type": "video",
+      "id": "tiankovfolk",
+      "logo_url": "http://live.bgtv.stream/logos/tiankovfolk.png",
+      "uri": "/hls/tiankov/index.m3u8"
+    },
+    {
+      "name": "SUNRISE MUSIC",
+      "media_type": "video",
+      "id": "sunrisemusic",
+      "logo_url": "http://live.bgtv.stream/logos/sunrisemusic.png",
+      "uri": "/hls/sunrisem/index.m3u8"
+    },
+    {
+      "name": "DSTV",
+      "media_type": "video",
+      "id": "dstv",
+      "logo_url": "http://live.bgtv.stream/logos/dstv.png",
+      "uri": "/hls/dstv/index.m3u8"
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "media_type": "video",
+      "id": "cartoonnetwork",
+      "logo_url": "http://live.bgtv.stream/logos/cartoonnetwork.png",
+      "uri": "/hls/cartoon/index.m3u8"
+    },
+    {
+      "name": "BABY TV",
+      "media_type": "video",
+      "id": "babytv",
+      "logo_url": "http://live.bgtv.stream/logos/babytv.png",
+      "uri": "/hls/babytv/index.m3u8"
+    },
+    {
+      "name": "BOOMERANG",
+      "media_type": "video",
+      "id": "boomerang",
+      "logo_url": "http://live.bgtv.stream/logos/boomerang.png",
+      "uri": "/hls/boomerang/index.m3u8"
+    },
+    {
+      "name": "NICKELODEON",
+      "media_type": "video",
+      "id": "nickelodeon",
+      "logo_url": "http://live.bgtv.stream/logos/nickelodeon.png",
+      "uri": "/hls/nickelodeon/index.m3u8"
+    },
+    {
+      "name": "DISNEY CHANNEL",
+      "media_type": "video",
+      "id": "disney",
+      "logo_url": "http://live.bgtv.stream/logos/disney.png",
+      "uri": "/hls/disney/index.m3u8"
+    },
+    {
+      "name": "DISNEY JUNIOR",
+      "media_type": "video",
+      "id": "disneyjunior",
+      "logo_url": "http://live.bgtv.stream/logos/disneyjunior.png",
+      "uri": "/hls/disneyjunior/index.m3u8"
+    },
+    {
+      "name": "DUCK TV",
+      "media_type": "video",
+      "id": "ducktv",
+      "logo_url": "http://live.bgtv.stream/logos/ducktv.png",
+      "uri": "/hls/ducktv/index.m3u8"
+    },
+    {
+      "name": "E-KIDS",
+      "media_type": "video",
+      "id": "ekids",
+      "logo_url": "http://live.bgtv.stream/logos/ekids.png",
+      "uri": "/hls/ekids/index.m3u8"
+    },
+    {
+      "name": "ALFA TV",
+      "media_type": "video",
+      "id": "alfa",
+      "logo_url": "http://live.bgtv.stream/logos/alfa.png",
+      "uri": "/hls/alfatv/index.m3u8"
+    },
+    {
+      "name": "BG ON AIR",
+      "media_type": "video",
+      "id": "bgonair",
+      "logo_url": "http://live.bgtv.stream/logos/bgonair.png",
+      "uri": "/hls/bgonair/index.m3u8"
+    },
+    {
+      "name": "BIT",
+      "media_type": "video",
+      "id": "bit",
+      "logo_url": "http://live.bgtv.stream/logos/bit.png",
+      "uri": "/hls/bit/index.m3u8"
+    },
+    {
+      "name": "TV EVROPA",
+      "media_type": "video",
+      "id": "tvevropa",
+      "logo_url": "http://live.bgtv.stream/logos/tvevropa.png",
+      "uri": "/hls/tvevropa/index.m3u8"
+    },
+    {
+      "name": "KANAL 3",
+      "media_type": "video",
+      "id": "kanal3",
+      "logo_url": "http://live.bgtv.stream/logos/kanal3.png",
+      "uri": "/hls/kanal3/index.m3u8"
+    },
+    {
+      "name": "SKAT",
+      "media_type": "video",
+      "id": "skat",
+      "logo_url": "http://live.bgtv.stream/logos/skat.png",
+      "uri": "/hls/skat/index.m3u8"
+    },
+    {
+      "name": "EVROKOM",
+      "media_type": "video",
+      "id": "evrokom",
+      "logo_url": "http://live.bgtv.stream/logos/evrokom.png",
+      "uri": "/hls/evrokom/index.m3u8"
+    },
+    {
+      "name": "BLOOMBERG",
+      "media_type": "video",
+      "id": "bloomberg",
+      "logo_url": "http://live.bgtv.stream/logos/bloomberg.png",
+      "uri": "/hls/bloomberg/index.m3u8"
+    },
+    {
+      "name": "RUSSIA TODAY",
+      "media_type": "video",
+      "id": "russiatoday",
+      "logo_url": "http://live.bgtv.stream/logos/russiatoday.png",
+      "uri": "/hls/rt/index.m3u8"
+    },
+    {
+      "name": "FASHION TV",
+      "media_type": "video",
+      "id": "fashiontv",
+      "logo_url": "http://live.bgtv.stream/logos/fashiontv.png",
+      "uri": "/hls/fashion/index.m3u8"
+    },
+    {
+      "name": "CNBC EUROPE",
+      "media_type": "video",
+      "id": "cnbceurope",
+      "logo_url": "http://live.bgtv.stream/logos/cnbceurope.png",
+      "uri": "/hls/cnbceurope/index.m3u8"
+    }
+  ]
+}
