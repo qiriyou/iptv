@@ -1,1 +1,0 @@
-http://live.bgtv.stream/bg.json/jsonrpc?request={"jsonrpc": "2.0", "id": 1, "method": "Playlist.GetPlaylists"}
