@@ -1,29 +1,4 @@
-SON to XML Converter
-This online tool allows you to convert a JSON file into an XML file. This process is not 100% accurate in that XML uses different item types that do not have an equivalent JSON representation.
 
-The following rules will be applied during the conversion process:
-
-A default root element is created
-JSON array entries are converted to individual XML elements
-All JSON property values will be converted to #text item types
-Offending characters will be XML escaped
-*The maximum size limit for file upload is 2 megabytes. All files bigger than 1 megabyte will be formatted to a new window for performance reason and to prevent your browser from being unresponsive.
-
-Option 1: Copy-paste your JSON string here
-Option 2: Or upload your JSON file
-  
-Name of root element:
-root
-The name of the root element of the XML that will be created.
-Element name of JSON array entries:
-element
-The name of the XML elements that represent a converted JSON array entry.
-Indentation level:
-
-CONVERT JSON TO XML  CONVERT JSON TO XML IN NEW WINDOW
-
- 
-Formatted XML:
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
    <balance_gateway>
