@@ -1,211 +1,678 @@
-{
-    "title": "Bularian TV Channels",
-    "key": "0cYlqtpcvzC/VRkU0ExC5iwAupypLxhbofiMN4gUTfo=",
-    "balance_gateway": {
-        "enabled" : true,
-        "url" : "http://bgtvlive.com/balancer"
-    },
-    "hash_param": "h",    
-    "baseUrl": null,
-    "ip_gateway": "http://bgtvlive.com/ip",    
-    "channels": [
-        {
-            "name": "BNT 1",
-            "uri": "/BNT1HD/index.m3u8"
-        },
-        {
-            "name": "BNT 2",
-            "uri": "/BNT2HD/index.m3u8"
-        },        
-                {
-            "name": "KANAL 3 HD",
-            "uri": "/KANAL3HD/index.m3u8"
-        },        
-        {
-            "name": "BTV HD",
-            "uri": "/BTVHD/index.m3u8"
-        },
-        {
-            "name": "BTV ACTION HD",
-            "uri": "/BTVACTIONHD/index.m3u8"
-        },        
-        {
-            "name": "BTV CINEMA",
-            "uri": "/BTVCINEMA/index.m3u8"
-        },         
-        {
-            "name": "BTV COMEDY",
-            "uri": "/BTVCOMEDY/index.m3u8"
-        },      
-                {
-            "name": "BTV LADY",
-            "uri": "/BTVLADY/index.m3u8"
-        },      
-                {
-            "name": "NOVA TV",
-            "uri": "/NOVATVHD/index.m3u8"
-        },      
-                {
-            "name": "NOVA SPORT HD",
-            "uri": "/NOVASPORTHD/index.m3u8"
-        },      
-                {
-            "name": "KINO NOVA",
-            "uri": "/KINONOVA/index.m3u8"
-        },      
-                {
-            "name": "DIEMA TV",
-            "uri": "/DIEMATV/index.m3u8"
-        },
-                {
-            "name": "DIEMA FAMILY",
-            "uri": "/DIEMAFAMILYHD/index.m3u8"
-        },       
-                {
-            "name": "DIEMA SPORT 1",
-            "uri": "/DIEMASPORT1HD/index.m3u8"
-        }, 
-                {
-            "name": "DIEMA SPORT 2",
-            "uri": "/DIEMASPORT2HD/index.m3u8"
-        },      
-                {
-            "name": "MAX SPORT 1",
-            "uri": "/MAXSPORT1HD/index.m3u8"
-        },      
-                {
-            "name": "MAX SPORT 2",
-            "uri": "/MAXSPORT2HD/index.m3u8"
-        },      
-                {
-            "name": "RING BG HD",
-            "uri": "/RINGBGHD/index.m3u8"
-        },
-                {
-            "name": "EUROSPORT 1",
-            "uri": "/EUROSPORT1HD/index.m3u8"
-        },      
-                {
-            "name": "EUROSPORT 2",
-            "uri": "/EUROSPORT2HD/index.m3u8"
-        },              
-                {
-            "name": "SPORT PLUS HD",
-            "uri": "/SPORTPLUSHD/index.m3u8"
-        },
-                {
-            "name": "TV PLUS",
-            "uri": "/TVPLUS/index.m3u8"
-        },         
-                {
-            "name": "FILM PLUS",
-            "uri": "/FILMPLUS/index.m3u8"
-        },
-                {
-            "name": "ACTION PLUS HD",
-            "uri": "/ACTIONPLUSHD/index.m3u8"
-        },
-                {
-            "name": "CINEMA PLUS",
-            "uri": "/CINEMAPLUS/index.m3u8"
-        },            
-                {
-            "name": "HBO 1 HD",
-            "uri": "/HBO1HD/index.m3u8"
-        },      
-                {
-            "name": "HBO 2 HD",
-            "uri": "/HBO2HD/index.m3u8"
-        },      
-                {
-            "name": "HBO 3 HD",
-            "uri": "/HBO3HD/index.m3u8"
-        },      
-                {
-            "name": "CINEMAX 1 HD",
-            "uri": "/CINEMAX1HD/index.m3u8"
-        },      
-                {
-            "name": "CINEMAX 2 HD",
-            "uri": "/CINEMAX2HD/index.m3u8"
-        },
-                {
-            "name": "FOX HD",
-            "uri": "/FOXHD/index.m3u8"
-        },
-                {
-            "name": "FOX CRIME HD",
-            "uri": "/FOXCRIMEHD/index.m3u8"
-        },
-                {
-            "name": "FOX LIFE HD",
-            "uri": "/FOXLIFEHD/index.m3u8"
-        },      
-                {
-            "name": "AXN HD",
-            "uri": "/AXNHD/index.m3u8"
-        },      
-                {
-            "name": "FILMBOX EXTRA HD",
-            "uri": "/FILMBOXEXTRAHD/index.m3u8"
-        },      
-                {
-            "name": "DISCOVERY CHANNEL HD",
-            "uri": "/DISCOVERYCHANNELHD/index.m3u8"
-        },      
-                {
-            "name": "VIASAT HISTORY HD",
-            "uri": "/VIASATHISTORYHD/index.m3u8"
-        },
-                {
-            "name": "NAT GEO WILD HD",
-            "uri": "/NATGEOWILDHD/index.m3u8"
-        },      
-                {
-            "name": "ID EXTRA HD",
-            "uri": "/IDXTRAHD/index.m3u8"
-        },      
-                {
-            "name": "DISNEY CHANNEL",
-            "uri": "/DISNEYCHANNEL/index.m3u8"
-        },      
-                {
-            "name": "CARTOON NETWORK",
-            "uri": "/CARTOONNETWORK/index.m3u8"
-        },      
-                {
-            "name": "NICKLEDEON",
-            "uri": "/NICKLEDEON/index.m3u8"
-        },
-                {
-            "name": "THE VOICE",
-            "uri": "/THEVOICE/index.m3u8"
-        },        
-                {
-            "name": "CITY MUSIC TV",
-            "uri": "/CITYMUSIC/index.m3u8"
-        },
-                {
-            "name": "BG MUSIC CHANNEL HD",
-            "uri": "/BGMUSICHD/index.m3u8"
-        },         
-                {
-            "name": "PLANETA FOLK",
-            "uri": "/PLANETAFOLK/index.m3u8"
-        },      
-                {
-            "name": "PLANETA HD",
-            "uri": "/PLANETAHD/index.m3u8"
-        },
-                {
-            "name": "FEN TV HD",
-            "uri": "/FENTVHD/index.m3u8"
-        },
-                {
-            "name": "BG ON AIR",
-            "uri": "/BGONAIR/index.m3u8"
-        }
-       
-        
-    ]
-}
+SON to XML Converter
+This online tool allows you to convert a JSON file into an XML file. This process is not 100% accurate in that XML uses different item types that do not have an equivalent JSON representation.
+
+The following rules will be applied during the conversion process:
+
+A default root element is created
+JSON array entries are converted to individual XML elements
+All JSON property values will be converted to #text item types
+Offending characters will be XML escaped
+*The maximum size limit for file upload is 2 megabytes. All files bigger than 1 megabyte will be formatted to a new window for performance reason and to prevent your browser from being unresponsive.
+
+Option 1: Copy-paste your JSON string here
+Option 2: Or upload your JSON file
+  
+Name of root element:
+root
+The name of the root element of the XML that will be created.
+Element name of JSON array entries:
+element
+The name of the XML elements that represent a converted JSON array entry.
+Indentation level:
+
+CONVERT JSON TO XML  CONVERT JSON TO XML IN NEW WINDOW
+
+ 
+Formatted XML:
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <balance_gateway>
+      <enabled>true</enabled>
+      <url>http://live.bgtv.stream/balancer</url>
+   </balance_gateway>
+   <baseUrl null="true" />
+   <channels>
+      <element>
+         <id>bnt1</id>
+         <logo_url>http://live.bgtv.stream/logos/bnt1.png</logo_url>
+         <media_type>video</media_type>
+         <name>BNT 1</name>
+         <uri>/hls/bnt/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bnt2</id>
+         <logo_url>http://live.bgtv.stream/logos/bnt2.png</logo_url>
+         <media_type>video</media_type>
+         <name>BNT 2</name>
+         <uri>/hls/bnt2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bnt3</id>
+         <logo_url>http://live.bgtv.stream/logos/bnt3.png</logo_url>
+         <media_type>video</media_type>
+         <name>BNT 3</name>
+         <uri>/hls/bnthd/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bnt4</id>
+         <logo_url>http://live.bgtv.stream/logos/bnt4.png</logo_url>
+         <media_type>video</media_type>
+         <name>BNT 4</name>
+         <uri>/hls/bntworld/index.m3u8</uri>
+      </element>
+      <element>
+         <id>novatv</id>
+         <logo_url>http://live.bgtv.stream/logos/novatv.png</logo_url>
+         <media_type>video</media_type>
+         <name>NOVA</name>
+         <uri>/hls/nova/index.m3u8</uri>
+      </element>
+      <element>
+         <id>novasport</id>
+         <logo_url>http://live.bgtv.stream/logos/novasport.png</logo_url>
+         <media_type>video</media_type>
+         <name>NOVA SPORT</name>
+         <uri>/hls/novasport/index.m3u8</uri>
+      </element>
+      <element>
+         <id>kinonova</id>
+         <logo_url>http://live.bgtv.stream/logos/kinonova.png</logo_url>
+         <media_type>video</media_type>
+         <name>KINO NOVA</name>
+         <uri>/hls/kinonova/index.m3u8</uri>
+      </element>
+      <element>
+         <id>btv</id>
+         <logo_url>http://live.bgtv.stream/logos/btv.png</logo_url>
+         <media_type>video</media_type>
+         <name>BTV</name>
+         <uri>/hls/btv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>btvaction</id>
+         <logo_url>http://live.bgtv.stream/logos/btvaction.png</logo_url>
+         <media_type>video</media_type>
+         <name>BTV ACTION</name>
+         <uri>/hls/btvaction/index.m3u8</uri>
+      </element>
+      <element>
+         <id>btvcinema</id>
+         <logo_url>http://live.bgtv.stream/logos/btvcinema.png</logo_url>
+         <media_type>video</media_type>
+         <name>BTV CINEMA</name>
+         <uri>/hls/btvcinema/index.m3u8</uri>
+      </element>
+      <element>
+         <id>btvcomedy</id>
+         <logo_url>http://live.bgtv.stream/logos/btvcomedy.png</logo_url>
+         <media_type>video</media_type>
+         <name>BTV COMEDY</name>
+         <uri>/hls/btvcomedy/index.m3u8</uri>
+      </element>
+      <element>
+         <id>btvlady</id>
+         <logo_url>http://live.bgtv.stream/logos/btvlady.png</logo_url>
+         <media_type>video</media_type>
+         <name>BTV LADY</name>
+         <uri>/hls/btvlady/index.m3u8</uri>
+      </element>
+      <element>
+         <id>78tv</id>
+         <logo_url>http://live.bgtv.stream/logos/78tv.png</logo_url>
+         <media_type>video</media_type>
+         <name>7/8 TV</name>
+         <uri>/customhls/78tv/playlist.m3u8</uri>
+      </element>
+      <element>
+         <id>diema</id>
+         <logo_url>http://live.bgtv.stream/logos/diema.png</logo_url>
+         <media_type>video</media_type>
+         <name>DIEMA</name>
+         <uri>/hls/diema/index.m3u8</uri>
+      </element>
+      <element>
+         <id>diemafamily</id>
+         <logo_url>http://live.bgtv.stream/logos/diemafamily.png</logo_url>
+         <media_type>video</media_type>
+         <name>DIEMA FAMILY</name>
+         <uri>/hls/diemaf/index.m3u8</uri>
+      </element>
+      <element>
+         <id>diemasport</id>
+         <logo_url>http://live.bgtv.stream/logos/diemasport.png</logo_url>
+         <media_type>video</media_type>
+         <name>DIEMA SPORT</name>
+         <uri>/hls/diemasport/index.m3u8</uri>
+      </element>
+      <element>
+         <id>diemasport2</id>
+         <logo_url>http://live.bgtv.stream/logos/diemasport2.png</logo_url>
+         <media_type>video</media_type>
+         <name>DIEMA SPORT 2</name>
+         <uri>/hls/diemasport2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>maxsport1</id>
+         <logo_url>http://live.bgtv.stream/logos/maxsport1.png</logo_url>
+         <media_type>video</media_type>
+         <name>MAX SPORT 1</name>
+         <uri>/hls/maxsport1/index.m3u8</uri>
+      </element>
+      <element>
+         <id>maxsport2</id>
+         <logo_url>http://live.bgtv.stream/logos/maxsport2.png</logo_url>
+         <media_type>video</media_type>
+         <name>MAX SPORT 2</name>
+         <uri>/hls/maxsport2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>maxsport3</id>
+         <logo_url>http://live.bgtv.stream/logos/maxsport3.png</logo_url>
+         <media_type>video</media_type>
+         <name>MAX SPORT 3</name>
+         <uri>/hls/maxsport3/index.m3u8</uri>
+      </element>
+      <element>
+         <id>maxsport4</id>
+         <logo_url>http://live.bgtv.stream/logos/maxsport4.png</logo_url>
+         <media_type>video</media_type>
+         <name>MAX SPORT 4</name>
+         <uri>/hls/maxsport4/index.m3u8</uri>
+      </element>
+      <element>
+         <id>ring</id>
+         <logo_url>http://live.bgtv.stream/logos/ring.png</logo_url>
+         <media_type>video</media_type>
+         <name>RING BG</name>
+         <uri>/hls/ringbg/index.m3u8</uri>
+      </element>
+      <element>
+         <id>eurosport</id>
+         <logo_url>http://live.bgtv.stream/logos/eurosport1.png</logo_url>
+         <media_type>video</media_type>
+         <name>EUROSPORT 1</name>
+         <uri>/hls/eurosport/index.m3u8</uri>
+      </element>
+      <element>
+         <id>eurosport2</id>
+         <logo_url>http://live.bgtv.stream/logos/eurosport2.png</logo_url>
+         <media_type>video</media_type>
+         <name>EUROSPORT 2</name>
+         <uri>/hls/eurosport2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>hbo</id>
+         <logo_url>http://live.bgtv.stream/logos/hbo.png</logo_url>
+         <media_type>video</media_type>
+         <name>HBO</name>
+         <uri>/hls/hbo/index.m3u8</uri>
+      </element>
+      <element>
+         <id>hbo2</id>
+         <logo_url>http://live.bgtv.stream/logos/hbo2.png</logo_url>
+         <media_type>video</media_type>
+         <name>HBO 2</name>
+         <uri>/hls/hbo2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>hbo3</id>
+         <logo_url>http://live.bgtv.stream/logos/hbo3.png</logo_url>
+         <media_type>video</media_type>
+         <name>HBO 3</name>
+         <uri>/hls/hbo3/index.m3u8</uri>
+      </element>
+      <element>
+         <id>cinemax</id>
+         <logo_url>http://live.bgtv.stream/logos/cinemax.png</logo_url>
+         <media_type>video</media_type>
+         <name>CINEMAX</name>
+         <uri>/hls/cinemax/index.m3u8</uri>
+      </element>
+      <element>
+         <id>cinemax2</id>
+         <logo_url>http://live.bgtv.stream/logos/cinemax2.png</logo_url>
+         <media_type>video</media_type>
+         <name>CINEMAX 2</name>
+         <uri>/hls/cinemax2/index.m3u8</uri>
+      </element>
+      <element>
+         <id>moviestar</id>
+         <logo_url>http://live.bgtv.stream/logos/moviestar.png</logo_url>
+         <media_type>video</media_type>
+         <name>MOVIESTAR</name>
+         <uri>/hls/moviestar/index.m3u8</uri>
+      </element>
+      <element>
+         <id>fox</id>
+         <logo_url>http://live.bgtv.stream/logos/fox.png</logo_url>
+         <media_type>video</media_type>
+         <name>FOX</name>
+         <uri>/hls/fox/index.m3u8</uri>
+      </element>
+      <element>
+         <id>foxcrime</id>
+         <logo_url>http://live.bgtv.stream/logos/foxcrime.png</logo_url>
+         <media_type>video</media_type>
+         <name>FOX CRIME</name>
+         <uri>/hls/foxcrime/index.m3u8</uri>
+      </element>
+      <element>
+         <id>foxlife</id>
+         <logo_url>http://live.bgtv.stream/logos/foxlife.png</logo_url>
+         <media_type>video</media_type>
+         <name>FOX LIFE</name>
+         <uri>/hls/foxlife/index.m3u8</uri>
+      </element>
+      <element>
+         <id>axn</id>
+         <logo_url>http://live.bgtv.stream/logos/axn.png</logo_url>
+         <media_type>video</media_type>
+         <name>AXN</name>
+         <uri>/hls/axn/index.m3u8</uri>
+      </element>
+      <element>
+         <id>axnwhite</id>
+         <logo_url>http://live.bgtv.stream/logos/axnwhite.png</logo_url>
+         <media_type>video</media_type>
+         <name>AXN WHITE</name>
+         <uri>/hls/axnwhite/index.m3u8</uri>
+      </element>
+      <element>
+         <id>axnblack</id>
+         <logo_url>http://live.bgtv.stream/logos/axnblack.png</logo_url>
+         <media_type>video</media_type>
+         <name>AXN BLACK</name>
+         <uri>/hls/axnblack/index.m3u8</uri>
+      </element>
+      <element>
+         <id>natgeo</id>
+         <logo_url>http://live.bgtv.stream/logos/natgeo.png</logo_url>
+         <media_type>video</media_type>
+         <name>NATIONAL GEOGRAPHIC</name>
+         <uri>/hls/ng/index.m3u8</uri>
+      </element>
+      <element>
+         <id>natgeowild</id>
+         <logo_url>http://live.bgtv.stream/logos/natgeowild.png</logo_url>
+         <media_type>video</media_type>
+         <name>NAT GEO WILD</name>
+         <uri>/hls/natgeowild/index.m3u8</uri>
+      </element>
+      <element>
+         <id>viasatnature</id>
+         <logo_url>http://live.bgtv.stream/logos/viasatnature.png</logo_url>
+         <media_type>video</media_type>
+         <name>VIASAT NATURE</name>
+         <uri>/hls/viasat_nature/index.m3u8</uri>
+      </element>
+      <element>
+         <id>viasathistory</id>
+         <logo_url>http://live.bgtv.stream/logos/viasathistory.png</logo_url>
+         <media_type>video</media_type>
+         <name>VIASAT HISTORY</name>
+         <uri>/hls/viasat_history/index.m3u8</uri>
+      </element>
+      <element>
+         <id>viasatexplore</id>
+         <logo_url>http://live.bgtv.stream/logos/viasatexplore.png</logo_url>
+         <media_type>video</media_type>
+         <name>VIASAT EXPLORE</name>
+         <uri>/hls/viasat_explorer/index.m3u8</uri>
+      </element>
+      <element>
+         <id>id</id>
+         <logo_url>http://live.bgtv.stream/logos/investigationdiscovery.png</logo_url>
+         <media_type>video</media_type>
+         <name>INVESTIGATION DISCOVERY</name>
+         <uri>/hls/id/index.m3u8</uri>
+      </element>
+      <element>
+         <id>discovery</id>
+         <logo_url>http://live.bgtv.stream/logos/discovery.png</logo_url>
+         <media_type>video</media_type>
+         <name>DISCOVERY CHANNEL</name>
+         <uri>/hls/discovery/index.m3u8</uri>
+      </element>
+      <element>
+         <id>discoveryscience</id>
+         <logo_url>http://live.bgtv.stream/logos/discoveryscience.png</logo_url>
+         <media_type>video</media_type>
+         <name>DISCOVERY SCIENCE</name>
+         <uri>/hls/discoveryscience/index.m3u8</uri>
+      </element>
+      <element>
+         <id>animalplanet</id>
+         <logo_url>http://live.bgtv.stream/logos/animalplanet.png</logo_url>
+         <media_type>video</media_type>
+         <name>ANIMAL PLANET</name>
+         <uri>/hls/animalplanet/index.m3u8</uri>
+      </element>
+      <element>
+         <id>24kitchen</id>
+         <logo_url>http://live.bgtv.stream/logos/24kitchen.png</logo_url>
+         <media_type>video</media_type>
+         <name>24 KITCHEN</name>
+         <uri>/hls/24kitchen/index.m3u8</uri>
+      </element>
+      <element>
+         <id>tlc</id>
+         <logo_url>http://live.bgtv.stream/logos/tlc.png</logo_url>
+         <media_type>video</media_type>
+         <name>TLC</name>
+         <uri>/hls/tlc/index.m3u8</uri>
+      </element>
+      <element>
+         <id>history</id>
+         <logo_url>http://live.bgtv.stream/logos/history.png</logo_url>
+         <media_type>video</media_type>
+         <name>HISTORY TV</name>
+         <uri>/hls/historytv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>travelchannel</id>
+         <logo_url>http://live.bgtv.stream/logos/travelchannel.png</logo_url>
+         <media_type>video</media_type>
+         <name>TRAVEL CHANNEL</name>
+         <uri>/hls/travelbg/index.m3u8</uri>
+      </element>
+      <element>
+         <id>tv1000</id>
+         <logo_url>http://live.bgtv.stream/logos/tv1000.png</logo_url>
+         <media_type>video</media_type>
+         <name>TV 1000</name>
+         <uri>/hls/tv1000/index.m3u8</uri>
+      </element>
+      <element>
+         <id>amc</id>
+         <logo_url>http://live.bgtv.stream/logos/amc.png</logo_url>
+         <media_type>video</media_type>
+         <name>AMC</name>
+         <uri>/hls/amc/index.m3u8</uri>
+      </element>
+      <element>
+         <id>comedycentral</id>
+         <logo_url>http://live.bgtv.stream/logos/comedycentral.png</logo_url>
+         <media_type>video</media_type>
+         <name>COMEDY CENTRAL</name>
+         <uri>/hls/comedyc/index.m3u8</uri>
+      </element>
+      <element>
+         <id>cbsreality</id>
+         <logo_url>http://live.bgtv.stream/logos/cbsreality.png</logo_url>
+         <media_type>video</media_type>
+         <name>CBS REALITY</name>
+         <uri>/hls/cbsreality/index.m3u8</uri>
+      </element>
+      <element>
+         <id>mtv</id>
+         <logo_url>http://live.bgtv.stream/logos/mtv.png</logo_url>
+         <media_type>video</media_type>
+         <name>MTV</name>
+         <uri>/hls/mtv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>mtvhits</id>
+         <logo_url>http://live.bgtv.stream/logos/mtvhits.png</logo_url>
+         <media_type>video</media_type>
+         <name>MTV HITS</name>
+         <uri>/hls/mtvhits/index.m3u8</uri>
+      </element>
+      <element>
+         <id>mtvrocks</id>
+         <logo_url>http://live.bgtv.stream/logos/mtvrocks.png</logo_url>
+         <media_type>video</media_type>
+         <name>MTV ROCKS</name>
+         <uri>/hls/mtvrocks/index.m3u8</uri>
+      </element>
+      <element>
+         <id>vh1</id>
+         <logo_url>http://live.bgtv.stream/logos/vh1.png</logo_url>
+         <media_type>video</media_type>
+         <name>VH1</name>
+         <uri>/hls/vh1/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bgmusicchannel</id>
+         <logo_url>http://live.bgtv.stream/logos/bgmusicchannel.png</logo_url>
+         <media_type>video</media_type>
+         <name>BG MUSIC CHANNEL</name>
+         <uri>/hls/bgmusic/index.m3u8</uri>
+      </element>
+      <element>
+         <id>city</id>
+         <logo_url>http://live.bgtv.stream/logos/city.png</logo_url>
+         <media_type>video</media_type>
+         <name>CITY TV</name>
+         <uri>/hls/citytv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>thevoicetv</id>
+         <logo_url>http://live.bgtv.stream/logos/thevoicetv.png</logo_url>
+         <media_type>video</media_type>
+         <name>THE VOICE</name>
+         <uri>/hls/thevoice/index.m3u8</uri>
+      </element>
+      <element>
+         <id>magictv</id>
+         <logo_url>http://live.bgtv.stream/logos/magictv.png</logo_url>
+         <media_type>video</media_type>
+         <name>MAGIC TV</name>
+         <uri>/hls/magictv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>boxtv</id>
+         <logo_url>http://live.bgtv.stream/logos/boxtv.png</logo_url>
+         <media_type>video</media_type>
+         <name>BOX</name>
+         <uri>/hls/box/index.m3u8</uri>
+      </element>
+      <element>
+         <id>mezzo</id>
+         <logo_url>http://live.bgtv.stream/logos/mezzo.png</logo_url>
+         <media_type>video</media_type>
+         <name>MEZZO</name>
+         <uri>/hls/mezzo/index.m3u8</uri>
+      </element>
+      <element>
+         <id>fentv</id>
+         <logo_url>http://live.bgtv.stream/logos/fentv.png</logo_url>
+         <media_type>video</media_type>
+         <name>FEN TV</name>
+         <uri>/hls/fantv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>fenfolk</id>
+         <logo_url>http://live.bgtv.stream/logos/fenfolk.png</logo_url>
+         <media_type>video</media_type>
+         <name>FEN FOLK</name>
+         <uri>/hls/fenfolk/index.m3u8</uri>
+      </element>
+      <element>
+         <id>planetatv</id>
+         <logo_url>http://live.bgtv.stream/logos/planetatv.png</logo_url>
+         <media_type>video</media_type>
+         <name>PLANETA TV</name>
+         <uri>/hls/planeta/index.m3u8</uri>
+      </element>
+      <element>
+         <id>planetafolk</id>
+         <logo_url>http://live.bgtv.stream/logos/planetafolk.png</logo_url>
+         <media_type>video</media_type>
+         <name>PLANETA FOLK</name>
+         <uri>/hls/planetafolk/index.m3u8</uri>
+      </element>
+      <element>
+         <id>planetahd</id>
+         <logo_url>http://live.bgtv.stream/logos/planetahd.png</logo_url>
+         <media_type>video</media_type>
+         <name>PLANETA HD</name>
+         <uri>/hls/planetahd/index.m3u8</uri>
+      </element>
+      <element>
+         <id>balkanika</id>
+         <logo_url>http://live.bgtv.stream/logos/balkanika.png</logo_url>
+         <media_type>video</media_type>
+         <name>BALKANIKA</name>
+         <uri>/hls/balkanika/index.m3u8</uri>
+      </element>
+      <element>
+         <id>tiankovfolk</id>
+         <logo_url>http://live.bgtv.stream/logos/tiankovfolk.png</logo_url>
+         <media_type>video</media_type>
+         <name>TIANKOV FOLK</name>
+         <uri>/hls/tiankov/index.m3u8</uri>
+      </element>
+      <element>
+         <id>sunrisemusic</id>
+         <logo_url>http://live.bgtv.stream/logos/sunrisemusic.png</logo_url>
+         <media_type>video</media_type>
+         <name>SUNRISE MUSIC</name>
+         <uri>/hls/sunrisem/index.m3u8</uri>
+      </element>
+      <element>
+         <id>dstv</id>
+         <logo_url>http://live.bgtv.stream/logos/dstv.png</logo_url>
+         <media_type>video</media_type>
+         <name>DSTV</name>
+         <uri>/hls/dstv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>cartoonnetwork</id>
+         <logo_url>http://live.bgtv.stream/logos/cartoonnetwork.png</logo_url>
+         <media_type>video</media_type>
+         <name>CARTOON NETWORK</name>
+         <uri>/hls/cartoon/index.m3u8</uri>
+      </element>
+      <element>
+         <id>babytv</id>
+         <logo_url>http://live.bgtv.stream/logos/babytv.png</logo_url>
+         <media_type>video</media_type>
+         <name>BABY TV</name>
+         <uri>/hls/babytv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>boomerang</id>
+         <logo_url>http://live.bgtv.stream/logos/boomerang.png</logo_url>
+         <media_type>video</media_type>
+         <name>BOOMERANG</name>
+         <uri>/hls/boomerang/index.m3u8</uri>
+      </element>
+      <element>
+         <id>nickelodeon</id>
+         <logo_url>http://live.bgtv.stream/logos/nickelodeon.png</logo_url>
+         <media_type>video</media_type>
+         <name>NICKELODEON</name>
+         <uri>/hls/nickelodeon/index.m3u8</uri>
+      </element>
+      <element>
+         <id>disney</id>
+         <logo_url>http://live.bgtv.stream/logos/disney.png</logo_url>
+         <media_type>video</media_type>
+         <name>DISNEY CHANNEL</name>
+         <uri>/hls/disney/index.m3u8</uri>
+      </element>
+      <element>
+         <id>disneyjunior</id>
+         <logo_url>http://live.bgtv.stream/logos/disneyjunior.png</logo_url>
+         <media_type>video</media_type>
+         <name>DISNEY JUNIOR</name>
+         <uri>/hls/disneyjunior/index.m3u8</uri>
+      </element>
+      <element>
+         <id>ducktv</id>
+         <logo_url>http://live.bgtv.stream/logos/ducktv.png</logo_url>
+         <media_type>video</media_type>
+         <name>DUCK TV</name>
+         <uri>/hls/ducktv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>ekids</id>
+         <logo_url>http://live.bgtv.stream/logos/ekids.png</logo_url>
+         <media_type>video</media_type>
+         <name>E-KIDS</name>
+         <uri>/hls/ekids/index.m3u8</uri>
+      </element>
+      <element>
+         <id>alfa</id>
+         <logo_url>http://live.bgtv.stream/logos/alfa.png</logo_url>
+         <media_type>video</media_type>
+         <name>ALFA TV</name>
+         <uri>/hls/alfatv/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bgonair</id>
+         <logo_url>http://live.bgtv.stream/logos/bgonair.png</logo_url>
+         <media_type>video</media_type>
+         <name>BG ON AIR</name>
+         <uri>/hls/bgonair/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bit</id>
+         <logo_url>http://live.bgtv.stream/logos/bit.png</logo_url>
+         <media_type>video</media_type>
+         <name>BIT</name>
+         <uri>/hls/bit/index.m3u8</uri>
+      </element>
+      <element>
+         <id>tvevropa</id>
+         <logo_url>http://live.bgtv.stream/logos/tvevropa.png</logo_url>
+         <media_type>video</media_type>
+         <name>TV EVROPA</name>
+         <uri>/hls/tvevropa/index.m3u8</uri>
+      </element>
+      <element>
+         <id>kanal3</id>
+         <logo_url>http://live.bgtv.stream/logos/kanal3.png</logo_url>
+         <media_type>video</media_type>
+         <name>KANAL 3</name>
+         <uri>/hls/kanal3/index.m3u8</uri>
+      </element>
+      <element>
+         <id>skat</id>
+         <logo_url>http://live.bgtv.stream/logos/skat.png</logo_url>
+         <media_type>video</media_type>
+         <name>SKAT</name>
+         <uri>/hls/skat/index.m3u8</uri>
+      </element>
+      <element>
+         <id>evrokom</id>
+         <logo_url>http://live.bgtv.stream/logos/evrokom.png</logo_url>
+         <media_type>video</media_type>
+         <name>EVROKOM</name>
+         <uri>/hls/evrokom/index.m3u8</uri>
+      </element>
+      <element>
+         <id>bloomberg</id>
+         <logo_url>http://live.bgtv.stream/logos/bloomberg.png</logo_url>
+         <media_type>video</media_type>
+         <name>BLOOMBERG</name>
+         <uri>/hls/bloomberg/index.m3u8</uri>
+      </element>
+      <element>
+         <id>russiatoday</id>
+         <logo_url>http://live.bgtv.stream/logos/russiatoday.png</logo_url>
+         <media_type>video</media_type>
+         <name>RUSSIA TODAY</name>
+         <uri>/hls/rt/index.m3u8</uri>
+      </element>
+      <element>
+         <id>fashiontv</id>
+         <logo_url>http://live.bgtv.stream/logos/fashiontv.png</logo_url>
+         <media_type>video</media_type>
+         <name>FASHION TV</name>
+         <uri>/hls/fashion/index.m3u8</uri>
+      </element>
+      <element>
+         <id>cnbceurope</id>
+         <logo_url>http://live.bgtv.stream/logos/cnbceurope.png</logo_url>
+         <media_type>video</media_type>
+         <name>CNBC EUROPE</name>
+         <uri>/hls/cnbceurope/index.m3u8</uri>
+      </element>
+   </channels>
+   <expire_param>e</expire_param>
+   <expire_timestamp>1735689600</expire_timestamp>
+   <hash_param>h</hash_param>
+   <ip_gateway>http://live.bgtv.stream/ip</ip_gateway>
+   <key>F3VYD1zVsHbms9CEnqoqfvgRPq6GoxEEj8dFr9bAIUAkTRZn8AyOqeB+EmbSdrdE</key>
+</root>
