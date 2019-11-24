@@ -1,6 +1,5 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
    <balance_gateway>
       <enabled>true</enabled>
       <url>http://live.bgtv.stream/balancer</url>
@@ -650,4 +649,4 @@
    <hash_param>h</hash_param>
    <ip_gateway>http://live.bgtv.stream/ip</ip_gateway>
    <key>F3VYD1zVsHbms9CEnqoqfvgRPq6GoxEEj8dFr9bAIUAkTRZn8AyOqeB+EmbSdrdE</key>
-</root>
+
