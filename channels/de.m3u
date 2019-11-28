@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 logo="http://79.228.55.140:9981/imagecache/279" tvg-id="033272d85d56611630e8434e4e9714cf",
-.
+
 http://79.228.55.140:9981/stream/channelid/1483878915?ticket=7CB5A38C15B16BA2E6F4CBB131EB81A0F2B1E111&profile=pass
 #EXTINF:-1 logo="http://79.228.55.140:9981/imagecache/273" tvg-id="4ad6e2fd61a1a671ef9e2e2355cd7afb",
-.
+
 http://79.228.55.140:9981/stream/channelid/2112017994?ticket=296527159648F45F7A1ED6B641A0115B6BBC93A0&profile=pass
 #EXTINF:-1 logo="http://79.228.55.140:9981/imagecache/301" tvg-id="5a448be50fa1133e2140b31b7c0dab10",
 1-2-3.tv
