@@ -1,91 +1,692 @@
 #EXTM3U
-#EXTINF:0,RAI 1 HD
-http://176.10.117.21:8081/aypitv/RAI1HDZUG/playlist.m3u8
-#EXTINF:0,RAI 2 HD
-http://176.10.117.21:8081/aypitv/RAI2HDZUG/playlist.m3u8
-#EXTINF:0,RSI_LA1 HD
-http://176.10.117.21:8081/aypitv/RSI_LA1Yenikart/playlist.m3u8
-#EXTINF:0,RSI_LAH D2
-http://176.10.117.21:8081/aypitv/RSI_LAHD2ZUG/playlist.m3u8
-#EXTINF:0,LA_1
-http://176.10.117.18:8081/aypitv/LA_1/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1,IT:Italia1
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/4222
-#EXTINF:-1,IT:La5
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/4221
-#EXTINF:-1,Rai.1.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1350
-#EXTINF:-1,Rai2.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1351
-#EXTINF:-1,Rai:3
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1349
-#EXTINF:-1,IT:RAI4
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/2547
-#EXTINF:-1,it:RAI5
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/2310
-#EXTINF:-1,Rai.Sport1
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1352
-#EXTINF:-1,Rai.Sport2
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1353
-#EXTINF:-1,Rai:YoYo
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1348
-#EXTINF:-1,IT:RAI.PREMIUM
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/2546
-#EXTINF:-1,IT: RAI MOVIE
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/2545
-#EXTINF:-1,IT:RSI.La.1.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1910
-#EXTINF:-1,IT:RSI.La2
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1908
-#EXTINF:-1,ITALIA.1
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1186
-#EXTINF:-1,IT:Sky.CANAL5
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1931
-#EXTINF:-1,IT:CANALE5
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1185
-#EXTINF:-1,IT:Top.Crime
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1354
-#EXTINF:-1,IT:Teleticino
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1919
-#EXTINF:-1,IT:SKY.UNO
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1770
-#EXTINF:-1,IT:Sky.Fox.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1355
-#EXTINF:-1,IT:SKY.Cielo
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1321
-#EXTINF:-1,IT:Rete.4
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1911
-#EXTINF:-1,IT:Mediaset/Extra
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1812
-#EXTINF:-1,IT:La.7HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1923
-#EXTINF:-1,IT:Fox.Comedy.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1922
-#EXTINF:-1,IT:Disney.XD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1924
-#EXTINF:-1,IT:CARTOON.NETWORK
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1926
-#EXTINF:-1,IT:Boing
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1811
-#EXTINF:-1,IT.Sky.TG.24
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/158
-#EXTINF:-1,IT.Sky.Fox.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/151
-#EXTINF:-1,IT.Sky.Fox.Crime.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/152
-#EXTINF:-1,IT-FOX.AnimationHD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1241
-#EXTINF:-1,IT-Discovery.World
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1138
-#EXTINF:-1,IT:National.Geo.HD.WILD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1918
-#EXTINF:-1,IT:NAT.GEO.POEPLE.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1326
-#EXTINF:-1,IT:Discovery.Travel
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1325
-#EXTINF:-1,IT:Discovery.Sci.HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1925
-#EXTINF:-1,IT:Sky.Nat.Geo.WildHD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/1323
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://seeklogo.com/images/R/rai-uno-logo-A769F5F641-seeklogo.com.png" group-title="ITALI TV",RAI 1
+http://ott-cdn.ucom.am:80/s29/04.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/2000px-Logo_Rai_2_HD.svg.png" group-title="ITALI TV",RAI 2
+http://5.135.92.138:-7393/out/u/452_1.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rai_3_HD_-_Logo_2016.svg/1280px-Rai_3_HD_-_Logo_2016.svg.png" group-title="ITALI TV",RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="ITALI TV",RAI 4
+http://b2everyrai-lh.akamaihd.net:80/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/2000px-Rai_5_logo.svg.png" group-title="ITALI TV",RAI 5
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="http://img.mediaset.it/bin/7.$plit/C_116_canali_1_upiLogo.jpg" group-title="ITALI TV", Canale 5
+http://91.211.156.238:80/hls/CH13/live_Layer2.m3u8
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="http://www.logovaults.com/stock_thumb/preview-rete4-2013-01-28.jpg" group-title="ITALI TV",RETE 4
+http://91.211.156.238:80/hls/CH14/live_Layer2.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://logos-download.com/wp-content/uploads/2017/12/Italia_1_logo_blue.png" group-title="ITALI TV", Italia 1
+http://185.236.229.14:8000/play/a0fq
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="http://www.lospettacolo.it/img/logos/ital2.png" group-title="ITALI TV",Italia 2
+http://tvservice.pro:80\/live/913665001585\/GNxfqmXRmlZQuOl/27318.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",M4C
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch11)/Stream(04)/index.m3u8
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",FOCUS
+https://link.theplatform.eu/s/PR1GhC\/wHK9cbMPjOED
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",MEDIASET EXTRA
+https://link.theplatform.eu/s/PR1GhC/IWgG4wO2SjAZ
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",LA5
+https://link.theplatform.eu/s/PR1GhC/WVoktJ8xI6hr
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",IRIS
+http://185.236.229.14:8000/play/a0ft
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TOP CRIME
+http://link.theplatform.eu/s/PR1GhC/ehq1wL7jfBaT
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RAI PREMIUM
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema1 HD
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema Passion HD
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema Max HD
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema Family HD
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema Comedy HD
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Sky Cinema Classic HD(1)
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Premium Emotion
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Premium Crime
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY CINEMA" tvg-logo="http://satshare.net/Gallery/QRuvAgXx_400x400.png" group-title="SKY CINEMA", Premium Cinema Energy
+http://62.210.110.22:88/live/NcYRL0jAWw/Xz9stK2ldH/63.ts
+
+
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",SKY Primafila 1
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/103.ts
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",SKY Primafila 2
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/104.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",SKY Primafila 3
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/90.ts
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",Sky Primafila 4
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/105.ts
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",Sky Primafila 5
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/106.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",IT: Sky Primafila 6
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/95.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",Sky Primafila 7
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/96.ts
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="PRIMAFILA" tvg-logo="http://nst.sky.it/content/dam/static/images/eveningnews/2016/04/29_speciale_500/B-primafila/BP_3004_lightbox_sky.jpg" group-title="PRIMAFILA",Sky Primafila 8
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/97.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="DOCUMENTARIO" tvg-logo="http://3.bp.blogspot.com/-Y0WhhsyLgNM/WJQHc67e8MI/AAAAAAAACRs/Qj46ZDiMMuAqWB8JDBFv7LZDS9zYJyOIgCHM/s1600/elephant-wallpapers-hd-pictures-one-hd-wallpaper-pictures.jpg" group-title="DOCUMENTARIO",Nat Geo Wild HD
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/89.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="DOCUMENTARIO" tvg-logo="http://3.bp.blogspot.com/-Y0WhhsyLgNM/WJQHc67e8MI/AAAAAAAACRs/Qj46ZDiMMuAqWB8JDBFv7LZDS9zYJyOIgCHM/s1600/elephant-wallpapers-hd-pictures-one-hd-wallpaper-pictures.jpg" group-title="DOCUMENTARIO",NAT GEO HD
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/88.ts
+
+#EXTINF:-1,tvg-ID="" tvg-name="DOCUMENTARIO" tvg-logo="http://3.bp.blogspot.com/-Y0WhhsyLgNM/WJQHc67e8MI/AAAAAAAACRs/Qj46ZDiMMuAqWB8JDBFv7LZDS9zYJyOIgCHM/s1600/elephant-wallpapers-hd-pictures-one-hd-wallpaper-pictures.jpg" group-title="DOCUMENTARIO",Animal Planet
+http://62.210.110.22:88/live
+#EXTINF:-1,tvg-ID="" tvg-name="DOCUMENTARIO" tvg-logo="http://3.bp.blogspot.com/-Y0WhhsyLgNM/WJQHc67e8MI/AAAAAAAACRs/Qj46ZDiMMuAqWB8JDBFv7LZDS9zYJyOIgCHM/s1600/elephant-wallpapers-hd-pictures-one-hd-wallpaper-pictures.jpg" group-title="DOCUMENTARIO",Discovery Science HD
+http://62.210.110.22:88/live/zSNMtHY5Lv/iVvAxmv0rp/87.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",la 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",SKY TG 24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Auto Moto
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Class Horse TV
+http://37.48.104.71:1935/live/classhorse/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV 2000
+http://cld04wz.tv2000.it/tv2000_main.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Padre Pio
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",DMAX HD
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",DONNA TV
+http://wms.shared.streamshow.it/okitalia/okitalia/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+
+
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Zeta TV
+https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Freccia HD
+https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Monte Carlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Azzurra
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",iL Meto It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",iL Meto it domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",iL Meto it dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RTTR TV Trento
+http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Info Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/hasbahca.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Videonovara
+http://sb.top-ix.org/avtv04/_definst_/streaming/manifest.mpd
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Alpa Uno TV
+https://57e0550c502b6.streamlock.net:444/alpauno/alpauno/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Azurra TV
+https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tele Granda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Primocanale Liguria
+http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telegenova
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662062/master.m3u8?hdnea=st=1540410648~exp=1540410768~acl=/i/dclive_1@662062*~hmac=05c26ac952043af28400ade92efc9ff54eeff2a02ec96ac441a054634911d6e2
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",111 TV
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/master.m3u8?hdnea=st=1540750891~exp=1540751011~acl=/i/dclive_1@662089*~hmac=6dcca5c2fdde6c4dc997c5b14ad286f1eeeb18ee04522bd314c4b4e27377c299
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TNE Telelombardia
+http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Primarete Lombardia
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telecolor Milan
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale Italia
+http://ac024fe.streamcloud.it/service/media-provider/live/4847/playlist.m3u8?accessToken=51c3544ac33a24b012ba69bf6349db78
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",telePavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TSN Livigno
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telemonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Videostar TV Lombardia
+http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RTV San Marino
+http://o4.senape.tv:1935/webtv_live4/_definst_/0QBXFQ2L0I5P/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RTV San Marino Sport
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleromagna 2
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TR Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",ETV Rete7
+http://live.sloode.com:1935/etv_live/etv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teletricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Expansione
+https://srvx1.selftv.video/espansione/live/chunklist_w1684714198.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TRC Bologna
+http://o1.senape.tv:1935/webtv_live/_definst_/4EXNDSKLSLN9/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TRC Modena
+http://o1.senape.tv:1935/webtv_live/_definst_/VC3TCRHI9LNP/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Icaro TV Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Cremona 1
+http://o1.senape.tv:1935/webtv_live/_definst_/MHQASAJMAM78/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV PARMA
+http://tvparmalive.cloudapp.net/tvparma.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",12 TV PARMA
+http://tvparmalive.cloudapp.net/tvparma.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleducatto Parma
+http://tvparmalive.cloudapp.net/tvparma.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telequattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleChiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TVA Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telecitta
+http://213.187.12.18/live/tv1.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleSanDomenico
+http://dcunilive20-lh.akamaihd.net/i/dclive_1@195975/master.m3u8?hdnea=st=1540517897~exp=1540518017~acl=/i/dclive_1@195975*~hmac=8f4294bed0fc9a89dddb4795bb717804119cdefc034fdf92f95cb8da9d7bc76d
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Eden TV 76
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",ExtraTV Lazio
+http://msh0315.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Radio TV
+http://api.new.livestream.com/accounts/11463451/events/3679884/videos/80943761.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleTusciaSabina 2000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",SL48 TV
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",ETV Marche
+http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TVRS Marche
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rmm Marche
+http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telerent 7 Gold
+https://ssh101.com/m3u8/dyn/0578/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teletruria
+http://player001.teletruria.it/hls/stream001.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TVL
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8?hdnea=st=1540518132~exp=1540518252~acl=/i/dclive_1@661035*~hmac=66cf6b235a391ebda0d189ded913afc17185640e7eca27c47829960ab561529d
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TVL Sport
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?hdnea=st=1538096675~exp=1538096795~acl=/i/dclive_1@662153*~hmac=377b5517b48f7b7cc96b55a4be02e75dd043a2303efc7eefc58dae96c7d92c36
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Umbria TV
+http://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Vera TV
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",ABRUZZO TV
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/_definst_/abchannel/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleabruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",AB Channel
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/_definst_/abchannel/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",antennasud
+http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Super J
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TGR
+http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?636761251116113654
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleTerni
+https://diretta.teleterni.it/live/stream_src.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV Campane 1
+http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telenuova
+https://ssh101.com/m3u8/dyn/Telenuova/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telenuova 2
+https://ssh101.com/m3u8/dyn/Telenuova/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Quarta Rete
+http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Quarto Canale
+http://live-fs.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Otto Channel
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 8
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 21
+http://live.sloode.com:1935/canale21.adjlkuiug.dkja_ioijre/str8dajlkjdhyttr/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV Luna
+http://193.70.66.213:1935/out.tvluna.arju87645hf/teleluna/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV Luna Sport
+http://live.sloode.com:1935/out.tvluna.arju87645hf/lunasport/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleacras
+http://vod1.kronopress.com:1935/teleacras_live/teleacras/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telecolore
+https://5bc42255bee71.streamlock.net/telecolore/telecolore/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Televomero Campania
+http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Cafe TV24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Julie News
+https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Media TV
+http://live.sloode.com:1935/mediatv_live/_definst_/mediatvweb/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tua Channel
+https://flash2.xdevel.com/tuachannel/tuachannel/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Promovideo TV
+https://flash2.xdevel.com/promovideotv/promovideotv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Esperia TV
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Company TV
+http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Paradise TV
+https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Studio 100 Puglia
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV Sei
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TelePonte
+https://54627d4fc5996.streamlock.net/teleponte/teleponte/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Teleregione
+http://live.puglia.net:81/hls/canale190.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 189
+http://wms.shared.streamshow.it/canale189/canale189/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TV Jo
+http://wms.shared.streamshow.it/canale189/canale189/chunklist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TELESUD3 Trapani
+http://live.streamcaster.net:1935/telesud3_live/telesud/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Lucania TV
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Italia2
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TG Norba 24
+http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RTC Calabria Channel
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Calabria Uno
+https://5926fc9c7c5b2.streamlock.net/9030/9030/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Esperia TV 18 Calabria
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telemia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",RTV Reggio
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Studio 7
+https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",OndaTV
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TCF Messina
+https://57e0550c502b6.streamlock.net:444/tcf_live/telecineforum/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Antenna Sicilia
+http://live.lasiciliaweb.it/hls/as.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telecolore Catania
+http://live.lasiciliaweb.it/hls/tc.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TRM hd 24
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Tele8
+https://57e0550c502b6.streamlock.net:444/tele8_live/tele8/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telestar1
+http://193.34.109.10:8090/
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Telerent 7 Gold
+https://ssh101.com/m3u8/dyn/0578/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Antenna Uno News
+https://ssh101.com/m3u8/dyn/antennaunolentini/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Video Mediterraneo
+http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TRS Siacca
+https://57e0550c502b6.streamlock.net:444/teleradiosciacca_live/3DAF-BCB8-B471-4B5B/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TVA Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",CTS Palermo
+https://57e0550c502b6.streamlock.net:444/cts_live/_definst_/cts/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Siciliatv
+https://ssh101.com/m3u8/dyn/siciliatv/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Sicilia Media TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",SICILIA HD
+https://57e0550c502b6.streamlock.net:444/siciliahd_live/5874-C3F9-6E9E-4547/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 74 Sicilia
+http://151.80.100.112:1935/canale74/canale74/chunklist_w174779335.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rete 79
+https://flash2.xdevel.com/rete79/rete79/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rei TV
+https://ssh101.com/m3u8/dyn/ReiTv/index.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Rmk TV
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Videostar
+http://live1.kronopress.com:1935/videostar_live/videostar/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Prima TV
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",GLOBUS TV
+https://flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Radio Studio 90
+https://flash7.xdevel.com/studio90italiatv/studio90italiatv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Sardegna 1
+https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Videolina
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Canale 12
+http://wifitv.tv/media/live/1001/video.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",TeleTicino
+http://teleticinolive.vedge.infomaniak.com/livecast/teleticinolive/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Reteconomy
+http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",Mediasport
+https://streaming.wim.tv/programming/mediasportchannel/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",IRC Sport
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://2polyglot.com/images/files/italiano.png" group-title="ITALI TV",ORLER TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
