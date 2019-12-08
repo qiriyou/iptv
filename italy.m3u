@@ -1,7 +1,4 @@
 #EXTM3U
-
-
-
 #EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://seeklogo.com/images/R/rai-uno-logo-A769F5F641-seeklogo.com.png" group-title="ITALI TV",RAI 1
 http://ott-cdn.ucom.am:80/s29/04.m3u8
 #EXTINF:-1,tvg-ID="" tvg-name="itali tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/2000px-Logo_Rai_2_HD.svg.png" group-title="ITALI TV",RAI 2
