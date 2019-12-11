@@ -1,212 +1,143 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=hahaha
 #EXTINF:-1,AL: Alsat M HD
-http://146.0.43.30:25461/pop/kanale/162
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/162|user-agent=hahaha
 #EXTINF:-1,AL: Top Channel HD
-http://146.0.43.30:25461/pop/kanale/163
-#EXTVLCOPT:http-user-agent=hahaha
-
+http://146.0.43.30:25461/pop/kanale/163|user-agent=hahaha
 #EXTINF:-1,AL: Klan TV HD
-http://146.0.43.30:25461/pop/kanale/164
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/164|user-agent=hahaha
 #EXTINF:-1,AL: Klan Plus HD
-http://146.0.43.30:25461/pop/kanale/165
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/165|user-agent=hahaha
 #EXTINF:-1,AL: Klan Kosova HD
-http://146.0.43.30:25461/pop/kanale/166
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/166|user-agent=hahaha
 #EXTINF:-1,AL: Klan Macedonia HD
-http://146.0.43.30:25461/pop/kanale/167
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/167|user-agent=hahaha
 #EXTINF:-1,AL: Vizion Plus HD
-http://146.0.43.30:25461/pop/kanale/168
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/168|user-agent=hahaha
 #EXTINF:-1,AL: Top News HD
-http://146.0.43.30:25461/pop/kanale/169
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/169|user-agent=hahaha
 #EXTINF:-1,AL: ABC News HD
-http://146.0.43.30:25461/pop/kanale/170
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/170|user-agent=hahaha
 #EXTINF:-1,AL: Ora News HD
-http://146.0.43.30:25461/pop/kanale/171
-#EXTVLCOPT:http-user-agent=hahaha
-#EXTINF:-1,AL: Film  HD
-http://146.0.43.30:25461/pop/kanale/172
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/171|user-agent=hahaha
+#EXTINF:-1,AL: Film Një HD
+http://146.0.43.30:25461/pop/kanale/172|user-agent=hahaha
 #EXTINF:-1,AL: Film Dy HD
-http://146.0.43.30:25461/pop/kanale/173
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/173|user-agent=hahaha
 #EXTINF:-1,AL: Film Aksion HD
-http://146.0.43.30:25461/pop/kanale/174
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/174|user-agent=hahaha
 #EXTINF:-1,AL: Film Autor HD
-http://146.0.43.30:25461/pop/kanale/175
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/175|user-agent=hahaha
 #EXTINF:-1,AL: Film Dramë HD
-http://146.0.43.30:25461/pop/kanale/176
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/176|user-agent=hahaha
 #EXTINF:-1,AL: Film Hits HD
-http://146.0.43.30:25461/pop/kanale/177
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/177|user-agent=hahaha
 #EXTINF:-1,AL: Film Komedi HD
-http://146.0.43.30:25461/pop/kanale/178
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/178|user-agent=hahaha
 #EXTINF:-1,AL: Film Stinët HD
-http://146.0.43.30:25461/pop/kanale/179
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/179|user-agent=hahaha
 #EXTINF:-1,AL: Film Thriller HD
-http://146.0.43.30:25461/pop/kanale/180
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/180|user-agent=hahaha
 #EXTINF:-1,AL: T HD
-http://146.0.43.30:25461/pop/kanale/181
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/181|user-agent=hahaha
 #EXTINF:-1,AL: Tring Action HD
-http://146.0.43.30:25461/pop/kanale/182
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/182|user-agent=hahaha
 #EXTINF:-1,AL: Tring Comedy HD
-http://146.0.43.30:25461/pop/kanale/183
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/183|user-agent=hahaha
 #EXTINF:-1,AL: Tring Fantasy HD
-http://146.0.43.30:25461/pop/kanale/184
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/184|user-agent=hahaha
 #EXTINF:-1,AL: Tring Life HD
-http://146.0.43.30:25461/pop/kanale/185
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/185|user-agent=hahaha
 #EXTINF:-1,AL: Tring Planet HD
-http://146.0.43.30:25461/pop/kanale/186
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/186|user-agent=hahaha
 #EXTINF:-1,AL: Tring Shqip HD
-http://146.0.43.30:25461/pop/kanale/187
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/187|user-agent=hahaha
 #EXTINF:-1,AL: Tring Smile  HD
-http://146.0.43.30:25461/pop/kanale/188
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/188|user-agent=hahaha
 #EXTINF:-1,AL: Tring Super HD
-http://146.0.43.30:25461/pop/kanale/189
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/189|user-agent=hahaha
 #EXTINF:-1,AL: Tring World HD
-http://146.0.43.30:25461/pop/kanale/190
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/190|user-agent=hahaha
 #EXTINF:-1,AL: Tring Jolly HD
-http://146.0.43.30:25461/pop/kanale/191
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/191|user-agent=hahaha
 #EXTINF:-1,AL: Tring 3 Plus HD
-http://146.0.43.30:25461/pop/kanale/192
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/192|user-agent=hahaha
 #EXTINF:-1,AL: X Premium 1 HD
-http://146.0.43.30:25461/pop/kanale/193
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/193|user-agent=hahaha
 #EXTINF:-1,AL: X Premium 2 HD
-http://146.0.43.30:25461/pop/kanale/194
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/194|user-agent=hahaha
 #EXTINF:-1,AL: X Premium 3 HD
-http://146.0.43.30:25461/pop/kanale/195
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/195|user-agent=hahaha
 #EXTINF:-1,AL: X Premium 4 HD
-http://146.0.43.30:25461/pop/kanale/196
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/196|user-agent=hahaha
 #EXTINF:-1,AL: X Action HD
-http://146.0.43.30:25461/pop/kanale/197
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/197|user-agent=hahaha
 #EXTINF:-1,AL: X Dark HD
-http://146.0.43.30:25461/pop/kanale/198
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/198|user-agent=hahaha
 #EXTINF:-1,AL: X Drama HD
-http://146.0.43.30:25461/pop/kanale/199
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/199|user-agent=hahaha
 #EXTINF:-1,AL: X Family HD
-http://146.0.43.30:25461/pop/kanale/200
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/200|user-agent=hahaha
 #EXTINF:-1,AL: X Romance HD
-http://146.0.43.30:25461/pop/kanale/201
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/201|user-agent=hahaha
 #EXTINF:-1,AL: X Sci-Fi HD
-http://146.0.43.30:25461/pop/kanale/202
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/202|user-agent=hahaha
 #EXTINF:-1,AL: X Thriller HD
-http://146.0.43.30:25461/pop/kanale/203
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/203|user-agent=hahaha
 #EXTINF:-1,AL: ShqipTV Tom & Jerry HD
-http://146.0.43.30:25461/pop/kanale/204
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/204|user-agent=hahaha
 #EXTINF:-1,AL: Art Kino 1 HD
-http://146.0.43.30:25461/pop/kanale/205
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/205|user-agent=hahaha
 #EXTINF:-1,AL: Art Kino 2 HD
-http://146.0.43.30:25461/pop/kanale/206
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/206|user-agent=hahaha
 #EXTINF:-1,AL: Art Kino 3 HD
-http://146.0.43.30:25461/pop/kanale/207
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/207|user-agent=hahaha
 #EXTINF:-1,AL: Explorer Shkencë HD
-http://146.0.43.30:25461/pop/kanale/208
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/208|user-agent=hahaha
 #EXTINF:-1,AL: Explorer Natyra HD
-http://146.0.43.30:25461/pop/kanale/209
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/209|user-agent=hahaha
 #EXTINF:-1,AL: Explorer Histori HD
-http://146.0.43.30:25461/pop/kanale/210
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/210|user-agent=hahaha
 #EXTINF:-1,AL: Junior TV HD
-http://146.0.43.30:25461/pop/kanale/211
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/211|user-agent=hahaha
 #EXTINF:-1,AL: Baby TV HD
-http://146.0.43.30:25461/pop/kanale/212
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/212|user-agent=hahaha
 #EXTINF:-1,AL: Bang Bang HD
-http://146.0.43.30:25461/pop/kanale/213
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/213|user-agent=hahaha
 #EXTINF:-1,AL: Cufo HD
-http://146.0.43.30:25461/pop/kanale/214
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/214|user-agent=hahaha
 #EXTINF:-1,AL: Tip TV HD
-http://146.0.43.30:25461/pop/kanale/215
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/215|user-agent=hahaha
 #EXTINF:-1,AL: Tring Kids HD
-http://146.0.43.30:25461/pop/kanale/216
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/216|user-agent=hahaha
 #EXTINF:-1,AL: Tring Tring HD
-http://146.0.43.30:25461/pop/kanale/217
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/217|user-agent=hahaha
 #EXTINF:-1,AL: Super Sport 1 FHD
-http://146.0.43.30:25461/pop/kanale/218
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/218|user-agent=hahaha
 #EXTINF:-1,AL: Super Sport 2 FHD
-http://146.0.43.30:25461/pop/kanale/219
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/219|user-agent=hahaha
 #EXTINF:-1,AL: Super Sport 3 FHD
-http://146.0.43.30:25461/pop/kanale/220
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/220|user-agent=hahaha
 #EXTINF:-1,AL: Super Sport 4 FHD
-http://146.0.43.30:25461/pop/kanale/221
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/221|user-agent=hahaha
 #EXTINF:-1,AL: Super Sport 5 FHD
-http://146.0.43.30:25461/pop/kanale/222
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/222|user-agent=hahaha
 #EXTINF:-1,AL: Tring Sport 1 FHD
-http://146.0.43.30:25461/pop/kanale/223
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/223|user-agent=hahaha
 #EXTINF:-1,AL: Tring Sport 2 FHD
-http://146.0.43.30:25461/pop/kanale/224
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/224|user-agent=hahaha
 #EXTINF:-1,AL: Tring Sport 3 FHD
-http://146.0.43.30:25461/pop/kanale/225
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/225|user-agent=hahaha
 #EXTINF:-1,AL: Tring Sport 4 FHD
-http://146.0.43.30:25461/pop/kanale/226
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/226|user-agent=hahaha
 #EXTINF:-1,AL: Kujtesa Sport 1 HD
-http://146.0.43.30:25461/pop/kanale/227
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/227|user-agent=hahaha
 #EXTINF:-1,AL: Kujtesa Sport 2 HD
-http://146.0.43.30:25461/pop/kanale/228
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/228|user-agent=hahaha
 #EXTINF:-1,AL: Kujtesa Sport 3 HD
-http://146.0.43.30:25461/pop/kanale/229
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/229|user-agent=hahaha
 #EXTINF:-1,AL: Kujtesa Sport 4 HD
-http://146.0.43.30:25461/pop/kanale/230
-#EXTVLCOPT:http-user-agent=hahaha
+http://146.0.43.30:25461/pop/kanale/230|user-agent=hahaha
 #EXTINF:-1,AL: Kujtesa Sport 5 HD
-http://146.0.43.30:25461/pop/kanale/231
+http://146.0.43.30:25461/pop/kanale/231|user-agent=hahaha
+#EXTINF:-1,2 Gisht Mjalte Filmi
+http://146.0.43.30:25461/pop/kanale/234|user-agent=hahaha
