@@ -201,35 +201,6 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1s
  
  
  
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/O2%20TV.png",[COLOR teal]O2/B92[/COLOR]
-http://mobilesrbija.gcdn.co/livecacheloworigin/b92.stream/chunklist.m3u8?md5=HtBSTDqkE_SJ8wzlLlG3TA&expires=1559861974
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Prva.png",[COLOR teal]Prva[/COLOR]
-http://mobilesrbija.gcdn.co/livecacheloworigin/prva.stream/chunklist.m3u8?md5=ErTDxv0qP_W_bKfoL88Ofg&expires=1559861974
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Prva.png",[COLOR teal]Prva[/COLOR]
-http://62.210.205.41:8080/PRVA/mpegts
- 
-#EXTINF:-1 tvg-logo="http://balkanius.net/logo/srb/Happy_new_logo.png",[COLOR teal]happy TV[/COLOR]
-http://mobilesrbija.gcdn.co/livecacheloworigin/happy.stream/chunklist.m3u8?md5=yBBd1K_P-RWKJ6hJ2Aj9-A&expires=1559861974
-
-#EXTINF:-1 tvg-logo="http://www.razvoj-karijere.com/media/images/o/Insajder.png",[COLOR teal]Insajder[/COLOR]
-http://mobilesrbija.gcdn.co/livecacheloworigin/insajder.stream/chunklist.m3u8?md5=9Lu88N-0MvUzAVqW1vt7SQ&expires=1559861974
-
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/TV%20Bor.png",[COLOR teal]TV BOR[/COLOR]
-http://mobilesrbija.gcdn.co/livecacheloworigin/rtvbor.stream/chunklist.m3u8?md5=x2PCgyvf504K3ruFxHBgqQ&expires=1559861974
- 
- 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://sbb.rs/Picture/64988/jpeg/top-ns.jpg",[COLOR teal]Nova S[/COLOR]
-https://tinyurl.com/ProfiMedia1
 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/Studio%20B.png",[COLOR teal]Studio B[/COLOR]
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
