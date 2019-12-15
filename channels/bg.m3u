@@ -1,492 +1,118 @@
-#EXTM3U
-#EXTINF:0,БНТ 1 | tvizio.bg
-http://umutiptv.cf/tvizio.bg/bnt1/canli.m3u8
-#EXTINF:0,БНТ 1 HD | tvizio.bg
-http://umutiptv.cf/tvizio.bg/bnt1hd/canli.m3u8
-#EXTINF:0,bTV | tvizio.bg
-http://umutiptv.cf/tvizio.bg/btv/canli.m3u8
-#EXTINF:0,bTV HD | tvizio.bg
-http://umutiptv.cf/tvizio.bg/btvhd/canli.m3u8
-#EXTINF:0,Канал 3 | tvizio.bg
-http://umutiptv.cf/tvizio.bg/kanal3/canli.m3u8
-#EXTINF:0,Европа | tvizio.bg
-http://umutiptv.cf/tvizio.bg/evropa/canli.m3u8
-#EXTINF:0,БНТ 3 | tvizio.bg
-http://umutiptv.cf/tvizio.bg/bnt3/canli.m3u8
-#EXTINF:0,Diema Family | tvizio.bg
-http://umutiptv.cf/tvizio.bg/diemafamily/canli.m3u8
-#EXTINF:0,TLC | tvizio.bg
-http://umutiptv.cf/tvizio.bg/tlc/canli.m3u8
-#EXTINF:0,24 Kitchen | tvizio.bg
-http://umutiptv.cf/tvizio.bg/24kitchen/canli.m3u8
-#EXTINF:0,Travel Channel | tvizio.bg
-http://umutiptv.cf/tvizio.bg/travel/canli.m3u8
-#EXTINF:0,Travel BG | tvizio.bg
-http://umutiptv.cf/tvizio.bg/travelbg/canli.m3u8
-#EXTINF:0,Viasat Nature | tvizio.bg
-http://umutiptv.cf/tvizio.bg/viasatnature/canli.m3u8
-#EXTINF:0,Box Music HD | tvizio.bg
-http://umutiptv.cf/tvizio.bg/box/canli.m3u8
-#EXTINF:0,The Voice | tvizio.bg
-http://umutiptv.cf/tvizio.bg/thevoice/canli.m3u8
-#EXTINF:0,Planeta HD | tvizio.bg
-http://umutiptv.cf/tvizio.bg/planeta/canli.m3u8
-#EXTINF:0,DM SAT | tvizio.bg
-http://umutiptv.cf/tvizio.bg/dmsat/canli.m3u8
-#EXTINF:0,Bulgaria On Air | tvizio.bg
-http://umutiptv.cf/tvizio.bg/bulgariaonair/canli.m3u8
-#EXTINF:0,Bloomberg TV Bulgaria | tvizio.bg
-http://umutiptv.cf/tvizio.bg/bloomberg/canli.m3u8
-
-#EXTM3U url-tvg="http://iptvhit.live/silvia/epg/Bg/Iptvbulgaria"
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png", Amc
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/1
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Action Plus Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/2
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Animal planet
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/3
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Balkanika muzik
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/4
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Bnt 1 Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/5
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Bnt 2 Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/6
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png", Btv Action Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/7
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Btv Cinema
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/8
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Btv Comedy
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/9
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png", Btv Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/10
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Btv Lady
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/11
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Diema Family
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/12
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Diema Tv
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/13
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Film Plus
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/14
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Fox Crime Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/15
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png", Fox Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/16
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Kino Nova
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/17
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Nova Tv Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/18
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png", Planeta Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/19
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",Ring Bg Hd
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/20
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: bTV Action HD 1080
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/21
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: bTV HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/22
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: CineMax 1 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/23
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: CineMax 2 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/24
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Destination
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/25
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Diema HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/26
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Diema Sport 1
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/27
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Diema Sport 2
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/28
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Fox Tv HD 1080
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/29
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Music Channel
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/30
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Nat Geo Wild HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/31
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: National Geographic
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/32
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Nova Sport
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/33
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Nova TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/34
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Planeta HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/35
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",SRB:Parovi 7
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/36
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: BNT 1 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/37
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: BNT 2 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/38
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: BNT 3 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/39
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TV 1
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/40
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:EVROKOM
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/41
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Bulgaria ON AIR
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/42
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:BNT 4 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/43
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Bulgaria 24 HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/44
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:DSTV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/45
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:BTK
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/46
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:City TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/47
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Agro TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/48
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Auto Moto TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/49
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Bloomberg TV Bulgaria
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/50
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Magic TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/51
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Radio Nikita TV HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/52
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Roma TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/53
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Sportal TV HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/54
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:The Voice
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/55
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TV Art
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/56
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TV Cherno More
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/57
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TV Evropa
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/58
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TV Stoichev
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/59
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:TVN Pyce HD
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/60
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:MM TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/61
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:HTV BG
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/62
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Travel TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/63
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Code Fashion TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/64
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Kanal 0
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/65
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:LTV България
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/66
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:This is Bulgaria
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/67
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Римекс ТВ
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/68
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:ТВ БЪЛГАРЕ
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/69
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Телевизия Алфа
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/70
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Телевизия Добрич
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/71
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Folklor TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/72
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG: Tiankov Folk
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/73
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Евробет
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/74
-
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="https://i.imgur.com/6A6cbta.png",BG:Balkanika TV
-
-
-http://iptvhit.live/silvia/Bg/Iptvbulgaria/75
- 
+#EXTINF:-1,BNT HD
+https://cdn1.mobiletv.bg/T14/ATV/bnthd/bnthd_ATV987654321.m3u8
+#EXTINF:-1,BTV HD
+https://cdn1.mobiletv.bg/T14/ATV/btvhd/btvhd_ATV987654321.m3u8
+#EXTINF:-1,BTV Action HD  
+https://cdn1.mobiletv.bg/T14/ATV/btv_action_hd/btv_action_hd_ATV987654321.m3u8
+#EXTINF:-1,BTV Cinema  
+https://cdn1.mobiletv.bg/T14/ATV/btv_cinema/btv_cinema_ATV987654321.m3u8
+#EXTINF:-1,BTV Comedy
+https://cdn1.mobiletv.bg/T14/ATV/btv_comedy/btv_comedy_ATV987654321.m3u8
+#EXTINF:-1,NOVA
+https://cdn1.mobiletv.bg/T14/ATV/novatv/novatv_ATV987654321.m3u8
+#EXTINF:-1,Diema
+https://cdn1.mobiletv.bg/T14/ATV/diema/diema_ATV987654321.m3u8
+#EXTINF:-1,RING HD
+https://cdn1.mobiletv.bg/T14/ATV/ringhd/ringhd_ATV987654321.m3u8
+#EXTINF:-1,TV 1000 BG
+http://s001.bgtv.stream/hls/tv1000/index.m3u8?h=gHLewKAlA1xHo2TPSZvNtw&e=1735689600
+
+
+#EXTINF:1,RING BG HD
+https://cdn1.mobiletv.bg/T3/ringbghd/ringbghd_794613_850k.m3u8
+#EXTINF:-1,NAT GEO HD
+https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
+#EXTINF:-1,KANAL 3
+https://cdn1.mobiletv.bg/T3/kanal3/kanal3_794613_850k.m3u8
+#EXTINF:-1,DISCOVERY
+https://cdn1.mobiletv.bg/T3/discovery/discovery_794613_850k.m3u8
+#EXTINF:-1,BG ON AIR
+https://cdn1.mobiletv.bg/T3/bg_on_air/bg_on_air_794613_850k.m3u8
+#EXTINF:-1,THE VOICE
+https://cdn1.mobiletv.bg/T3/thevoice/thevoice_794613_850k.m3u8
+#EXTINF:-1,EUROSPORT 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,KINONOVA
+https://cdn1.mobiletv.bg/T3/kinonova/kinonova_794613_850k.m3u8
+#EXTINF:-1,SKAT
+https://cdn1.mobiletv.bg/T3/skat/skat_794613_850k.m3u8
+#EXTINF:-1,24 KITCHEN
+https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8
+#EXTINF:-1,FOX LIFE
+https://cdn1.mobiletv.bg/T3/foxlife/foxlife_794613_850k.m3u8
+#EXTINF:-1,BTV COMEDY
+https://cdn1.mobiletv.bg/T5/btvcomedy/btvcomedy_794613_850k.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
+#EXTINF:-1,RTL
+https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
+#EXTINF:-1,PLANETA
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1,1 KANAL
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1,FOLKLOR
+https://cdn1.mobiletv.bg/T5/folklor/folklor_794613_850k.m3u8
+#EXTINF:-1,FISHING and HUNTING
+https://cdn1.mobiletv.bg/T5/fh/fh_794613_850k.m3u8
+#EXTINF:-1,DM SAT
+https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+#EXTINF:-1,BOX TV
+https://cdn1.mobiletv.bg/T5/box_tv/box_tv_794613_850k.m3u8
+#EXTINF:-1,BN MUSIC
+https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
+#EXTINF:-1,NICKJR.
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,AMC
+https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+#EXTINF:-1,ETA
+https://cdn1.mobiletv.bg/T7/eta/eta_794613_850k.m3u8
+#EXTINF:-1,FEN TV
+https://cdn1.mobiletv.bg/T7/fentv/fentv_794613_850k.m3u8
+#EXTINF:1,FILMBOX
+https://cdn1.mobiletv.bg/T7/filmbox_extra/filmbox_extra_794613_850k.m3u8
+#EXTINF:1,NOVA SPORT
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
+#EXTINF:1,EUROSPORT 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1,EKIDS
+https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
+#EXTINF:-1,BTV CINEMA
+https://cdn1.mobiletv.bg/T8/btv_cinema/btv_c_794613_850k.m3u8
+#EXTINF:-1,TLC
+https://cdn1.mobiletv.bg/T8/tlc/tlc_794613_850k.m3u8
+#EXTINF:-1,TV VRATSA
+https://cdn1.mobiletv.bg/T8/tv_vratsa/tv_vratsa_794613_850k.m3u8
+#EXTINF:-1,AUTO MOTOR SPORT HD
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:-1,CITY TV 
+https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
+#EXTINF:-1,FOX CRIME
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+#EXTINF:-1,HISTORY
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+#EXTINF:-1,BG MUSIC
+https://cdn1.mobiletv.bg/T10/bgmusic/bgmusic_794613_850k.m3u8
+#EXTINF:-1,KANAL 4
+https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
+#EXTINF:-1,TV EVROPA
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
+#EXTINF:-1,AXN
+https://cdn1.mobiletv.bg/T13/axn/axn_794613_850k.m3u8
+#EXTINF:-1,DIEMA
+https://cdn1.mobiletv.bg/T13/diema/diema_794613_850k.m3u8
+#EXTINF:-1,FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1,KANAL 3
+https://cdn1.mobiletv.bg/T13/kanal3/kanal3_794613_850k.m3u8
+#EXTINF:-1,KINO NOVA
+https://cdn1.mobiletv.bg/T14/ATV/kino_nova/kino_nova_ATV987654321.m3u8
+#EXTINF:-1,TV 1000
+https://cdn1.mobiletv.bg/T15/tv1000/tv1000_794613_850k.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+https://cdn1.mobiletv.bg/T15/viasat_explorer/ve_794613_850k.m3u8
+#EXTINF:-1,VIASAT NATURE
+https://cdn1.mobiletv.bg/T15/viasat_nature/vn_794613_850k.m3u8
+#EXTINF:-1,VIASAT HISTORY
+https://cdn1.mobiletv.bg/T15/viasat_history/vh_794613_850k.m3u8
