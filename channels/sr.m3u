@@ -607,4 +607,32 @@ http://176.67.198.12:4063/udp/239.1.1.152:22152
 http://176.67.198.12:4063/udp/239.1.1.159:22159
 
 
+#EXTM3U
 
+#EXTINF:-1,  lista 4
+#EXTINF:-1,TLC
+http://194.54.183.122:8000/play/a01j
+#EXTINF:-1,Discovery Showcase HD
+http://194.54.183.122:8000/play/a01g
+#EXTINF:-1,Animal Planet.
+http://194.54.183.122:8000/play/a01h
+#EXTINF:-1,Nick
+http://194.54.183.122:8000/play/a01i
+#EXTINF:-1,Fox Movies
+http://194.54.183.122:8000/play/a01e
+#EXTINF:-1,Viasat History
+http://194.54.183.122:8000/play/a01f
+#EXTINF:-1,Nat Geo Wild
+http://194.54.183.122:8000/play/a00f
+#EXTINF:-1,PTPC
+http://194.54.183.122:8000/play/a00c
+#EXTINF:-1,OBN
+http://194.54.183.122:8000/play/a008
+#EXTINF:-1,N/A
+http://194.54.183.122:8000/play/a002
+#EXTINF:-1,BBC Earth SR
+http://194.54.183.122:8000/play/a01l
+#EXTINF:-1,Lov i Ribolov SR
+http://194.54.183.122:8000/play/a01k
+#EXTINF:-1,Hayat
+http://194.54.183.122:8000/play/a01m
