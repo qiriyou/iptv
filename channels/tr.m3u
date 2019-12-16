@@ -1,5 +1,728 @@
 #EXTM3U
 
+
+#EXTM3U
+#EXTINF:-1,24 HD
+http://82.114.93.38:8000/play/a09t
+#EXTINF:-1,360 HD
+http://82.114.93.38:8000/play/a09u
+#EXTINF:-1,4 EYLUL TV
+http://82.114.93.38:8000/play/a0bc
+#EXTINF:-1,A HABER
+http://82.114.93.38:8000/play/a0et
+#EXTINF:-1,A HABER
+http://82.114.93.38:8000/play/a07o
+#EXTINF:-1,A HABER HD
+http://82.114.93.38:8000/play/a07t
+#EXTINF:-1,A HABER RADYO
+http://82.114.93.38:8000/play/a07v
+#EXTINF:-1,A NEWS HD
+http://82.114.93.38:8000/play/a077
+#EXTINF:-1,A PARA HD
+http://82.114.93.38:8000/play/a078
+#EXTINF:-1,A SPOR
+http://82.114.93.38:8000/play/a07p
+#EXTINF:-1,A SPOR HD
+http://82.114.93.38:8000/play/a07u
+#EXTINF:-1,A SPOR RADYO
+http://82.114.93.38:8000/play/a07w
+#EXTINF:-1,A2
+http://82.114.93.38:8000/play/a07y
+#EXTINF:-1,A2 HD
+http://82.114.93.38:8000/play/a079
+#EXTINF:-1,ADA TV
+http://82.114.93.38:8000/play/a0c3
+#EXTINF:-1,AKILLI TV
+http://82.114.93.38:8000/play/a0e9
+#EXTINF:-1,AKSU TV
+http://82.114.93.38:8000/play/a0cg
+#EXTINF:-1,ALJAZEERA CHANNEL
+http://82.114.93.38:8000/play/a0be
+#EXTINF:-1,ALJAZEERA INTERNATIONAL https://iptv.live
+http://82.114.93.38:8000/play/a0bd
+#EXTINF:-1,ANADOLU DERNEK TV
+http://82.114.93.38:8000/play/a0bj
+#EXTINF:-1,ANADOLU TV
+http://82.114.93.38:8000/play/a06x
+#EXTINF:-1,ASTV
+http://82.114.93.38:8000/play/a0cm
+#EXTINF:-1,ATV
+http://82.114.93.38:8000/play/a07n
+#EXTINF:-1,ATV HD
+http://82.114.93.38:8000/play/a07s
+#EXTINF:-1,Antalya Radyosu
+http://82.114.93.38:8000/play/a04u
+#EXTINF:-1,Azadliq VOA Azeri
+http://82.114.93.38:8000/play/a072
+#EXTINF:-1,BAYRAK FM
+http://82.114.93.38:8000/play/a0c9
+#EXTINF:-1,BENGUTURK
+http://82.114.93.38:8000/play/a0ar
+#EXTINF:-1,BERAT TV
+http://82.114.93.38:8000/play/a0ey
+#EXTINF:-1,BERAT TV
+http://82.114.93.38:8000/play/a05j
+#EXTINF:-1,BEREKET AGRI
+http://82.114.93.38:8000/play/a0al
+#EXTINF:-1,BEREKET TV
+http://82.114.93.38:8000/play/a0bb
+#EXTINF:-1,BEST FM
+http://82.114.93.38:8000/play/a0em
+#EXTINF:-1,BEYAZ TV
+http://82.114.93.38:8000/play/a0ag
+#EXTINF:-1,BEYAZ TV HD
+http://82.114.93.38:8000/play/a0ah
+#EXTINF:-1,BEYKENT TV
+http://82.114.93.38:8000/play/a0dr
+#EXTINF:-1,BLOOMBERGHT HD
+http://82.114.93.38:8000/play/a086
+#EXTINF:-1,BRT HD
+http://82.114.93.38:8000/play/a0c1
+#EXTINF:-1,BRT RADYO 1
+http://82.114.93.38:8000/play/a0c8
+#EXTINF:-1,BRT TV1
+http://82.114.93.38:8000/play/a0bz
+#EXTINF:-1,BRT TV2
+http://82.114.93.38:8000/play/a0c0
+#EXTINF:-1,BRTV B KRDNIZ
+http://82.114.93.38:8000/play/a097
+#EXTINF:-1,BURSA TV
+http://82.114.93.38:8000/play/a096
+#EXTINF:-1,CAGRI FM
+http://82.114.93.38:8000/play/a0d9
+#EXTINF:-1,CARTOON NETWORK
+http://82.114.93.38:8000/play/a06f
+#EXTINF:-1,CAY TV
+http://82.114.93.38:8000/play/a0d0
+#EXTINF:-1,CEM RADYO
+http://82.114.93.38:8000/play/a0bm
+#EXTINF:-1,CEM TV
+http://82.114.93.38:8000/play/a0bg
+#EXTINF:-1,CIFTCI TV
+http://82.114.93.38:8000/play/a0bk
+#EXTINF:-1,CNN TÜRK
+http://82.114.93.38:8000/play/a0dy
+#EXTINF:-1,CNN TÜRK HD
+http://82.114.93.38:8000/play/a08g
+#EXTINF:-1,CNN TÜRK RADYO
+http://82.114.93.38:8000/play/a0ej
+#EXTINF:-1,Cukurova Radyosu
+http://82.114.93.38:8000/play/a04v
+#EXTINF:-1,DEHA TV
+http://82.114.93.38:8000/play/a091
+#EXTINF:-1,DIS YAY ORTA DALGA ARAPCA https://iptv.live
+http://82.114.93.38:8000/play/a054
+#EXTINF:-1,DISNEY CHANNEL
+http://82.114.93.38:8000/play/a0ex
+#EXTINF:-1,DIYALOG RADYO
+http://82.114.93.38:8000/play/a0ca
+#EXTINF:-1,DIYALOG TV
+http://82.114.93.38:8000/play/a0c2
+#EXTINF:-1,DIYANET RADYO
+http://82.114.93.38:8000/play/a0am
+#EXTINF:-1,DIYANET TV
+http://82.114.93.38:8000/play/a0ez
+#EXTINF:-1,DIYANET TV HD
+http://82.114.93.38:8000/play/a0aj
+#EXTINF:-1,DIYAR TV
+http://82.114.93.38:8000/play/a0cu
+#EXTINF:-1,DMAX
+http://82.114.93.38:8000/play/a07d
+#EXTINF:-1,DMAX HD
+http://82.114.93.38:8000/play/a07j
+#EXTINF:-1,DOST FM
+http://82.114.93.38:8000/play/a0da
+#EXTINF:-1,DOST TV
+http://82.114.93.38:8000/play/a0d1
+#EXTINF:-1,DREAM TV
+http://82.114.93.38:8000/play/a0e0
+#EXTINF:-1,DREAM TÜRK
+http://82.114.93.38:8000/play/a0e1
+#EXTINF:-1,DREAM TÜRK
+http://82.114.93.38:8000/play/a08i
+#EXTINF:-1,DRT DENIZLI
+http://82.114.93.38:8000/play/a0dk
+#EXTINF:-1,DURU TV
+http://82.114.93.38:8000/play/a0cs
+#EXTINF:-1,EDESSA TV
+http://82.114.93.38:8000/play/a0cp
+#EXTINF:-1,EGETURK TV
+http://82.114.93.38:8000/play/a0cw
+#EXTINF:-1,EKINTURK TV
+http://82.114.93.38:8000/play/a05k
+#EXTINF:-1,EKOTÜRK
+http://82.114.93.38:8000/play/a08l
+#EXTINF:-1,ER TV
+http://82.114.93.38:8000/play/a094
+#EXTINF:-1,ERT SAH TV
+http://82.114.93.38:8000/play/a0as
+#EXTINF:-1,ERT24 FM
+http://82.114.93.38:8000/play/a0ay
+#EXTINF:-1,ES TV
+http://82.114.93.38:8000/play/a0ci
+#EXTINF:-1,ES TV
+http://82.114.93.38:8000/play/a0bs
+#EXTINF:-1,EURO D
+http://82.114.93.38:8000/play/a0e2
+#EXTINF:-1,EUROSTAR
+http://82.114.93.38:8000/play/a05l
+#EXTINF:-1,Erzurum Radyosu
+http://82.114.93.38:8000/play/a04w
+#EXTINF:-1,FM TV
+http://82.114.93.38:8000/play/a0d3
+#EXTINF:-1,FOX TV HD
+http://82.114.93.38:8000/play/a09x
+#EXTINF:-1,FUL TV
+http://82.114.93.38:8000/play/a058
+#EXTINF:-1,GALA TV
+http://82.114.93.38:8000/play/a0e7
+#EXTINF:-1,GAZIANTEP OLAY TV
+http://82.114.93.38:8000/play/a09c
+#EXTINF:-1,GONCA TV
+http://82.114.93.38:8000/play/a0ax
+#EXTINF:-1,GRT TV
+http://82.114.93.38:8000/play/a0d7
+#EXTINF:-1,GUNAYDIN TV
+http://82.114.93.38:8000/play/a090
+#EXTINF:-1,GUNEYDOGU TV
+http://82.114.93.38:8000/play/a0cr
+#EXTINF:-1,HABER GLOBAL HD
+http://82.114.93.38:8000/play/a08j
+#EXTINF:-1,HABERAKS
+http://82.114.93.38:8000/play/a0d6
+#EXTINF:-1,HABERTURK HD
+http://82.114.93.38:8000/play/a085
+#EXTINF:-1,HALK TV
+http://82.114.93.38:8000/play/a0aq
+#EXTINF:-1,HALKEURO
+http://82.114.93.38:8000/play/a06g
+#EXTINF:-1,HALKEURO
+http://82.114.93.38:8000/play/a06q
+#EXTINF:-1,HAZAN TV
+http://82.114.93.38:8000/play/a06i
+#EXTINF:-1,HAZAN TV
+http://82.114.93.38:8000/play/a06l
+#EXTINF:-1,HAZAN TV
+http://82.114.93.38:8000/play/a06w
+#EXTINF:-1,HILAL TV
+http://82.114.93.38:8000/play/a0ck
+#EXTINF:-1,HRT AKDENIZ TV
+http://82.114.93.38:8000/play/a0d5
+#EXTINF:-1,INTERCOM
+http://82.114.93.38:8000/play/a068
+#EXTINF:-1,INTERCOMM
+http://82.114.93.38:8000/play/a07l
+#EXTINF:-1,KACKAR YILDIZ
+http://82.114.93.38:8000/play/a0av
+#EXTINF:-1,KANAL 15
+http://82.114.93.38:8000/play/a09e
+#EXTINF:-1,KANAL 23
+http://82.114.93.38:8000/play/a09d
+#EXTINF:-1,KANAL 26
+http://82.114.93.38:8000/play/a08y
+#EXTINF:-1,KANAL 3
+http://82.114.93.38:8000/play/a0cd
+#EXTINF:-1,KANAL 33
+http://82.114.93.38:8000/play/a0dg
+#EXTINF:-1,KANAL 43
+http://82.114.93.38:8000/play/a0d2
+#EXTINF:-1,KANAL 58
+http://82.114.93.38:8000/play/a0cz
+#EXTINF:-1,KANAL 68
+http://82.114.93.38:8000/play/a098
+#EXTINF:-1,KANAL 7 HD
+http://82.114.93.38:8000/play/a081
+#EXTINF:-1,KANAL ANTALYA
+http://82.114.93.38:8000/play/a0ee
+#EXTINF:-1,KANAL AVRUPA
+http://82.114.93.38:8000/play/a0df
+#EXTINF:-1,KANAL B
+http://82.114.93.38:8000/play/a05h
+#EXTINF:-1,KANAL C
+http://82.114.93.38:8000/play/a0de
+#EXTINF:-1,KANAL D
+http://82.114.93.38:8000/play/a06c
+#EXTINF:-1,KANAL D HD
+http://82.114.93.38:8000/play/a08f
+#EXTINF:-1,KANAL FIRAT
+http://82.114.93.38:8000/play/a0bt
+#EXTINF:-1,KANAL T
+http://82.114.93.38:8000/play/a0cb
+#EXTINF:-1,KANAL TEK
+http://82.114.93.38:8000/play/a0aw
+#EXTINF:-1,KANAL URFA
+http://82.114.93.38:8000/play/a0cq
+#EXTINF:-1,KANAL V
+http://82.114.93.38:8000/play/a08t
+#EXTINF:-1,KENT TURK
+http://82.114.93.38:8000/play/a08x
+#EXTINF:-1,KIBRIS GENC TV
+http://82.114.93.38:8000/play/a0c4
+#EXTINF:-1,KIBRIS TV
+http://82.114.93.38:8000/play/a0c6
+#EXTINF:-1,KON TV
+http://82.114.93.38:8000/play/a0at
+#EXTINF:-1,KOY TV
+http://82.114.93.38:8000/play/a05i
+#EXTINF:-1,KOZA TV
+http://82.114.93.38:8000/play/a0bi
+#EXTINF:-1,KRAL FM
+http://82.114.93.38:8000/play/a07i
+#EXTINF:-1,KRAL POP
+http://82.114.93.38:8000/play/a07h
+#EXTINF:-1,KRT TV HD
+http://82.114.93.38:8000/play/a0dq
+#EXTINF:-1,KUDUS TV
+http://82.114.93.38:8000/play/a0dd
+#EXTINF:-1,KUPE FM
+http://82.114.93.38:8000/play/a0bl
+#EXTINF:-1,KUR AN RADYO
+http://82.114.93.38:8000/play/a0an
+#EXTINF:-1,LALEGUL
+http://82.114.93.38:8000/play/a0f1
+#EXTINF:-1,LALEGUL FM
+http://82.114.93.38:8000/play/a0f3
+#EXTINF:-1,LIFETIME CHANNEL
+http://82.114.93.38:8000/play/a06y
+#EXTINF:-1,LINE TV
+http://82.114.93.38:8000/play/a0ct
+#EXTINF:-1,MAKINE TV
+http://82.114.93.38:8000/play/a0cn
+#EXTINF:-1,MAKSİM
+http://82.114.93.38:8000/play/a0e6
+#EXTINF:-1,MAKSİM
+http://82.114.93.38:8000/play/a0e8
+#EXTINF:-1,MAKSİM
+http://82.114.93.38:8000/play/a06j
+#EXTINF:-1,MAKSİM
+http://82.114.93.38:8000/play/a06k
+#EXTINF:-1,MAKSİM
+http://82.114.93.38:8000/play/a06m
+#EXTINF:-1,MANISA MEDYA TV
+http://82.114.93.38:8000/play/a0dc
+#EXTINF:-1,MAVI KARADENIZ
+http://82.114.93.38:8000/play/a09a
+#EXTINF:-1,MEDINE TV
+http://82.114.93.38:8000/play/a0do
+#EXTINF:-1,MEGA MÜZİK
+http://82.114.93.38:8000/play/a06r
+#EXTINF:-1,MEGA MÜZİK
+http://82.114.93.38:8000/play/a06t
+#EXTINF:-1,MEGA SUARE
+http://82.114.93.38:8000/play/a0ak
+#EXTINF:-1,MELTEM TV
+http://82.114.93.38:8000/play/a0co
+#EXTINF:-1,MERCAN TV
+http://82.114.93.38:8000/play/a095
+#EXTINF:-1,MERKEZ TV
+http://82.114.93.38:8000/play/a0dp
+#EXTINF:-1,METRO RTV
+http://82.114.93.38:8000/play/a08s
+#EXTINF:-1,MGC
+http://82.114.93.38:8000/play/a06h
+#EXTINF:-1,MGC
+http://82.114.93.38:8000/play/a06u
+#EXTINF:-1,MGC
+http://82.114.93.38:8000/play/a06v
+#EXTINF:-1,MGC
+http://82.114.93.38:8000/play/a06z
+#EXTINF:-1,MORAL FM
+http://82.114.93.38:8000/play/a0bo
+#EXTINF:-1,Meteorolojinin Sesi
+http://82.114.93.38:8000/play/a063
+#EXTINF:-1,MÜZİK TÜRK
+http://82.114.93.38:8000/play/a06p
+#EXTINF:-1,MÜZİK TÜRK
+http://82.114.93.38:8000/play/a06s
+#EXTINF:-1,NHK WORLD-JPN
+http://82.114.93.38:8000/play/a06e
+#EXTINF:-1,NR1 FM
+http://82.114.93.38:8000/play/a0dt
+#EXTINF:-1,NR1 TURK FM
+http://82.114.93.38:8000/play/a0ds
+#EXTINF:-1,NR1 TURK TV HD
+http://82.114.93.38:8000/play/a0di
+#EXTINF:-1,NR1 TV HD
+http://82.114.93.38:8000/play/a0dh
+#EXTINF:-1,NTV
+http://82.114.93.38:8000/play/a07c
+#EXTINF:-1,NTV HD
+http://82.114.93.38:8000/play/a07f
+#EXTINF:-1,NTV RADYO
+http://82.114.93.38:8000/play/a07g
+#EXTINF:-1,OLAY TV
+http://82.114.93.38:8000/play/a0cj
+#EXTINF:-1,ON4 TV
+http://82.114.93.38:8000/play/a0dn
+#EXTINF:-1,ON6
+http://82.114.93.38:8000/play/a0cl
+#EXTINF:-1,OSMANIYE ORT TV
+http://82.114.93.38:8000/play/a09b
+#EXTINF:-1,PAMUKKALETV
+http://82.114.93.38:8000/play/a0dj
+#EXTINF:-1,PARK TV
+http://82.114.93.38:8000/play/a0ea
+#EXTINF:-1,PARK TV
+http://82.114.93.38:8000/play/a06n
+#EXTINF:-1,POLIS RADYOSU
+http://82.114.93.38:8000/play/a0f2
+#EXTINF:-1,POLIS RADYOSU
+http://82.114.93.38:8000/play/a0bn
+#EXTINF:-1,POWER FM
+http://82.114.93.38:8000/play/a09f
+#EXTINF:-1,POWER FM
+http://82.114.93.38:8000/play/a05c
+#EXTINF:-1,POWER HD
+http://82.114.93.38:8000/play/a08u
+#EXTINF:-1,POWER LOVE FM
+http://82.114.93.38:8000/play/a09h
+#EXTINF:-1,POWER POP
+http://82.114.93.38:8000/play/a09i
+#EXTINF:-1,POWER TV
+http://82.114.93.38:8000/play/a056
+#EXTINF:-1,POWERTURK FM
+http://82.114.93.38:8000/play/a09g
+#EXTINF:-1,POWERTURK HD
+http://82.114.93.38:8000/play/a08v
+#EXTINF:-1,PRD10
+http://82.114.93.38:8000/play/a05e
+#EXTINF:-1,PRD9
+http://82.114.93.38:8000/play/a05d
+#EXTINF:-1,RADYO 1
+http://82.114.93.38:8000/play/a05v
+#EXTINF:-1,RADYO 1
+http://82.114.93.38:8000/play/a04h
+#EXTINF:-1,RADYO 3
+http://82.114.93.38:8000/play/a05w
+#EXTINF:-1,RADYO 3
+http://82.114.93.38:8000/play/a04i
+#EXTINF:-1,RADYO 6
+http://82.114.93.38:8000/play/a060
+#EXTINF:-1,RADYO 6
+http://82.114.93.38:8000/play/a04l
+#EXTINF:-1,RADYO BABYLON
+http://82.114.93.38:8000/play/a075
+#EXTINF:-1,RADYO D
+http://82.114.93.38:8000/play/a0ek
+#EXTINF:-1,RADYO EKSEN
+http://82.114.93.38:8000/play/a073
+#EXTINF:-1,RADYO FENOMEN
+http://82.114.93.38:8000/play/a09j
+#EXTINF:-1,RADYO GAP
+http://82.114.93.38:8000/play/a05x
+#EXTINF:-1,RADYO SLOWTIME
+http://82.114.93.38:8000/play/a0bw
+#EXTINF:-1,RADYO SPOR
+http://82.114.93.38:8000/play/a0bv
+#EXTINF:-1,RADYO TRAFIK
+http://82.114.93.38:8000/play/a0bx
+#EXTINF:-1,RADYO VOYAGE
+http://82.114.93.38:8000/play/a074
+#EXTINF:-1,RADYO VİVA
+http://82.114.93.38:8000/play/a071
+#EXTINF:-1,RDS
+http://82.114.93.38:8000/play/a06a
+#EXTINF:-1,REHBERTV
+http://82.114.93.38:8000/play/a0cy
+#EXTINF:-1,RIBAT FM
+http://82.114.93.38:8000/play/a0az
+#EXTINF:-1,RISALET RADYO
+http://82.114.93.38:8000/play/a0ao
+#EXTINF:-1,Radyo Turkuvaz
+http://82.114.93.38:8000/play/a07z
+#EXTINF:-1,SAT7 TURK
+http://82.114.93.38:8000/play/a057
+#EXTINF:-1,SERVICE 1
+http://82.114.93.38:8000/play/a0en
+#EXTINF:-1,SERVICE 2
+http://82.114.93.38:8000/play/a0eo
+#EXTINF:-1,SERVICE 3
+http://82.114.93.38:8000/play/a0ep
+#EXTINF:-1,SERVICE 4
+http://82.114.93.38:8000/play/a0eq
+#EXTINF:-1,SHOPPİNG CHANNEL
+http://82.114.93.38:8000/play/a0ec
+#EXTINF:-1,SHOPPİNG CHANNEL
+http://82.114.93.38:8000/play/a06o
+#EXTINF:-1,SHOW HD
+http://82.114.93.38:8000/play/a084
+#EXTINF:-1,SHOW MAX
+http://82.114.93.38:8000/play/a0dw
+#EXTINF:-1,SHOW RADYO
+http://82.114.93.38:8000/play/a070
+#EXTINF:-1,SHOW TURK
+http://82.114.93.38:8000/play/a0dv
+#EXTINF:-1,SIM TV
+http://82.114.93.38:8000/play/a0c7
+#EXTINF:-1,SLOW TÜRK
+http://82.114.93.38:8000/play/a0el
+#EXTINF:-1,SPORTS TV
+http://82.114.93.38:8000/play/a0cx
+#EXTINF:-1,STAR TV
+http://82.114.93.38:8000/play/a07b
+#EXTINF:-1,STAR TV HD
+http://82.114.93.38:8000/play/a07e
+#EXTINF:-1,SUN RTV
+http://82.114.93.38:8000/play/a05a
+#EXTINF:-1,T KACKAR
+http://82.114.93.38:8000/play/a0b0
+#EXTINF:-1,T.A.Y TV
+http://82.114.93.38:8000/play/a08k
+#EXTINF:-1,TEK RUMELI TV
+http://82.114.93.38:8000/play/a08z
+#EXTINF:-1,TELE 1
+http://82.114.93.38:8000/play/a0e4
+#EXTINF:-1,TEMPO TV
+http://82.114.93.38:8000/play/a0ef
+#EXTINF:-1,TGRT BELGESEL
+http://82.114.93.38:8000/play/a08b
+#EXTINF:-1,TGRT EU
+http://82.114.93.38:8000/play/a08c
+#EXTINF:-1,TGRT FM
+http://82.114.93.38:8000/play/a08d
+#EXTINF:-1,TGRT HABER
+http://82.114.93.38:8000/play/a08a
+#EXTINF:-1,TINT
+http://82.114.93.38:8000/play/a08e
+#EXTINF:-1,TLC
+http://82.114.93.38:8000/play/a0ab
+#EXTINF:-1,TLC HD
+http://82.114.93.38:8000/play/a07k
+#EXTINF:-1,TON TV
+http://82.114.93.38:8000/play/a09k
+#EXTINF:-1,TOP SHOP
+http://82.114.93.38:8000/play/a06d
+#EXTINF:-1,TRT 1
+http://82.114.93.38:8000/play/a05n
+#EXTINF:-1,TRT 1
+http://82.114.93.38:8000/play/a04g
+#EXTINF:-1,TRT ARABI
+http://82.114.93.38:8000/play/a051
+#EXTINF:-1,TRT ARABI HD
+http://82.114.93.38:8000/play/a050
+#EXTINF:-1,TRT AVAZ HD
+http://82.114.93.38:8000/play/a04y
+#EXTINF:-1,TRT BELGESEL
+http://82.114.93.38:8000/play/a05s
+#EXTINF:-1,TRT BELGESEL HD
+http://82.114.93.38:8000/play/a049
+#EXTINF:-1,TRT COCUK
+http://82.114.93.38:8000/play/a05r
+#EXTINF:-1,TRT COCUK
+http://82.114.93.38:8000/play/a04t
+#EXTINF:-1,TRT COCUK HD
+http://82.114.93.38:8000/play/a045
+#EXTINF:-1,TRT FM
+http://82.114.93.38:8000/play/a05y
+#EXTINF:-1,TRT FM
+http://82.114.93.38:8000/play/a04k
+#EXTINF:-1,TRT HABER
+http://82.114.93.38:8000/play/a05o
+#EXTINF:-1,TRT HABER
+http://82.114.93.38:8000/play/a04j
+#EXTINF:-1,TRT HABER HD
+http://82.114.93.38:8000/play/a047
+#EXTINF:-1,TRT KURDI
+http://82.114.93.38:8000/play/a053
+#EXTINF:-1,TRT KURDI HD
+http://82.114.93.38:8000/play/a04e
+#EXTINF:-1,TRT MUZIK
+http://82.114.93.38:8000/play/a05u
+#EXTINF:-1,TRT MUZIK
+http://82.114.93.38:8000/play/a04p
+#EXTINF:-1,TRT MUZIK HD
+http://82.114.93.38:8000/play/a04d
+#EXTINF:-1,TRT Memleketim FM
+http://82.114.93.38:8000/play/a066
+#EXTINF:-1,TRT NAGME
+http://82.114.93.38:8000/play/a065
+#EXTINF:-1,TRT NAGME
+http://82.114.93.38:8000/play/a04q
+#EXTINF:-1,TRT Radyo Haber
+http://82.114.93.38:8000/play/a05z
+#EXTINF:-1,TRT SPOR
+http://82.114.93.38:8000/play/a052
+#EXTINF:-1,TRT SPOR HD
+http://82.114.93.38:8000/play/a048
+#EXTINF:-1,TRT TURK
+http://82.114.93.38:8000/play/a05p
+#EXTINF:-1,TRT TURK
+http://82.114.93.38:8000/play/a04m
+#EXTINF:-1,TRT TURK HD
+http://82.114.93.38:8000/play/a04b
+#EXTINF:-1,TRT TURKU
+http://82.114.93.38:8000/play/a067
+#EXTINF:-1,TRT TURKU
+http://82.114.93.38:8000/play/a04r
+#EXTINF:-1,TRT WORLD HD
+http://82.114.93.38:8000/play/a04a
+#EXTINF:-1,TRT World Radio
+http://82.114.93.38:8000/play/a04c
+#EXTINF:-1,TRT-3 SPOR
+http://82.114.93.38:8000/play/a05q
+#EXTINF:-1,TRT1 HD
+http://82.114.93.38:8000/play/a046
+#EXTINF:-1,TRT2 HD
+http://82.114.93.38:8000/play/a05t
+#EXTINF:-1,TSR TURKCE
+http://82.114.93.38:8000/play/a062
+#EXTINF:-1,TSR TURKCE
+http://82.114.93.38:8000/play/a04o
+#EXTINF:-1,TURKIYEM TV
+http://82.114.93.38:8000/play/a092
+#EXTINF:-1,TURKSAT_TEST
+http://82.114.93.38:8000/play/a0ai
+#EXTINF:-1,TV 1
+http://82.114.93.38:8000/play/a0br
+#EXTINF:-1,TV 100
+http://82.114.93.38:8000/play/a0dl
+#EXTINF:-1,TV 264
+http://82.114.93.38:8000/play/a08m
+#EXTINF:-1,TV 4 HD
+http://82.114.93.38:8000/play/a09v
+#EXTINF:-1,TV 41
+http://82.114.93.38:8000/play/a099
+#EXTINF:-1,TV 52
+http://82.114.93.38:8000/play/a0au
+#EXTINF:-1,TV 8 INT
+http://82.114.93.38:8000/play/a0e3
+#EXTINF:-1,TV A
+http://82.114.93.38:8000/play/a08w
+#EXTINF:-1,TV KAYSERI
+http://82.114.93.38:8000/play/a0bq
+#EXTINF:-1,TV35
+http://82.114.93.38:8000/play/a05b
+#EXTINF:-1,TV5
+http://82.114.93.38:8000/play/a0dm
+#EXTINF:-1,TV8 5 HD
+http://82.114.93.38:8000/play/a0a9
+#EXTINF:-1,TV8 HD
+http://82.114.93.38:8000/play/a0a8
+#EXTINF:-1,TVDEN
+http://82.114.93.38:8000/play/a093
+#EXTINF:-1,TVO
+http://82.114.93.38:8000/play/a0ed
+#EXTINF:-1,Trabzon Radyosu
+http://82.114.93.38:8000/play/a04x
+#EXTINF:-1,ULKE TV HD
+http://82.114.93.38:8000/play/a082
+#EXTINF:-1,ULUSAL TV
+http://82.114.93.38:8000/play/a0d8
+#EXTINF:-1,UZAY HABER
+http://82.114.93.38:8000/play/a0cv
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a0eb
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a0eg
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a08n
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a08o
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a08p
+#EXTINF:-1,Unknown
+http://82.114.93.38:8000/play/a08q
+#EXTINF:-1,VATAN
+http://82.114.93.38:8000/play/a0ce
+#EXTINF:-1,VAV RADYO
+http://82.114.93.38:8000/play/a07x
+#EXTINF:-1,VIZYON 58
+http://82.114.93.38:8000/play/a05f
+#EXTINF:-1,VIZYON TURK
+http://82.114.93.38:8000/play/a0b1
+#EXTINF:-1,VOT EAST
+http://82.114.93.38:8000/play/a069
+#EXTINF:-1,VOT EAST
+http://82.114.93.38:8000/play/a04s
+#EXTINF:-1,VOT WEST
+http://82.114.93.38:8000/play/a064
+#EXTINF:-1,VOT WEST
+http://82.114.93.38:8000/play/a04z
+#EXTINF:-1,VOT WORLD
+http://82.114.93.38:8000/play/a061
+#EXTINF:-1,VOT WORLD
+http://82.114.93.38:8000/play/a04n
+#EXTINF:-1,WM TV WOMAN KADIN
+http://82.114.93.38:8000/play/a0ei
+#EXTINF:-1,WORLD BEAUTY CHANNEL
+http://82.114.93.38:8000/play/a0bh
+#EXTINF:-1,YABAN TV
+http://82.114.93.38:8000/play/a0d4
+#EXTINF:-1,YASAM TV
+http://82.114.93.38:8000/play/a059
+#EXTINF:-1,YENİ KOCAELİ TV
+http://82.114.93.38:8000/play/a0eh
+#EXTINF:-1,ZAROK TV
+http://82.114.93.38:8000/play/a0bu
+#EXTINF:-1,atv avrupa
+http://82.114.93.38:8000/play/a0es
+#EXTINF:-1,beIN SPORTS HABER
+http://82.114.93.38:8000/play/a0ae
+#EXTINF:-1,beIN SPORTS HABER HD
+http://82.114.93.38:8000/play/a0ad
+#EXTINF:-1,minikaCOCUK
+http://82.114.93.38:8000/play/a07q
+#EXTINF:-1,minikaGO
+http://82.114.93.38:8000/play/a07r
+#EXTINF:-1,teve2
+http://82.114.93.38:8000/play/a0dz
+#EXTINF:-1,teve2 HD
+http://82.114.93.38:8000/play/a08h
+#EXTINF:-1,ÇUKUROVA TÜRK
+http://82.114.93.38:8000/play/a0e5
+#EXTINF:-1,TRT 4K
+http://82.114.93.38:8000/play/a0ff
+#EXTINF:-1,ANADOLU DERNEK TV
+http://82.114.93.38:8000/play/a0fg
+#EXTINF:-1,Klan Kosova HD
+http://82.114.93.38:8000/play/a0fl
+#EXTINF:-1,RTK1 HD
+http://82.114.93.38:8000/play/a0fm
+#EXTINF:-1,Live
+http://82.114.93.38:8000/play/a0fn
+#EXTINF:-1,Alsat
+http://82.114.93.38:8000/play/a0fo
+#EXTINF:-1,Service
+http://82.114.93.38:8000/play/a0fp
+#EXTINF:-1,RTV21 HD
+http://82.114.93.38:8000/play/a0fq
+#EXTINF:-1,KTV HD
+http://82.114.93.38:8000/play/a0fr
+#EXTINF:-1,Maxi Tv
+http://82.114.93.38:8000/play/a0fs
+#EXTINF:-1,Tivibu
+http://82.114.93.38:8000/play/a0ft
+#EXTINF:-1,Yildiz EN
+http://82.114.93.38:8000/play/a0fu
+#EXTINF:-1,Akit Tv HD
+http://82.114.93.38:8000/play/a0fw
+#EXTINF:-1,TMB
+http://82.114.93.38:8000/play/a0fx
+#EXTINF:-1,Kon Tv
+http://82.114.93.38:8000/play/a0fy
+#EXTINF:-1,TV 1
+http://82.114.93.38:8000/play/a0fz
+#EXTINF:-1,Tv Kayseri
+http://82.114.93.38:8000/play/a0g0
+#EXTINF:-1,Kanal 32
+http://82.114.93.38:8000/play/a0g1
+#EXTINF:-1,UA Tv
+http://82.114.93.38:8000/play/a0g2
+#EXTINF:-1,Kanal 42
+http://82.114.93.38:8000/play/a0g3
+#EXTINF:-1,Bengü Türk
+http://82.114.93.38:8000/play/a0g4
+#EXTINF:-1,Köy Tv
+http://82.114.93.38:8000/play/a0g5
+#EXTINF:-1,Kazakh Tv
+http://82.114.93.38:8000/play/a0g6
+#EXTINF:-1,Ordu Altas Tv
+http://82.114.93.38:8000/play/a0g7
+#EXTINF:-1,Haber Global HD
+http://82.114.93.38:8000/play/a0g9
+
+
+
 #EXTINF:-1 tvg-name="LISTA 1"  tvg-logo="https://zadarbuild.com.hr/AdrianaEU/turkey.png",[B][I][COLOR blue]==========LISTA 1==========[/B][/COLOR][/I]
 skip
 
