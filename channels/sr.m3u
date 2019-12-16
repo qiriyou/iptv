@@ -1,30 +1,5 @@
 .#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%20HD.png",[COLOR teal]RTS 1[/COLOR]
-http://62.210.205.41:8080/RTS1/mpegts
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%202.png",[COLOR teal]RTS 2[/COLOR]
-http://62.210.205.41:8080/RTS2/mpegts
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%203.png",[COLOR teal]RTS 3[/COLOR]
-http://62.210.205.41:8080/RTS3/mpegts
-#EXTINF:-1,NOVA TV
-http://62.210.205.41:8080/NOVATV/mpegts
-#EXTINF:-1 ,DOMA TV
-http://62.210.205.41:8080/DOMATV/mpegts
-#EXTINF:-1 , PINK
-http://62.210.205.41:8080/PINK/mpegts
-#EXTINF:-1 ,PRVA
-http://62.210.205.41:8080/PRVA/mpegts
-#EXTINF:-1 ,RTL
-http://62.210.205.41:8080/RTL/mpegts
-
-#EXTINF:-1 OBN
-http://62.210.205.41:8080/OBN/mpegts
-#EXTINF:-1 ,RTL
-http://62.210.205.41:8080/RTL/index.m3u8
-#EXTINF:-1 ,HRT1
-http://62.210.205.41:8080/HRT1/mpegts
-#EXTINF:-1 ,HRT2
-http://62.210.205.41:8080/HRT2/mpegts
 #EXTINF:-1, K::CN 1 MUSIC TV|EXYU
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1, K::CN 2 MUSIC TV|EXYU
@@ -174,25 +149,6 @@ http://195.29.70.84/PLTV/88888888/224/3221226281/04.m3u8
 
 
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_rts_svet.png",[COLOR teal]RTS Svet[/COLOR]
-https://tv.si/ts/RTS/stream_multi.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148 (iPad; U; CPU OS 4_2_1 like Mac OS X; en_us)&mode=12"
- 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%20HD.png",[COLOR teal]RTS 1[/COLOR]
-http://5.254.16.98:8080/stream/?fw=true&route=srv-04&rule=null&sp=xtim&channel=rts1&stream=orig&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=http
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%201.png",[COLOR teal]RTS 1[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts1
-
-
- 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%202.png",[COLOR teal]RTS 2[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts2
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%202.png",[COLOR teal]RTS 2[/COLOR]
-http://5.254.16.98:8080/stream/?fw=true&route=srv-04&rule=null&sp=xtim&channel=rts2&stream=orig&conn=UNKNOWN&adaptive=null&nf=3&b=3&player=http
-
- 
-#EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/RTS%203.png",[COLOR teal]RTS 3[/COLOR]
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
- 
 #EXTINF:-1 tvg-logo="https://epg.serbianforum.org/logo_znaci/N1.png",[COLOR teal]N1[/COLOR]
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
  
@@ -247,7 +203,7 @@ http://78.46.93.219:25461/android.test.linija.2344.max/icaDW8Mz/87
 #EXTINF:-1,RTV 7
 http://78.46.93.219:25461/android.test.linija.2344.max/icaDW8Mz/88
 #EXTINF:-1,TV SLON
-http://78.46.93.219:25461/android.test.linija.2344.max/icaDW8Mz/89
+#EXTINF 25461/android.test.linija.2344.max/icaDW8Mz/89
 #EXTINF:-1,Face TV
 http://78.46.93.219:25461/android.test.linija.2344.max/icaDW8Mz/90
 #EXTINF:-1,RTRS
