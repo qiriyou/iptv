@@ -118,7 +118,8 @@ http://195.154.232.129:8080/live/albatv/shqiptv/390.ts
 http://195.154.232.129:8080/live/albatv/shqiptv/375.ts
 #EXTVLCOPT:http-user-agent=albatv
 #EXTINF:-1,AL: Tring Shqip
-http://195.154.232.129:8080/live/albatv/shqiptv/389.ts#EXTVLCOPT:http-user-agent=albatv
+http://195.154.232.129:8080/live/albatv/shqiptv/389.ts
+#EXTVLCOPT:http-user-agent=albatv
 #EXTINF:-1,AL: Tring Planet
 http://195.154.232.129:8080/live/albatv/shqiptv/370.ts
 #EXTVLCOPT:http-user-agent=albatv
