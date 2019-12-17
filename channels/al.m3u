@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1   tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TV_Klan_HD.jpg",group title=  Tv  Klan
 http://144.91.95.247:80/tvklan/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Klan-Plus-Logo-Png-816x1024.png",group title= Tv Klanplus
 http://144.91.95.247:80/klanplus/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fc/Vizion_Plus.svg", group title= Tv Vizion plus
-
 http://144.91.95.247:80/vizionplus/index.m3u8
-#EXTINF:-1
-
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/RTSH_1_HD.svg/150px-RTSH_1_HD.svg.png" group-title="Shqipëria/Kosovës",RTSH 1
 http://79.106.48.2/live/rtsh_1ott_p4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/RTSH_2_HD.svg/150px-RTSH_2_HD.svg.png" group-title="Shqipëria/Kosovës",RTSH 2
@@ -35,7 +29,6 @@ http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
 http://95.107.132.131:3344/udp/238.20.15.4:9009
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Sekuence%2Btjeter%2B.bmp%2Bok.bmp.jpg/revision/latest?cb=20160129170848" group-title="Shqipëria/Kosovës",RTSH Gjirokastra
 http://95.107.132.131:3344/udp/238.20.15.3:9009
-
 #EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Shqipëria/Kosovës",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="Shqipëria/Kosovës",RTK 2
@@ -46,8 +39,6 @@ http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.rtvpuls.com/images/assets/header_logo_rtv_puls.png" group-title="Shqipëria/Kosovës",RTV Puls
 http://rtvpuls.itprishtina.com:8005/rtvpuls-eset/index.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://a2news.com/wp-content/themes/a2cnn/assets/images/a2-cnn-logo.png" group-title="Shqipëria/Kosovës",A2
 http://95.107.132.131:3344/udp/238.20.15.2:9009
 #EXTINF:-1  tvg-logo="http://abcnews.al/wp-content/uploads/2017/10/abclogo.png" group-title="Shqipëria/Kosovës",Abc News 24/7
@@ -86,7 +77,6 @@ https://54627d4fc5996.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
 http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.vizionplus.tv/images/logonew.png" group-title="Shqipëria/Kosovës",Vision TV Plus
 http://95.107.132.131:3344/udp/238.11.12.2:9009
-
 #EXTINF:-1, NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,REPORT TV
@@ -99,7 +89,6 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk2.stream/playlist.m3u8
 http://stream1.rtkit.com:1935/rtk1stream/rtk3.stream/playlist.m3u8  
 #EXTINF:-1,RTK4
 http://stream1.rtkit.com:1935/rtk1stream/rtk4.stream/playlist.m3u8  
-
 #EXTM3U Albdroid TV
 #EXTVLCOPT:http-user-agent=albatv
 #EXTINF:-1,Al: Vizion Plus
@@ -242,9 +231,6 @@ http://195.154.232.129:8080/live/albatv/shqiptv/356.ts
 #EXTVLCOPT:http-user-agent=albatv
 #EXTINF:-1,AL: Alsat M
 http://195.154.232.129:8080/live/albatv/shqiptv/351.ts
-
-
-#EXTM3U
 #EXTINF:0,RTK 1    TOKSOR
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0,RTK 2
@@ -472,8 +458,6 @@ http://91.187.117.230:8080
 http://stream.shqiptv.com:7080/ELRODI-8718-sd/index.m3u8?sid=LQgcqgza7d6E7duZHtyRPw
 #EXTINF:0,mktv2
 https://stream.shqiptv.com/tst/MKTV2-8728-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4dQgg
-
-
 #EXTM3U Albdroid TV
 #EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
 #EXTINF:-1,tomi and jerry
@@ -520,9 +504,7 @@ http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/11.ts
 #EXTVLCOPT:http-user-agent=do.te.qi.ropt.po.te.kam.kapur.duke.me,vjedhur/kanalet,./e mmija/.,
 #EXTINF:-1,KLAN PLUS
 http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/13.ts
-
 #EXTINF:-1, 3 plus
-
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/333387319?ticket=F5961928A997EDD80FE2C7590601CAC2CFC665B9&profile=pass
 #EXTINF:-1, 7 News
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/166050980?ticket=AB8E33B8D6C424A2E3412394F6FED1340262F785&profile=pass
@@ -834,8 +816,6 @@ http://163.172.35.210:8000/live/New/Tvfalas/74.ts
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 #EXTINF:-1,ks kids
 http://163.172.35.210:8000/live/New/Tvfalas/76.ts
-
-
 #EXTINF:-1,AL: RTK 1 HD
 http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1304
 #EXTINF:-1,AL: RTK 1
