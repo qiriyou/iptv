@@ -244,7 +244,6 @@ http://195.154.232.129:8080/live/albatv/shqiptv/356.ts
 http://195.154.232.129:8080/live/albatv/shqiptv/351.ts
 
 
-Krijuar nga nexho65:iptv falas group
 #EXTM3U
 #EXTINF:0,RTK 1    TOKSOR
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
@@ -522,8 +521,6 @@ http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/11.ts
 #EXTINF:-1,KLAN PLUS
 http://51.15.13.58:8000/live/ALBTVELITE/ALBTVELITE/13.ts
 
-
-#EXTM3U
 #EXTINF:-1, 3 plus
 
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/333387319?ticket=F5961928A997EDD80FE2C7590601CAC2CFC665B9&profile=pass
@@ -676,7 +673,7 @@ http://iptvshqiplive.diskstation.org:9981/stream/channelid/1658124558?ticket=DC9
 #EXTINF:-1, Vizion Plus HD
 http://iptvshqiplive.diskstation.org:9981/stream/channelid/832792864?ticket=B5A305C6D7DAC87B47DBD71975316C48FEE924B5&profile=pass
 
-#EXTM3U
+
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 #EXTINF:-1,KINO 4
 http://163.172.35.210:8000/live/New/Tvfalas/294.ts
@@ -838,7 +835,7 @@ http://163.172.35.210:8000/live/New/Tvfalas/74.ts
 #EXTINF:-1,ks kids
 http://163.172.35.210:8000/live/New/Tvfalas/76.ts
 
-#EXTM3U
+
 #EXTINF:-1,AL: RTK 1 HD
 http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1304
 #EXTINF:-1,AL: RTK 1
