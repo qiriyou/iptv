@@ -1,68 +1,6 @@
 
 #EXTM3U
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,SKY SERA A
-http://163.172.86.238:8000/live/SUPER/Sporte/97.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,Super SPORT 6 HD
-http://163.172.86.238:8000/live/SUPER/Sporte/82.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,Sky Bundesliga 1
-http://163.172.86.238:8000/live/SUPER/Sporte/42.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,TRING SPORT 1
-http://163.172.86.238:8000/live/SUPER/Sporte/38.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,Tring SPORT 32
-http://163.172.86.238:8000/live/SUPER/Sporte/41.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,TRING SPORT 2
-http://163.172.86.238:8000/live/SUPER/Sporte/40.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,Fox 1
-http://163.172.86.238:8000/live/SUPER/Sporte/39.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,BEIN 3
-http://163.172.86.238:8000/live/SUPER/Sporte/37.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,BEIN 2
-http://163.172.86.238:8000/live/SUPER/Sporte/36.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,BEIN 1
-http://163.172.86.238:8000/live/SUPER/Sporte/35.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,VERONA  VS Sampdoria
-http://163.172.86.238:8000/live/SUPER/Sporte/30.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,MALATA VS SWEDEN
-http://163.172.86.238:8000/live/SUPER/Sporte/27.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,WEST HAM  VS CRYSTAL Palace
-http://163.172.86.238:8000/live/SUPER/Sporte/31.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,ISLAND VS ROMANIA
-http://163.172.86.238:8000/live/SUPER/Sporte/28.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,LIECHTENSTEIN VS ARMENIA
-http://163.172.86.238:8000/live/SUPER/Sporte/26.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,bosnja vs finland
-http://163.172.86.238:8000/live/SUPER/Sporte/29.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,SUPER SPORT 5
-http://163.172.86.238:8000/live/SUPER/Sporte/5.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,SUPER SPORT 4
-http://163.172.86.238:8000/live/SUPER/Sporte/4.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,Super SPORT 3 HD
-http://163.172.86.238:8000/live/SUPER/Sporte/3.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,SUPER SPORT 2
-http://163.172.86.238:8000/live/SUPER/Sporte/2.ts
-#EXTVLCOPT:http-user-agent=http://www.mp4point.com/downloads/8465c69d85a8.mp4
-#EXTINF:-1,SUPER SPORT 1
-http://163.172.86.238:8000/live/SUPER/Sporte/1.ts
+
 
 #EXTINF:-1, beIN Sports 1
 http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
