@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kanalet>
+    <title>Gold 4 HD</title>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>gold 4</arrint>
+</kanalet>
+<kanalet>
+    <title>Gold 3 HD</title>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>gold 3</arrint>
+</kanalet>
+<kanalet>
+    <title>Gold 2 HD</title>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>gold 2</arrint>
+</kanalet>
+<kanalet>
+    <title>Gold 1 HD</title>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Digi_Gold.png/320px-Digi_Gold.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>gold 1</arrint>
+</kanalet>
+<kanalet>
+    <title>Triller</title>
+    <image>http://albepg.com/tvlogi/Film%20Thriller.png</image>
+    <url>3</url>
+    <player>elite</player>
+    <arrint>thriller</arrint>
+</kanalet>
+<kanalet>
+    <title>Triller HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Thriller.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Thriller</arrint>
+</kanalet>
+<kanalet>
+    <title>Triller HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Thriller.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>9</arrint>
+</kanalet>
+<kanalet>
+    <title>Aksion</title>
+    <image>http://albepg.com/tvlogi/Film%20Aksion.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Film Aksion</arrint>
+</kanalet>
+<kanalet>
+    <title>Aksion HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Aksion.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Aksion</arrint>
+</kanalet>
+<kanalet>
+    <title>Aksion HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Aksion.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>0</arrint>
+</kanalet>
+<kanalet>
+    <title>Hits</title>
+    <image>http://albepg.com/tvlogi/Film%20Hits.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Hits</arrint>
+</kanalet>
+<kanalet>
+    <title>Hits HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Hits.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Hits</arrint>
+</kanalet>
+<kanalet>
+    <title>Hits HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Hits.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>3</arrint>
+</kanalet>
+<kanalet>
+    <title>Family HD</title>
+    <image>http://albepg.com/tvlogi/Family%20HD.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Komedi</arrint>
+</kanalet>
+<kanalet>
+    <title>Komedi</title>
+    <image>http://albepg.com/tvlogi/Film%20Komedi.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Komedi</arrint>
+</kanalet>
+<kanalet>
+    <title>Komedi HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Komedi.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Komedi</arrint>
+</kanalet>
+<kanalet>
+    <title>Komedi HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Komedi.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>5</arrint>
+</kanalet>
+<kanalet>
+    <title>T HD</title>
+    <image>http://albepg.com/tvlogi/T%20HD.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>T HD</arrint>
+</kanalet>
+<kanalet>
+    <title>T HD</title>
+    <image>http://albepg.com/tvlogi/T%20HD.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>T HD</arrint>
+</kanalet>
+<kanalet>
+    <title>Nje HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Nje%20HD.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Film 1</arrint>
+</kanalet>
+<kanalet>
+    <title>Nje HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Nje%20HD.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Nje</arrint>
+</kanalet>
+<kanalet>
+    <title>Nje HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Nje%20HD.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>7</arrint>
+</kanalet>
+<kanalet>
+    <title>Dy HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Dy%20HD.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Dy</arrint>
+</kanalet>
+<kanalet>
+    <title>Dy HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Dy%20HD.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>10</arrint>
+</kanalet>
+<kanalet>
+    <title>Autor HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Autor.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Autor</arrint>
+</kanalet>
+<kanalet>
+    <title>Autor HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Autor.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>1</arrint>
+</kanalet>
+<kanalet>
+    <title>Euro Film HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Nje%20HD.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>EuroFilm</arrint>
+</kanalet>
+<kanalet>
+    <title>Euro Film</title>
+    <image>http://albepg.com/tvlogi/Film%20Nje%20HD.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>GOLD</arrint>
+</kanalet>
+<kanalet>
+    <title>Drame HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Drame.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Film Dram</arrint>
+</kanalet>
+<kanalet>
+    <title>Drame HD</title>
+    <image>http://albepg.com/tvlogi/Film%20Drame.png</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>2</arrint>
+</kanalet>
+<kanalet>
+    <title>Junior</title>
+    <image>http://albepg.com/tvlogi/Junior.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Junior</arrint>
+</kanalet>
+<kanalet>
+    <title>Junior</title>
+    <image>http://albepg.com/tvlogi/Junior.png</image>
+    <url>6</url>
+    <player>alba</player>
+    <arrint>Junior TV</arrint>
+</kanalet>
+<kanalet>
+    <title>Junior</title>
+    <image>http://albepg.com/tvlogi/Junior.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>JUNIOR TV</arrint>
+</kanalet>
+<kanalet>
+    <title>Bang Bang</title>
+    <image>http://albepg.com/tvlogi/Bang%20Bang.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Beng</arrint>
+</kanalet>
+<kanalet>
+    <title>Bang Bang</title>
+    <image>http://albepg.com/tvlogi/Bang%20Bang.png</image>
+    <url>6</url>
+    <player>alba</player>
+    <arrint>Bang Bang</arrint>
+</kanalet>
+<kanalet>
+    <title>Bang Bang</title>
+    <image>http://albepg.com/tvlogi/Bang%20Bang.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>BANG BANG</arrint>
+</kanalet>
+<kanalet>
+    <title>Cufo</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Cufo</arrint>
+</kanalet>
+<kanalet>
+    <title>Cufo</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>6</url>
+    <player>alba</player>
+    <arrint>Cufo TV</arrint>
+</kanalet>
+<kanalet>
+    <title>Cufo</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>CUFO TV</arrint>
+</kanalet>
+<kanalet>
+    <title>Carton Network</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>CN</arrint>
+</kanalet>
+<kanalet>
+    <title>DISNEY CHANNEL</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>DISNEY</arrint>
+</kanalet>
+<kanalet>
+    <title>Tiji Tv</title>
+    <image>http://albepg.com/tvlogi/Cufo%20TV.png</image>
+    <url>http://164.132.201.31:8081/live/JUNIORTV/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>TIJI</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Natyre</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Natyra.png</image>
+    <url>http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8</url>
+    <player>elite</player>
+    <arrint>Shkence</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Natyre</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Natyra.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>Explorer Natyra</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Natyre</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Natyra.png</image>
+    <url>http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>EXP. NATYRE</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Shkence</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Shkence.png</image>
+    <url>https://atlantic725.serverprofi24.com/temp/dga.php</url>
+    <player>elite</player>
+    <arrint>Shkence</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Shkence HD</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Shkence.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>Explorer Shkence</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Shkence HD</title>
+    <image>http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_explorer_natyra.jpg</image>
+    <url>34</url>
+    <player>swift</player>
+    <arrint>8</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Shkence</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Natyra.png</image>
+    <url>http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>EXP. SHKENCË</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Histori HD</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Histori.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>Explorer Histori</arrint>
+</kanalet>
+<kanalet>
+    <title>Explorer Histori</title>
+    <image>http://albepg.com/tvlogi/EXPLORER%20Natyra.png</image>
+    <url>http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8</url>
+    <player>dco</player>
+    <arrint>EXP. HISTORI</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Premium 1</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Premium 1</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Premium 2</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Premium 2</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Premium 3</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Premium 3</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Premium 4</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Premium 4</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Western</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Western</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Triller</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Thiller</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Sci Fi</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Sci-Fi</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Romance</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Romance</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Family</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Family</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Drama</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Drama</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Dark</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Dark</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Comedi</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Comedy</arrint>
+</kanalet>
+<kanalet>
+    <title>Kino Action</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>X Aksion</arrint>
+</kanalet>
+<kanalet>
+    <title>Art Kino 1</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>Art Kino 1</arrint>
+</kanalet>
+<kanalet>
+    <title>Art Kino 2</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>Art Kino 2</arrint>
+</kanalet>
+<kanalet>
+    <title>Art Kino 3</title>
+    <image>https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112013/kino.jpg?itok=CbhnMO-V</image>
+    <url>3</url>
+    <des>dd</des>
+    <trailer>ddd</trailer>
+    <player>alba</player>
+    <arrint>Art Kino 3</arrint>
+</kanalet>
+<kanalet>
+    <title>X Shkenca HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>X Shkenc</arrint>
+</kanalet>
+<kanalet>
+    <title>X Natyra HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>X Natyr</arrint>
+</kanalet>
+<kanalet>
+    <title>X Histori HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>X Histor</arrint>
+</kanalet>
+<kanalet>
+    <title>Art Doku 1 HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>Art Doku 1</arrint>
+</kanalet>
+<kanalet>
+    <title>Art Doku 2 HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>5</url>
+    <player>alba</player>
+    <arrint>Art Doku 2</arrint>
+</kanalet>
+<kanalet>
+    <title>Fox Life HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Fox Life</arrint>
+</kanalet>
+<kanalet>
+    <title>Fox Crime HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>Fox Crime</arrint>
+</kanalet>
+<kanalet>
+    <title>ShqipTV Western HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>ShqipTV Western</arrint>
+</kanalet>
+<kanalet>
+    <title>ShqipTV Komedi HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>ShqipTV Komedi</arrint>
+</kanalet>
+<kanalet>
+    <title>ShqipTV Horror HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>ShqipTV Horror</arrint>
+</kanalet>
+<kanalet>
+    <title>ShqipTV Cinema HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>ShqipTV Cinema</arrint>
+</kanalet>
+<kanalet>
+    <title>ShqipTV Aksion HD</title>
+    <image>https://image.ibb.co/jzAOrJ/albania.png</image>
+    <url>3</url>
+    <player>alba</player>
+    <arrint>ShqipTV Aksion</arrint>
+</kanalet>
