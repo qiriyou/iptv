@@ -1,3 +1,123 @@
+ 
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "171",
+			
+			            "cat_id": "20",
+			
+			            "channel_type": "live_url",
+			
+			            "channel_title": "Bein Sport 7",
+			
+			            "channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/39",
+			
+			            "channel_type_ios": "live_url",
+			
+			            "channel_url_ios": "",
+			
+			            "channel_poster": "http://malidows.malidows.com//images/59745_download (5).png",
+			
+			            "channel_thumbnail": "http://malidows.malidows.com//images/99353_download (5).png",
+			
+			            "channel_desc": "",
+			
+			            "total_views": "441",
+			
+			            "total_rate": "0",
+			
+			            "rate_avg": "0",
+			
+			            "category_name": "Bein Sport",
+			
+			            "related": [
+				
+				                {
+					
+					                    "rel_id": "162",
+					
+					                    "rel_channel_title": "Bein Sport 1",
+					
+					                    "rel_channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/27",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/30229_6589.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "163",
+					
+					                    "rel_channel_title": "Bein Sport 2",
+					
+					                    "rel_channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/29",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/32877_download (1).png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "164",
+					
+					                    "rel_channel_title": "Bein Sport 3",
+					
+					                    "rel_channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/31",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/74864_download (2).png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "165",
+					
+					                    "rel_channel_title": "Bein Sport 4",
+					
+					                    "rel_channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/33",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/43380_download (3).png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "166",
+					
+					                    "rel_channel_title": "Bein Sport 5",
+					
+					                    "rel_channel_url": "http://vtpii.net:8000/PRM-1845409831/PRM-5968751207/35",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/56725_download (4).png"
+					                
+				}
+				            
+			],
+			
+			            "comments": [
+				
+			]
+			        
+		}
+		    
+	]
+	
+}
+
 [
 	adotro2_cod=
 ][
