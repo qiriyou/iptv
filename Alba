@@ -1,4 +1,122 @@
- 
+  
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "126",
+			
+			            "cat_id": "19",
+			
+			            "channel_type": "live_url",
+			
+			            "channel_title": "Rete 4",
+			
+			            "channel_url": "http://91.211.156.238:80/hls/CH14/live_Layer2.m3u8",
+			
+			            "channel_type_ios": "live_url",
+			
+			            "channel_url_ios": "",
+			
+			            "channel_poster": "http://malidows.malidows.com//images/16343_italy-512.png",
+			
+			            "channel_thumbnail": "http://malidows.malidows.com//images/8141_italy-512.png",
+			
+			            "channel_desc": "",
+			
+			            "total_views": "445",
+			
+			            "total_rate": "0",
+			
+			            "rate_avg": "0",
+			
+			            "category_name": "Italy Tv",
+			
+			            "related": [
+				
+				                {
+					
+					                    "rel_id": "120",
+					
+					                    "rel_channel_title": "Rai 1",
+					
+					                    "rel_channel_url": "http://ott-cdn.ucom.am:80/s29/04.m3u8",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/6302_italy-512.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "121",
+					
+					                    "rel_channel_title": "Rai 2",
+					
+					                    "rel_channel_url": "http://5.135.92.138:-7393/out/u/452_1.m3u8",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/61368_italy-512.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "122",
+					
+					                    "rel_channel_title": "Rai 3",
+					
+					                    "rel_channel_url": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/79268_italy-512.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "123",
+					
+					                    "rel_channel_title": "Rai 4",
+					
+					                    "rel_channel_url": "http://b2everyrai-lh.akamaihd.net:80/i/rai4_1@181951/master.m3u8",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/28649_italy-512.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "124",
+					
+					                    "rel_channel_title": "Rai 5",
+					
+					                    "rel_channel_url": "http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://malidows.malidows.com//images/49849_italy-512.png"
+					                
+				}
+				            
+			],
+			
+			            "comments": [
+				
+			]
+			        
+		}
+		    
+	]
+	
+}
 	 
  {
 	
