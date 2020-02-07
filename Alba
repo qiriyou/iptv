@@ -1,4 +1,260 @@
-
+ {
+	"LIVETV":[
+		{
+			"id":"190",
+			"cat_id":"8",
+			"channel_title":"Top  Channel ",
+			"channel_url":"http://45.67.159.39:8081/live/top/playlist.m3u8",
+			"channel_thumbnail":"66320_TOP.png",
+			"channel_desc":"Albacast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"191",
+			"cat_id":"8",
+			"channel_title":"Top  Channel SD ",
+			"channel_url":"http://45.67.159.39:8081/live/top1/playlist.m3u8",
+			"channel_thumbnail":"53735_topchannel.png",
+			"channel_desc":"Albacast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"192",
+			"cat_id":"8",
+			"channel_title":"Top  Channel HD",
+			"channel_url":"http://45.67.159.39:8081/live/top2/playlist.m3u8",
+			"channel_thumbnail":"71195_topchannel.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"193",
+			"cat_id":"8",
+			"channel_title":"Klan TV",
+			"channel_url":"http://45.67.159.39:8081/live/klan/playlist.m3u8",
+			"channel_thumbnail":"87929_klan.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"194",
+			"cat_id":"8",
+			"channel_title":"Klan SD",
+			"channel_url":"http://45.67.159.39:8081/live/klan1/playlist.m3u8",
+			"channel_thumbnail":"28889_klan.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"195",
+			"cat_id":"8",
+			"channel_title":"Klan HD",
+			"channel_url":"http://45.67.159.39:8081/live/klan2/playlist.m3u8",
+			"channel_thumbnail":"95633_klan.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"196",
+			"cat_id":"8",
+			"channel_title":"Klan Plus",
+			"channel_url":"http://45.67.159.39:8081/live/klanplus/playlist.m3u8",
+			"channel_thumbnail":"78176_klanplus.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"197",
+			"cat_id":"8",
+			"channel_title":"Klan Plus HD",
+			"channel_url":"http://45.67.159.39:8081/live/klanplus1/playlist.m3u8",
+			"channel_thumbnail":"23047_klanplus.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"198",
+			"cat_id":"8",
+			"channel_title":"Klan Kosova",
+			"channel_url":"http://45.67.159.39:8081/live/klanks/playlist.m3u8",
+			"channel_thumbnail":"75720_klanks.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"199",
+			"cat_id":"8",
+			"channel_title":"Klan Kosova HD",
+			"channel_url":"http://45.67.159.39:8081/live/klanks1/playlist.m3u8",
+			"channel_thumbnail":"35429_klanks.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"200",
+			"cat_id":"8",
+			"channel_title":"Vizion Plus",
+			"channel_url":"http://45.67.159.39:8081/live/vizionplus/playlist.m3u8",
+			"channel_thumbnail":"33342_vizion.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"201",
+			"cat_id":"8",
+			"channel_title":"Vizion Plus HD",
+			"channel_url":"http://45.67.159.39:8081/live/vizionplus/playlist.m3u8",
+			"channel_thumbnail":"19591_vizion.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"202",
+			"cat_id":"8",
+			"channel_title":"Alsat M ",
+			"channel_url":"http://45.67.159.39:8081/live/alsat1/playlist.m3u8",
+			"channel_thumbnail":"87292_alsat.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"203",
+			"cat_id":"8",
+			"channel_title":"Alsat M HD",
+			"channel_url":"http://45.67.159.39:8081/live/alsat/playlist.m3u8",
+			"channel_thumbnail":"7768_alsat.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"204",
+			"cat_id":"8",
+			"channel_title":"Rtv 21",
+			"channel_url":"http://45.67.159.39:8081/live/rtv21/playlist.m3u8",
+			"channel_thumbnail":"28382_rtv21.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"205",
+			"cat_id":"8",
+			"channel_title":"Rtv 21 HD",
+			"channel_url":"http://45.67.159.39:8081/live/rtv211/playlist.m3u8",
+			"channel_thumbnail":"3235_rtv21.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"206",
+			"cat_id":"8",
+			"channel_title":"KTV ",
+			"channel_url":"http://45.67.159.39:8081/live/ktv/playlist.m3u8",
+			"channel_thumbnail":"68952_ktv.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"207",
+			"cat_id":"8",
+			"channel_title":"First channel",
+			"channel_url":"http://45.67.159.39:8081/live/first/playlist.m3u8",
+			"channel_thumbnail":"66741_first.png",
+			"channel_desc":"albaCast Ju Uron Shikim Te Kendshem",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"208",
+			"cat_id":"8",
+			"channel_title":"Tribuna Channel",
+			"channel_url":"http://45.67.159.39:8081/live/tribuna/playlist.m3u8",
+			"channel_thumbnail":"36043_tribuna.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"481",
+			"cat_id":"8",
+			"channel_title":"Tema TV",
+			"channel_url":"http://edge06eu.ekranet.com/tematv_360p/index.m3u8?e=asdasd&c=tematv&mac=00:1A:79:28:07:98&apps=tematv_360p&appsfinal=appsfinal",
+			"channel_thumbnail":"71700_TEMATV.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"482",
+			"cat_id":"8",
+			"channel_title":"Klan Maqedoni",
+			"channel_url":"http://45.67.159.39:8081/live/klanmk/playlist.m3u8",
+			"channel_thumbnail":"7953_klanretina.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"521",
+			"cat_id":"8",
+			"channel_title":"TV 7",
+			"channel_url":"http://45.67.159.39:8081/live/t7/playlist.m3u8",
+			"channel_thumbnail":"79509_T7-YouTube-ikona.jpg",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		},
+		{
+			"id":"522",
+			"cat_id":"8",
+			"channel_title":"Ora TV",
+			"channel_url":"https://tv.oranews.tv/live/ora/index.m3u8",
+			"channel_thumbnail":"69966_Screenshot_11.png",
+			"channel_desc":"",
+			"cid":"8",
+			"category_name":"Kombetare",
+			"category_image":"12582_generel.png"
+		}
+	]
+}
 http://51.15.3.38:8080/live/Mosvjedh/Sedoehash/13.ts
 
 GET /live/LIVETVELITE/TVELITETV/2.ts HTTP/1.1
