@@ -1,4 +1,108 @@
- 
+  
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "41",
+			
+			            "cat_id": "8",
+			
+			            "channel_type": "live_url",
+			
+			            "channel_title": "Top Channel",
+			
+			            "channel_url": "http://45.67.156.128/live/topch.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIwIDg6Mzk6MzUgQU0maGFzaF92YWx1ZT1pdDdpbXlTbWtIKzBTbEU2NzVMZkV3PT0mdmFsaWRtaW51dGVzPTIw",
+			
+			            "channel_type_ios": "live_url",
+			
+			            "channel_url_ios": "",
+			
+			            "channel_poster": "http://api.exporn.xyz/php_web_services/images/18218_71493_Screenshot_2.png",
+			
+			            "channel_thumbnail": "http://api.exporn.xyz/php_web_services/images/25822_87701_Screenshot_1.png",
+			
+			            "channel_desc": "",
+			
+			            "total_views": "200",
+			
+			            "total_rate": "0",
+			
+			            "rate_avg": "0",
+			
+			            "category_name": "Kombetare",
+			
+			            "related": [
+				
+				                {
+					
+					                    "rel_id": "39",
+					
+					                    "rel_channel_title": "Vizion Plus",
+					
+					                    "rel_channel_url": "http://185.220.35.13/live/vizionplus.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIwIDE6Mzg6MDMgUE0maGFzaF92YWx1ZT0zVEo5YW1WcVVUWStmWGNKQ3NaSEVBPT0mdmFsaWRtaW51dGVzPTIw",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://api.exporn.xyz/php_web_services/images/95740_32807_Screenshot_9.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "40",
+					
+					                    "rel_channel_title": "Klan HD",
+					
+					                    "rel_channel_url": "http://185.220.35.13/live/tvklan.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIwIDE6MTA6MTMgUE0maGFzaF92YWx1ZT1JUHI1MlJxUnRqWXNhVXJhM2h1SGNnPT0mdmFsaWRtaW51dGVzPTIw",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://api.exporn.xyz/php_web_services/images/75720_76995_Screenshot_12.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "43",
+					
+					                    "rel_channel_title": "Klan Kosova",
+					
+					                    "rel_channel_url": "http://45.67.156.128/live/klankosova.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIwIDY6NTA6NDcgUE0maGFzaF92YWx1ZT15c0FxM2JZL0o1Ni9PNDJXMDh5ZjdBPT0mdmFsaWRtaW51dGVzPTIw",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://api.exporn.xyz/php_web_services/images/4730_70548_fb_logo.png"
+					                
+				},
+				
+				                {
+					
+					                    "rel_id": "44",
+					
+					                    "rel_channel_title": "News 24",
+					
+					                    "rel_channel_url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8",
+					
+					                    "rel_channel_url_ios": "",
+					
+					                    "rel_channel_thumbnail": "http://api.exporn.xyz/php_web_services/images/83949_unnamed.jpg"
+					                
+				}
+				            
+			],
+			
+			            "comments": [
+				
+			]
+			        
+		}
+		    
+	]
+	
+}
 GET /albaniantv1/v0.1/Paneli-Kanale/api.php?cat_id=12 HTTP/1.1
 User-Agent: www.furious-sports.site
 Referer: https://furious-sports.site
