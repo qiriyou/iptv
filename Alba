@@ -1,4 +1,408 @@
-  
+   
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "36",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Top Channel",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/TOPCHANNEL/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/68257_Top_Channel-logo-4E4D362C42-seeklogo.com.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "164563",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "37",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Top Channel Backup",
+			
+			            "channel_url": "http://163.172.25.87:8081/live/TOPCHANNEL/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/15911_Top_Channel-logo-4E4D362C42-seeklogo.com.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "55333",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "38",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "T7 HD",
+			
+			            "channel_url": "http://163.172.25.87:8081/live/T7HD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/9499_T7-YouTube-ikona.jpg",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "80105",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "39",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Klan TV",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/KLANTV/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/30638_Klan TV HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "141209",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "40",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Klan TV Backup",
+			
+			            "channel_url": "http://163.172.25.87:8081/live/KLANTV/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/4232_Klan TV HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "50618",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "41",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Klan Plus HD",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/KLANPLUSHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/65137_Klan Plus.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "43374",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "42",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Klan Plus HD Backup",
+			
+			            "channel_url": "http://163.172.25.87:8081/live/KLANPLUS/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/86673_Klan Plus.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "20428",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "43",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Vizion Plus",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/VIZIONPLUS/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/98451_Vizion Plus HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "46341",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "44",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "Vizion Plus Backup",
+			
+			            "channel_url": "http://163.172.25.87:8081/live/VIZIONPLUS/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/81893_Vizion Plus HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "13303",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "45",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "RTSH 1",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/RTSH1/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/16571_RTSH1 HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "21400",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "46",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "RTSH 2",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/RTSH2/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/40123_RTSH2 HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "11080",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "id": "47",
+			
+			            "cat_id": "1",
+			
+			            "channel_title": "RTSH 3",
+			
+			            "channel_url": "http://51.15.3.71:8081/live/RTSH3/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/81636_RTSH2 HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "9228",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		}
+		    
+	]
+	
+}
 	 
  {
 	
