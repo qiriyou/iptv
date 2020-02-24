@@ -1,4 +1,408 @@
-   
+    
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "63",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Premium 1",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XPREMIUM1HD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/27092_Screenshot_7.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "121809",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "64",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Premium 2",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XPREMIUM2HD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/4664_Screenshot_1.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "87015",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "65",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Premium 3",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XPREMIUM3HD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/35778_Screenshot_2.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "75019",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "66",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Premium 4",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XPREMIUM4HD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/23346_Screenshot_3.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "56949",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "67",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Aksion",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XACTIONHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/21561_Screenshot_4.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "101273",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "68",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Comedy",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XCOMEDYHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/35923_Screenshot_5.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "28925",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "69",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Western",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XWESTERNHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/91956_Screenshot_6.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "32381",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "70",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "Film Dy HD",
+			
+			            "channel_url": "http://164.132.201.31:8081/live/FILMDYHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/33434_Film Dy HD.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "23480",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "71",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Sci-Fi",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XSCI-FIHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/5646_sc-fi.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "28398",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "72",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Romance",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XROMANCEHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/382_romance.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "24999",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "73",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Family",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XFAMILYHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/71505_family.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "19487",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "74",
+			
+			            "cat_id": "3",
+			
+			            "channel_title": "X Drama",
+			
+			            "channel_url": "http://163.172.26.137:8081/live/XDRAMAHD/playlist.m3u8",
+			
+			            "channel_url_ios": "https://www.youtube.com/watch?v=ohKmfO2spms&list=PLQTSj-_9v-TTdgheDMpJL326oToltMPGu",
+			
+			            "channel_thumbnail": "http://www.piqpoq.zone/ALBBOX37-1/images/67631_drama.png",
+			
+			            "channel_desc": "<p>Bollywood Music at its best,
+			 thats what 9XM is all about.</p>\r\n",
+			
+			            "total_views": "14802",
+			
+			            "total_rate": "4",
+			
+			            "rate_avg": "5.00",
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		}
+		    
+	]
+	
+}
 	 
  {
 	
