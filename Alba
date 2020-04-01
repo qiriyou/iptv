@@ -1,4 +1,4472 @@
-    GET /live/TvShqipLoku/tvloku/1377.srt HTTP/1.1
+    
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "id": "258",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "1.    Klan Kosova HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klankosova/playlist",
+			
+			            "channel_thumbnail": "33324_41543_Klan Kosova.png",
+			
+			            "channel_desc": "7ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "262",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "2.    Klan Plus Full HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klanplustrans/playlist",
+			
+			            "channel_thumbnail": "76024_48208_38641_RTSH-1-LIVE-1.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "263",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "3.    Klan Plus",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/klanplus/playlist",
+			
+			            "channel_thumbnail": "81141_klanplus.png",
+			
+			            "channel_desc": "7ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "264",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "4.    Klan TV SD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klantvsd_480p/playlist",
+			
+			            "channel_thumbnail": "16746_84416_95160_Klan TV HD.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "265",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "5.    Klan TV HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klantvhd/playlist",
+			
+			            "channel_thumbnail": "84416_95160_Klan TV HD.png",
+			
+			            "channel_desc": "24ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "266",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "6.    TopChannel HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/topchannel/playlist",
+			
+			            "channel_thumbnail": "9270_topchannelhd.png",
+			
+			            "channel_desc": "24ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "267",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "7.    Top Channel",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/topchanelsd/playlist",
+			
+			            "channel_thumbnail": "7821_topchannelsd.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "268",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "8.    Alsat M",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/alsatm/playlist",
+			
+			            "channel_thumbnail": "80226_34036_Alsat M.png",
+			
+			            "channel_desc": "7ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "270",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "9.    Top News",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/topnews/playlist",
+			
+			            "channel_thumbnail": "83949_tv_topnews.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "271",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "10.    ABC News",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/abcnews/playlist",
+			
+			            "channel_thumbnail": "53155_42636_ABC News.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "272",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "11.    News 24",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/news24/playlist",
+			
+			            "channel_thumbnail": "82576_12278_News 24.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "273",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "12.    KTV",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ktv/playlist",
+			
+			            "channel_thumbnail": "38633_72378_Koha Vision HD.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "274",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "13.    VizionPlus",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/vizionplus/playlist",
+			
+			            "channel_thumbnail": "27817_84722_Vizion Plus.png",
+			
+			            "channel_desc": "7ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "275",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "14.    RTV 21",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/rtv21/playlist",
+			
+			            "channel_thumbnail": "12364_79402_RTV 21 HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "276",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "15.    RTV 21 Plus",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtv21plus/playlist",
+			
+			            "channel_thumbnail": "82746_15240_AIANZgbyl.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "277",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "16.    RTK 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtk1/playlist",
+			
+			            "channel_thumbnail": "33243_49538_RTK 1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "278",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "17.    T7 HD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtk2/playlist",
+			
+			            "channel_thumbnail": "9413_220px-T7-YouTube-ikona.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "279",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "18.    RTK 3",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtk3/playlist",
+			
+			            "channel_thumbnail": "88763_8640_RTK 3.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "280",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "19.    RTK 4",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtk4/playlist",
+			
+			            "channel_thumbnail": "55902_25670_RTK 4.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "281",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "20.    Tring 3+",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tring3plus/playlist",
+			
+			            "channel_thumbnail": "20215_6162_46558_3plus.jpg",
+			
+			            "channel_desc": "7ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "282",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "21.    Film Autor",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmautor/playlist",
+			
+			            "channel_thumbnail": "85857_214_Film Autor.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "283",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "22.    Film Komedi",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmkomedi/playlist",
+			
+			            "channel_thumbnail": "21066_17101_Film Komedi.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "284",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "23.    T HD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/thd/playlist",
+			
+			            "channel_thumbnail": "84007_9520_T HD.png",
+			
+			            "channel_desc": "10ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "285",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "24.    Film Drame",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmdrame/playlist",
+			
+			            "channel_thumbnail": "4686_10553_Film Drame.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "286",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "25.    Film Thriller",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmthriller/playlist",
+			
+			            "channel_thumbnail": "36357_18479_Film Thriller.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "287",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "26.    Film Nje",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmnje/playlist",
+			
+			            "channel_thumbnail": "36633_44324_Film Nje HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "288",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "27.    Film Dy",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmdy/playlist",
+			
+			            "channel_thumbnail": "6636_57189_Film Dy HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "289",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "28.    Film Hits",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/filmhits/playlist",
+			
+			            "channel_thumbnail": "86615_16319_Film Hits.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "290",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "29.    TDC HD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/TDC/playlist",
+			
+			            "channel_thumbnail": "63340_tdc1111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "291",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "30.    Film Aksion",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/filmaksion/playlist",
+			
+			            "channel_thumbnail": "5151_23119_Film Aksion.png",
+			
+			            "channel_desc": "10ore",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "292",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "31.    Digi Gold 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/digigold1/playlist",
+			
+			            "channel_thumbnail": "16368_20846_Digi Gold.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "293",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "32.    Digi Gold 2",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/digigold2/playlist",
+			
+			            "channel_thumbnail": "29549_82566_Digi Gold 2.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "294",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "33.    Digi Gold 3",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/digigold3/playlist",
+			
+			            "channel_thumbnail": "12340_72694_Digi Gold 3.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "295",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "34.    Tring Life",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringlife/playlist",
+			
+			            "channel_thumbnail": "48808_18165_88559_tringlife.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "296",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "35.    Tring Fantazi",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringfantazi/playlist",
+			
+			            "channel_thumbnail": "18509_4485_79666_tringfantasy.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "297",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "36.    JollyHD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/jollyhd/playlist",
+			
+			            "channel_thumbnail": "78045_92599_44317_jollyhd.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "298",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "37.    Tring Super",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringsuper/playlist",
+			
+			            "channel_thumbnail": "63993_20156_59277_tringcomedy.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "299",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "38.    Tring Shqip",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringshqip/playlist",
+			
+			            "channel_thumbnail": "20453_63139_4482_tringshqip.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "300",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "39.    Tring Max",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringaksion/playlist",
+			
+			            "channel_thumbnail": "57740_25042_79774_tringmax.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "301",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "40.    Tring Komedi",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringkomedi/playlist",
+			
+			            "channel_thumbnail": "75526_3832_icon.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "302",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "41.    Stinet",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/stinet/playlist",
+			
+			            "channel_thumbnail": "708_21832_Stinet.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "325",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "42.    ART Kino 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artkino1/playlist",
+			
+			            "channel_thumbnail": "70152_27013_14_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "326",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "43.    ART Kino 2",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artkino2/playlist",
+			
+			            "channel_thumbnail": "75598_49130_15_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "327",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "44.    ART Kino 3",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artkino3/playlist",
+			
+			            "channel_thumbnail": "22792_5995_16_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "329",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "45.    X-Action",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-action/playlist",
+			
+			            "channel_thumbnail": "60701_15781_24_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "330",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "46.    X-Dark",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-dark/playlist",
+			
+			            "channel_thumbnail": "94665_112111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "331",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "47.    X-Drama",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-drama/playlist",
+			
+			            "channel_thumbnail": "2792_13111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "332",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "48.    X-Family",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-family/playlist",
+			
+			            "channel_thumbnail": "64090_14111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "333",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "49.    X-Komedi",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-komedi/playlist",
+			
+			            "channel_thumbnail": "82381_12111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "334",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "50.    X-Humor",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-humor/playlist",
+			
+			            "channel_thumbnail": "36076_110111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "335",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "51.    X-Premium 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-premium1/playlist",
+			
+			            "channel_thumbnail": "96664_29371_20_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "336",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "52.    X-Premium 2",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-premium2/playlist",
+			
+			            "channel_thumbnail": "76508_38351_21_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "337",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "53.    X-Premium 3",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-premium3/playlist",
+			
+			            "channel_thumbnail": "9012_74846_22_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "338",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "54.    X-Premium 4",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-premium4/playlist",
+			
+			            "channel_thumbnail": "77721_33269_23_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "339",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "55.    X-Romance",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-romance/playlist",
+			
+			            "channel_thumbnail": "6243_15111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "340",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "56.    X-SciFi",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-scifi/playlist",
+			
+			            "channel_thumbnail": "44026_111111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "341",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "57.    X-Western",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-western/playlist",
+			
+			            "channel_thumbnail": "8817_16111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "342",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "58.    X-Thriller",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-thriller/playlist",
+			
+			            "channel_thumbnail": "84877_3832_icon.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "344",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "59.    Tring News",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringsport3/playlist",
+			
+			            "channel_thumbnail": "61249_tringsportnews.jpg",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "345",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "60.    Tring Sport 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringsport1_480p/playlist",
+			
+			            "channel_thumbnail": "27632_tv-station-tring-sport-1-686.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "346",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "61.    Tring Sport 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringsport2_480p/playlist",
+			
+			            "channel_thumbnail": "59280_tv-station-tring-sport-2-687.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "347",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "62.    Tring Sport 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringsport4/playlist",
+			
+			            "channel_thumbnail": "43136_tringsport3.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "348",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "63.    Tring Sport 4",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringsport5/playlist",
+			
+			            "channel_thumbnail": "87318_tv-station-tring-sport-4-689.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "352",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "64.    SuperSport 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss1/playlist",
+			
+			            "channel_thumbnail": "63299_Super-Sport-1-Live-300x225.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "353",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "65.    SuperSport 2 HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss2/playlist",
+			
+			            "channel_thumbnail": "49333_Super-Sport-2-Live-300x225 (1).png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "354",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "66.    SuperSport 2 SD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss2sd_480p/playlist",
+			
+			            "channel_thumbnail": "48268_Super-Sport-2-Live-300x225.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "355",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "67.    SuperSport 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss3/playlist",
+			
+			            "channel_thumbnail": "55105_SuperSport-3-Live-300x225.png",
+			
+			            "channel_desc": "  ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "357",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "68.    SuperSport 4",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss4/playlist",
+			
+			            "channel_thumbnail": "12753_Super-Sport-4-Live-300x225.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "358",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "69.    SuperSport 5",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss5/playlist",
+			
+			            "channel_thumbnail": "28652_SuperSport-5-Live-300x225.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "359",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "70.    SuperSport 6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ss6/playlist",
+			
+			            "channel_thumbnail": "73998_SuperSport-5-Live-300x225.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "367",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "71.    KSport 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ksport1/playlist",
+			
+			            "channel_thumbnail": "85639_30091_Kujtesa Sport 1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "368",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "72.    KSport 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ksport2/playlist",
+			
+			            "channel_thumbnail": "75787_62703_Kujtesa Sport 2.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "369",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "73.    KSport 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/ksport3/playlist",
+			
+			            "channel_thumbnail": "55171_16441_KSport3.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "370",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "74.    SportTV 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sporttv1/playlist",
+			
+			            "channel_thumbnail": "6695_41919_sport-tv-1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "371",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "75.    SportTV 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sporttv2/playlist",
+			
+			            "channel_thumbnail": "72141_66630_sport-tv-2.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "372",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "76.    SportTV 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sporttv3/playlist",
+			
+			            "channel_thumbnail": "5429_18497_sport-tv-3.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "373",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "77.    SportTV 4",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sporttv4/playlist",
+			
+			            "channel_thumbnail": "85146_15870_sport-tv-4.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "374",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "78.    SportTV 5",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sporttv5/playlist",
+			
+			            "channel_thumbnail": "99149_28255_sport-tv-5.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "375",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "79.    EuroSport 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/eurosport1/playlist",
+			
+			            "channel_thumbnail": "96139_32870_sb1kgwj44tmzypt3rrpzsx4zvi787h7k.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "376",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "80.    EuroSport 2",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/eurosport2/playlist",
+			
+			            "channel_thumbnail": "58071_65103_eurosport-2.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "379",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "81.    ART Sport 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/artsport1/playlist",
+			
+			            "channel_thumbnail": "50842_50144_17_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "380",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "82.    ART Sport 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/artsport2/playlist",
+			
+			            "channel_thumbnail": "67953_3880_18_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "381",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "83.    ART Sport 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/artsport3/playlist",
+			
+			            "channel_thumbnail": "91555_54681_19_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "382",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "84.    iTalia 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/italia1/playlist",
+			
+			            "channel_thumbnail": "76906_40796_Italia 1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "383",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "85.    Canale 5",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/canale5/playlist",
+			
+			            "channel_thumbnail": "34014_60693_Canale 5.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "384",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "86.    Di Science",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-dscience/playlist",
+			
+			            "channel_thumbnail": "63566_discovery_science.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "385",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "87.    FOX HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-fox/playlist",
+			
+			            "channel_thumbnail": "39823_FOX-HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "386",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "88.    FOX Crime",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/eriontv/playlist",
+			
+			            "channel_thumbnail": "74824_fox_crime_asia_hd.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "387",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "89.    FOX Life",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-foxlife/playlist",
+			
+			            "channel_thumbnail": "51432_Fox-Life-HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "388",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "90.    iTalia 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-italia2/playlist",
+			
+			            "channel_thumbnail": "70564_94391_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "389",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "91.    Nat Geographic",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-natgeo/playlist",
+			
+			            "channel_thumbnail": "54420_20616_aaaaa-05-29_23-22.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "390",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "92.    Premium Action",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-preaction/playlist",
+			
+			            "channel_thumbnail": "79253_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "391",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "93.    Premium Cinema",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-precinema/playlist",
+			
+			            "channel_thumbnail": "22088_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "392",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "94.    Premium Comedi",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-precomedi/playlist",
+			
+			            "channel_thumbnail": "85421_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "393",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "95.    Premium Crime",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-precrime/playlist",
+			
+			            "channel_thumbnail": "46189_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "394",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "96.    Premium Motion",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-preemotion/playlist",
+			
+			            "channel_thumbnail": "50055_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "395",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "97.    Premium Energy",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-preenergy/playlist",
+			
+			            "channel_thumbnail": "20826_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "396",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "98.    Premium Joy",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/raiyoyo/playlist",
+			
+			            "channel_thumbnail": "5267_share_RaiYoYo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "397",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "99.    Premium Story",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-prestory/playlist",
+			
+			            "channel_thumbnail": "33837_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "398",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "100.    Real Time",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-realtime/playlist",
+			
+			            "channel_thumbnail": "43399_real-time.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "401",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "101.    Sky Arte",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/it-skyarte/playlist",
+			
+			            "channel_thumbnail": "61664_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "402",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "102.    AXN",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-axn/playlist",
+			
+			            "channel_thumbnail": "97807_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "403",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "103.    FOX HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-fox/playlist",
+			
+			            "channel_thumbnail": "2289_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "404",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "104.    Pro 7 HD",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-pro7/playlist",
+			
+			            "channel_thumbnail": "61805_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "405",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "105.    RTL 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-rtl2/playlist",
+			
+			            "channel_thumbnail": "622_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "406",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "106.    RTL Nitro",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-rtlnitro/playlist",
+			
+			            "channel_thumbnail": "2250_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "407",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "107.    Sky Action",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skyaction/playlist",
+			
+			            "channel_thumbnail": "83999_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "408",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "108.    Sky Cinema",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skycinema/playlist",
+			
+			            "channel_thumbnail": "76660_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "409",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "109.    Sky Emotion",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skyemotion/playlist",
+			
+			            "channel_thumbnail": "7765_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "410",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "110.    Sky Hits",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skyhits/playlist",
+			
+			            "channel_thumbnail": "69336_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "411",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "111.    Sky Krimi",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skykrimi/playlist",
+			
+			            "channel_thumbnail": "8576_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "412",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "112.    Sky Select",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-skyselect/playlist",
+			
+			            "channel_thumbnail": "10382_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "413",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "113.    VOX",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/de-vox/playlist",
+			
+			            "channel_thumbnail": "38991_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "426",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "114.    TV Opoja",
+			
+			            "channel_url": "rtmp://ip.opoja.tv:1935/tvopoja/tvopoja",
+			
+			            "channel_thumbnail": "21831_1611_TV Opoja.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "427",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "115.    Peace TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/peacetv/playlist",
+			
+			            "channel_thumbnail": "66265_99441_peacetv.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "436",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "116.    BBF Music",
+			
+			            "channel_url": "http://95.107.132.106/out/u/292_1.m3u8",
+			
+			            "channel_thumbnail": "39142_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "437",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "117.    Diaspora TV",
+			
+			            "channel_url": "ws://212.8.249.79:8081/erer/ss2",
+			
+			            "channel_thumbnail": "58623_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "438",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "118.    RTV Zik",
+			
+			            "channel_url": "http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist",
+			
+			            "channel_thumbnail": "22824_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "439",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "119.    Euro AL",
+			
+			            "channel_url": "http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8",
+			
+			            "channel_thumbnail": "91687_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "440",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "120.    Elrodi",
+			
+			            "channel_url": "http://5.135.92.130:58143/out/u/fgndfnhpdsfhsdfh.m3u8",
+			
+			            "channel_thumbnail": "49356_3832_icon.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "441",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "121.    Folk Plus",
+			
+			            "channel_url": "http://95.107.132.104/out/u/44_1.m3u8",
+			
+			            "channel_thumbnail": "52741_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "442",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "122.    ALB UK",
+			
+			            "channel_url": "rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream",
+			
+			            "channel_thumbnail": "66745_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "444",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "123.    Tring Histori",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringhistori/playlist",
+			
+			            "channel_thumbnail": "15543_52679_21432_tringhistory.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "445",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "124.    Tring World",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringworld/playlist",
+			
+			            "channel_thumbnail": "35624_99588_30003_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "446",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "125.    Tring Planet",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringplanet/playlist",
+			
+			            "channel_thumbnail": "6555_43911_38640_tringplanet.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "447",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "126.    Explorer Histori",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/explorerhistori/playlist",
+			
+			            "channel_thumbnail": "97508_15802_EXPLORER Histori.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "448",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "127.    Explorer Shkence",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/explorershkenc/playlist",
+			
+			            "channel_thumbnail": "75716_82091_EXPLORER Shkence.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "449",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "128.    Explorer Natyre",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/explorernatyre/playlist",
+			
+			            "channel_thumbnail": "80343_68422_EXPLORER Natyra.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "450",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "129.    ART Doku 1",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artdoku1/playlist",
+			
+			            "channel_thumbnail": "57334_96026_12_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "451",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "130.    ART Doku 2",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artdoku2/playlist",
+			
+			            "channel_thumbnail": "20357_99060_13_tringworld.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "452",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "131.    DMax",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/dmax/playlist",
+			
+			            "channel_thumbnail": "96804_64615_21InBqJaKOL.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "453",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "132.    X-Histori",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-histori/playlist",
+			
+			            "channel_thumbnail": "28616_17111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "454",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "133.    X-Natyra",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-natyra/playlist",
+			
+			            "channel_thumbnail": "14114_19111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "455",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "134.    X-Shkenca",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/x-shkenca/playlist",
+			
+			            "channel_thumbnail": "62323_18111111.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "456",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "135.    Tring Kids",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/tringkids/playlist",
+			
+			            "channel_thumbnail": "25600_37611_Kids.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "457",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "136.    Tring Tring",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tringtring/playlist",
+			
+			            "channel_thumbnail": "76336_Tring Tring.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "458",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "137.    Bang Bang",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/bangbang/playlist",
+			
+			            "channel_thumbnail": "32082_83345_Bang Bang.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "459",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "138.    Junior TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/junior/playlist",
+			
+			            "channel_thumbnail": "64791_45826_Junior TV.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "460",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "139.    Cufo TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/sofia/playlist",
+			
+			            "channel_thumbnail": "88691_59515_Cufo TV.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "461",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "140.    Tip TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tiptv/playlist",
+			
+			            "channel_thumbnail": "80786_29175_Tip_TV_alb.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "462",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "141.    RTV 21 Junior",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/rtv21junior/playlist",
+			
+			            "channel_thumbnail": "73129_61617_21 Junior.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "463",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "142.    German TV",
+			
+			            "channel_url": "https://www.hdtvde.com/",
+			
+			            "channel_thumbnail": "58447_22168_erionlogo.png",
+			
+			            "channel_desc": "filma",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "464",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "143.    France TV",
+			
+			            "channel_url": "https://www.stream4free.live/tv-live-france",
+			
+			            "channel_thumbnail": "64684_2093_erionlogo.png",
+			
+			            "channel_desc": "filma",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "465",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "144.    Turkey TV",
+			
+			            "channel_url": "https://www.ecanlitvizle.live/",
+			
+			            "channel_thumbnail": "65263_2093_erionlogo.png",
+			
+			            "channel_desc": "filma",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "466",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "145.    TV iTaliane",
+			
+			            "channel_url": "https://www.filma24.cc/",
+			
+			            "channel_thumbnail": "40979_2093_erionlogo.png",
+			
+			            "channel_desc": "filma javascript",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "467",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "146.    Klan TV(EST)+6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klantvsd_480p/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "8284_95160_Klan TV HD.png",
+			
+			            "channel_desc": "  ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "468",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "147.    Klan Plus(EST)+6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klanplustrans_720p/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "20493_70444_Klan Plus (1).png",
+			
+			            "channel_desc": "  ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "469",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "148.    TopChannel(EST)+6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/topchannel/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "1809_73586_Top Channel.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "470",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "149.    Tring3Plus(EST)+6",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tring3plus/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "12488_6162_46558_3plus.jpg",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "471",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "150.    Alsat M(EST)+6",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/alsatm/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "83209_34036_Alsat M.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "472",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "151.    Klan Kosova(EST)+6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/klankosova/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "23927_42701_Klan Kosova.png",
+			
+			            "channel_desc": "  ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "473",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "152.    JollyHD(EST)+6",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/jollyhd/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "87023_92599_44317_jollyhd.jpg",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "474",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "153.    VizionPlus(EST)+6",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/vizionplus/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "9113_23748_Vizion Plus.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "475",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "154.    KTV (EST)+6",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/ktv/playlist_dvr_timeshift-21600",
+			
+			            "channel_thumbnail": "27411_72378_Koha Vision HD.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "479",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "155.    Digi Gold 4",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/digigold4/playlist",
+			
+			            "channel_thumbnail": "88719_Digi Gold 4.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "480",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "156.    Bein 1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein1/playlist",
+			
+			            "channel_thumbnail": "96630_beinsports1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "481",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "157.    Bein 2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein2/playlist",
+			
+			            "channel_thumbnail": "66916_beinsports2.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "482",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "158.    Bein 3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein3/playlist",
+			
+			            "channel_thumbnail": "45553_beinsports3.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "483",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "159.    Bein 4",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein4/playlist",
+			
+			            "channel_thumbnail": "93280_beinsports4.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "484",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "160.    Bein 5",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein5/playlist",
+			
+			            "channel_thumbnail": "78818_beinsports5.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "485",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "161.    Bein 6",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein6/playlist",
+			
+			            "channel_thumbnail": "30882_beinsports6.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "486",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "162.    bein 7",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein7/playlist",
+			
+			            "channel_thumbnail": "32434_beinsports7.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "487",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "163.    Bein 8",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein8/playlist",
+			
+			            "channel_thumbnail": "76767_beinsports8.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "488",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "164.    Bein 9",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein9/playlist",
+			
+			            "channel_thumbnail": "81285_beinsports9.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "489",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "165.    Bein 10",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/bein10/playlist",
+			
+			            "channel_thumbnail": "13430_beinsports10.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "492",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "166.    Euro Film",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/eurofilm/playlist",
+			
+			            "channel_thumbnail": "56894_EUROFILM.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "493",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "167.    TNT Komedy",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/tntkomedi/playlist",
+			
+			            "channel_thumbnail": "37966_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "496",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "168.    Animal Planet",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/animalplanet/playlist_dvr_range-0-1",
+			
+			            "channel_thumbnail": "14206_67197_animal-planet-tv-vector-logo.png",
+			
+			            "channel_desc": " ",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "497",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "169.    NatGeoWild",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/natgeowild/playlist",
+			
+			            "channel_thumbnail": "72440_25120_natgeowild.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "498",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "170.    Sky Living",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/skyliving/playlist",
+			
+			            "channel_thumbnail": "71620_eeee3e5.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "499",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "171.    Di History",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/dihistori/playlist",
+			
+			            "channel_thumbnail": "54045_264bedd0775f6cb339af5234d76fb40a.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "500",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "172.    Pro 7 MaXX",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/pro7maxx/playlist",
+			
+			            "channel_thumbnail": "66097_2093_erionlogo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "509",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "173.    Living HD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/living/playlist",
+			
+			            "channel_thumbnail": "51878_living_logo.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "510",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "174.    D-ShowCase",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/dshowcase/playlist",
+			
+			            "channel_thumbnail": "90679_211.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "511",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "175.    D-Travel",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/dtravel/playlist",
+			
+			            "channel_thumbnail": "67956_travel-channel-1.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "512",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "176.    Family HD",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/family/playlist",
+			
+			            "channel_thumbnail": "81467_Family HD.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "513",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "177.    SportKlub1",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sportklub1/playlist",
+			
+			            "channel_thumbnail": "33545_tv-station-rs-sportklub-1-333.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "514",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "178.    SportKlub2",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sportklub2/playlist",
+			
+			            "channel_thumbnail": "27609_tv-station-rs-sportklub-2-334.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "515",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "179.    SportKlub3",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sportklub3/playlist",
+			
+			            "channel_thumbnail": "15399_tv-station-rs-sportklub-3-335.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "516",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "180.    SportKlub4",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/sportklub4/playlist",
+			
+			            "channel_thumbnail": "79924_tv-station-rs-sportklub-4-336.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "519",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "181.    Baby TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/babytv/playlist",
+			
+			            "channel_thumbnail": "65809_Baby TV.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "520",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "182.    Report TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/reporttv/playlist",
+			
+			            "channel_thumbnail": "13386_Report TV.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "521",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "183.    Era TV",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/eratv/playlist",
+			
+			            "channel_thumbnail": "25128_era-tv10.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "522",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "184.    Fax News",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/faxnews/playlist",
+			
+			            "channel_thumbnail": "40482_faxnews.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "523",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "185.    7 News",
+			
+			            "channel_url": "http://212.8.249.79:8081/live/7news/playlist",
+			
+			            "channel_thumbnail": "11115_kanali7.png",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+			            "category_name": "Shqiptare",
+			
+			            "category_image": "3982_Albania-254x254.png"
+			        
+		},
+		
+		        {
+			
+			            "id": "524",
+			
+			            "cat_id": "11",
+			
+			            "channel_title": "186.    Arta News",
+			
+			            "channel_url": "http://62.112.8.225:8081/live/artanews/playlist",
+			
+			            "channel_thumbnail": "88258_artanews.jpg",
+			
+			            "channel_desc": "",
+			
+			            "login_required": "0",
+			
+			            "cid": "11",
+			
+	
+
+
+
+ GET /live/TvShqipLoku/tvloku/1377.srt HTTP/1.1
 User-Agent: hfhfhfdhfddhfdhfdhfhdfdhfhfh
 Host: 195.154.146.20:7000
 Connection: Keep-Alive
