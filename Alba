@@ -1,4 +1,156 @@
-    
+     
+	 
+ {
+	
+	    "LIVETV": [
+		
+		        {
+			
+			            "cid": "1",
+			
+			            "category_name": "Gjenerale",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/25404_Untitled design (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/25404_Untitled design (2).png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "2",
+			
+			            "category_name": "Lajme",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/13862_newspaper (2).png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/13862_newspaper (2).png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "3",
+			
+			            "category_name": "Filma",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/99469_popcorn.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/99469_popcorn.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "4",
+			
+			            "category_name": "Islame",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/29258_islam.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/29258_islam.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "5",
+			
+			            "category_name": "Dokumentare",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/56142_video-camera.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/56142_video-camera.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "6",
+			
+			            "category_name": "Femije",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/80110_teddy-bear.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/80110_teddy-bear.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "7",
+			
+			            "category_name": "Muzik",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/66713_karaoke.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/66713_karaoke.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "8",
+			
+			            "category_name": "Sport",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/75769_soccer-ball.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/75769_soccer-ball.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "9",
+			
+			            "category_name": "Sport International",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/24022_football.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/24022_football.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "11",
+			
+			            "category_name": "Italy TV",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/85049_51TQJoKD9rL.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/85049_51TQJoKD9rL.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "222",
+			
+			            "category_name": "German TV",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/45794_717q13nFkkL.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/45794_717q13nFkkL.png"
+			        
+		},
+		
+		        {
+			
+			            "cid": "1215",
+			
+			            "category_name": "Filma24HD",
+			
+			            "category_image": "http://www.piqpoq.zone/ALBBOX37-1/images/81550_Screenshot_1.png",
+			
+			            "category_image_thumb": "http://www.piqpoq.zone/ALBBOX37-1/images/thumbs/81550_Screenshot_1.png"
+			        
+		}
+		    
+	]
+	
+}
 	 
  {
 	
